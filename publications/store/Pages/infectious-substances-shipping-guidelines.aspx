@@ -603,7 +603,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='daa5f47d-2659-40ba-8935-5f5b74a16228'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/cargo/pharma/'>Pharma & Healthcare</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-entry' data-guid='daa5f47d-2659-40ba-8935-5f5b74a16228'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/cargo/pharma/pages/ceiv-pharma.aspx'>CEIV Pharma</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='daa5f47d-2659-40ba-8935-5f5b74a16228'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/pharma/'>Pharma & Healthcare</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-entry' data-guid='daa5f47d-2659-40ba-8935-5f5b74a16228'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/pharma/pages/ceiv-pharma.aspx'>CEIV Pharma</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

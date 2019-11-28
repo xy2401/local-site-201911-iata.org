@@ -506,7 +506,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='c07fff76-59ea-4958-b4d2-4d6c07114bbf'><div class='iata-crossLink-Label'><a href='https://www.iata.org/publications/store/pages/live-animals-regulations.aspx'>Live Animals Regulations</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='7ddb534d-9209-42f3-b508-213ef1519531'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/cargo/live-animals/'>Live Animals</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='c07fff76-59ea-4958-b4d2-4d6c07114bbf'><div class='iata-crossLink-Label'><a href='/publications/store/pages/live-animals-regulations.aspx'>Live Animals Regulations</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='7ddb534d-9209-42f3-b508-213ef1519531'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/live-animals/'>Live Animals</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

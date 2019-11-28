@@ -418,7 +418,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='9c1d7008-7aa6-41d3-a875-bfaae8af0e32'><div class='iata-crossLink-Label'><a href='https://www.iata.org/publications/store/pages/perishable-cargo-regulations.aspx'>Perishable Cargo Regulations</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='9c1d7008-7aa6-41d3-a875-bfaae8af0e32'><div class='iata-crossLink-Label'><a href='/publications/store/pages/perishable-cargo-regulations.aspx'>Perishable Cargo Regulations</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

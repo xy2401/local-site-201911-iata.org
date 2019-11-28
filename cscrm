@@ -613,7 +613,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='6fb1d7fe-1d55-4ecd-976d-0d2c2450dff3'><div class='iata-crossLink-Label'><a href='https://www.iata.org/services/finance/pages/cass.aspx'>Cargo Accounts Settlement Systems</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'>Financial Services</span></span></div></li><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='a2c37048-3865-4939-bd01-ef5412d0b389'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/cargo/pages/cargo-agency.aspx'>Cargo Agency Program</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='6fb1d7fe-1d55-4ecd-976d-0d2c2450dff3'><div class='iata-crossLink-Label'><a href='/services/finance/pages/cass.aspx'>Cargo Accounts Settlement Systems</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'>Financial Services</span></span></div></li><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='a2c37048-3865-4939-bd01-ef5412d0b389'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/pages/cargo-agency.aspx'>Cargo Agency Program</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

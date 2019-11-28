@@ -675,84 +675,84 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class="iataceoblogCategories">
 <ul class="static">
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=14&Category=AME Strategy' id='14'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=14&Category=AME Strategy' id='14'>
 <span class="additional-backgroud">
 <span class="menu-item-text">AME Strategy&nbsp;(1)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=2&Category=Cargo' id='2'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=2&Category=Cargo' id='2'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Cargo&nbsp;(1)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=11&Category=Distribution' id='11'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=11&Category=Distribution' id='11'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Distribution&nbsp;(0)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=12&Category=Economics' id='12'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=12&Category=Economics' id='12'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Economics&nbsp;(13)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=4&Category=Environment' id='4'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=4&Category=Environment' id='4'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Environment&nbsp;(1)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=3&Category=Events' id='3'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=3&Category=Events' id='3'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Events&nbsp;(4)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=5&Category=Infrastructure' id='5'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=5&Category=Infrastructure' id='5'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Infrastructure&nbsp;(2)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=8&Category=Passenger experience' id='8'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=8&Category=Passenger experience' id='8'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Passenger experience&nbsp;(0)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=9&Category=Policy' id='9'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=9&Category=Policy' id='9'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Policy&nbsp;(4)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=13&Category=Regional news' id='13'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=13&Category=Regional news' id='13'>
 <span class="additional-backgroud">
  <span class="menu-item-text">Regional news&nbsp;(12)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=6&Category=Safety' id='6'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=6&Category=Safety' id='6'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Safety&nbsp;(8)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=7&Category=Security' id='7'>
+<a class="static menu-item" href='/about/worldwide/ame/blog/Pages/BlogCategory.aspx?CAT_ID=7&Category=Security' id='7'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Security&nbsp;(0)</span>
 </span>

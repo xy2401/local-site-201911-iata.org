@@ -495,7 +495,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='da04248d-68f1-488a-8e0c-01d44d9ce0c5'><div class='iata-crossLink-Label'><a href='https://www.iata.org/services/consulting/ground-and-cargo/'>Ground Handling and Cargo Consulting</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'>Consulting</span></span></div></li><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='12d0721e-206e-4ff4-a663-c151a322e8cc'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/cargo/pages/cargo-operations.aspx'>Cargo Operations</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='da04248d-68f1-488a-8e0c-01d44d9ce0c5'><div class='iata-crossLink-Label'><a href='/services/consulting/ground-and-cargo/'>Ground Handling and Cargo Consulting</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'>Consulting</span></span></div></li><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='12d0721e-206e-4ff4-a663-c151a322e8cc'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/pages/cargo-operations.aspx'>Cargo Operations</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

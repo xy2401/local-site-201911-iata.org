@@ -486,28 +486,28 @@ Subscribe to the T&amp;T Times
 <div class="iataceoblogCategories">
 <ul class="static">
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/publications/travel-tourism-times/Pages/BlogCategory.aspx?CAT_ID=9&Category=Distribution' id='9'>
+<a class="static menu-item" href='/publications/travel-tourism-times/Pages/BlogCategory.aspx?CAT_ID=9&Category=Distribution' id='9'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Distribution&nbsp;(1)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/publications/travel-tourism-times/Pages/BlogCategory.aspx?CAT_ID=11&Category=Events' id='11'>
+<a class="static menu-item" href='/publications/travel-tourism-times/Pages/BlogCategory.aspx?CAT_ID=11&Category=Events' id='11'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Events&nbsp;(1)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/publications/travel-tourism-times/Pages/BlogCategory.aspx?CAT_ID=12&Category=Travel agents' id='12'>
+<a class="static menu-item" href='/publications/travel-tourism-times/Pages/BlogCategory.aspx?CAT_ID=12&Category=Travel agents' id='12'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Travel agents&nbsp;(6)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/publications/travel-tourism-times/Pages/BlogCategory.aspx?CAT_ID=10&Category=Travel Suppliers' id='10'>
+<a class="static menu-item" href='/publications/travel-tourism-times/Pages/BlogCategory.aspx?CAT_ID=10&Category=Travel Suppliers' id='10'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Travel Suppliers&nbsp;(3)</span>
 </span>

@@ -427,7 +427,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='056fde51-769e-4d4a-83f6-7a39a3dd2565'><div class='iata-crossLink-Label'><a href='https://www.iata.org/publications/store/pages/uld-regulations.aspx'>ULD Regulations</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='cdc49a68-ef6c-4850-ad2c-ceb8ac359350'><div class='iata-crossLink-Label'><a href='https://www.iata.org/services/consulting/ground-and-cargo/'>Ground Handling and Cargo Consulting</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'>Consulting</span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='056fde51-769e-4d4a-83f6-7a39a3dd2565'><div class='iata-crossLink-Label'><a href='/publications/store/pages/uld-regulations.aspx'>ULD Regulations</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='cdc49a68-ef6c-4850-ad2c-ceb8ac359350'><div class='iata-crossLink-Label'><a href='/services/consulting/ground-and-cargo/'>Ground Handling and Cargo Consulting</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'>Consulting</span></span></div></li></ul></div>
 </div>
 </div>
 </div>

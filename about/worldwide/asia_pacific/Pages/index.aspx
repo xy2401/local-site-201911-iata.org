@@ -449,7 +449,7 @@ New study
 <div class='crossLinksUpcomingEvents'>
 <div class='crossLinksTitle'>
 Events
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-entry' data-guid='9803fc3e-29a3-424d-8b37-37584c4dadb8'><div class='iata-crossLink-Label'><a href='https://www.iata.org/events/wfs/'>World Financial Symposium</a><span class='iata-crossLink-date'>28 Sep - 01 Oct 2020</span><span class='iata-crossLink-fullLocation'><span class='iata-crossLink-region'></span><span class='iata-crossLink-location'>Dubai, UAE </span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-entry' data-guid='9803fc3e-29a3-424d-8b37-37584c4dadb8'><div class='iata-crossLink-Label'><a href='/events/wfs/'>World Financial Symposium</a><span class='iata-crossLink-date'>28 Sep - 01 Oct 2020</span><span class='iata-crossLink-fullLocation'><span class='iata-crossLink-region'></span><span class='iata-crossLink-location'>Dubai, UAE </span></span></div></li></ul></div>
 <div class='hide_element_29c5cf1d-ad6b-4230-aaa1-3e9d8379359a'></div><script type='text/javascript'>CTP.IATA.HideChrome('29c5cf1d-ad6b-4230-aaa1-3e9d8379359a')</script>
 </div>
 </div>

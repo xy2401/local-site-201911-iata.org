@@ -361,7 +361,7 @@ DGR Limited- Excepted Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8491-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8491-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -392,7 +392,7 @@ DGR Limited- Excepted Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8492-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8492-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -423,7 +423,7 @@ DGR Limited- Excepted Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8501-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8501-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -454,7 +454,7 @@ DGR Limited- Excepted Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8741-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8741-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -485,7 +485,7 @@ DGR Limited- Excepted Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8748-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8748-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -516,7 +516,7 @@ DGR Limited- Excepted Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8488-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8488-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>

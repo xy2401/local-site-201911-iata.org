@@ -492,7 +492,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='13b8e1ac-dceb-413d-ad3a-93d5f68f5f09'><div class='iata-crossLink-Label'><a href='https://www.iata.org/publications/pages/alternative-fuels.aspx'>Alternative Fuels Report</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='c08d581f-e07d-4a15-bcf7-793ecabe237c'><div class='iata-crossLink-Label'><a href='https://www.iata.org/services/safety-flight-operations/pages/iftp.aspx'>Fueling Training Portal</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='13b8e1ac-dceb-413d-ad3a-93d5f68f5f09'><div class='iata-crossLink-Label'><a href='/publications/pages/alternative-fuels.aspx'>Alternative Fuels Report</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='c08d581f-e07d-4a15-bcf7-793ecabe237c'><div class='iata-crossLink-Label'><a href='/services/safety-flight-operations/pages/iftp.aspx'>Fueling Training Portal</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

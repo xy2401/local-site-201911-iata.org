@@ -441,7 +441,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Training</li><li class='iata-crossLink-entry' data-guid='54a61736-b2a6-418b-949d-45b96a6938eb'><div class='iata-crossLink-Label'><a href='https://www.iata.org/training/subject-areas/pages/safety-courses.aspx'>Aviation Safety</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='2492de49-0e3f-402e-94d3-12d608e4aae8'><div class='iata-crossLink-Label'><a href='https://www.iata.org/publications/pages/medical-manual.aspx'>Medical Manual for Aviation</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Training</li><li class='iata-crossLink-entry' data-guid='54a61736-b2a6-418b-949d-45b96a6938eb'><div class='iata-crossLink-Label'><a href='/training/subject-areas/pages/safety-courses.aspx'>Aviation Safety</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='2492de49-0e3f-402e-94d3-12d608e4aae8'><div class='iata-crossLink-Label'><a href='/publications/pages/medical-manual.aspx'>Medical Manual for Aviation</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

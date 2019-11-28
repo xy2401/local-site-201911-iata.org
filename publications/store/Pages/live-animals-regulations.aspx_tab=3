@@ -558,7 +558,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='dc09b5eb-42d3-49a9-9937-de75acc4257f'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/cargo/live-animals/'>Live Animals</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Policy position</li><li class='iata-crossLink-entry' data-guid='537b1b05-72cb-44bc-a5a3-837b80d95986'><div class='iata-crossLink-Label'><a href='https://www.iata.org/policy/environment/pages/wildlife-trafficking.aspx'>Illegal Wildlife Trafficking</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='dc09b5eb-42d3-49a9-9937-de75acc4257f'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/live-animals/'>Live Animals</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Policy position</li><li class='iata-crossLink-entry' data-guid='537b1b05-72cb-44bc-a5a3-837b80d95986'><div class='iata-crossLink-Label'><a href='/policy/environment/pages/wildlife-trafficking.aspx'>Illegal Wildlife Trafficking</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

@@ -370,7 +370,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8747-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8747-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -401,7 +401,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8744-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8744-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -432,7 +432,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8745-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8745-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -463,7 +463,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8746-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8746-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -494,7 +494,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8444-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8444-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -525,7 +525,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8410-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8410-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -556,7 +556,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8420-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8420-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -587,7 +587,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8431-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8431-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -618,7 +618,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8443-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8443-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -649,7 +649,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8442-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8442-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -680,7 +680,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8445-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8445-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -711,7 +711,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8446-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8446-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -742,7 +742,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8447-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8447-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -773,7 +773,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8448-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8448-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -804,7 +804,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8449-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8449-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -835,7 +835,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8450-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8450-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -866,7 +866,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8451-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8451-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -897,7 +897,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8454-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8454-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -928,7 +928,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8452-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8452-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -959,7 +959,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8453-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8453-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -990,7 +990,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8457-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8457-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1021,7 +1021,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8455-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8455-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1052,7 +1052,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8458-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8458-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1083,7 +1083,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8494-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8494-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1114,7 +1114,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8495-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8495-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1145,7 +1145,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8459-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8459-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1176,7 +1176,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8460-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8460-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1207,7 +1207,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8461-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8461-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1238,7 +1238,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8462-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8462-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1269,7 +1269,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8755-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8755-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1300,7 +1300,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8512-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8512-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1331,7 +1331,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8464-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8464-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1362,7 +1362,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8513-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8513-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1393,7 +1393,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8514-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8514-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1424,7 +1424,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8515-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8515-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1455,7 +1455,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8516-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8516-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1486,7 +1486,7 @@ DGR Hazard Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8463-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8463-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>

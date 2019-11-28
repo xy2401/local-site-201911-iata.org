@@ -619,11 +619,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksUpcomingEvents'>
 <div class='crossLinksTitle'>
 Events
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-entry' data-guid='e4cbd5e3-f7d1-4fc2-8ba4-3179cc4f8908'><div class='iata-crossLink-Label'><a href='https://www.iata.org/events/sc146/'>146th Slot Conference</a><span class='iata-crossLink-date'>16 - 18 Jun 2020</span><span class='iata-crossLink-fullLocation'><span class='iata-crossLink-region'></span><span class='iata-crossLink-location'>Montreal, Canada</span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-entry' data-guid='e4cbd5e3-f7d1-4fc2-8ba4-3179cc4f8908'><div class='iata-crossLink-Label'><a href='/events/sc146/'>146th Slot Conference</a><span class='iata-crossLink-date'>16 - 18 Jun 2020</span><span class='iata-crossLink-fullLocation'><span class='iata-crossLink-region'></span><span class='iata-crossLink-location'>Montreal, Canada</span></span></div></li></ul></div>
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Policy position</li><li class='iata-crossLink-entry' data-guid='05b56db4-9611-43ed-90a3-394235093721'><div class='iata-crossLink-Label'><a href='https://www.iata.org/policy/slots/'>Worldwide Airport Slots</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Policy position</li><li class='iata-crossLink-entry' data-guid='05b56db4-9611-43ed-90a3-394235093721'><div class='iata-crossLink-Label'><a href='/policy/slots/'>Worldwide Airport Slots</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

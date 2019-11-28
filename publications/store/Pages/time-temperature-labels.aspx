@@ -361,7 +361,7 @@ Time temperature labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8498-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8498-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -392,7 +392,7 @@ Time temperature labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8507-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8507-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -423,7 +423,7 @@ Time temperature labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8749-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8749-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -454,7 +454,7 @@ Time temperature labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8504-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8504-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -485,7 +485,7 @@ Time temperature labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8750-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8750-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -516,7 +516,7 @@ Time temperature labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8506-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8506-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -611,7 +611,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='e3bd160c-9add-46cc-be8c-4c1eda981e71'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/cargo/pharma/'>Pharma & Healthcare</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-entry' data-guid='e3bd160c-9add-46cc-be8c-4c1eda981e71'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/cargo/pharma/pages/ceiv-pharma.aspx'>CEIV Pharma</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='e3bd160c-9add-46cc-be8c-4c1eda981e71'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/pharma/'>Pharma & Healthcare</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-entry' data-guid='e3bd160c-9add-46cc-be8c-4c1eda981e71'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/pharma/pages/ceiv-pharma.aspx'>CEIV Pharma</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

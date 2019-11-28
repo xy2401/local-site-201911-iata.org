@@ -424,7 +424,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Training</li><li class='iata-crossLink-entry' data-guid='fa43f183-19aa-4346-8fb1-3b1f91277b3f'><div class='iata-crossLink-Label'><a href='https://www.iata.org/training/subject-areas/pages/safety-courses.aspx'>Aviation Safety</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='c57d9def-1de7-43e9-92dc-30d1aec2ccab'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/safety/health/'>Health and Safety</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Training</li><li class='iata-crossLink-entry' data-guid='fa43f183-19aa-4346-8fb1-3b1f91277b3f'><div class='iata-crossLink-Label'><a href='/training/subject-areas/pages/safety-courses.aspx'>Aviation Safety</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='c57d9def-1de7-43e9-92dc-30d1aec2ccab'><div class='iata-crossLink-Label'><a href='/whatwedo/safety/health/'>Health and Safety</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

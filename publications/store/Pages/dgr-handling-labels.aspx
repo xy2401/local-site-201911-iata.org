@@ -360,7 +360,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8476-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8476-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -391,7 +391,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8466-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8466-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -422,7 +422,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8468-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8468-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -453,7 +453,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8471-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8471-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -484,7 +484,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8481-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8481-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -515,7 +515,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
  <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8473-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8473-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -546,7 +546,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8484-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8484-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -577,7 +577,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8742-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8742-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -608,7 +608,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8478-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8478-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -639,7 +639,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8482-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8482-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -670,7 +670,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8483-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8483-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -701,7 +701,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8480-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8480-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -732,7 +732,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8474-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8474-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -763,7 +763,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8479-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8479-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -794,7 +794,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8487-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8487-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -825,7 +825,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8486-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8486-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -856,7 +856,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8470-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8470-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -887,7 +887,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8475-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8475-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -918,7 +918,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8465-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8465-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -949,7 +949,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8743-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8743-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -980,7 +980,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8517-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8517-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1011,7 +1011,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8751-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8751-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1042,7 +1042,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8537-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8537-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1073,7 +1073,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8752-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8752-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1104,7 +1104,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8538-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8538-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1135,7 +1135,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8753-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8753-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1166,7 +1166,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8754-00.png'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/8754-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -1197,7 +1197,7 @@ DGR Handling Labels
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
- <div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/8539-00.png'>View Sample</a></div>
+ <div><a target='_blank' href='/publications/dgr/PublishingImages/8539-00.png'>View Sample</a></div>
 </div>
 </div>
 </div>

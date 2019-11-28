@@ -555,7 +555,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='8b460d74-e7a9-4a4b-a051-2563677f9cf1'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/cargo/pages/perishables.aspx'>Perishables</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='8b460d74-e7a9-4a4b-a051-2563677f9cf1'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/pages/perishables.aspx'>Perishables</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

@@ -555,11 +555,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksUpcomingEvents'>
 <div class='crossLinksTitle'>
 Events
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-entry' data-guid='e1e76012-775f-424e-a300-499b4b3def7d'><div class='iata-crossLink-Label'><a href='https://www.iata.org/events/cargo-events/pages/lb-workshop.aspx'>Lithium Battery Workshop</a><span class='iata-crossLink-date'>06 - 08 Oct 2020</span><span class='iata-crossLink-fullLocation'><span class='iata-crossLink-region'></span><span class='iata-crossLink-location'>Manchester, United Kingdom </span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-entry' data-guid='e1e76012-775f-424e-a300-499b4b3def7d'><div class='iata-crossLink-Label'><a href='/events/cargo-events/pages/lb-workshop.aspx'>Lithium Battery Workshop</a><span class='iata-crossLink-date'>06 - 08 Oct 2020</span><span class='iata-crossLink-fullLocation'><span class='iata-crossLink-region'></span><span class='iata-crossLink-location'>Manchester, United Kingdom </span></span></div></li></ul></div>
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='913a50f2-0ea5-4303-b197-a6ee8c66b0bc'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/cargo/dgr/pages/lithium-batteries.aspx'>Lithium Batteries</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='913a50f2-0ea5-4303-b197-a6ee8c66b0bc'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/dgr/pages/lithium-batteries.aspx'>Lithium Batteries</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

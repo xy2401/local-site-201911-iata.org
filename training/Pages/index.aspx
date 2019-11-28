@@ -504,10 +504,10 @@ font-size: 45px !important;
 </div>
 </div>
 </div>
-<div id="ctl00_SPWebPartManager1_g_e6a9adc7_6bc0_484c_b53e_7d8955ce3bae_ctl00_trainingCarouselButtons" class="trainingCarouselButtons"><a href='https://www.iata.org/training/Pages/partner-network.aspx'><div class='trainingCarouselButton6' id='6'>
-<h3>Where</h3></div></a><a href='https://www.iata.org/training/Pages/Calendar.aspx'><div class='trainingCarouselButton5' id='5'>
-<h3>When</h3></div></a><a href='https://www.iata.org/training/delivery/Pages/index.aspx'><div class='trainingCarouselButton4' id='4'>
-<h3>How</h3></div></a><a href='https://www.iata.org/training/Pages/aboutus.aspx'><div class='trainingCarouselButton3' id='3'>
+<div id="ctl00_SPWebPartManager1_g_e6a9adc7_6bc0_484c_b53e_7d8955ce3bae_ctl00_trainingCarouselButtons" class="trainingCarouselButtons"><a href='/training/Pages/partner-network.aspx'><div class='trainingCarouselButton6' id='6'>
+<h3>Where</h3></div></a><a href='/training/Pages/Calendar.aspx'><div class='trainingCarouselButton5' id='5'>
+<h3>When</h3></div></a><a href='/training/delivery/Pages/index.aspx'><div class='trainingCarouselButton4' id='4'>
+<h3>How</h3></div></a><a href='/training/Pages/aboutus.aspx'><div class='trainingCarouselButton3' id='3'>
 <h3>About Us</h3></div></a><a href='https://go.updates.iata.org/2019trainingcatalog?_ga=2.255467848.1967985014.1552289891-58072336.1544099619'><div class='trainingCarouselButton2' id='2'>
 <h3>Course Catalog</h3></div></a><a href='http://training.iata.org/signinup?_ga=2.255467848.1967985014.1552289891-58072336.1544099619'><div class='trainingCarouselButton1' id='1'>
 <h3>My Account</h3></div></a></div>

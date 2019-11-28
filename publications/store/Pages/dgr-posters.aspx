@@ -360,7 +360,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/store/PublishingImages/DG%20Hazard%20and%20Handling%20Labels%20Poster.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/store/PublishingImages/DG%20Hazard%20and%20Handling%20Labels%20Poster.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -391,7 +391,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/9718-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/9718-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -422,7 +422,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/9712-00%20Small.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/9712-00%20Small.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -453,7 +453,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/9716-00%20Small.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/9716-00%20Small.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -484,7 +484,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/9714-00%20Small.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/9714-00%20Small.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -515,7 +515,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/9711-00%20Small.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/9711-00%20Small.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -546,7 +546,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/9717-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/9717-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -577,7 +577,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/9713-00%20Small.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/9713-00%20Small.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -608,7 +608,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/9719-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/9719-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -639,7 +639,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
  <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/9716-00%20Small.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/9716-00%20Small.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>
@@ -670,7 +670,7 @@ Posters and counter displays are great tools for promoting awareness of dangerou
 <div class="sfProductInfoItemKey">Notes</div>
 <div class="sfProductInfoItemValue">
 <div></div>
-<div><a target='_blank' href='https://www.iata.org/publications/dgr/PublishingImages/9720-00.jpg'>View Sample</a></div>
+<div><a target='_blank' href='/publications/dgr/PublishingImages/9720-00.jpg'>View Sample</a></div>
 </div>
 </div>
 </div>

@@ -465,70 +465,70 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class="iataceoblogCategories">
 <ul class="static">
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=38&Category=Cargo' id='38'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=38&Category=Cargo' id='38'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Cargo&nbsp;(2)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=36&Category=Distribution' id='36'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=36&Category=Distribution' id='36'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Distribution&nbsp;(4)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=31&Category=Events' id='31'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=31&Category=Events' id='31'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Events&nbsp;(24)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=13&Category=Infrastructure' id='13'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=13&Category=Infrastructure' id='13'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Infrastructure&nbsp;(20)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=18&Category=Members' id='18'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=18&Category=Members' id='18'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Members&nbsp;(12)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=34&Category=Organization' id='34'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=34&Category=Organization' id='34'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Organization&nbsp;(5)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=16&Category=Passengers' id='16'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=16&Category=Passengers' id='16'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Passengers&nbsp;(19)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=9&Category=Policy' id='9'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=9&Category=Policy' id='9'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Policy&nbsp;(28)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=37&Category=Safety' id='37'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=37&Category=Safety' id='37'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Safety&nbsp;(10)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=12&Category=Security' id='12'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=12&Category=Security' id='12'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Security&nbsp;(5)</span>
 </span>
@@ -536,14 +536,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </li>
 
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=35&Category=Sustainability' id='35'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=35&Category=Sustainability' id='35'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Sustainability&nbsp;(12)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=30&Category=Taxation' id='30'>
+<a class="static menu-item" href='/about/worldwide/europe/blog/Pages/BlogCategory.aspx?CAT_ID=30&Category=Taxation' id='30'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Taxation&nbsp;(3)</span>
 </span>

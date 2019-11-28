@@ -529,7 +529,7 @@ NDC Matchmaker
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Training</li><li class='iata-crossLink-entry' data-guid='fc670230-2997-47bb-8a5b-91bba920ace9'><div class='iata-crossLink-Label'><a href='https://www.iata.org/training/pages/ndc.aspx'>New Distribution Capability</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='f0152f6f-ff6d-415b-9ab8-fb1424645bc8'><div class='iata-crossLink-Label'><a href='https://www.iata.org/services/consulting/airlines/pages/ndc.aspx'>New Distribution Capability (NDC) Consulting</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'>Consulting</span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Training</li><li class='iata-crossLink-entry' data-guid='fc670230-2997-47bb-8a5b-91bba920ace9'><div class='iata-crossLink-Label'><a href='/training/pages/ndc.aspx'>New Distribution Capability</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='f0152f6f-ff6d-415b-9ab8-fb1424645bc8'><div class='iata-crossLink-Label'><a href='/services/consulting/airlines/pages/ndc.aspx'>New Distribution Capability (NDC) Consulting</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'>Consulting</span></span></div></li></ul></div>
 </div>
 </div>
 </div>

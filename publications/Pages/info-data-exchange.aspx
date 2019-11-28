@@ -436,7 +436,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='2c233286-e522-4ae4-aaf9-03f9159caa1f'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/airline-distribution/pages/air.aspx'>Airline Industry Retailing (AIR)</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-entry' data-guid='2c233286-e522-4ae4-aaf9-03f9159caa1f'><div class='iata-crossLink-Label'><a href='https://www.iata.org/whatwedo/passenger/pages/passenger-data.aspx'>Facilitation & Passenger Data</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='2c233286-e522-4ae4-aaf9-03f9159caa1f'><div class='iata-crossLink-Label'><a href='/whatwedo/airline-distribution/pages/air.aspx'>Airline Industry Retailing (AIR)</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-entry' data-guid='2c233286-e522-4ae4-aaf9-03f9159caa1f'><div class='iata-crossLink-Label'><a href='/whatwedo/passenger/pages/passenger-data.aspx'>Facilitation & Passenger Data</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

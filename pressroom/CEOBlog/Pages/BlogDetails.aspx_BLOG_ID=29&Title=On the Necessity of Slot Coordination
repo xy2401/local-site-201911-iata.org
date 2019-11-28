@@ -708,63 +708,63 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class="iataceoblogCategories">
 <ul class="static">
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=11&Category=Distribution' id='11'>
+<a class="static menu-item" href='/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=11&Category=Distribution' id='11'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Distribution&nbsp;(2)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=4&Category=Economics' id='4'>
+<a class="static menu-item" href='/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=4&Category=Economics' id='4'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Economics&nbsp;(2)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=5&Category=Environment' id='5'>
+<a class="static menu-item" href='/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=5&Category=Environment' id='5'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Environment&nbsp;(6)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=1&Category=Ideas' id='1'>
+<a class="static menu-item" href='/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=1&Category=Ideas' id='1'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Ideas&nbsp;(6)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=7&Category=Infrastructure' id='7'>
+<a class="static menu-item" href='/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=7&Category=Infrastructure' id='7'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Infrastructure&nbsp;(6)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=8&Category=Passenger experience' id='8'>
+<a class="static menu-item" href='/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=8&Category=Passenger experience' id='8'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Passenger experience&nbsp;(2)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=6&Category=Policy' id='6'>
+<a class="static menu-item" href='/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=6&Category=Policy' id='6'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Policy&nbsp;(9)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=9&Category=Safety' id='9'>
+<a class="static menu-item" href='/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=9&Category=Safety' id='9'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Safety&nbsp;(2)</span>
 </span>
 </a>
 </li>
 <li class="static">
-<a class="static menu-item" href='https://www.iata.org/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=10&Category=Security' id='10'>
+<a class="static menu-item" href='/pressroom/ceoblog/Pages/BlogCategory.aspx?CAT_ID=10&Category=Security' id='10'>
 <span class="additional-backgroud">
 <span class="menu-item-text">Security&nbsp;(3)</span>
 </span>

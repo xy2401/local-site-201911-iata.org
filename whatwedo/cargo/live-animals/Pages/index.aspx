@@ -436,7 +436,7 @@ IATA Global Shipper Survey
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='413cad2d-869f-4d81-89df-48acf9d062a1'><div class='iata-crossLink-Label'><a href='https://www.iata.org/publications/store/pages/live-animals-regulations.aspx'>Live Animals Regulations</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Policy position</li><li class='iata-crossLink-entry' data-guid='ec328752-be21-46d9-99c2-504e93b25e1f'><div class='iata-crossLink-Label'><a href='https://www.iata.org/policy/environment/pages/wildlife-trafficking.aspx'>Illegal Wildlife Trafficking</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Publications</li><li class='iata-crossLink-entry' data-guid='413cad2d-869f-4d81-89df-48acf9d062a1'><div class='iata-crossLink-Label'><a href='/publications/store/pages/live-animals-regulations.aspx'>Live Animals Regulations</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li><li class='iata-crossLink-header'>Policy position</li><li class='iata-crossLink-entry' data-guid='ec328752-be21-46d9-99c2-504e93b25e1f'><div class='iata-crossLink-Label'><a href='/policy/environment/pages/wildlife-trafficking.aspx'>Illegal Wildlife Trafficking</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>
