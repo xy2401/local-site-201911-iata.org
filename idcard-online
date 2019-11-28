@@ -1,0 +1,967 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>IATA/IATAN ID Card Online Platform</title><script src="/iataidcard/static/111213/js/perf/stub.js" type="text/javascript"></script><script src="/iataidcard/faces/a4j/g/3_3_3.Finalorg.ajax4jsf.javascript.AjaxScript?rel=1574720579000" type="text/javascript"></script><script src="/iataidcard/static/111213/js/functions.js" type="text/javascript"></script><script src="/iataidcard/jslibrary/1568787898222/sfdc/main.js" type="text/javascript"></script><script src="/iataidcard/jslibrary/jslabels/1574777501000/en_US.js" type="text/javascript"></script><script src="/iataidcard/static/111213/desktop/desktopAjax.js" type="text/javascript"></script><script src="/iataidcard/static/111213/js/picklist4.js" type="text/javascript"></script><script src="/iataidcard/resource/1463505522000/jquerytools/jquery-1.9.0.min.js" type="text/javascript"></script><script src="https://code.jquery.com/jquery-2.1.4.js" type="text/javascript"></script><script src="/iataidcard/jslibrary/1558397236222/sfdc/VFState.js" type="text/javascript"></script><link class="user" href="/iataidcard/sCSS/47.0/sprites/1565858970000/Theme3/default/gc/zen-componentsCompatible.css" rel="stylesheet" type="text/css" /><link class="user" href="/iataidcard/sCSS/47.0/sprites/1565858970000/Theme3/default/gc/elements.css" rel="stylesheet" type="text/css" /><link class="user" href="/iataidcard/sCSS/47.0/sprites/1565858970000/Theme3/default/gc/common.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/47.0/sprites/1573855622000/Theme3/gc/dStandard.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/47.0/sprites/1574421126000/Theme3/00D2000000008TF/005w0000003WXRy/gc/dCustom0.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/47.0/sprites/1574421126000/Theme3/00D2000000008TF/005w0000003WXRy/gc/dCustom1.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/47.0/sprites/1574421126000/Theme3/00D2000000008TF/005w0000003WXRy/gc/dCustom2.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/47.0/sprites/1574421126000/Theme3/00D2000000008TF/005w0000003WXRy/gc/dCustom3.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/47.0/sprites/1574421126000/Theme3/00D2000000008TF/005w0000003WXRy/gc/dCustom4.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/47.0/sprites/1574421126000/Theme3/00D2000000008TF/005w0000003WXRy/gc/dCustom5.css" rel="stylesheet" type="text/css" /><link class="user" href="/sCSS/47.0/sprites/1574421126000/Theme3/00D2000000008TF/005w0000003WXRy/gc/dCustom6.css" rel="stylesheet" type="text/css" /><link class="user" href="/iataidcard/sCSS/47.0/sprites/1565858970000/Theme3/default/gc/extended.css" rel="stylesheet" type="text/css" /><link class="user" href="/iataidcard/sCSS/47.0/sprites/1565858970000/Theme3/default/gc/setup.css" rel="stylesheet" type="text/css" /><link class="user" href="/iataidcard/resource/1481023573000/blockui/blockui/jquery-ui.css" rel="stylesheet" type="text/css" /><link class="user" href="/iataidcard/resource/1422376486000/IDCard_Styles/IATA_IDCard.css" rel="stylesheet" type="text/css" /><script>(function(UITheme) {
+    UITheme.getUITheme = function() { 
+        return UserContext.uiTheme;
+    };
+}(window.UITheme = window.UITheme || {}));</script></head><body>
+
+<head>
+
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+
+<title>IATA/IATAN ID Card Online Platform</title>
+
+<script async="true" defer="true" src="https://www.google.com/recaptcha/api.js?hl=en_US&amp;onload=myCallBack&amp;render=explicit"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
+
+
+<script src="/iataidcard/resource/1481023573000/blockui/blockui/jquery.min.js"></script>
+<script src="/iataidcard/resource/1481023573000/blockui/blockui/jquery-ui.js"></script>
+<script src="/iataidcard/resource/1481023573000/blockui/blockui/jquery.blockUI.js"></script>
+
+</head>
+    
+<body><span id="j_id0:j_id4">
+<style type="text/css">
+
+
+body{
+    background-color: #D3D3D3;
+}
+
+body .apexp .bPageBlock.apexDefaultPageBlock .pbBottomButtons>table {
+    border-top: none;
+}
+
+
+
+body .bPageBlock, body .secondaryPalette.bPageBlock
+{
+     background-color: rgb(11, 66, 122 );
+     border: none;
+}
+
+body .apexp .bPageBlock.apexDefaultPageBlock .pbBottomButtons {
+    border-top: 0px;
+    margin-top: 0px;
+}
+
+input .requiredInput
+{
+    width: 400px;
+}
+th {
+    text-align: center;
+}
+.apexp .bPageBlock .detailList {
+width: 900px;
+}
+.bPageBlock .detailList td.last
+{
+width: 0px;
+
+}
+.pbBody td, .lbBody a, .lbBodyDescription, .list .headerRow .noRowsHeader {
+    /*color: #FFF;*/
+}
+.bPageBlock .pbTitle {
+     width: 0%;
+     border: none;
+     margin: 0px 0px 0px;
+     padding-top: 0px;
+     padding-right: 0px;
+     padding-bottom: 0px;
+     padding-left: 0px;
+    
+     
+}
+
+.bPageBlock .pbBottomButtons>table>tbody>tr>td, .bLayoutBlock .pbBottomButtons>table>tbody>tr>td {
+    padding: 0px 0px;
+    border: none;
+    margin: 0px 0px 0px;
+}
+
+body .bPageBlock .pbBody .dataCol{
+    width: 0px;
+    }
+body .bPageBlock .pbBody .labelCol
+{
+    width: 0px;
+}
+
+body .bPageBlock {
+    padding: 0;
+    margin-bottom: 0px;
+    border-top-width: 0px;
+}
+
+.apexp .bPageBlock.apexDefaultPageBlock .pbBody {
+    margin: 0px 0px 0px;
+}
+
+.message {
+
+    background-color: rgba(255, 255, 255, 0);
+    border-style: inherit;
+    border-width: 0px;
+    color: rgba(255, 255, 255, 0);
+    padding: 6px 8px 6px 6px;
+    margin: 4px 20px;
+}
+.message .messageText {
+    color : black\9; /* IE8 and below */
+}
+
+body a:hover {
+    color: white;
+    text-decoration:none !important; 
+}
+
+.customRequiredBlock {
+            background-color: #C00;
+            /*position: absolute;*/
+            left: -4px;
+            width: 3px;
+            top: 1px;
+            bottom: 1px;
+        }
+
+    .page-wrap {
+        width: auto;
+        margin: auto;
+    }
+    
+    .bPageBlock{
+        border-top: none;
+    }
+    c§
+    body .bPageBlock, body .secondaryPalette.bPageBlock{
+        background-color: transparent;
+        border-bottom: none;
+        border-left: none;
+        border-right: none;
+    }
+    
+    .apexp .bPageBlock.apexDefaultPageBlock .pbBody {
+        margin: 0px 0px 0px;
+    }
+    body .bPageBlock .pbBody {
+        padding: 0;
+    }
+    
+     body .tabLink   {
+              text-decoration: bold;
+              font-size: 18px;
+              color: #0c4177;
+              margin:10px;
+              padding:10px;
+              height:40px;
+              border-bottom: solid 1px #0c4177;
+              //float:left;
+              
+          }
+            body .tabLink  a {
+              text-decoration: bold;
+              font-size: 18px;
+              color: #0c4177;
+              
+          }
+          
+          body .tabLink a:hover {
+              text-decoration: bold;
+
+              color: #0c4177;
+          }
+          
+          /*----- Tabs -----*/
+        .tabs {
+            width:100%;
+            display:inline-block;
+           
+        }
+ 
+        /*----- Tab Links -----*/
+        /* Clearfix */
+            .tab-links:after {
+                display:block;
+                clear:both;
+                content:'';
+            }
+            
+            .tab-link ul{
+                 margin:12px 0PX 0PX 0PX;
+            }
+            .tab-links li {
+                margin:0px 5px;
+                float:left;
+                list-style:none;
+                border-radius: 12px;
+            }
+     
+            .tab-links a {
+                padding:9px 15px;
+                display:inline-block;
+                border-radius:3px 3px 0px 0px;
+                background:#7FB5DA;
+                font-weight:600;
+                color:#4c4c4c;
+                text-decoration:none;
+                transition:all linear 0.15s;
+            }
+     
+            .tab-links a:hover {
+                background:#a7cce5;
+                color:#4c4c4c;
+                text-decoration:none;
+            }
+     
+            li.active a, li.active a:hover {
+                background:#fff;
+                color:#4c4c4c;
+            }
+ 
+    /*----- Content of Tabs -----*/
+    .tab-content {
+        padding:15px;
+        border-radius:3px;
+        //box-shadow:-1px 1px 1px rgba(0,0,0,0.15);
+        background:#fff;
+        border:1px solid rgba(0,0,0,0.15);
+        
+        left: 10px;
+        margin: 0px 10px 5px 10px ;
+        min-height: 500px;
+        width: 96%;
+    }
+ 
+        .tab {
+            display:none;
+        }
+ 
+        .tab.active {
+            display:block;
+        }
+        
+        .item-td {
+            display: -webkit-flex; /* Safari */
+            -webkit-flex-flow: row wrap; /* Safari 6.1+ */
+            -webkit-align-content: space-around; /* Safari 7.0+ */
+            display: flex;
+            flex-flow: row wrap;
+            text-align:justify;
+            align-content: space-around;
+        }
+    </style>
+<script>
+            
+        function refreshLanguage() {
+            setCookie('apex__idcard_portal_lang', $("[id*='langSelect']").val(), 365);
+            window.location.reload();
+        }
+        
+        function refreshIataCode() {
+           setCookie('apex__iatacode',$("[id*='cIataCodeSelect']").val(), 2);
+           window.location.reload();
+        }
+        
+        function setCookie(c_name,value,exdays)
+        {
+            var exdate=new Date();
+            //exdate.setDate(exdate.getTime() + (3*1000)); 
+            exdate.setDate(exdate.getDate() + exdays); 
+            var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString()) + ';path=/';
+            document.cookie=c_name + "=" + c_value;
+        }
+         
+        function getCookie(c_name)
+        {
+            var i,x,y,ARRcookies=document.cookie.split(";");
+            for (i=0;i<ARRcookies.length;i++)
+              {
+              x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+              y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+              x=x.replace(/^\s+|\s+$/g,"");
+              if (x==c_name)
+                {
+                return unescape(y);
+                }
+              }
+        }   
+        </script>   
+             
+        <script type="text/javascript">
+            piAId = '124902';
+            piCId = '88538';
+            (function() {
+                function async_load() {
+                    var s = document.createElement('script');
+                    s.type = 'text/javascript';
+                    s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+                    var c = document.getElementsByTagName('script')[0];
+                    c.parentNode.insertBefore(s, c);
+                }
+                if (window.attachEvent) {
+                    window.attachEvent('onload', async_load);
+                } else {
+                    window.addEventListener('load', async_load, false);
+                }
+            })();
+        </script></span>
+
+
+
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-T883LZ" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T883LZ');</script>
+
+
+<script>
+ 
+    String.prototype.capitalize = function(){
+            return this.toLowerCase().replace( /\b\w/g, function (m) {
+            return m.toUpperCase();
+        });
+    };   
+
+    var recaptcha1;     
+      var recaptcha2;       
+      function myCallBack() {       
+        recaptcha1 = grecaptcha.render('recaptcha1', {      
+          'sitekey' : '6LeFvAYTAAAAAJsxvMD0FIEU3PmZYrybMaPG20nW', //Replace this with your Site key 
+          'hl' : 'en_US'      
+        });     
+                
+        recaptcha2 = grecaptcha.render('recaptcha2', {      
+          'sitekey' : '6LeFvAYTAAAAAJsxvMD0FIEU3PmZYrybMaPG20nW', //Replace this with your Site key
+          'hl' : 'en_US'      
+        });     
+      };        
+    function myReset(){     
+        grecaptcha.reset(recaptcha1);       
+        grecaptcha.reset(recaptcha2);       
+    };
+   
+    $(document).ready(function(){
+        $(".btn-slideLoginWPI").click(function(){
+            $("#panelLoginWPI").slideToggle("slow");
+            $("#panelLoginWCodes").slideUp("slow");
+            
+            
+            $(this).toggleClass("activeLoginWPI"); return false;
+        });
+    });
+    
+    $(document).ready(function(){
+        $(".btn-slideLoginWCodes").click(function(){
+            $("#panelLoginWCodes").slideToggle("slow");
+            $("#panelLoginWPI").slideUp("slow");
+            
+            $("#Captcha_Submenu").appendTo("#CODEINFOCAPTCHA");
+                        
+            $(this).toggleClass("activeLoginWCodes"); return false;
+        });
+    }); 
+
+
+   
+
+
+    //You need to wrap everything in document.ready because the select tag we are taregting needs to
+    //be loaded in the DOM befire we can access it.
+    $(document).ready(function() {          
+    
+        //-----EDIT THE NEXT TWO LINES-----
+        var startYear=1930; //replace 1930 with whatever year you want to start with;
+        var endYear=2000; //replace 2034 with whatever year you want to end with;
+    
+        //-----EDIT BELLOW HERE AT YOUR OWN RISK-----
+        var optionsString='';
+    
+        if(startYear<endYear){
+            //Loops through each date and renders the string for an option tag and addes it to the Optrionsstring variable
+            for(i=startYear;i<endYear+1;i++){
+                optionsString += "<option value=\""+i+"\">"+i+"</option>";
+            }
+    
+            //Replace the innerHTML of the calendar picker year select tag with the Optionsstring we constructed.
+            $('#calYearPicker').html(optionsString);
+        }
+    });
+
+    //handles numbers for VER and IATA codes, blocks non digits from being entered.
+    function handleNum(e,obj)
+    {
+        if (!e) var e = window.event;
+        if (
+            event.keyCode == 8                                // backspace
+            || event.keyCode == 9                               // tab
+            || event.keyCode == 17                              // ctrl
+            || event.keyCode == 46                              // delete
+            || (event.keyCode >= 35 && event.keyCode <= 40)     // arrow keys/home/end
+            || (event.keyCode >= 48 && event.keyCode <= 57)     // numbers on keyboard
+            || (event.keyCode >= 96 && event.keyCode <= 105)    // number on keypad                
+            || (event.keyCode == 65 && event.ctrlKey )          // ctrl + a
+            || (event.keyCode == 67 && event.ctrlKey )          // ctrl + c
+            || (event.keyCode == 86 && event.ctrlKey )          // ctrl + v         
+            ) 
+        {
+            return true;
+        } 
+        else return false;
+    }
+
+    //doesnt allow numbers to be entered
+    function removeNums(e,obj)
+    {
+        if (!e) var e = window.event;
+        if (
+            (event.keyCode >= 48 && event.keyCode <= 57)     // numbers on keyboard
+            || (event.keyCode >= 96 && event.keyCode <= 105)    // number on keypad                
+            ) 
+        {
+            return false;
+        } 
+        else return true;
+    }
+
+    function workingFirstName() {
+       
+        var firstName = (removeDiacritics(this.document.getElementById('j_id0:idcardForm:pb1:sec1:txtFIRSTNAME').value));
+        //document.getElementById('j_id0:idcardForm:pb1:sec1:txtFIRSTNAME').value = firstName.capitalize();
+        document.getElementById('j_id0:idcardForm:pb1:sec1:txtFIRSTNAME').value = firstName.toUpperCase();
+
+        //removing apostrophe 
+        var name = (removeDiacritics(this.document.getElementById('j_id0:idcardForm:pb1:sec1:txtFIRSTNAME').value));
+        name = name.replace(/'/,' ');
+        document.getElementById('j_id0:idcardForm:pb1:sec1:txtFIRSTNAME').value = name;
+
+        //removing dash
+        var name = (removeDiacritics(this.document.getElementById('j_id0:idcardForm:pb1:sec1:txtFIRSTNAME').value));
+        name = name.replace(/-/,' ');
+        document.getElementById('j_id0:idcardForm:pb1:sec1:txtFIRSTNAME').value = name;
+    }
+    
+    function workingLastName() {
+
+        var lastName = (removeDiacritics(this.document.getElementById('j_id0:idcardForm:pb1:sec1:txtLASTNAME').value));
+        //document.getElementById('j_id0:idcardForm:pb1:sec1:txtLASTNAME').value = lastName.capitalize();
+        document.getElementById('j_id0:idcardForm:pb1:sec1:txtLASTNAME').value = lastName.toUpperCase();
+
+        //removing apostrophe 
+        var name = (removeDiacritics(this.document.getElementById('j_id0:idcardForm:pb1:sec1:txtLASTNAME').value));
+        name = name.replace(/'/,' ');
+        document.getElementById('j_id0:idcardForm:pb1:sec1:txtLASTNAME').value = name;
+
+        //removing dash
+        var name = (removeDiacritics(this.document.getElementById('j_id0:idcardForm:pb1:sec1:txtLASTNAME').value));
+        name = name.replace(/-/,' ');
+        document.getElementById('j_id0:idcardForm:pb1:sec1:txtLASTNAME').value = name;
+    }
+
+    j$ = jQuery.noConflict(); 
+    function blockme() {
+       j$.blockUI({ message: '<h1 style = color:black> Please wait… </h1>',
+            css: {           
+               border: 'none',
+               padding: '15px',               
+               '-webkit-border-radius': '10px',
+               '-moz-border-radius': '10px',
+               opacity: .5,
+               color: '#fff'
+            }
+     }); 
+   }
+
+   
+      
+
+</script><span id="j_id0:j_id12">
+
+
+
+<script src="/iataidcard/resource/1448988465000/jQuery191" type="text/javascript"></script>
+<script src="/iataidcard/resource/1448988204000/jquerybapostmessage" type="text/javascript"></script>
+
+<style type="text/css">
+   
+    
+    #LoginBackgroundPopup{  
+            display:none;  
+            position:fixed;  
+            _position:absolute; /* hack for internet explorer 6*/  
+            height:100%;  
+            width:100%;  
+            top:0;  
+            left:0;  
+            background:#000000;  
+            border:1px solid #cecece;  
+            z-index:1;  
+    } 
+    #popupLogin{  
+        display:none;  
+        position:fixed;  
+        _position:absolute; /* hack for internet explorer 6*/  
+        height:384px;  
+        width:408px; 
+        top:50%;
+        left:50%;      
+        background:#FFFFFF;  
+        border:2px solid #cecece;  
+        z-index:2;  
+        padding:12px;  
+        font-size:13px;  
+    }   
+    
+    
+    
+     body a.btn-BlueButtonWAR:hover {
+        color: white;
+        text-decoration:none !important; 
+    }
+    body a.btn-BlueButtonWAL:hover {
+        color: white;
+        text-decoration:none !important; 
+    }      
+        
+    </style>
+<script type="text/javascript">
+
+            var defaultDiacriticsRemovalMap = [
+                {'base':'A', 'letters':/[\u0041\u24B6\uFF21\u00C0\u00C1\u00C2\u1EA6\u1EA4\u1EAA\u1EA8\u00C3\u0100\u0102\u1EB0\u1EAE\u1EB4\u1EB2\u0226\u01E0\u00C4\u01DE\u1EA2\u00C5\u01FA\u01CD\u0200\u0202\u1EA0\u1EAC\u1EB6\u1E00\u0104\u023A\u2C6F]/g},
+                {'base':'AA','letters':/[\uA732]/g},
+                {'base':'AE','letters':/[\u00C6\u01FC\u01E2]/g},
+                {'base':'AO','letters':/[\uA734]/g},
+                {'base':'AU','letters':/[\uA736]/g},
+                {'base':'AV','letters':/[\uA738\uA73A]/g},
+                {'base':'AY','letters':/[\uA73C]/g},
+                {'base':'B', 'letters':/[\u0042\u24B7\uFF22\u1E02\u1E04\u1E06\u0243\u0182\u0181]/g},
+                {'base':'C', 'letters':/[\u0043\u24B8\uFF23\u0106\u0108\u010A\u010C\u00C7\u1E08\u0187\u023B\uA73E]/g},
+                {'base':'D', 'letters':/[\u0044\u24B9\uFF24\u1E0A\u010E\u1E0C\u1E10\u1E12\u1E0E\u0110\u018B\u018A\u0189\uA779]/g},
+                {'base':'DZ','letters':/[\u01F1\u01C4]/g},
+                {'base':'Dz','letters':/[\u01F2\u01C5]/g},
+                {'base':'E', 'letters':/[\u0045\u24BA\uFF25\u00C8\u00C9\u00CA\u1EC0\u1EBE\u1EC4\u1EC2\u1EBC\u0112\u1E14\u1E16\u0114\u0116\u00CB\u1EBA\u011A\u0204\u0206\u1EB8\u1EC6\u0228\u1E1C\u0118\u1E18\u1E1A\u0190\u018E]/g},
+                {'base':'F', 'letters':/[\u0046\u24BB\uFF26\u1E1E\u0191\uA77B]/g},
+                {'base':'G', 'letters':/[\u0047\u24BC\uFF27\u01F4\u011C\u1E20\u011E\u0120\u01E6\u0122\u01E4\u0193\uA7A0\uA77D\uA77E]/g},
+                {'base':'H', 'letters':/[\u0048\u24BD\uFF28\u0124\u1E22\u1E26\u021E\u1E24\u1E28\u1E2A\u0126\u2C67\u2C75\uA78D]/g},
+                {'base':'I', 'letters':/[\u0049\u24BE\uFF29\u00CC\u00CD\u00CE\u0128\u012A\u012C\u0130\u00CF\u1E2E\u1EC8\u01CF\u0208\u020A\u1ECA\u012E\u1E2C\u0197]/g},
+                {'base':'J', 'letters':/[\u004A\u24BF\uFF2A\u0134\u0248]/g},
+                {'base':'K', 'letters':/[\u004B\u24C0\uFF2B\u1E30\u01E8\u1E32\u0136\u1E34\u0198\u2C69\uA740\uA742\uA744\uA7A2]/g},
+                {'base':'L', 'letters':/[\u004C\u24C1\uFF2C\u013F\u0139\u013D\u1E36\u1E38\u013B\u1E3C\u1E3A\u0141\u023D\u2C62\u2C60\uA748\uA746\uA780]/g},
+                {'base':'LJ','letters':/[\u01C7]/g},
+                {'base':'Lj','letters':/[\u01C8]/g},
+                {'base':'M', 'letters':/[\u004D\u24C2\uFF2D\u1E3E\u1E40\u1E42\u2C6E\u019C]/g},
+                {'base':'N', 'letters':/[\u004E\u24C3\uFF2E\u01F8\u0143\u00D1\u1E44\u0147\u1E46\u0145\u1E4A\u1E48\u0220\u019D\uA790\uA7A4]/g},
+                {'base':'NJ','letters':/[\u01CA]/g},
+                {'base':'Nj','letters':/[\u01CB]/g},
+                {'base':'O', 'letters':/[\u004F\u24C4\uFF2F\u00D2\u00D3\u00D4\u1ED2\u1ED0\u1ED6\u1ED4\u00D5\u1E4C\u022C\u1E4E\u014C\u1E50\u1E52\u014E\u022E\u0230\u00D6\u022A\u1ECE\u0150\u01D1\u020C\u020E\u01A0\u1EDC\u1EDA\u1EE0\u1EDE\u1EE2\u1ECC\u1ED8\u01EA\u01EC\u00D8\u01FE\u0186\u019F\uA74A\uA74C]/g},
+                {'base':'OI','letters':/[\u01A2]/g},
+                {'base':'OO','letters':/[\uA74E]/g},
+                {'base':'OU','letters':/[\u0222]/g},
+                {'base':'P', 'letters':/[\u0050\u24C5\uFF30\u1E54\u1E56\u01A4\u2C63\uA750\uA752\uA754]/g},
+                {'base':'Q', 'letters':/[\u0051\u24C6\uFF31\uA756\uA758\u024A]/g},
+                {'base':'R', 'letters':/[\u0052\u24C7\uFF32\u0154\u1E58\u0158\u0210\u0212\u1E5A\u1E5C\u0156\u1E5E\u024C\u2C64\uA75A\uA7A6\uA782]/g},
+                {'base':'S', 'letters':/[\u0053\u24C8\uFF33\u1E9E\u015A\u1E64\u015C\u1E60\u0160\u1E66\u1E62\u1E68\u0218\u015E\u2C7E\uA7A8\uA784]/g},
+                {'base':'T', 'letters':/[\u0054\u24C9\uFF34\u1E6A\u0164\u1E6C\u021A\u0162\u1E70\u1E6E\u0166\u01AC\u01AE\u023E\uA786]/g},
+                {'base':'TZ','letters':/[\uA728]/g},
+                {'base':'U', 'letters':/[\u0055\u24CA\uFF35\u00D9\u00DA\u00DB\u0168\u1E78\u016A\u1E7A\u016C\u00DC\u01DB\u01D7\u01D5\u01D9\u1EE6\u016E\u0170\u01D3\u0214\u0216\u01AF\u1EEA\u1EE8\u1EEE\u1EEC\u1EF0\u1EE4\u1E72\u0172\u1E76\u1E74\u0244]/g},
+                {'base':'V', 'letters':/[\u0056\u24CB\uFF36\u1E7C\u1E7E\u01B2\uA75E\u0245]/g},
+                {'base':'VY','letters':/[\uA760]/g},
+                {'base':'W', 'letters':/[\u0057\u24CC\uFF37\u1E80\u1E82\u0174\u1E86\u1E84\u1E88\u2C72]/g},
+                {'base':'X', 'letters':/[\u0058\u24CD\uFF38\u1E8A\u1E8C]/g},
+                {'base':'Y', 'letters':/[\u0059\u24CE\uFF39\u1EF2\u00DD\u0176\u1EF8\u0232\u1E8E\u0178\u1EF6\u1EF4\u01B3\u024E\u1EFE]/g},
+                {'base':'Z', 'letters':/[\u005A\u24CF\uFF3A\u0179\u1E90\u017B\u017D\u1E92\u1E94\u01B5\u0224\u2C7F\u2C6B\uA762]/g},
+                {'base':'a', 'letters':/[\u0061\u24D0\uFF41\u1E9A\u00E0\u00E1\u00E2\u1EA7\u1EA5\u1EAB\u1EA9\u00E3\u0101\u0103\u1EB1\u1EAF\u1EB5\u1EB3\u0227\u01E1\u00E4\u01DF\u1EA3\u00E5\u01FB\u01CE\u0201\u0203\u1EA1\u1EAD\u1EB7\u1E01\u0105\u2C65\u0250]/g},
+                {'base':'aa','letters':/[\uA733]/g},
+                {'base':'ae','letters':/[\u00E6\u01FD\u01E3]/g},
+                {'base':'ao','letters':/[\uA735]/g},
+                {'base':'au','letters':/[\uA737]/g},
+                {'base':'av','letters':/[\uA739\uA73B]/g},
+                {'base':'ay','letters':/[\uA73D]/g},
+                {'base':'b', 'letters':/[\u0062\u24D1\uFF42\u1E03\u1E05\u1E07\u0180\u0183\u0253]/g},
+                {'base':'c', 'letters':/[\u0063\u24D2\uFF43\u0107\u0109\u010B\u010D\u00E7\u1E09\u0188\u023C\uA73F\u2184]/g},
+                {'base':'d', 'letters':/[\u0064\u24D3\uFF44\u1E0B\u010F\u1E0D\u1E11\u1E13\u1E0F\u0111\u018C\u0256\u0257\uA77A]/g},
+                {'base':'dz','letters':/[\u01F3\u01C6]/g},
+                {'base':'e', 'letters':/[\u0065\u24D4\uFF45\u00E8\u00E9\u00EA\u1EC1\u1EBF\u1EC5\u1EC3\u1EBD\u0113\u1E15\u1E17\u0115\u0117\u00EB\u1EBB\u011B\u0205\u0207\u1EB9\u1EC7\u0229\u1E1D\u0119\u1E19\u1E1B\u0247\u025B\u01DD]/g},
+                {'base':'f', 'letters':/[\u0066\u24D5\uFF46\u1E1F\u0192\uA77C]/g},
+                {'base':'g', 'letters':/[\u0067\u24D6\uFF47\u01F5\u011D\u1E21\u011F\u0121\u01E7\u0123\u01E5\u0260\uA7A1\u1D79\uA77F]/g},
+                {'base':'h', 'letters':/[\u0068\u24D7\uFF48\u0125\u1E23\u1E27\u021F\u1E25\u1E29\u1E2B\u1E96\u0127\u2C68\u2C76\u0265]/g},
+                {'base':'hv','letters':/[\u0195]/g},
+                {'base':'i', 'letters':/[\u0069\u24D8\uFF49\u00EC\u00ED\u00EE\u0129\u012B\u012D\u00EF\u1E2F\u1EC9\u01D0\u0209\u020B\u1ECB\u012F\u1E2D\u0268\u0131]/g},
+                {'base':'j', 'letters':/[\u006A\u24D9\uFF4A\u0135\u01F0\u0249]/g},
+                {'base':'k', 'letters':/[\u006B\u24DA\uFF4B\u1E31\u01E9\u1E33\u0137\u1E35\u0199\u2C6A\uA741\uA743\uA745\uA7A3]/g},
+                {'base':'l', 'letters':/[\u006C\u24DB\uFF4C\u0140\u013A\u013E\u1E37\u1E39\u013C\u1E3D\u1E3B\u017F\u0142\u019A\u026B\u2C61\uA749\uA781\uA747]/g},
+                {'base':'lj','letters':/[\u01C9]/g},
+                {'base':'m', 'letters':/[\u006D\u24DC\uFF4D\u1E3F\u1E41\u1E43\u0271\u026F]/g},
+                {'base':'n', 'letters':/[\u006E\u24DD\uFF4E\u01F9\u0144\u00F1\u1E45\u0148\u1E47\u0146\u1E4B\u1E49\u019E\u0272\u0149\uA791\uA7A5]/g},
+                {'base':'nj','letters':/[\u01CC]/g},
+                {'base':'o', 'letters':/[\u006F\u24DE\uFF4F\u00F2\u00F3\u00F4\u1ED3\u1ED1\u1ED7\u1ED5\u00F5\u1E4D\u022D\u1E4F\u014D\u1E51\u1E53\u014F\u022F\u0231\u00F6\u022B\u1ECF\u0151\u01D2\u020D\u020F\u01A1\u1EDD\u1EDB\u1EE1\u1EDF\u1EE3\u1ECD\u1ED9\u01EB\u01ED\u00F8\u01FF\u0254\uA74B\uA74D\u0275]/g},
+                {'base':'oi','letters':/[\u01A3]/g},
+                {'base':'ou','letters':/[\u0223]/g},
+                {'base':'oo','letters':/[\uA74F]/g},
+                {'base':'p','letters':/[\u0070\u24DF\uFF50\u1E55\u1E57\u01A5\u1D7D\uA751\uA753\uA755]/g},
+                {'base':'q','letters':/[\u0071\u24E0\uFF51\u024B\uA757\uA759]/g},
+                {'base':'r','letters':/[\u0072\u24E1\uFF52\u0155\u1E59\u0159\u0211\u0213\u1E5B\u1E5D\u0157\u1E5F\u024D\u027D\uA75B\uA7A7\uA783]/g},
+                {'base':'s','letters':/[\u0073\u24E2\uFF53\u00DF\u015B\u1E65\u015D\u1E61\u0161\u1E67\u1E63\u1E69\u0219\u015F\u023F\uA7A9\uA785\u1E9B]/g},
+                {'base':'t','letters':/[\u0074\u24E3\uFF54\u1E6B\u1E97\u0165\u1E6D\u021B\u0163\u1E71\u1E6F\u0167\u01AD\u0288\u2C66\uA787]/g},
+                {'base':'tz','letters':/[\uA729]/g},
+                {'base':'u','letters':/[\u0075\u24E4\uFF55\u00F9\u00FA\u00FB\u0169\u1E79\u016B\u1E7B\u016D\u00FC\u01DC\u01D8\u01D6\u01DA\u1EE7\u016F\u0171\u01D4\u0215\u0217\u01B0\u1EEB\u1EE9\u1EEF\u1EED\u1EF1\u1EE5\u1E73\u0173\u1E77\u1E75\u0289]/g},
+                {'base':'v','letters':/[\u0076\u24E5\uFF56\u1E7D\u1E7F\u028B\uA75F\u028C]/g},
+                {'base':'vy','letters':/[\uA761]/g},
+                {'base':'w','letters':/[\u0077\u24E6\uFF57\u1E81\u1E83\u0175\u1E87\u1E85\u1E98\u1E89\u2C73]/g},
+                {'base':'x','letters':/[\u0078\u24E7\uFF58\u1E8B\u1E8D]/g},
+                {'base':'y','letters':/[\u0079\u24E8\uFF59\u1EF3\u00FD\u0177\u1EF9\u0233\u1E8F\u00FF\u1EF7\u1E99\u1EF5\u01B4\u024F\u1EFF]/g},
+                {'base':'z','letters':/[\u007A\u24E9\uFF5A\u017A\u1E91\u017C\u017E\u1E93\u1E95\u01B6\u0225\u0240\u2C6C\uA763]/g}
+            ];
+            
+            
+            var changes;
+            function removeDiacritics (str) {
+                if(!changes) {
+                    changes = defaultDiacriticsRemovalMap;
+                }
+                for(var i=0; i<changes.length; i++) {
+                    str = str.replace(changes[i].letters, changes[i].base);
+                }           
+                return str;
+                
+            }
+ 
+ 
+            /**
+             * Called on body load
+             */
+            $(function(){
+
+                var if_url = 'http://localhost/';
+        
+                //$.receiveMessage(receiveFilenameFromIFrame, if_url);
+                // no longer exists. new function is receiveFilenameFromCropperTool
+                //$.receiveMessage(receiveFilenameFromIFrame);
+                
+       
+            });
+
+
+            /**
+             * Number fields that are required are by default filled with zeros, so we remove them onload
+             */
+            function ClearZeros() {
+                var allElem = document.getElementsByTagName("*");
+                for (var i=0, max=allElem.length; i < max; i++) {
+                     if(allElem[i].value == '0') {
+                        allElem[i].value = '';
+                     }
+                }
+            }
+            
+            
+            
+            function newPopup(url) {
+                popupWindow = window.open(
+                    url,'popUpWindow','height=700,width=800,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=no,menubar=no,location=no,directories=no,status=no')
+            }         
+                  
+
+            
+        </script></span><span id="j_id0:reloadCaptcha">       
+      <script async="true" defer="true" src="https://www.google.com/recaptcha/api.js?hl=en_US&amp;onload=myCallBack&amp;render=explicit"></script>       
+      <script type="text/javascript"> myReset(); </script></span>
+
+    <div id="page_wrapper">
+<form id="j_id0:idcardForm" name="j_id0:idcardForm" method="post" action="https://theiatahub.secure.force.com/iataidcard/IDCardLogin?refURL=http%3A%2F%2Ftheiatahub.secure.force.com%2Fiataidcard" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id0:idcardForm" value="j_id0:idcardForm" />
+
+
+         
+        <div class="HeaderIMG"> 
+            <table width="100%">
+                <tr>
+                    <td><img src="/iataidcard/resource/1422376486000/IDCard_Styles/img/IATA_LOGO.png" class="IATALogo" /></td>
+                    <td>
+                        <div class="select-style"><select id="j_id0:idcardForm:langSelect" name="j_id0:idcardForm:langSelect" size="1" onchange="refreshLanguage();A4J.AJAX.Submit('j_id0:idcardForm',event,{'similarityGroupingId':'j_id0:idcardForm:j_id22','containerId':'j_id0:idcardForm:j_id20','parameters':{'j_id0:idcardForm:j_id22':'j_id0:idcardForm:j_id22'} } )">	<option value="en_US" selected="selected">English</option>
+	<option value="es">Espa&ntilde;ol</option>
+	<option value="fr">Fran&ccedil;ais</option>
+</select>
+                        </div>
+                    </td>
+                 </tr>
+            </table>
+            <h1>The gateway to the IATA/IATAN ID Card</h1>
+        </div>
+         
+        <div class="background" style="height: 900px;">
+                
+            <center>
+             
+                <div class="LogMenuPanel" id="PInfo"><label style="color:white">
+<h1><b>Login with Personal   Information </b></h1><br/>
+For new applicants and returning agents who do not have their existing ID Card codes.</label>                                 
+                </div>
+                
+                <div id="panelLoginWPI"> 
+                    <div class="LogSubMenuPanel" id="PInfo_Submenu">
+                        <hr class="Thick" /><script> if(!window.sfdcPage) { window.sfdcPage = new ApexPage(); }UserContext.initialize({"ampm":["AM","PM"],"isAccessibleMode":false,"salesforceURL":"https://theiatahub.secure.force.com?refURL=http%3A%2F%2Ftheiatahub.secure.force.com%2Fiataidcard","dateFormat":"M/d/yyyy","language":"en_US","locale":"en_US","dateTimeFormat":"M/d/yyyy h:mm a","isGlobalEventBusPilotEnabled":false,"labelLastModified":"1574777501000","today":"11/27/2019 6:22 PM","userPreferences":[{"index":112,"name":"HideInlineEditSplash","value":false},{"index":114,"name":"OverrideTaskSendNotification","value":false},{"index":115,"name":"DefaultTaskSendNotification","value":false},{"index":119,"name":"HideUserLayoutStdFieldInfo","value":false},{"index":116,"name":"HideRPPWarning","value":false},{"index":87,"name":"HideInlineSchedulingSplash","value":false},{"index":88,"name":"HideCRUCNotification","value":false},{"index":89,"name":"HideNewPLESplash","value":false},{"index":90,"name":"HideNewPLEWarnIE6","value":false},{"index":122,"name":"HideOverrideSharingMessage","value":false},{"index":91,"name":"HideProfileILEWarn","value":false},{"index":93,"name":"HideProfileElvVideo","value":false},{"index":97,"name":"ShowPicklistEditSplash","value":false},{"index":92,"name":"HideDataCategorySplash","value":false},{"index":128,"name":"ShowDealView","value":false},{"index":129,"name":"HideDealViewGuidedTour","value":false},{"index":132,"name":"HideKnowledgeFirstTimeSetupMsg","value":false},{"index":104,"name":"DefaultOffEntityPermsMsg","value":false},{"index":135,"name":"HideNewCsnSplash","value":false},{"index":101,"name":"HideBrowserWarning","value":false},{"index":139,"name":"HideDashboardBuilderGuidedTour","value":false},{"index":140,"name":"HideSchedulingGuidedTour","value":false},{"index":180,"name":"HideReportBuilderGuidedTour","value":false},{"index":183,"name":"HideAssociationQueueCallout","value":false},{"index":194,"name":"HideQTEBanner","value":false},{"index":270,"name":"HideIDEGuidedTour","value":false},{"index":282,"name":"HideQueryToolGuidedTour","value":false},{"index":196,"name":"HideCSIGuidedTour","value":false},{"index":271,"name":"HideFewmetGuidedTour","value":false},{"index":272,"name":"HideEditorGuidedTour","value":false},{"index":205,"name":"HideApexTestGuidedTour","value":false},{"index":206,"name":"HideSetupProfileHeaderTour","value":false},{"index":207,"name":"HideSetupProfileObjectsAndTabsTour","value":false},{"index":213,"name":"DefaultOffArticleTypeEntityPermMsg","value":false},{"index":214,"name":"HideSelfInfluenceGetStarted","value":false},{"index":215,"name":"HideOtherInfluenceGetStarted","value":false},{"index":216,"name":"HideFeedToggleGuidedTour","value":false},{"index":268,"name":"ShowChatterTab178GuidedTour","value":false},{"index":275,"name":"HidePeopleTabDeprecationMsg","value":false},{"index":276,"name":"HideGroupTabDeprecationMsg","value":false},{"index":224,"name":"HideUnifiedSearchGuidedTour","value":false},{"index":226,"name":"ShowDevContextMenu","value":false},{"index":227,"name":"HideWhatRecommenderForActivityQueues","value":false},{"index":228,"name":"HideLiveAgentFirstTimeSetupMsg","value":false},{"index":232,"name":"HideGroupAllowsGuestsMsgOnMemberWidget","value":false},{"index":233,"name":"HideGroupAllowsGuestsMsg","value":false},{"index":234,"name":"HideWhatAreGuestsMsg","value":false},{"index":235,"name":"HideNowAllowGuestsMsg","value":false},{"index":236,"name":"HideSocialAccountsAndContactsGuidedTour","value":false},{"index":237,"name":"HideAnalyticsHomeGuidedTour","value":false},{"index":238,"name":"ShowQuickCreateGuidedTour","value":false},{"index":245,"name":"HideFilePageGuidedTour","value":false},{"index":250,"name":"HideForecastingGuidedTour","value":false},{"index":251,"name":"HideBucketFieldGuide","value":false},{"index":263,"name":"HideSmartSearchCallOut","value":false},{"index":273,"name":"ShowForecastingQuotaAttainment","value":false},{"index":280,"name":"HideForecastingQuotaColumn","value":false},{"index":301,"name":"HideManyWhoGuidedTour","value":false},{"index":298,"name":"HideFileSyncBannerMsg","value":false},{"index":299,"name":"HideTestConsoleGuidedTour","value":false},{"index":302,"name":"HideManyWhoInlineEditTip","value":false},{"index":303,"name":"HideSetupV2WelcomeMessage","value":false},{"index":312,"name":"ForecastingShowQuantity","value":false},{"index":313,"name":"HideDataImporterIntroMsg","value":false},{"index":314,"name":"HideEnvironmentHubLightbox","value":false},{"index":316,"name":"HideSetupV2GuidedTour","value":false},{"index":317,"name":"HideFileSyncMobileDownloadDialog","value":false},{"index":322,"name":"HideEnhancedProfileHelpBubble","value":false},{"index":328,"name":"ForecastingHideZeroRows","value":false},{"index":330,"name":"HideEmbeddedComponentsFeatureCallout","value":false},{"index":341,"name":"HideDedupeMatchResultCallout","value":false},{"index":340,"name":"HideS1BrowserUI","value":false},{"index":346,"name":"HideS1Banner","value":false},{"index":358,"name":"HideEmailVerificationAlert","value":false},{"index":354,"name":"HideLearningPathModal","value":false},{"index":359,"name":"HideAtMentionsHelpBubble","value":false},{"index":368,"name":"LightningExperiencePreferred","value":false},{"index":373,"name":"PreviewLightning","value":false}],"networkId":"","uiTheme":"Theme3","uiSkin":"Theme3","userName":"iata_idcard@theiatahub.force.com","userId":"005w0000003WXRy","isCurrentlySysAdminSU":false,"renderMode":"RETRO","startOfWeek":"1","vfDomainPattern":"iata--(?:[^.]+).eu12.visual.force.com","auraDomain":"iata.lightning.force.com","orgPreferences":[{"index":257,"name":"TabOrganizer","value":true},{"index":113,"name":"GroupTasks","value":true}],"siteUrlPrefix":"/iataidcard","isDefaultNetwork":true,"timeFormat":"h:mm a"});
+</script><div class="apexp"><div id="j_id0:idcardForm:pb1" class="bPageBlock brandSecondaryBrd apexDefaultPageBlock secondaryPalette"><script>function twistSection(elem, sectionId) {
+   var parentDiv = elem;
+   var twisty = elem;
+   while (parentDiv.tagName != 'DIV') { parentDiv = parentDiv.parentNode; }
+   if (elem.tagName === 'DIV' && elem.attributes['data-twistyimgid'] !== undefined) {
+      twisty = document.getElementById(elem.attributes['data-twistyimgid'].value);
+   }
+   var div = parentDiv.nextSibling; 
+   var elemWasOn = false; 
+   if (div.style.display != 'none') { 
+       div.style.display = 'none'; 
+       twisty.className ='showListButton';
+       twisty.alt = 'Show Section - '+twisty.name;
+      elem.title = twisty.alt;
+       elemWasOn = true; 
+   } else {
+       div.style.display = 'block'; 
+       twisty.className = 'hideListButton';
+       twisty.alt = 'Hide Section - '+twisty.name;
+      elem.title = twisty.alt;
+   } 
+  return !elemWasOn;
+}
+var registeredSections = new Array();
+function registerTwistableSection(headerId, mainTableId) {
+   var obj = new Object();
+   obj.headerId = headerId;
+   obj.mainTableId = mainTableId;
+   registeredSections[registeredSections.length] = obj;
+}
+function twistAllSections(on) {
+   for (var i = 0; i < registeredSections.length; i++) {
+      var obj = registeredSections[i];
+      var img;
+      img = document.getElementById('img_' + obj.headerId);
+    if (on && 'showListButton' == img.className) {
+         twistSection(img, obj.headerId, obj.mainTableId);
+     } else if (!on && 'hideListButton' == img.className) {
+         twistSection(img, obj.headerId, obj.mainTableId);
+       }
+   }
+}
+function toggleSection(headerId, on){
+    var sectionHead = document.getElementById('head_'+headerId+'_j_id0_idcardForm_pb1');
+    var body = sectionHead.nextSibling;
+    var disp = on ? 'block' : 'none';
+    sectionHead.style.display = disp;
+    body.style.display = disp;
+}
+function registerTwistableSections_j_id0_idcardForm_pb1() {
+registerTwistableSection('j_id0_idcardForm_pb1_sec1', 'j_id0_idcardForm_pb1');
+}
+registerTwistableSections_j_id0_idcardForm_pb1();
+</script><div class="pbBody"><span id="j_id0:idcardForm:pb1:Msgs2"></span><label for="j_id0:idcardForm:pb1:txtLabel">
+</label><div id="j_id0:idcardForm:pb1:sec1"><div class="pbSubsection"><table class="detailList" border="0" cellpadding="0" cellspacing="0"><tr><td class="dataCol  first  last " colSpan="2"><table>
+<tbody>
+<tr>
+<td><label for="j_id0:idcardForm:pb1:sec1:txtIATACodeLocation">
+IATA Code:</label></td>
+<td><div id="j_id0:idcardForm:pb1:sec1:j_id54" class="requiredInput"><div id="j_id0:idcardForm:pb1:sec1:j_id55" class="requiredBlock"></div><input id="j_id0:idcardForm:pb1:sec1:txtIATACodeLocation" type="text" name="j_id0:idcardForm:pb1:sec1:txtIATACodeLocation" onkeydown="return handleNum(event,this);" onkeyup="if (/\D/g.test(this.value)) this.value = this.value.replace(/\D/g,'')" /></div></td>
+</tr>
+<tr>
+<td><label for="j_id0:idcardForm:pb1:sec1:txtLASTNAME" class="labels">
+Last Name</label></td>
+<td><div id="j_id0:idcardForm:pb1:sec1:j_id57" class="requiredInput"><div id="j_id0:idcardForm:pb1:sec1:j_id58" class="requiredBlock"></div><input id="j_id0:idcardForm:pb1:sec1:txtLASTNAME" type="text" name="j_id0:idcardForm:pb1:sec1:txtLASTNAME" onkeydown="return removeNums(event,this);" onkeyup="if (/\d/g.test(this.value)) this.value = this.value.replace(/\d/g,'');workingLastName();" /></div></td>
+</tr>
+<tr>
+<td><label for="j_id0:idcardForm:pb1:sec1:txtFIRSTNAME" class="labels">
+First Name</label></td>
+<td><div id="j_id0:idcardForm:pb1:sec1:j_id60" class="requiredInput"><div id="j_id0:idcardForm:pb1:sec1:j_id61" class="requiredBlock"></div><input id="j_id0:idcardForm:pb1:sec1:txtFIRSTNAME" type="text" name="j_id0:idcardForm:pb1:sec1:txtFIRSTNAME" onkeydown="return removeNums(event,this);" onkeyup="if (/\d/g.test(this.value)) this.value = this.value.replace(/\d/g,'');workingFirstName();" /></div></td>
+</tr>
+<tr>
+<td><label for="j_id0:idcardForm:pb1:sec1:txtDOB" class="labels">
+Date Of Birth</label></td>
+<td><div id="j_id0:idcardForm:pb1:sec1:j_id63" class="requiredInput"><div id="j_id0:idcardForm:pb1:sec1:j_id64" class="requiredBlock"></div><input id="j_id0:idcardForm:pb1:sec1:txtDOB" type="text" name="j_id0:idcardForm:pb1:sec1:txtDOB" onfocus="DatePicker.pickDate(false, this , false);" />&nbsp;MM/DD/YYYY</div></td>
+</tr>
+</tbody>
+</table>
+</td><td class="labelCol empty">&nbsp;</td><td class="dataCol empty">&nbsp;</td></tr></table></div></div>
+                             <hr class="Thin" />
+                           
+                            
+                            <div class="form-group" style="">
+                                <div>
+                                        <div class="g-recaptcha" data-callback="myReset()" data-sitekey="6LeFvAYTAAAAAJsxvMD0FIEU3PmZYrybMaPG20nW" id="recaptcha1"></div>
+                                </div>
+                            </div>
+                             <hr class="Thin" /></div><div class="pbBottomButtons"><table border="0" cellpadding="0" cellspacing="0"><tr><td class="pbTitle">&nbsp;</td><td id="j_id0:idcardForm:pb1:j_id67:bottom" class="pbButtonb "><a class="btn-BlueButtonWAR" href="#" id="j_id0:idcardForm:pb1:j_id67:btnVerify2" name="j_id0:idcardForm:pb1:j_id67:btnVerify2" onclick="blockme();if(window != window.top){var f = document.getElementById('j_id0:idcardForm');f.action += (f.action.indexOf('?') == -1 ? '?' : '&amp;');};A4J.AJAX.Submit('j_id0:idcardForm',event,{'similarityGroupingId':'j_id0:idcardForm:pb1:j_id67:btnVerify2','oncomplete':function(request,event,data){j$.unblockUI();},'parameters':{'j_id0:idcardForm:pb1:j_id67:btnVerify2':'j_id0:idcardForm:pb1:j_id67:btnVerify2'} } );return false;">
+                                    <span>Login Now</span></a></td></tr></table></div><div class="pbFooter secondaryPalette"><div class="bg"></div></div></div></div>
+                    </div>
+                 </div>
+                 <p class="slide">
+                     <a class="btn-slideLoginWPI activeLoginWPI" href="#">Login Now</a>
+                 </p>
+
+
+                
+                <div class="LogMenuPanel" id="Code"><label style="color:white">
+<h1><b>Login with Codes</b></h1><br/>
+For returning agents who are looking to renew or re-issue their card due to loss, damage, name change or relocation to a different agency, please log in with your VER# and IATA Agency Code found on your existing card.</label>     
+                </div>
+                                                
+                <div id="panelLoginWCodes">
+                    <div class="LogSubMenuPanel" id="Code_Submenu_Panel">
+                        <hr class="Thick" /><div class="apexp"><div id="j_id0:idcardForm:j_id72" class="bPageBlock brandSecondaryBrd apexDefaultPageBlock secondaryPalette"><script>function twistSection(elem, sectionId) {
+   var parentDiv = elem;
+   var twisty = elem;
+   while (parentDiv.tagName != 'DIV') { parentDiv = parentDiv.parentNode; }
+   if (elem.tagName === 'DIV' && elem.attributes['data-twistyimgid'] !== undefined) {
+      twisty = document.getElementById(elem.attributes['data-twistyimgid'].value);
+   }
+   var div = parentDiv.nextSibling; 
+   var elemWasOn = false; 
+   if (div.style.display != 'none') { 
+       div.style.display = 'none'; 
+       twisty.className ='showListButton';
+       twisty.alt = 'Show Section - '+twisty.name;
+      elem.title = twisty.alt;
+       elemWasOn = true; 
+   } else {
+       div.style.display = 'block'; 
+       twisty.className = 'hideListButton';
+       twisty.alt = 'Hide Section - '+twisty.name;
+      elem.title = twisty.alt;
+   } 
+  return !elemWasOn;
+}
+var registeredSections = new Array();
+function registerTwistableSection(headerId, mainTableId) {
+   var obj = new Object();
+   obj.headerId = headerId;
+   obj.mainTableId = mainTableId;
+   registeredSections[registeredSections.length] = obj;
+}
+function twistAllSections(on) {
+   for (var i = 0; i < registeredSections.length; i++) {
+      var obj = registeredSections[i];
+      var img;
+      img = document.getElementById('img_' + obj.headerId);
+    if (on && 'showListButton' == img.className) {
+         twistSection(img, obj.headerId, obj.mainTableId);
+     } else if (!on && 'hideListButton' == img.className) {
+         twistSection(img, obj.headerId, obj.mainTableId);
+       }
+   }
+}
+function toggleSection(headerId, on){
+    var sectionHead = document.getElementById('head_'+headerId+'_j_id0_idcardForm_j_id72');
+    var body = sectionHead.nextSibling;
+    var disp = on ? 'block' : 'none';
+    sectionHead.style.display = disp;
+    body.style.display = disp;
+}
+function registerTwistableSections_j_id0_idcardForm_j_id72() {
+registerTwistableSection('j_id0_idcardForm_j_id72_j_id98', 'j_id0_idcardForm_j_id72');
+}
+registerTwistableSections_j_id0_idcardForm_j_id72();
+</script><div class="pbBody"><span id="j_id0:idcardForm:j_id72:Msgs"></span><div id="j_id0:idcardForm:j_id72:j_id98"><div class="pbSubsection"><table class="detailList" border="0" cellpadding="0" cellspacing="0"><tr><td class="dataCol  first  last " colSpan="2"><table>
+<tbody>
+<tr>
+<td><label>
+VER # </label></td>
+<td><div id="j_id0:idcardForm:j_id72:j_id98:j_id101" class="requiredInput"><div id="j_id0:idcardForm:j_id72:j_id98:j_id102" class="requiredBlock"></div><input id="j_id0:idcardForm:j_id72:j_id98:txtVER" type="text" name="j_id0:idcardForm:j_id72:j_id98:txtVER" onkeydown="return handleNum(event,this);" onkeyup="if (/\D/g.test(this.value)) this.value = this.value.replace(/\D/g,'')" /></div></td>
+</tr>
+<tr>
+<td><label for="j_id0:idcardForm:j_id72:j_id98:txtIATACodeLocation" class="labels">
+IATA Code:</label></td>
+<td><div id="j_id0:idcardForm:j_id72:j_id98:j_id104" class="requiredInput"><div id="j_id0:idcardForm:j_id72:j_id98:j_id105" class="requiredBlock"></div><input id="j_id0:idcardForm:j_id72:j_id98:txtIATACodeLocation" type="text" name="j_id0:idcardForm:j_id72:j_id98:txtIATACodeLocation" onkeydown="return handleNum(event,this);" onkeyup="if (/\D/g.test(this.value)) this.value = this.value.replace(/\D/g,'')" /></div></td>
+</tr>
+</tbody>
+</table>
+</td><td class="dataCol  first  last " colSpan="2"><table>
+<tbody>
+</tbody>
+</table>
+</td></tr></table></div></div>
+                            <hr class="Thin" />
+                            <div class="form-group" style="">
+                                <div>
+                                    <div class="g-recaptcha" data-callback="myReset()" data-sitekey="6LeFvAYTAAAAAJsxvMD0FIEU3PmZYrybMaPG20nW" id="recaptcha2"></div>
+                                </div>
+                            </div>
+                         <hr class="Thin" /></div><div class="pbBottomButtons"><table border="0" cellpadding="0" cellspacing="0"><tr><td class="pbTitle">&nbsp;</td><td id="j_id0:idcardForm:j_id72:j_id108:bottom" class="pbButtonb "><a class="btn-BlueButtonWAR" href="#" id="j_id0:idcardForm:j_id72:j_id108:btnVerify" name="j_id0:idcardForm:j_id72:j_id108:btnVerify" onclick="blockme();if(window != window.top){var f = document.getElementById('j_id0:idcardForm');f.action += (f.action.indexOf('?') == -1 ? '?' : '&amp;');};A4J.AJAX.Submit('j_id0:idcardForm',event,{'similarityGroupingId':'j_id0:idcardForm:j_id72:j_id108:btnVerify','oncomplete':function(request,event,data){j$.unblockUI();},'parameters':{'j_id0:idcardForm:j_id72:j_id108:btnVerify':'j_id0:idcardForm:j_id72:j_id108:btnVerify'} } );return false;">
+                                    <span>Login Now</span></a></td></tr></table></div><div class="pbFooter secondaryPalette"><div class="bg"></div></div></div></div>
+                    </div>
+                </div>
+                <p class="slide"><a class="btn-slideLoginWCodes activeLoginCodes" href="#">Login Now</a></p>
+       </center>
+</div><div id="j_id0:idcardForm:j_id121"></div>
+</form><span id="ajax-view-state-page-container" style="display: none"><span id="ajax-view-state" style="display: none"><input type="hidden"  id="com.salesforce.visualforce.ViewState" name="com.salesforce.visualforce.ViewState" value="i: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" /><input type="hidden"  id="com.salesforce.visualforce.ViewStateVersion" name="com.salesforce.visualforce.ViewStateVersion" value="201911252222590550" /><input type="hidden"  id="com.salesforce.visualforce.ViewStateMAC" name="com.salesforce.visualforce.ViewStateMAC" value="AGV5SnViMjVqWlNJNklqbEhhbGg2TVRGUWEwSnpVRlJNUTJOSExTMWtabWhWVjJoelpEQldkV3hrT0hWV1lYSnZWUzFqYW1OY2RUQXdNMlFpTENKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUlzSW10cFpDSTZJbnRjSW5SY0lqcGNJakF3UkRJd01EQXdNREF3TURoVVJsd2lMRndpZGx3aU9sd2lNREpITVhJd01EQXdNREJDVGpoRVhDSXNYQ0poWENJNlhDSjJabk5wWjI1cGJtZHJaWGxjSWl4Y0luVmNJanBjSWpBd05YY3dNREF3TURBelYxaFNlVndpZlNJc0ltTnlhWFFpT2xzaWFXRjBJbDBzSW1saGRDSTZNVFUzTkRnM09Ea3pPVGN5T0N3aVpYaHdJam93ZlE9PS4uQ1BnQU5MMkt6TGZ5XzE3YlV2UzNHUmZvel9hUXlMc0xFSVlWZHhFUFY4az0=" /></span></span>
+    </div><span id="j_id0:j_id112">
+<script language="javascript">
+//Set the number of days before your cookie should expire
+var ExpireDays = 1;
+qstr = document.location.search;
+qstr = qstr.substring(1,qstr.length);
+function SetCookieExactTarget(cookieName,cookieValue,nDays)
+{
+ var today = new Date();
+ var expire = new Date();
+ //if (nDays==null || nDays==0) nDays=1;
+ //expire.setTime(today.getTime() + 3600000*24*nDays);
+ expire.setDate(today.getDate() + nDays);
+ //document.cookie = cookieName + "=" + escape(cookieValue) + "; expires=" + expire.toGMTString() + "; path=/";
+ document.cookie = cookieName + "=" + escape(cookieValue) + "; expires=" + expire.toUTCString() + "; path=/";
+}
+  
+    thevars = qstr.split("&");
+    for(i=0;i<thevars.length;i++)
+    {
+        cookiecase = thevars[i].split("=");
+        switch(cookiecase[0])
+        {
+            case "e":
+                e = cookiecase[1];
+                SetCookieExactTarget("EmailAddr",e,ExpireDays);
+                break;
+            case "j":
+                j = cookiecase[1];
+                SetCookieExactTarget("JobID",j,ExpireDays);
+                break;
+            case "l":
+                l = cookiecase[1];
+                SetCookieExactTarget("ListID",l,ExpireDays);
+                break
+            case "jb":
+                jb = cookiecase[1];
+                SetCookieExactTarget("BatchID",jb,ExpireDays);
+                break;
+            case "u":
+                u = cookiecase[1];
+                SetCookieExactTarget("UrlID",u,ExpireDays);
+                break;
+            case "mid":
+                mid = cookiecase[1];
+                SetCookieExactTarget("MemberID",mid,ExpireDays);
+                break;
+            default:
+                break;
+        }
+    }
+
+</script></span><span id="j_id0:j_id115">
+	<div id="ft">
+	    <ul>    
+	    <li style="color:#C3326F!important;">Plane Stories<br /><a href="http://www.planestories.iata.org" style="color:#82093b!important;" target="_blank">http://www.planestories.iata.org</a></li>
+	    <li>Information for travelers<br /><a href="http://www.iatatravelcentre.com" target="_blank">www.iatatravelcentre.com</a></li>
+	    <li>Aviation and the environment<br /><a href="http://www.enviro.aero" target="_blank">www.enviro.aero</a></li>
+	    
+	    <li><a href="http://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
+	    <li><a href="http://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>   
+	    <li><a href="http://www.iata.org/customer-portal/Pages/index.aspx" target="_self">Contact us</a></li> 
+	    </ul>
+	    <p>&copy; International Air Transport Association (IATA) 2014. All rights reserved.</p>
+	</div></span>
+</body><script type="text/javascript">Sfdc.onReady(function(){
+	SfdcApp && SfdcApp.Visualforce && SfdcApp.Visualforce.VSManager && SfdcApp.Visualforce.VSManager.vfPrepareForms(["j_id0:idcardForm"]);
+
+});</script></body></html>

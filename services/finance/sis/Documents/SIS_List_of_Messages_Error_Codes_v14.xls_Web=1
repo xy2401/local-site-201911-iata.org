@@ -1,0 +1,62 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=99" />
+<link rel="shortcut icon" href="https://officewebapp.iata.org/x/_layouts/images/FavIcon_Excel.ico" />
+<title>SIS_List_of_Messages_Error_Codes_v14.xls</title>
+</head>
+<body style="margin: 0; padding: 0; overflow:hidden;">
+<form target="WebApplicationFrame" action="https://officewebapp.iata.org/x/_layouts/xlviewerinternal.aspx?ui=en%2DUS&rs=en%2DUS&WOPISrc=http%3A%2F%2Fedit%2Eiata%2Eorg%2Fservices%2Ffinance%2Fsis%2F%5Fvti%5Fbin%2Fwopi%2Eashx%2Ffiles%2Fb1e2d91b7c07421a805f83d64862151e&wdEnableRoaming=1" id="canvas_form" method="post">
+<input name="access_token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IjlWWkR5OEJfblFKYmpCU1lWc3hxMXpqLW1qdyJ9.eyJhdWQiOiJ3b3BpL2VkaXQuaWF0YS5vcmdAYWQyMjE3ODQtNzJhOC00MjYzLWFjODYtMGNjYzZiMTUyY2Q4IiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwQDI1M2VhZDI4LWI4ODItNDMxNS1hMjJjLTFiNzAwMDE5Mjc4NSIsIm5iZiI6IjE1NzQ4ODk0ODQiLCJleHAiOiIxNTc0OTI1NDg0IiwibmFtZWlkIjoiQCIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImlzbG9vcGJhY2siOiJUcnVlIiwiYXBwY3R4IjoiYjFlMmQ5MWI3YzA3NDIxYTgwNWY4M2Q2NDg2MjE1MWU7RzJtZ3EyT3hJSmdwdUJTQkQ5VitaZklIMHFJPTtJbnRyYW5ldDs7MTAwMDAzMDA0MTtUcnVlIn0.0OJQkpmII_dXhCqm3trrS1ex3wGqbAhfEi2uvUjcMfIOGVZSBX9wfeYuQidb10fraq7KGyubc80QgAVqO9fFkKVl9trCtE9rE6VgRQl7BBw9EPCpSGwcFN_a2ST_8LDLgWIuCY0LjbBym0Z-GMg5On2Tunr6rHi_K3BcOFYCcAbzE82JJCEDg_etxzN6_hU1L0R1YmLQCU-1joDF7-eX5MHKqkPE5rMqoXakESM_URfuUVRFk5NZDFbQ7PtmHqaECXfIIGzDGT2AaRdVMgWg6SG7xRVmZqMIr0QiRS905ZAK-3CKhUSXkTIxNl3LZ8bQGAxl6NglIZ9L-hp7l6_-og" type="hidden" />
+<input name="access_token_ttl" value="1574925484723" type="hidden" />
+</form>
+<iframe id="WebApplicationFrame" name="WebApplicationFrame" src="" width="100%" height="100%" style="position: relative; top: 0px; left: 0px; right: 0px; bottom: 0px" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+<script type="text/javascript">
+  document.getElementById("canvas_form").submit()
+</script>
+<script type="text/javascript">
+    window.onresize = ResizeWacFrame;
+    document.body.onload = ResizeWacFrame;
+
+    function ResizeWacFrame()
+    {
+        var wacFrame = document.getElementById('WebApplicationFrame');
+        if (wacFrame)
+        {
+            var iframeHeight = GetWindowHeight() - wacFrame.offsetTop;
+            if (iframeHeight > 0)
+            {
+                wacFrame.style.height = iframeHeight + 'px';
+            }
+            else
+            {
+                wacFrame.style.height = '0px';
+            }
+        }
+    }
+
+    function GetWindowHeight()
+    {
+        if (typeof(window.innerHeight) == 'number' &&
+            !(document.documentMode && document.documentMode >= 10) &&
+            navigator.userAgent.indexOf('iPad') == -1)
+        {
+            // Do not use in IE10 or iPad, as they report incorrect value when the on-screen keyboard is up
+            // We should probably just always use the 'else if' block, but minimizing risk at this point in the cycle.
+            return window.innerHeight;
+        }
+        else if (typeof(document.documentElement.clientHeight) == 'number')
+        {
+            // IE8, IE10 compatible, and iPad
+            return document.documentElement.clientHeight;
+        }
+
+        return(0);
+    }
+
+    // resize the WAC iframe as soon as we can
+    ResizeWacFrame();
+</script>
+</body>
+</html>

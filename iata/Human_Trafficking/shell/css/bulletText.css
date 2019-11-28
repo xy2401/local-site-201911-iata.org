@@ -1,0 +1,82 @@
+
+
+
+/* -----------------------------************************************------------- */
+/* -----------------------------This Class is for bullet text ------------- */
+
+.bulletheaderText {
+    width: auto;
+    height: auto;
+    font-weight: bold;
+    position: relative;
+    color: rgb(95, 96, 98);
+    margin-top: 20px;
+}
+
+.list_container {
+    position: relative;
+    width: auto;
+    height: auto;
+}
+
+.bulletedTextContainer{
+	 position: absolute;
+	 /* top: 100px; */
+	 /* left: 580px; */
+	 width: 410px;
+	 height: auto;
+}
+.bulletList_container{
+	position: relative;
+
+}
+.bulletList_container li {
+    margin-top: 5px;
+    list-style-type: none;
+    position: relative;
+    color: rgb(87, 90, 93);
+    height: auto;
+    width: auto;
+    line-height: 1.3;
+}
+
+.bulletList_container li:before {
+    /* background-color: #012d74; */
+    height: 7px;
+    border-radius: 50%;
+    left: -22px;
+    position: absolute;
+    top: 5px;
+    width: 7px;
+    content: " ";
+}
+
+.subBulletList_container{
+	position: relative;
+
+}
+.subBulletList_container li {
+    margin-top: 5px;
+    list-style-type: none;
+    position: relative;
+    color: rgb(87, 90, 93);
+    height: auto;
+    width: auto;
+    line-height: 1.3;
+    left: 30px;
+}
+
+.subBulletList_container li:before {
+    content: ".";
+    background-color: transparent;
+    height: 0px;
+    border-radius: 0% !important;
+    position: absolute;
+    top: 3px;
+    left: -20px;
+    font-size: 0px;
+    width: 0px;
+    border-top: 5px solid transparent;
+    /* border-left: 6px solid #004054; */
+    border-bottom: 5px solid transparent;
+}

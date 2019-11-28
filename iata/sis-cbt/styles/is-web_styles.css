@@ -1,0 +1,362 @@
+
+
+.bullets li{
+	font-size:8pt;
+	list-style-type: none;
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 16px;
+	list-style-image: url('../images/bullet1.png');
+}
+
+
+/*----------------------------------------------------------
+The base color for this template is #5c87b2. If you'd like
+to use a different color start by replacing all instances of
+#5c87b2 with your new color.
+----------------------------------------------------------*/
+body {
+  font: normal 8pt Arial, Helvetica, sans-serif;
+  color: #000000;
+  margin: 0px auto 0px auto;
+  padding: 0;
+  min-width: 900px;
+}
+body a:link, body a:visited, body a:hover, body a:active {
+  font: inherit;
+  color: #022a4c;
+  text-decoration: underline;
+}
+body a:hover {
+  color: #0070b9;
+}
+body a:active {
+  color: #0070b9;
+  text-decoration: none;
+}
+p {
+  margin-bottom: 20px;
+}
+
+/* HEADINGS
+----------------------------------------------------------*/
+h1, h2, h3, h4, h5, h6 {
+  color: #000;
+}
+h1 {
+  font: bold 12pt Arial, Helvetica, sans-serif;
+  color: #022a4c;
+  margin: 0px 0px 10px 0px;
+  padding: 0px;
+}
+h2 {
+  font: bold 10pt Arial, Helvetica, sans-serif;
+  color: #0075BD;
+  margin: 0px 0px 0px 0px;
+  padding-top: 5px;
+}
+h3 {
+  font-size: 1.2em;
+}
+h4 {
+  font-size: 1.1em;
+}
+h5, h6 {
+  font-size: 1em;
+}
+
+/* this rule styles <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2 {
+  margin-top: 0;
+}
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+/* you can specify a greater or lesser percentage for the 
+page width. Or, you can specify an exact pixel width. */
+
+#header, #navigation, #content, #footer, #appHeader, #headerBar, #breadCrumb {
+  width: 100%;
+}
+#header {
+  background: url(../images/header_bg_light.gif) #fff repeat-x;
+  height: 93px;
+  margin-bottom: 0px;
+  padding: 0px;
+  text-align: center;
+}
+.logo {
+  width: 730px;
+  height: 51px;
+  margin-left: auto;
+  margin-right: auto;
+  visibility: visible;
+  text-align: center;
+}
+.logoPrint {
+  display: none;
+}
+
+#header h1 {
+  border: none;
+  color: #fff;
+  font-size: 32px !important;
+  font-weight: bold;
+  line-height: 2em;
+  margin: 0;
+  padding: 5px;
+}
+#appHeader {
+  background: url(../images/logo_sub.gif) #022a4c no-repeat center;
+  background-position: center;
+  height: 51px;
+  text-align: center;
+}
+#headerBar {
+  height: 23px;
+  border-top: 1px #b3d5f1 solid;
+  border-bottom: 1px #b3d5f1 solid;
+  background-color: #0070b9;
+}
+
+@media print {
+  .logo {
+    display: none;
+  }
+  .logoPrint {
+    display: block;
+  }
+  #headerBar {
+    display: none;
+  }
+}
+
+/* login page */
+#anonymousContainer {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 25px;
+  text-align: left;
+  width: 600px;
+}
+#banner {
+  width: 600px;
+  height: 138px;
+  padding: 0px 0px 0px 0px;
+  margin: 25px 0px 15px 0px;
+  vertical-align: top;
+  text-align: left;
+  clear: both;
+  border-bottom: 1px solid #C9DAE2;
+  border-top: 1px solid #C9DAE2;
+}
+#text {
+  float: left;
+  width: 370px;
+}
+#login {
+  float: right;
+  margin: 2px 0px 30px 10px;
+  font: normal 8pt Arial, Helvetica, sans-serif;
+}
+#login .basictable tr td {
+  padding: 7px 7px 7px 7px;
+}
+
+/* Lists */
+#anonymousContainer ul {
+  padding: 0px;
+  margin: 5px 0px 5px 0px;
+}
+#anonymousContainer ul li {
+  list-style-type: none;
+  padding: 0px 0px 0px 12px;
+  background-image: url(../images/bullet_ul.gif);
+  background-repeat: no-repeat;
+}
+
+/* table */
+table.basictable {
+  background-color: #edeeee;
+  border: 1px solid #0075bd;
+  padding: 0px 0px 0px 0px;
+  margin: 5px 0px 10px 0px;
+  border-collapse: collapse;
+}
+table.basictable tr {
+  background-color: #d7e9f8;
+}
+table.basictable tr td {
+  padding: 8px 3px 8px 3px;
+  font: normal 8pt Arial, Helvetica, sans-serif;
+  color: #000000;
+}
+
+/* application title + links */
+#headerBar h1 {
+  width: 250px;
+  height: 23px;
+  float: left;
+  margin: 0;
+  padding: 4px 0px 0px 15px;
+  font: bold 8.5pt Arial, Helvetica, sans-serif;
+  color: #fff;
+  background: url(../images/sis_logo.png) no-repeat;
+  background-position: 35px 1px;
+}
+#appTitle a:link, #appTitle a:visited, #appTitle a:hover {
+  color: #fff;
+  font: normal 8pt/12pt Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+#appTitle a:hover {
+  text-decoration: underline;
+}
+
+/* user navigation  */
+#userInfo {
+  height: 23px;
+  float: right;
+  margin: 0px 0px 0px 0px;
+  padding: 3px 0px 0px 0px;
+  color: #fff;
+}
+
+ul.quickLinks {
+  margin: 0px 5px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+ul.quickLinks li {
+  color: #fff;
+  display: inline;
+  float: left;
+  font: normal 7pt Arial, Helvetica, sans-serif;
+  height: 15px;
+  list-style-type: none;
+  margin: 0px 0px 0px 0px;
+  padding: 2px 0px 0px 0px;
+  vertical-align: middle;
+}
+ul.quickLinks li.greetings {
+  font: normal 8pt Arial, Helvetica, sans-serif;
+  color: #fff;
+  margin: 0px 0px 0px 0px;
+  padding: 1px 10px 0px 0px;
+}
+ul.quickLinks li a:link, ul.quickLinks li a:visited, ul.quickLinks li a:hover {
+  background: url(../images/quickLinksSep.gif) no-repeat;
+  color: #fff;
+  margin: 0px;
+  padding: 0px 10px 0px 10px;
+  text-decoration: none;
+}
+ul.quickLinks li a:hover {
+  text-decoration: underline;
+}
+
+#navigation {
+  background-color: #b3d5f1;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  z-index: 2;
+}
+#breadCrumbs {
+  clear: both;
+  max-height: 20px;
+  font-size: 8pt;
+  padding-top: 10px;
+  position: relative;
+  z-index: 1;
+  padding-bottom:10px;
+}
+
+@media print {
+  #navigation, #breadCrumbs {
+    display: none;
+  }
+}
+
+#content {
+  font: 8pt Arial, Helvetica, sans-serif;
+  _height: 1px; /* only IE6 applies CSS properties starting with an underscore */
+  min-height: 400px;
+  min-width: 900px;
+  position: relative;
+  z-index: 1;
+}
+#content .oi {
+  padding: 0;
+}
+#content h1 {
+  font-weight: bold;
+  font-size: 12pt;
+  color: #022a4c;
+  margin: 0px 0px 5px 0px;
+  padding: 0px;
+}
+#content h2 {
+  font-weight: bold;
+  font-size: 10pt;
+  color: #0075BD;
+  margin: 0px;
+  margin-top: 5px;
+  padding-bottom: 2px;
+}
+#content p {
+  margin: 5px 0px 15px 0px;
+}
+#footer {
+  background: url(../images/dottedline_blue_hori.gif) #FFFFFF repeat-x;
+  clear: both;
+  color: Gray;
+  font-size: 7.5pt;
+  font-weight: bold;
+  margin: 10px auto 0px auto;
+  padding: 10px 0px 2px 0px;
+  position: relative;
+  text-align: left;
+  z-index: 1;
+}
+.oi {
+  padding: 5px;
+}
+#globalWrap {
+  width: auto;
+  margin: 10px 10px 0px 15px;
+  padding: 0px 0px 0px 0px;
+}
+.clear {
+  clear: both;
+}
+.error {
+  color: Red;
+}
+div#title {
+  display: block;
+  float: left;
+  text-align: left;
+}
+#logindisplay {
+  font-size: 1.1em;
+  display: inline-block;
+  float: right;
+  margin: 10px;
+  color: #fff;
+}
+#logindisplay a:link, #logindisplay a:visited, #logindisplay a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+#logindisplay a:hover {
+  text-decoration: none;
+}
+#logon {
+  border-left: 2px solid #0070b9;
+  float: right;
+  margin: 2px 0px 0px 10px;
+  font: normal 8pt Arial, Helvetica, sans-serif;
+  width: 250px;
+  padding-left: 15px;
+}

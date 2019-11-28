@@ -1,0 +1,68 @@
+/* line 5, ../scss/buttonStyleNew.scss */
+.buttonTitle_CR_out {
+  position: absolute;
+  height: 52px;
+  float: left;
+  width: 264px;
+  border: 3px solid #009a3d;
+  cursor: pointer;
+  color: #009a3d;
+  border-color: #009a3d;
+  box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -ms-box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
+}
+
+/* line 22, ../scss/buttonStyleNew.scss */
+.buttonTitle_CR_hover {
+  background-color: #06616d !important;
+  color: white !important;
+  border-color: #f2ae00 !important;
+  cursor: pointer !important;
+  border: 3px solid #009a3d;
+  box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -ms-box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
+}
+
+/* line 35, ../scss/buttonStyleNew.scss */
+.buttonTitle_CR_hover .number {
+  color: white;
+}
+
+/* line 38, ../scss/buttonStyleNew.scss */
+.buttonTitle_CR {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  position: absolute;
+  align-items: center;
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+  font-weight: bold;
+  color: #009a3d;
+}
+
+/* line 51, ../scss/buttonStyleNew.scss */
+.num_txt_container {
+  border: 3px solid #009a3d;
+}

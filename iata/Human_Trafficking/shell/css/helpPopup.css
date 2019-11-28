@@ -1,0 +1,79 @@
+/* line 1, C:/Users/shoaib.ahmed/Desktop/04_Tech/shell/scss/base/_reset.scss */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* line 6, C:/Users/shoaib.ahmed/Desktop/04_Tech/shell/scss/base/_reset.scss */
+ul, li {
+  list-style: none;
+}
+
+/* line 6, ../scss/helpPopup.scss */
+#helpDrp #helpCenterBg {
+  background-color: #0280c1;
+}
+/* line 10, ../scss/helpPopup.scss */
+#helpDrp #instructionBox {
+  background-color: #ffffff;
+}
+/* line 14, ../scss/helpPopup.scss */
+#helpDrp #help_close_button {
+  background-color: #0a437a;
+}
+/* line 18, ../scss/helpPopup.scss */
+#helpDrp #box1 {
+  background-image: url("../images/green/01help_menu_highlight.png");
+}
+/* line 22, ../scss/helpPopup.scss */
+#helpDrp #box2 {
+  background-image: url("../images/green/02help_close_highlight.png");
+}
+/* line 26, ../scss/helpPopup.scss */
+#helpDrp #box3 {
+  background-image: url("../images/green/03help_refe_highlight.png");
+}
+/* line 30, ../scss/helpPopup.scss */
+#helpDrp #box4 {
+  background-image: url("../images/green/04help_print_highlight.png");
+}
+/* line 34, ../scss/helpPopup.scss */
+#helpDrp #box5 {
+  background-image: url("../images/green/05help_help_highlight.png");
+}
+/* line 38, ../scss/helpPopup.scss */
+#helpDrp #box6 {
+  background-image: url("../images/green/06help_replay_highlight.png");
+}
+/* line 42, ../scss/helpPopup.scss */
+#helpDrp #box7 {
+  background-image: url("../images/green/07help_play_highlight.png");
+}
+/* line 46, ../scss/helpPopup.scss */
+#helpDrp #box8 {
+  background-image: url("../images/green/08help_s_facts_highlight.png");
+}
+/* line 50, ../scss/helpPopup.scss */
+#helpDrp #box9 {
+  background-image: url("../images/green/09help_trans_highlight.png");
+}
+/* line 54, ../scss/helpPopup.scss */
+#helpDrp #box10 {
+  background-image: url("../images/green/10help_slider_highlight.png");
+}
+/* line 58, ../scss/helpPopup.scss */
+#helpDrp #box11 {
+  background-image: url("../images/green/11help_audio_highlight.png");
+}
+/* line 62, ../scss/helpPopup.scss */
+#helpDrp #box12 {
+  background-image: url("../images/green/12help_back_highlight.png");
+}
+/* line 66, ../scss/helpPopup.scss */
+#helpDrp #box13 {
+  background-image: url("../images/green/13help_pageno_highlight.png");
+}
+/* line 70, ../scss/helpPopup.scss */
+#helpDrp #box14 {
+  background-image: url("../images/green/14help_next_highlight.png");
+}

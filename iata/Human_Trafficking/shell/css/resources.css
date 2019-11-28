@@ -1,0 +1,146 @@
+.ShellResourseWrapper {
+  background: none repeat scroll 0 0 rgba(0,0,0,0.5);
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  display: none;
+  height: 100%;
+  width: 100%;
+  z-index: 70000;
+}
+.resource_container {
+    /* background: url(../images/resources_popup_bg.png) no-repeat; */
+    height: 233px;
+    width: 462px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin:  auto;
+	z-index:11;
+}
+
+#resource_close {
+  background: url(../images/exit_normal.png) no-repeat;
+    height: 17px;
+    width: 17px;
+    position: absolute;
+    top: 3px;
+    left: 404px;
+	cursor:pointer;
+}
+#resource_close:hover{
+	background: url(../images/exit_selected.png) no-repeat;
+}
+ .resource_header {
+   top: 15px;
+   left: 27px;
+   font-size: 18px;
+   position: absolute;
+   color: #fff;
+   font-weight: Bold;
+} 
+
+.links {
+  position: relative;
+  top: 60px;
+  left: 17px;
+  width: 400px;
+  height: auto;
+}
+
+.common_for_links {
+  padding: 10px 0px 0px 10px;
+}
+
+#link1 {
+  position: relative; 
+  
+}
+#link1 a{
+ font-size:14px;
+ 
+}
+#link2 a{
+ font-size:14px;
+ color: #004054;
+}
+#link3 a{
+ font-size:14px;
+ color: #004054;
+}
+
+.icon-pdf a{
+ font-size:14px;
+ color: #004054;
+}
+
+#link1:after {
+  content: "";
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  /* background: #169eda; */
+  left: 0px;
+  top: 16px;
+}
+
+#link2 {
+  position: relative;
+}
+
+#link2:after {
+  content: "";
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  /* background: #169eda; */
+  left: 0px;
+  top: 16px;
+}
+
+#link3 {
+  position: relative;
+}
+
+#link3:after {
+  content: "";
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  /* background: #169eda; */
+  left: 0px;
+  top: 16px;
+}
+
+li.icon-pdf {
+  position: relative;
+  padding-top: 30px;
+  left: 10px;
+}
+
+.ShellResourseWrapper .icon-pdf:before {
+  display: inline-block;
+  font-size: 36px;
+  left: 0;
+  position: relative;
+  top: 10px;
+}
+
+.ShellResourseWrapper .icon-word:before {
+  display: inline-block;
+  font-size: 36px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+}
+
+.ShellResourseWrapper .icon-xls:before {
+  display: inline-block;
+  font-size: 36px;
+  left: 3px;
+  position: absolute;
+  top: 10px;
+}

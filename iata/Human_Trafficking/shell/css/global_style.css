@@ -1,0 +1,408 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+ v2.0 | 20110126
+ License: none (public domain)
+ */
+
+html {
+    -webkit-text-size-adjust: 100%;
+}
+
+body{
+	overflow: hidden;
+}
+
+
+
+
+
+
+/*================
+ RESETS ENDS HERE
+ ==================================*/
+
+
+.ShellOverlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 500001;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*================
+ Border and Background
+ ==================================*/
+
+.dflt_bg_color {
+    background: #e6e4e4;
+}
+
+.dflt_brdr_color {
+    border-color: #e6e4e4;
+    position: relative;
+}
+
+.dflt_brdr_color:after, .shell_bg_dark_grey:after {
+    border-top: 4px solid #c7c8c8;
+    position: absolute;
+    content: " ";
+    top: 0;
+    left: 20px;
+    right: 20px;
+    
+}
+
+.mobileDragAndDrop .QustionDnD.shell_bg_dark_grey:after {
+    border: 0 none;
+}
+
+.shell_bg_dark_grey:after {
+    border-color: #c7c8c8;
+    left: 20px;
+    right: 20px;
+}
+
+.shell_bg_dark_grey {
+    background: none repeat scroll 0 0 #eceded;
+    position: relative;
+}
+
+.Submit-Button {
+    color: #ffffff;
+    cursor: default;
+    font-weight: bold;
+    line-height: 40px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.submitBtnDeactive, .KC_innerPadding .submitBtnDeactive, .drag_main .submitBtnDeactive, .sequence_Container .draggableArea .submitBtnDeactive, .Submit-Button.submitBtnDeactive {
+    background: #e7e3e3;
+    color: #c1baba;
+    cursor: default;
+}
+
+.Global_LBL-BG {
+    background: #eceded;
+}
+
+
+/*================
+ MCQRadio
+ ==================================*/
+
+.MCQRadio {
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1px;
+    display: inline-block;
+    float: left;
+    height: 20px;
+    /*margin-top: 2px;*/
+    position: relative;
+    width: 20px;
+}
+
+.MCQRadioSelect:after {
+    border-radius: 50%;
+    content: "";
+    display: block;
+    height: 10px;
+    left: 5px;
+    position: absolute;
+    top: 5px;
+    width: 10px;
+}
+
+.MCQRadioSelect {
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 20px;
+    /*margin-top:2px;*/
+    position: relative;
+    width: 20px;
+}
+
+
+/*================
+ Instruction text styles
+ ==================================*/
+
+.instrctn_txt {
+    color: #ba131a;
+    font-style: italic;
+    text-align: left;
+}
+
+
+/*knowledge check*/
+
+.instruction_text {
+    /*color: #ba131a;*/
+    color: #009a3d;
+    /* font-weight: bold; */
+    /* font-style: italic; */
+    font-style: normal;
+    text-align: left;
+}
+
+.instruction_text_mobile {
+    /*color: #ba131a;*/
+    color: #004054;
+    font-style: italic;
+}
+
+
+/**/
+
+.thumpwrap {
+    position: relative;
+}
+
+
+/*================
+ Common BG colors
+ ==================================*/
+
+.SolidHeader-BG {
+    background: #362f2d;
+}
+
+.SolidLabel-BG {
+    background: #eceded;
+}
+
+
+/*================
+ Feed back popup
+ ==================================*/
+
+.feedback_overlay {
+    background: #fff;
+    border: 1px solid #b4a8a5;
+    text-align: left;
+    display: inline-block;
+    width: 85%;
+}
+
+.feedback {
+    box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    height: 100%;
+    margin: 0 20px;
+    position: relative;
+    padding-bottom: 20px
+}
+
+.feedback .feedback_popup_head {
+    /*border-bottom: 1px solid #b4a8a5;*/
+    border-bottom: 1px solid #b4a8a5;
+    
+    padding: 10px 0;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.feedback_overlay .shell_popup_header_right .icon-close:before {
+    cursor: pointer;
+    
+    text-align: center;
+}
+
+.shell_popup_header_right .icon-close {
+    cursor: pointer;
+}
+
+.feedback_overlay .shell_popup_header_right .icon-close {
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 5px;
+    width: 22px;
+}
+
+.fb_overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, .6);
+    display: none;
+    
+    width: 100%;
+    height: 100%;
+}
+
+.Fb_contant.popScroller {
+    position: inherit;
+    top: inherit;
+    padding-top: 15px;
+}
+
+.FB_icon.icon-wrong {
+    padding: 5px;
+}
+
+
+/*================
+Feed back popup
+ ==================================*/
+
+.shell_pop_close.icon-cross.icon-close.showInMobile.page_popup_close {
+    
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+
+.InnerGlobalPopup .pop_textbox {
+    bottom: 18px;
+    cursor: default;
+    left: 20px;
+    overflow: auto;
+    padding: 0;
+    position: absolute;
+    right: 20px;
+    top: 51px;
+}
+
+.InnerGlobalPopup {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #b4a8a5;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.InnerGlobalPopup:after {
+    border-top: 4px solid #bb141a;
+    content: " ";
+    left: 20px;
+    position: absolute;
+    right: 20px;
+    top: 0;
+    
+}
+
+.InnerGlobalPopupHeader {
+    /*    border-bottom:1px solid #bb141a;*/
+    border-bottom: 1px solid #b4a8a5;
+    margin: 0 20px;
+    padding: 10px 0;
+    position: relative;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+
+.flipImage.clicked .InnerGlobalPopupHeader {
+    padding-right: 20px;
+}
+
+.InnerGlobalPopupHeader span {
+    bottom: 0;
+    cursor: pointer;
+    display: inline-block;
+    padding: 4px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    vertical-align: bottom;
+}
+
+.InnerGlobalPopupHeader span:before {
+    
+    line-height: 37px;
+}
+
+.Global-Hover {
+    background: #b9141a;
+    color: white;
+}
+
+.Global-Txt-Hover {
+    background: #b9141a;
+    color: white;
+}
+
+.Clicked:before {
+    /*color:#b9141a;*/
+    position: absolute;
+    /*z-index:2;*/
+}
+
+.ButtonWrap {
+    border: 1px solid #b4a8a5;
+}
+
+.mobilepageContainer .flipContent .left, .mobilepageContainer .flipContent .right, .snippets_container .left, .snippets_container .right {
+    bottom: 0;
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    border: none;
+    background: rgba(255, 255, 255, 0.0);
+    cursor: pointer;
+    
+    top: 0
+}
+
+.mobilepageContainer .flipContent .left, .snippets_container .left {
+    right: 0;
+}
+
+.mobilepageContainer .flipContent .right, .snippets_container .right {
+    left: 0;
+}
+
+.snippets_container .left, .snippets_container .right {
+    height: 100%;
+}
+
+.snippets_container #image_snippets ul li {
+    top: 0;
+    bottom: 0;
+}
+
+.mobilepageContainer img {
+    vertical-align: bottom;
+}
+
+.OverlayVideo {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    
+    background: rgba(0, 0, 0, 0);
+}
+
+
+/*--------------------  disable tick mark on first pages on flipcard in IE and devices ------*/
+
+.mobilepageContainer .flipbook #flipBook_1 .icon-visitedState:before, .mobilepageContainer .flipbook #flipBook_1 .Clicked:before, .iEContainer #image_1:before {
+    display: none;
+}
+
+

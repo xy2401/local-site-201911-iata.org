@@ -1,0 +1,1674 @@
+/* 2009-11-30 yd
+	CSS version 2.0
+	All classes use an "iata" prefix as a pseudo namespace 
+	We do not implement genuine namespace to circumvent incompatibility with some user agents 
+	All font-size are percentages, except for the main classes iatahtml and iatabody 
+
+The core is structured as follow:
+	main structures
+	TABLES
+	Emphasis
+	Lists
+	Sections and Headings
+	Variations
+	Glossary / Definitions
+	Figure / Images
+	Notes
+	Footnotes
+	Paragraphs
+	General Structures
+	General Sub-structures
+	Addresses
+	Lines
+	Packing Instructions
+	Resolutions
+	Disclaimer
+*/
+
+/*
+a:link {color:#555555;text-decoration:none; BORDER-BOTTOM: solid 1px #c0c0e0;}
+a:visited {color:#003C79;text-decoration:none; BORDER-BOTTOM: solid 1px #003C79;}
+a:active {color:#1919E1;text-decoration:none; BORDER-BOTTOM: solid 1px #1919E1;}
+a:hover {color:#003C79;text-decoration:none; BORDER-BOTTOM: solid 1px #003C79;}
+*/
+
+a:link {color:#3899e5;text-decoration:none; BORDER-BOTTOM: solid 1px #3899e5;}
+a:visited {color:#3899e5;text-decoration:none; BORDER-BOTTOM: solid 1px #3899e5;}
+a:active {color:#022a4c;text-decoration:none; BORDER-BOTTOM: solid 1px #022a4c;}
+a:hover {color:#022a4c;text-decoration:none; BORDER-BOTTOM: solid 1px #022a4c;}
+
+/*----------------------------------------------------*/
+
+/* Note: For this declaration to work, the eot and ttf files must be located in the same folder as the CSS file. */
+
+@font-face {
+    font-family: "IATA Unicode Based"
+    src: local("IATA Unicode Based");
+    src: url('IATAUNI0.eot');
+    src: url('IATAUNI0.eot?#iefix') format('embedded-opentype'),
+         url('IATAUniR.woff') format('woff'),
+         url('IATAUniR.ttf') format('truetype');
+}
+
+
+/*As of 2018-01-25, the new IATAfont uses Unicode codepoints (not the private area)*/
+@font-face {
+    font-family: "IATAfont"
+    src: local("IATAfont");
+    src: url('IATAfont.woff') format('woff'),
+         url('IATAfont.ttf') format('truetype');
+}
+
+
+/* 2014-05-29 yd removal of .eot and .ttf fonts for backward compatibility with IE 8 and lower
+	actually, IE8 last upgrade do support .woff fonts (Web Open Font Format) */
+/* As of 2017-08-30, the IATA font uses Unicode(R) code points instead of the private area 
+		Use the following declaration to use the font in a browser. The declaration above is for the IATA Reader only */
+/*
+@font-face {
+    font-family: "IATA Unicode Based";
+    src: local("IATA Unicode Based");
+    src: url('IATAUniR.woff') format('woff');
+}
+*/
+
+/*
+@font-face {
+	font-family: "Crystal";
+	src: url(CRYSRG_@.eot);
+	src: local("Crystal");
+	src: url(CRYSRG_@.ttf) format("truetype"), url('CRYSRG_@.woff') 
+	format('woff');
+}
+*/
+
+/*----------------------------------------------------*/
+
+/* FM040810 - This class is intended to be used for printed reports within the application. This extra margin is needed
+   so that the revision marks do not overlap the text */
+@media print
+{
+	.iatabody, .iatabodyPI
+	{
+		margin-left:50px;
+	}
+}
+
+.iataChapterHeading {
+	font-size: 175%;
+}
+.iatah1 {font-size: 146%;} /* was 18pt;*/
+.iatah2 {font-size: 138%;} /* was 17pt*/
+.iatah3 {font-size: 128%;} /* was 16pt*/
+.iatah4 {font-size: 120%;} /* was 15pt*/
+.iatah5 {font-size: 112%;} /* was 14pt*/
+.iatah6 {font-size: 106%;} /* was 13pt*/
+.iatah7 {
+	font-size:   103%;
+	font-weight: bold;
+}
+.iatah8 {
+	font-size:   100%;
+	font-weight: bold;
+}
+
+/*.cursor {cursor: hand}*/ /*leave default */
+
+/*2012-12-07 yd added to circumvent printing bug in browsers */
+* {
+	orphans: 1;
+	widows: 1;
+}
+
+.iatabody {
+	font-size: 9pt;
+	color: #022a4C;
+	font-family: Arial,sans-serif;
+	margin-left: 40px;
+	margin-right:10px;
+	margin-top:20px;
+	margin-bottom:50px;
+	padding:     0px 0px 0px 0px;
+}
+
+.iatanoneffective{
+	background-color: #b0b0b0;
+}
+
+/* iatafont is used by the character entity declarations; Ex.: <!ENTITY inserted '<Emphasis style="iatafont">&#x25A1;</Emphasis>'> */
+.iatafont {
+	font-style:normal ! important ;
+	font-family: IATAfont, "IATA Unicode Based", sans-serif;
+	font-weight: normal;
+}
+
+
+.iataSideMarks {
+	font-family: IATAfont, "IATA Unicode Based", sans-serif;
+	font-style:normal ! important ;
+	position: absolute;
+	left:2px;
+	padding-top: inherit;
+}
+
+.iataspanhide {
+	display: none;
+}
+
+
+/* =======================================================================  */
+/* ============================== Colors =================================  */
+/* =======================================================================  */
+
+/* yd 2012-06-01 New colors based on literal */
+
+.iatabgcolorsGreen{
+	background-color: rgb(98,179,26);
+}
+
+.iatabgcolorsGreenLight {
+	background-color: rgb(189,207,27);
+}
+.iatabgcolorsYellow {
+	background-color: rgb(255,219,0);
+}
+.iatabgcolorsOrange {
+	background-color: rgb(242,147,0);
+}
+.iatabgcolorsRed {
+	background-color: rgb(235,48,20);
+}
+.iatabgcolorsPink {
+	background-color: rgb(229,23,110);
+}
+.iatabgcolorsMauve {
+	background-color: rgb(95,50,135);
+}
+.iatabgcolorsBlue9 {
+	background-color: rgb(0,48,91);
+}
+.iatabgcolorsBlue8 {
+	background-color: rgb(10,66,121);
+}
+.iatabgcolorsBlue6 {
+	background-color: rgb(0,117,189);
+}
+.iatabgcolorsBlue5 {
+	background-color: rgb(3,143,215);
+}
+.iatabgcolorsBlue4 {
+	background-color: rgb(78,169,227);
+}
+.iatabgcolorsBlue3 {
+	background-color: rgb(107,187,234);
+}
+.iatabgcolorsBlue2 {
+	background-color: rgb(166,215,245);
+}
+
+.iatabgcolorsbgshadelight {
+	/*background-color: #dedede;*/
+	background-color: #efefef;
+}
+
+.iatabgcolorsbgshademedium {
+	background-color: #b0b0b0;
+}
+
+.iatabgcolorsbgshadeheavy {
+	background-color: #808080;
+}
+
+
+/* Deprecated colors */
+.iatabgcolorsPMS394{
+	background-color: rgb(254,235,83);
+}
+.iatabgcolorsPMS382{
+	background-color: rgb(161,188,0);
+}
+.iatabgcolorsPMS116{
+	background-color: rgb(255,204,0);
+}
+.iatabgcolorsPMS151{
+	background-color: rgb(249,153,17);
+}
+.iatabgcolorsPMS199{
+	background-color: rgb(240,8,71);
+}
+.iatabgcolorsPMS213{
+	background-color: rgb(239,44,113);
+}
+.iatabgcolorsPMS2603{
+	background-color: rgb(111,53,148);
+}
+.iatabgcolorsPMS541_40pcblack{
+	background-color: rgb(0,48,91);
+}
+.iatabgcolorsPMS541{
+	background-color: rgb(10,66,121);
+}
+.iatabgcolorsPMS300{
+	background-color: rgb(0,117,189);
+}
+.iatabgcolorsPMS300_at80pc{
+	background-color: rgb(3,143,215);
+}
+.iatabgcolorsPMS300_at55pc{
+	background-color: rgb(78,169,227);
+}
+.iatabgcolorsPMS300_at25pc{
+	background-color: rgb(107,187,234);
+}
+.iatabgcolorsPMS300_at15pc{
+	background-color: rgb(166,215,245);
+}
+
+/*2013-03-13 yd Foreground colors are now available on the Emphasis element*/
+
+.iatafgcolorsGreen{
+	color: rgb(98,179,26);
+}
+
+.iatafgcolorsGreenLight {
+	color: rgb(189,207,27);
+}
+.iatafgcolorsYellow {
+	color: rgb(255,219,0);
+}
+.iatafgcolorsOrange {
+	color: rgb(242,147,0);
+}
+.iatafgcolorsRed {
+	color: rgb(235,48,20);
+}
+.iatafgcolorsPink {
+	color: rgb(229,23,110);
+}
+.iatafgcolorsMauve {
+	color: rgb(95,50,135);
+}
+.iatafgcolorsBlue9 {
+	color: rgb(0,48,91);
+}
+.iatafgcolorsBlue8 {
+	color: rgb(10,66,121);
+}
+.iatafgcolorsBlue6 {
+	color: rgb(0,117,189);
+}
+.iatafgcolorsBlue5 {
+	color: rgb(3,143,215);
+}
+.iatafgcolorsBlue4 {
+	color: rgb(78,169,227);
+}
+.iatafgcolorsBlue3 {
+	color: rgb(107,187,234);
+}
+.iatafgcolorsBlue2 {
+	color: rgb(166,215,245);
+}
+.iatafgcolorsWhite {
+	color: rgb(255,255,255);
+}
+
+.iatafgcolorsGrey {
+	color: #c0c0c0;
+}
+
+
+/* =======================================================================  */
+/* ============================ TABLES ===================================  */
+/* =======================================================================  */
+
+table { 
+	/*font-size: 100%; */ /*Required for browsers to recognize the current font-size. inherit works in google and chrome, but not in ie6*/
+	font-size: 9pt;
+	font-family: Arial,sans-serif;
+}
+
+/* used for book publications
+.iatasmall{
+	font-size: 90%;
+}
+*/
+
+.iataTableGroup {
+  display: block;
+  margin-top:15px;
+}
+
+.iataTableGroupHeading {
+	/*margin-bottom: 6px;*/
+}
+
+.iataTableNumber {
+	display: inline;
+	font-size: 120%;
+	font-weight: bold;
+	padding-right: 2px;
+}
+
+.iataTableHeading {
+	display: inline;
+	font-size: 138%;
+	font-weight: bold;
+}
+
+.iataTableCaption {
+	display: block;
+	font-size: 90%;
+	font-weight: bold;
+}
+
+.iatatable {
+	margin-top: 20px;
+	empty-cells: show;
+
+	/* The following work-around is used because the collapse model is not supported in Chrome and Firefox (the right frame rule was not displayed) */
+	border-spacing: 0;
+ 	*border-collapse: collapse; /* IE hack */
+}
+
+.iataTableGroup .iatatable {
+	margin-top: 6px;
+}
+
+.iatawidthfull {
+	width:100%;
+}
+
+.iatawidthhalf {
+	width:50%;
+}
+
+.iataframetop {
+	border-top:1px solid black;
+}
+
+.iataframebottom {
+	border-bottom:1px solid black;
+}
+
+.iataframehsides {
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+}
+
+.iataframevsides {
+	border-left:1px solid black; 
+	border-right:1px solid black;
+}
+
+.iataframeall {
+	border:1px solid black;
+}
+
+.iataframenone {
+	border:0px none;
+}
+
+
+.iatathead {
+	text-align:left;
+	background-color:#efefef;
+}
+
+/*For legacy reasons, we could keep a default valignment to "top"*/
+/*.iatatable .iatatd {vertical-align: top;}*/
+
+.iatatd {
+	/*proprietary formatting of cells for IATA publications is done here */
+	padding:3px;
+}
+
+.iatarow0 {
+	border-bottom: none;
+}
+
+.iatarow1 {
+	border-bottom:1px solid black;
+}
+
+.iatarow2{
+	border-bottom:3px double black;
+}
+
+.iatacol0 {
+	border-right: none;
+}
+
+.iatacol1 {
+	border-right:1px solid black;
+}
+
+.iatacol2{
+	border-right:3px double black;
+}
+
+.iatabgshadelight {
+	background-color: #efefef; /*#dedede;*/
+}
+
+.iatabgshademedium {
+	background-color: #b0b0b0;
+}
+
+.iatabgshadeheavy {
+	background-color: gray;
+}
+
+.iatahleft {
+	text-align:left;
+}
+
+.iatahright {
+	text-align:right;
+}
+
+.iatahcenter {
+	text-align:center;
+}
+
+.iatahjustify {
+	text-align:justify;
+}
+
+.iatavaligntop {
+	vertical-align: top;
+}
+
+.iatavalignmiddle {
+	vertical-align: middle;
+}
+
+.iatavalignbottom {
+	vertical-align: bottom;
+}
+
+
+/* =======================================================================  */
+/* ============================= Emphasis ================================  */
+/* =======================================================================  */
+
+.iatanormal {
+	font-weight: normal;
+}
+
+.iatabold {
+	font-weight: bold;
+}
+
+.iataitalic {
+	font-style: italic;
+}
+
+.iataunderline {
+	text-decoration: underline;
+}
+
+.iatasubs { /*vertical-align: baseline; font-size: 0.8em; position: relative; top: -0.4em; */
+	vertical-align: -15%;
+	font-size: 60%;
+}
+
+.iatasups {
+	vertical-align: 70%;
+	font-size: 60%;
+}
+
+
+.iatalarge {
+  font-size:125%;
+}
+
+.iatafixwidthfont{
+  font-family: Courier New;
+}
+
+
+.iatastrikethrough {
+	text-decoration: line-through ;
+}
+
+
+/* =======================================================================  */
+/* ============================== Lists ==================================  */
+/* =======================================================================  */
+
+.iataList {
+	margin-top:10px;
+	display: block;
+	margin-left: 0px;
+}
+
+.iataListHeading {
+	display: block;
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+.iataListItem-alphabetical{
+	display: block;
+	margin-top: 5px;
+	margin-left: 25px;
+}
+.iataListLbl-alphabetical{
+	font-weight: bold;
+	float:left;
+	margin-left: -25px;
+}
+
+
+.iataListItem-numerical{
+	display: block;
+	margin-top: 5px;
+	margin-left: 25px;
+}
+.iataListLbl-numerical{
+	font-weight: bold;
+	float:left;
+	margin-left: -25px;
+	text-align:right;
+	width:20px;
+}
+
+
+.iataListItem-lower-roman{
+	display: block;
+	margin-top: 5px;
+	margin-left: 25px;
+}
+.iataListLbl-lower-roman{
+	font-weight: bold;
+	float:left;
+	margin-left: -25px;
+	text-align:right;
+	width:20px;
+}
+
+
+.iataListItem-upper-roman{
+	display: block;
+	margin-top: 5px;
+	margin-left: 25px;
+}
+.iataListLbl-upper-roman{
+	font-weight: bold;
+	float:left;
+	margin-left: -25px;
+	text-align:right;
+	width:20px;
+}
+
+
+.iataListItem-bullet, .iataListItem-circle{
+	display: block;
+	margin-top: 5px;
+	margin-left: 12px;
+}
+.iataListLbl-bullet, .iataListLbl-circle{
+	font-weight: bold;
+	float:left;
+	margin-left: -12px;
+}
+
+
+.iataListItem-mdash{
+	display: block;
+	margin-top: 5px;
+	margin-left: 20px;
+}
+.iataListLbl-mdash{
+	font-weight: bold;
+	float:left;
+	margin-left: -20px;
+}
+
+
+.iataListItem-square, .iataListItem-ndash {
+	display: block;
+	margin-top: 5px;
+	margin-left: 15px;
+}
+.iataListLbl-square, .iataListLbl-ndash {
+	font-weight: bold;
+	float:left;
+	margin-left: -15px;
+}
+
+
+.iataListItem-none {
+	display: block;
+	margin-top: 5px;
+	margin-left: 15px;
+}
+
+
+.iataListSubItem {
+	display: block;
+	margin-top:10px;
+}
+
+/* =======================================================================  */
+/* ======================= Sections and Headings =========================  */
+/* =======================================================================  */
+
+.iatah1 { 
+	display:inline;
+}
+
+.iatah2 { 
+	display:inline;
+}
+
+.iatah3 { 
+	display:inline;
+}
+
+.iatah4 { 
+	display:inline;
+}
+
+.iatah5 { 
+	display:inline;
+}
+
+.iatah6 {
+	display:inline;
+}
+
+.iatah7 {
+	display:inline;
+}
+.iatah8 {
+	display:inline;
+}
+
+.iataSection1{
+	margin-top:10pt;
+	display: block;
+}
+
+.iataSection2{
+	display: block;
+	margin-top:15px;
+	margin-bottom:10px;
+}
+
+.iataSection3{
+	display: block;
+	margin-top:15px;
+	margin-bottom:10px;
+}
+
+.iataSection4{
+	display: block;
+	margin-top:15px;
+	margin-bottom:10px;
+}
+
+.iataSection5{
+	display: block;
+	margin-top:15px;
+	margin-bottom:10px;
+}
+
+.iataSection6{
+	display: block;
+	margin-top:15px;
+	margin-bottom:10px;
+}
+
+.iataSection7{
+	display: block;
+	margin-top:15px;
+	margin-bottom:10px;
+}
+.iataSection8{
+	display: block;
+	margin-top:15px;
+	margin-bottom:10px;
+}
+
+
+.iataSection1ShortHeading{
+	font-weight:bold;
+}
+
+.iataSection2ShortHeading{
+	font-weight:bold;
+}
+
+.iataSection3ShortHeading{
+	font-weight:bold;
+}
+
+.iataSection4ShortHeading{
+	font-weight:bold;
+}
+
+.iataSection5ShortHeading{
+	font-weight:bold;
+}
+
+.iataSection6ShortHeading{
+	font-weight:bold;
+}
+
+/* =======================================================================  */
+/* ========================== Variations =================================  */
+/* =======================================================================  */
+
+.iataOperator{
+	margin-top:30px;
+}
+
+.iataState{
+	margin-top:30px;
+}
+
+.iataVariation {
+	margin-top:10px;
+}
+
+.iataVariations{
+	display: block;
+	margin-top:10px;
+ }
+
+
+/* =======================================================================  */
+/* =================== Glossary / Definitions ============================  */
+/* =======================================================================  */
+
+.iataDefinition{
+  display: block;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.iataDefinitionGroup {
+  display: block;
+}
+
+.iataDefinitionGroupHeading
+{
+  display: block;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+
+.iataGlossary {
+  display: block;
+}
+
+.iataGlossaryHeading {
+	font-size:   146%;
+	font-weight: bold;
+}
+
+.iataLetterLevel {
+	display: block;
+	margin-bottom: 12pt;
+	margin-top: 12pt;
+}
+
+.iataLetter {
+	display: block;
+	margin-bottom: 6pt;
+	font-size: 138%;
+	font-weight: bold;
+}
+
+
+
+.iataGlossEntry {
+	display: block;
+	/*text-align:  justify;*/
+	margin-bottom: 5px;
+	margin-top:10px;
+}
+
+.iataGlossTerm {
+  display: inline;
+  font-weight: bold;
+}
+
+.iataMeaning {
+  display: inline;
+}
+
+.iataMeaningHeading{
+  display: inline;
+  font-weight: bold;
+}
+
+.iataTerm {
+  display: inline;
+  font-weight: bold;
+/*should be bold to reflect authoring core and when applicable, overridden locally for specific product (DGR for example) */
+}
+
+.iataTermHeading {
+  display: inline;
+  font-weight: bold;
+}
+
+
+
+/* =======================================================================  */
+/* =========================== Figure / Images ===========================  */
+/* =======================================================================  */
+
+.iataFigure {
+  display:block;
+  margin-top: 15px;
+}
+
+.iataFigureBody {
+  display: inline;
+}
+
+.iataFigureCaption {
+ 	font-weight: bold;
+	display: block;
+  /*display: inline;*/
+}
+
+.iataFigureHeading{
+	display:block;
+	font-weight: bold;
+	font-size: 110%;
+}
+
+.iataimgblock{
+	margin-top:20px;
+	display: block;
+}
+
+.iataimginline{
+	display: inline;
+}
+
+.iataImageFloatLeft{
+	float:left;
+	margin-right: 16px;	
+}
+
+/* =======================================================================  */
+/* ================================ Notes ================================  */
+/* =======================================================================  */
+
+.iataNotes {
+	display: block;
+	margin-top: 10px;
+	font-style:italic;
+	padding-left: 25px;
+}
+
+.iataNotesLabel {
+	float:left;
+	margin-left: -25px;
+	font-weight: bold;
+}
+
+.iataNoteNumber{
+	float:left;
+	margin-left: -25px;
+}
+
+.iataNote{
+	display: block;
+	font-style:italic;
+	margin-top: 10px;
+}
+
+.iataNoteLabel {
+	font-weight: bold;
+}
+
+.iataNoteFirstSimplePara {
+	display: inline;
+}
+
+
+/* =======================================================================  */
+/* ============================= Footnotes ===============================  */
+/* =======================================================================  */
+
+.iataFootNoteBody {
+  display: inline;
+}
+
+.iataFootRef{
+	font-size: 67%; /*was 8pt*/
+	vertical-align: super;
+}
+
+.iataTableFootNotes {
+  margin-left:20px;
+  /*text-align:  justify;*/
+  width:90%; 
+  display: block;
+}
+
+
+.iataTableFootNote {
+  margin-top:10px;
+  display: block;
+	font-style: italic
+}
+
+
+/* =======================================================================  */
+/* ============================= Paragraphs ==============================  */
+/* =======================================================================  */
+
+.iataPara {
+  display: block;
+  /*text-align:  justify;*/
+  margin-bottom: 5px;
+  margin-top:10px;
+}
+
+.iataSimplePara {
+  display: block;
+  /*text-align:  justify;*/
+  text-indent:0px;
+  margin-top:10px;
+}
+
+.iataNumberedPara{
+  display: block;
+  /*text-align:  justify;*/
+  margin-bottom: 5px;
+  margin-top:10px;
+}
+
+.iataParaNumber{
+	font-weight: bold;
+}
+
+.iataMarginPara{
+	display: block;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:-20px;
+	font-style:italic;
+	width:60%;
+	font-size:80%;
+	font-weight:bold;
+	text-align:left;
+}
+
+
+/* =======================================================================  */
+/* ========================= General Structures ==========================  */
+/* =======================================================================  */
+
+.iataAcknowledgement {
+	display: block;
+	margin-top: 40px;
+}
+
+.iataAppendix {
+  display: block;
+}
+
+
+.iataAppendix .iatah1 {
+  display: block;
+  font-size: 150%; /*was 18pt*/
+  margin-top:20px;
+}
+
+
+.iataBibliography {
+  display: block;
+}
+
+.iataBiblioTitle{
+	display:block;
+	font-style:italic;
+	font-weight:bold;
+	margin-top:15px;
+	font-size: 115%;
+}
+
+
+.iataExtracts{
+  width: 80%;
+  margin-left: 75px;
+  margin-right: auto;
+  margin-top: 7pt;
+  margin-bottom:7pt;
+  display: block;
+  border-width:1px;
+  border-style:solid;
+  padding:5px;
+}
+
+.iataFlySheet {
+  display: block;
+}
+
+.iataHowToUse {
+  display: block;
+}
+
+.iataIntro {
+	display: block;
+}
+
+
+
+.iataPreface {
+  display: block;
+}
+
+
+
+.iataPublication {
+  font-style:italic; 
+  display: block;
+}
+
+.iataTitlePage {
+  display: block;
+}
+
+/* DIV-type classes. */
+
+.iataAfterWord{}
+.iataBackMatterNotes{}
+.iataCopyrightClearance{}
+.iataExecutiveSummary{}
+.iataForeWord{}
+
+
+
+
+/* =======================================================================  */
+/* ======================= General Sub-structures ========================  */
+/* =======================================================================  */
+
+.iataAuthor {
+  display: inline;
+}
+
+.iataCatalog {
+  display: inline;
+}
+
+.iataCite{
+	font-style:italic;
+}
+
+.iataCopyright {
+  display: block;
+}
+
+.iataCopyRightGroup {
+	display: block;
+	margin-top: 40px;
+}
+
+.iataDate {
+  display: inline;
+}
+
+.iataExample {
+  display: block;
+  font-style: italic;
+  margin-top:10px;
+  margin-left: 0px;
+  text-indent:0px;
+}
+
+.iataExampleHeading{
+	font-weight: bold;
+	font-size: 150%;
+}
+
+.iataFromdate {
+  display: inline;
+}
+
+.iataISBN {
+  display: inline;
+}
+
+.iataISSN {
+  display: inline;
+}
+
+.iataModus {
+  display: inline;
+}
+
+.iataPublisher {
+  display: inline;
+}
+
+.iataQuote {
+  display: inline;
+}
+
+.iataSimpleText {
+  display: inline;
+}
+
+.iataSource {
+  display: inline;
+  font-style:italic;
+}
+
+.iataSubtitle {
+  display: inline;
+}
+
+.iataTitle { 
+  display: inline;
+}
+
+.iataTodate {
+  display: inline;
+}
+
+.iataStep {
+	display: block;
+	text-indent:0px;
+	margin-top:10px;
+}
+
+.iataStepHeading {
+	font-weight: bold;
+	display: inline;
+	padding-right: 10px;
+}
+
+.iataSubLevel1{
+  display: block;
+  margin-top:10px;
+  padding-left: 30px;
+}
+
+.iataSubLevel1Heading {
+	font-size: 115%;
+	font-weight: bold;
+}
+
+.iataSubLevel1Number {
+	margin-left: -30px;
+	float:left;
+}
+
+/* SPAN-type classes. */
+
+.iataCopyrightedByName{}
+.iataCorporationAuthor{}
+.iataEditionEffectivePeriod{}
+.iataEditionNumber{}
+.iataGlossDescription{}
+.iataPhotoCredit{}
+.iataPublicationGroup{}
+.iataPublishersRights{}
+.iataPublicationYear{}
+.iataTitles{}
+.iataPublisherName{}
+.iataPublisherLocation{}
+.iataEffectiveDate{}
+
+
+
+/* =======================================================================  */
+/* ============================= Addresses ===============================  */
+/* =======================================================================  */
+
+.iataAddress {
+	margin-top:10px; /*was 5 */
+	display: block;
+}
+
+.iataPersonName{}
+
+.iataNameElement {
+	display:block;
+}
+
+.iataNameLine {
+	display:block;
+}
+
+.iataOrganisationName{
+	display:block;
+}
+
+.iataFreeTextAddress{
+	display:block;
+}
+
+.iataAddressLine{
+	display:block;
+}
+
+.iataContact{
+	display:block;
+}
+
+.iataContactLine{
+	display:block;
+}
+
+.iataLinkTo{
+  display: block;
+  /*text-align:  justify;*/
+  text-indent:0px;
+  /*margin-top:10px;*/
+}
+
+/* =======================================================================  */
+/* =============================== Lines =================================  */
+/* =======================================================================  */
+/* Draw a line for forms - based on new algorithm for all browsers in xslt for <Fill-inline> element */
+
+.iatasolidline{
+	display:inline-block;
+	border-bottom: 1px solid;
+}
+
+.iatadottedline{
+	border-bottom: 1px dotted;
+	display:inline-block;
+}
+
+.iatadoubleline{
+	display:inline-block;
+	border-bottom: 3px double;
+}
+
+.iatalinenarrower{
+	width: 50px;
+}
+
+.iatalinenarrow{
+	width: 100px;
+}
+
+.iatalinemedium{
+	width: 200px;
+}
+
+.iatalinewide{
+	width: 300px;
+}
+
+.iatalinefull{
+	width: 100%; /* was 550px */
+}
+
+
+/* =======================================================================  */
+/* ======================= Packing Instructions ==========================  */
+/* =======================================================================  */
+
+.iatabodyPI {
+	background-color:#FFFF99;
+	font-size: 9pt;
+	color: #022a4C;
+	font-family: Arial,sans-serif;
+	margin-left: 40px;
+	margin-right:10px;
+	margin-top:20px;
+	margin-bottom:50px;
+	padding:     0px 0px 0px 0px;
+}
+
+.iataPItable .iatatable {
+	font-size: 90%;
+}
+
+.iatah1PI {
+	font-size:   150%; /*was 18pt*/
+	width:100%;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 0px;
+}
+
+.iataVariationsPI {
+	width:100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top:-1px;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+
+
+.iataParaPI {
+	display: block;
+	/*text-align:  justify;*/
+	margin-bottom: 5px;
+	margin-top:10px;
+	/* width:90%; */
+}
+
+.iataLOGOPI {
+	color:#000000;
+	font-family: IATAfont, "IATA Unicode Based", sans-serif;
+	font-size: 60px;
+}
+
+.iataPIClassNameFont {
+	font-size: 140%;  /*was 15pt*/
+}
+
+
+/* =======================================================================  */
+/* ================== Resolutions & RecommendedPractice ==================  */
+/* =======================================================================  */
+
+.iataResolution{
+	display: block;
+}
+
+
+.iataResolutionVersion {
+	display: block;
+}
+
+.iataresorpversionscell {
+	vertical-align: top;
+	width: 6cm;
+}
+
+.iataConferenceAccronym {
+	display: block;
+}
+
+.iataArea {
+	display: inline;
+}
+
+
+.iataConfVoteNumber {
+	display: inline;
+}
+
+
+.iataCountryExceptions {
+	display: block;
+}
+
+.iataCountryName {
+	display: block;
+}
+
+.iataExpiry {
+	display: block;
+}
+
+.iataType {
+	display: block;
+}
+
+.iataAlternateType {
+	display: inline;
+}
+
+.iataResolutionHeading {
+  font-weight: bold;
+  font-size: 150%;
+/*  color: #FF0000; */
+  text-align: left;
+  margin-bottom: 7pt;
+}
+
+.iataResolution  .iataResolutionNumber {
+  font-weight: bold;
+  font-size: 150%;
+/*  color: #FF0000; */
+  text-align: left;
+  margin-bottom: 7pt;
+}
+
+/*
+.iataResolution  .iataResolutionNumber:before {
+ content: "Resolution ";
+}
+
+.iataResolution  .iataResolutionNumber:after {
+ content: " ";
+}
+*/
+
+.iataresoIntroduction {
+	margin-top: 12px;
+}
+
+
+.iataRecommendedPracticeHeading {
+  font-weight: bold;
+  font-size: 150%;
+/*  color: #FF0000; */
+  text-align: left;
+  margin-bottom: 7pt;
+}
+
+.iataRecommendedPractice  .iataRecommendedPracticeNumber {
+  font-weight: bold;
+  font-size: 150%;
+/*  color: #FF0000; */
+  text-align: left;
+  margin-bottom: 7pt;
+}
+
+/*
+.iataRecommendedPractice  .iataRecommendedPracticeNumber:before {
+ content: "Recommended Practice ";
+}
+
+.iataRecommendedPractice  .iataRecommendedPracticeNumber:after {
+ content: " ";
+}
+*/
+
+.iataRecommendedPracticeVersion {
+	display: block;
+}
+
+
+.iataGovernmentReservations {
+	font-style: italic;
+}
+
+.iataGovernmentReservationsh3 {
+	display: block;
+	font-size:   133%;
+	
+}
+
+.iataGovernmentReservationHeading {
+	/*may need formatting close to h4*/
+	font-size:   125%;
+	display: block;
+}
+
+/* ======================================================================= */
+/* ============================== Disclaimer ============================= */
+/* ======================================================================= */
+
+.iataDisclaimerPage {
+	display: block;
+}
+
+.iataDisclaimer {
+  display: block;
+  border: 1px solid black;
+  width: 270px;
+  margin-top: 65px;
+  margin-left: 168px;
+  margin-right: 168px;
+  text-align: center;
+  padding: 12px;
+  /* padding-right: 12px; */
+}
+
+.iataDisclaimer .iataSimplePara {
+	text-align: justify;
+	margin-top: 12px;
+}
+
+
+.iataDisclaimer .iataAddress {
+	text-align: center;
+	margin-top: 16px;
+}
+
+
+.iataDisclaimerHeading{
+	display: block;
+	font-weight: bold;
+}
+
+/* ======================================================================= */
+/* ================================ ITDI ================================= */
+/* ======================================================================= */
+
+
+/* ------------------------------------------------ */
+/* ---------- Left margin Content ----------------- */
+/* ------------------------------------------------ */
+
+
+.iataLeftVirtualColumn {
+}
+
+.iataLeftVirtualColumn .iataMarginPara{
+	margin-left: -30px;
+	display: block;
+	font-style: normal;
+	width: 50%px;
+	text-align:left;
+	font-weight: normal;
+	color: green;
+}
+
+
+
+.iataITDIHeading {
+	font-size: 125%;	
+	font-weight: bold;
+	font-style: normal;
+	margin-top: 6pt;
+}
+
+.iataModuleSummaryHeading {
+	font-size: 142%;
+	font-weight:bold;
+}
+
+.iataLessonSummaryHeading {
+	font-size: 133%;
+	font-weight:bold;
+}
+
+
+
+
+
+.iataMarginPara  .iataimgblock {
+	margin-top:0px;
+	display: inline-block;
+}
+
+
+.iataPrerequisites {
+}
+
+
+
+.iataModuleLearningObjectives {
+}
+
+.iataModuleLearningObjectives .iataPara {
+	margin-top: 0px;
+}
+
+
+.iataLessonLearningObjectives {
+}
+
+.iataLessonLearningObjectives .iataPara {
+	margin-top: 0px;
+}
+
+
+
+/* ------------------------------------------------ */
+/* ------------ Main Body Content ----------------- */
+/* ------------------------------------------------ */
+
+.iataKeyLearningPoint {
+	margin-bottom: 6pt;
+}
+
+
+.iataModuleSummary{
+	margin-top: 12px;
+}
+
+
+
+.iataLessonSummary{
+	margin-top: 12px;
+}
+
+.iataInterview{
+	margin-top: 12px;
+}
+
+
+.iataProgressCheck {
+}
+
+
+.iataAnswerKey {
+	margin-bottom: 12px;
+}
+
+.iataAnswerKey .iataList {
+		margin-top:0px;
+}
+
+.iataApplyYourLearning{
+	display: block;
+/*	border: solid black 2px;
+	padding: 6pt;
+*/
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+
+.iataTryActivity {
+	display: block;
+}
+
+.iataDidYouKnow {
+	display: block;
+}
+
+.iataApplyYourLearning .iataFigureCaption {
+	font-style: italic ;
+}
+
+

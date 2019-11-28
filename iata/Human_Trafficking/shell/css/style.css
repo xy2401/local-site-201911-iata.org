@@ -1,0 +1,498 @@
+/* line 1, ../scss/base/_reset.scss */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* line 6, ../scss/base/_reset.scss */
+ul, li {
+  list-style: none;
+}
+
+/* line 1, ../scss/base/_base.scss */
+body {
+  color: #575A5D;
+  /* font-family: 'akzidenz-grotesk-bq-regular'; */
+  font-family: 'Arial';
+  font-size: 16px;
+}
+
+/* line 7, ../scss/base/_base.scss */
+#instruct_next {
+  background-color: #01305c;
+}
+
+/* line 10, ../scss/base/_base.scss */
+.ShellMenuWrapper {
+  border-top: 6px solid #0a4279;
+}
+
+/* line 13, ../scss/base/_base.scss */
+#gadgetsButn.open {
+  /* background-color: #0a4279; */
+}
+
+/* line 16, ../scss/base/_base.scss */
+.ShellMenuWrapper ol li.hasSubMenu > a {
+  background-color: #336677;
+  display: none;
+}
+
+/* line 19, ../scss/base/_base.scss */
+.ShellMenuWrapper ol li.hasSubMenu > a:hover {
+  background-color: #0a4279;
+}
+
+/* line 22, ../scss/base/_base.scss */
+.resource_container {
+  background-image: url("../images/green/resources_popup_bg.png");
+}
+
+/* line 25, ../scss/base/_base.scss */
+.printpagebox {
+  background-image: url("../images/green/print_popup_bg.png");
+}
+
+/* line 28, ../scss/base/_base.scss */
+#link1 a, #link2 a, #link3 a, .icon-pdf a {
+  color: #0a4279;
+}
+
+/* line 31, ../scss/base/_base.scss */
+#printpagetext2, #printpagetext3, #printpagetext4, #printpagetext5 {
+  color: #0a4279;
+}
+
+/* line 34, ../scss/base/_base.scss */
+.exitPopupWrap {
+  border-right: 3px solid red;
+}
+
+/* line 37, ../scss/base/_base.scss */
+.exitInsTxt {
+  color:#5c5c5c;
+}
+
+/* line 41, ../scss/base/_base.scss */
+.exit li {
+  /* background-image: url("../images/green/exit_popup_button_normal.png"); */
+}
+
+/* line 44, ../scss/base/_base.scss */
+.exit li:hover {
+  /* background-image: url("../images/green/exit_popup_button_over.png"); */
+  background: #ec3015;
+  color: #ffffff;
+}
+
+/* line 47, ../scss/base/_base.scss */
+.bulletList_container li:before {
+  background-color: #0a4279;
+}
+
+/* line 50, ../scss/base/_base.scss */
+.subBulletList_container li:before {
+  border-left: 5px solid #0a4279;
+}
+
+/* line 53, ../scss/base/_base.scss */
+#printbutton2 {
+  background-image: url("../images/green/print_screen_normal.png");
+}
+
+/* line 56, ../scss/base/_base.scss */
+#printbutton2:hover {
+  background-image: url("../images/green/print_screen_hoverl.png");
+}
+
+/* line 60, ../scss/base/_base.scss */
+#printbutton1 {
+  background-image: url("../images/green/print_pdf_normal.png");
+}
+
+/* line 63, ../scss/base/_base.scss */
+#printbutton1:hover {
+  background-image: url("../images/green/print_pdf_over.png");
+}
+
+/* line 67, ../scss/base/_base.scss */
+#printbutton3 {
+  background-image: url("../images/green/print_textOnly_normal.png");
+}
+
+/* line 70, ../scss/base/_base.scss */
+#printbutton3:hover {
+  background-image: url("../images/green/print_textOnly_hover.png");
+}
+
+/* line 74, ../scss/base/_base.scss */
+#closed-caption-view {
+  border-color: #0a4279;
+}
+/* line 77, ../scss/base/_base.scss */
+#closed-caption-view .closeCC {
+  background-image: url("../images/green/CC_Close.png");
+}
+
+/* line 81, ../scss/base/_base.scss */
+#gadgetsButn:hover {
+  background-color: #ec3015;
+}
+
+/* line 85, ../scss/base/_base.scss */
+.transTitleBar {
+  /* background-image: url("../images/green/CC_Close.png"); */
+  background-color: #0a4279;
+}
+
+/* line 88, ../scss/base/_base.scss */
+.transcript {
+  border-bottom: 2px solid #ec3015;
+  border-left: 1px solid #013f54;
+  border-right: 1px solid #013f54;
+}
+
+/* line 91, ../scss/base/_base.scss */
+.transcript_btn_disable {
+  /* background-image: url("../images/green/transcript_disableImg.png") !important; */
+}
+
+/* line 94, ../scss/base/_base.scss */
+.selected {
+  background-image: url("../images/green/tick_mark.png");
+}
+
+/* line 97, ../scss/base/_base.scss */
+.visited_bgcolor {
+  background-color: #dbf5e5;
+}
+
+/* line 100, ../scss/base/_base.scss */
+.supporting_facts {
+  background-image: url("../images/green/supporting_facts_over_and_blink.png");
+}
+
+/* line 103, ../scss/base/_base.scss */
+.supporting_factsseiected {
+  background-image: url("../images/green/supporting-fact2.png");
+}
+
+/* line 108, ../scss/base/_base.scss */
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+  background-color: #0a4279;
+}
+
+/* line 113, ../scss/base/_base.scss */
+.dragable_box, .draggables {
+  background-color: #0a4279;
+}
+
+/* line 116, ../scss/base/_base.scss */
+.dragable_box_bg, .dummyDraggablesOSt {
+  background-color: #b2c5cb;
+}
+
+/* line 119, ../scss/base/_base.scss */
+.instruction_text {
+  color: #0a4279;
+}
+
+/* line 122, ../scss/base/_base.scss */
+.SolidHeader-BG {
+  color: #0a4279;
+}
+
+/* line 125, ../scss/base/_base.scss */
+.accordion .cross {
+  border-right: 10px solid #06616d;
+}
+
+/* line 128, ../scss/base/_base.scss */
+.crossimg {
+  background-image: url("../images/green/btn_close.png");
+}
+
+/* line 131, ../scss/base/_base.scss */
+.crossimg:hover {
+  background-image: url("../images/green/close_hover.jpg");
+}
+
+/* line 134, ../scss/base/_base.scss */
+/* .component_feedback_popup:before {
+  background-image: url("../images/green/feedback_bg.png");
+} */
+
+/* line 137, ../scss/base/_base.scss */
+/* .component_feedback_popup {
+  background-color: #009a3d;
+} */
+
+/* line 142, ../scss/base/_base.scss */
+.component_button {
+  color: #fff;
+  /* border: 3px solid #009A3d; */
+  box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -moz-box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -ms-box-shadow: 3px 3px 5px 0px rgba(68, 68, 68, 0.25);
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
+}
+
+/* line 151, ../scss/base/_base.scss */
+/* .component_button:not(.disabled):hover {
+  background-color: #06616d;
+  color: #fff;
+  border: 3px solid #F2AE00;
+} */
+
+/* line 155, ../scss/base/_base.scss */
+#enabling_objectives_m2 .anim_board {
+  background-image: url("../images/green/scr_03_eneb_m1_board.png") !important;
+}
+
+/* line 158, ../scss/base/_base.scss */
+#training_outline_and_contnt .postWrap {
+  background-color: #009a3d;
+}
+
+/* line 161, ../scss/base/_base.scss */
+#headerTextDnd, .boldtext {
+  color: #0a4279;
+}
+
+/* line 164, ../scss/base/_base.scss */
+.inst_txt_bg {
+  background-color: #132f3a;
+}
+
+/* line 167, ../scss/base/_base.scss */
+#congratulations .greenBand {
+  background-image: url("../images/green/scr_cc_band.png");
+}
+
+/* line 170, ../scss/base/_base.scss */
+#congratulations #pin1 {
+  background-image: url("../images/green/scr_cc_pin.png");
+}
+
+/* line 173, ../scss/base/_base.scss */
+#congratulations #pin2 {
+  background-image: url("../images/green/scr_cc_pin_2.png");
+}
+
+/* line 176, ../scss/base/_base.scss */
+#congratulations #ost2 {
+  color: #0a4279;
+}
+
+/* line 182, ../scss/base/_base.scss */
+.dg-container nav span.dg-next, .lSAction > .lSNext {
+  /* background-image: url("../images/green/next_arrow_icon_2x.png"); */
+}
+
+/* line 185, ../scss/base/_base.scss */
+.dg-container nav .dg-prev, .lSAction > .lSPrev {
+  /* background-image: url("../images/green/back_arrow_icon_over_2x.png"); */
+}
+
+/* line 188, ../scss/base/_base.scss */
+.lSSlideOuter .lSPager.lSpg > li:hover a, .lSSlideOuter .lSPager.lSpg > li.active a {
+  background-color: #055322 !important;
+}
+
+/* line 191, ../scss/base/_base.scss */
+.disableTranscript {
+  /* background-image: url("../images/green/transcript_disabled_1.png") !important; */
+}
+
+/* line 1, ../scss/header/_header.scss */
+header.main {
+  /* background-image: url("../images/green/top_band.png"); */
+}
+/* line 4, ../scss/header/_header.scss */
+header.main .Course_Exit {
+  background-image: url("../images/close_btn_normal.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+header.main .Course_Exit:hover {
+background-color: #ec3013;
+background-image: url("../images/close_btn_over.png");
+}
+/* line 8, ../scss/header/_header.scss */
+header.main #window-exit-btn:hover {
+  background-image: url("../images/close_btn_normal.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/* line 13, ../scss/header/_header.scss */
+header.main .menu_collapse:hover,
+header.main .menu_expand {
+  background-color: #06616d;
+}
+
+/* line 19, ../scss/header/_header.scss */
+#menuview #accordion .menuHead {
+  background-color: #06616d;
+}
+/* line 23, ../scss/header/_header.scss */
+#menuview .lessonTitle {
+  background-color: #06616d;
+}
+
+/* line 1, ../scss/footer/_footer.scss */
+footer.main {
+  /* background-image: url("../images/green/bottom_band.png"); */
+}
+/* line 5, ../scss/footer/_footer.scss */
+footer.main .supportingfacts_normal {
+  background-image: url("../images/green/supporting-fact_normal.png");
+}
+/* line 8, ../scss/footer/_footer.scss */
+footer.main .supportingfacts_disabled {
+  background-image: url("../images/green/supporting_facts_disabled.png");
+}
+/* line 11, ../scss/footer/_footer.scss */
+footer.main .supporting_facts {
+  background-image: url("../images/green/supporting_facts_over_and_blink.png");
+}
+/* line 14, ../scss/footer/_footer.scss */
+footer.main .supportingfacts_selected {
+  background-image: url("../images/green/supporting-fact2.png");
+}
+/* line 17, ../scss/footer/_footer.scss */
+footer.main .cssshell_transcript {
+  /* background-image: url(../images/transcript_btn_normal.png); */
+}
+/* line 20, ../scss/footer/_footer.scss */
+footer.main .transcript_btn_disable {
+  /* background-image: url("../images/green/transcript_over.png"); */
+}
+/* line 23, ../scss/footer/_footer.scss */
+footer.main .ccdisabled_button {
+  background-image: url("../images/green/transcript_disbled_state.png");
+}
+/* line 26, ../scss/footer/_footer.scss */
+footer.main .cc-btn-id_selected {
+  background-image: url("../images/green/transcript_selected.png");
+}
+/* line 29, ../scss/footer/_footer.scss */
+footer.main .cssshell_transcript:hover {
+  /* background-image: url("../images/green/transcript_over.png"); */
+  /* top: 0px; */
+}
+
+/* line 2, ../scss/components/_popup.scss */
+.popupParent {
+  position: absolute;
+  width: 462px;
+  height: 250px;
+  background-color: #fff;
+  border: 2px solid #fff;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2);
+}
+/* line 15, ../scss/components/_popup.scss */
+.popupParent .header {
+  position: relative;
+  width: 100%;
+  height: 40px;
+  display: block;
+}
+/* line 21, ../scss/components/_popup.scss */
+.popupParent .header .leftText {
+  position: relative;
+  padding: 0 0 0 10px;
+  float: left;
+  font-size: 18px;
+  font-weight: bold;
+}
+/* line 29, ../scss/components/_popup.scss */
+.popupParent .header .bandColor {
+  display: inline-block;
+  height: 100%;
+  background-color: #336677;
+  color: #fff;
+  line-height: 40px;
+}
+/* line 37, ../scss/components/_popup.scss */
+.popupParent .header .topBand {
+  position: absolute;
+  width: 100%;
+  height: 8px;
+  background-color: #336677;
+}
+/* line 44, ../scss/components/_popup.scss */
+.popupParent .header .closeBtn {
+  position: absolute;
+  width: 17px;
+  padding: 0 6px 0 0;
+  text-align: center;
+  right: 0;
+}
+/* line 51, ../scss/components/_popup.scss */
+.popupParent .header .closeBtn .closeButton {
+  cursor: pointer;
+  width: 17px;
+  height: 17px;
+  margin-top: 10px;
+  margin-left: -14px;
+  background-image: url("../images/close_normal.png");
+  background-repeat: no-repeat;
+  position: absolute;
+  z-index: 1;
+}
+/* line 63, ../scss/components/_popup.scss */
+.popupParent .header .closeBtn .closeButton:hover {
+  background-image: url("../images/close_selected.png");
+}
+/* line 68, ../scss/components/_popup.scss */
+.popupParent .header .bandPatch {
+  position: absolute;
+  width: 45px;
+  height: 40px;
+  top: 0;
+  background-image: url("../images/green/supportingfacts_right.png");
+}
+/* line 76, ../scss/components/_popup.scss */
+.popupParent .header .rightPatch {
+  left: -43px;
+}
+/* line 80, ../scss/components/_popup.scss */
+.popupParent .header .leftPatch {
+  right: -43px;
+  transform: rotateY(-180deg);
+  -webkit-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+}
+/* line 89, ../scss/components/_popup.scss */
+.popupParent .content {
+  position: relative;
+  padding: 10px;
+  min-height: 100px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+
+.transcriptButton,
+.transcriptButton .tooltiptexts {
+  transition: all 0.2s;
+}
+

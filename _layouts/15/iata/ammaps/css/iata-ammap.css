@@ -1,0 +1,51 @@
+﻿#chartdiv,#chartdivFT {
+    width: 98% !important;
+    height: 500px;
+    z-index: 10000;
+    padding-bottom: 250px;
+    margin: auto;
+}
+
+.amcharts-chart-div {
+    width: 98% !important;
+}
+.amcharts-balloon-div {
+z-index:100;
+max-height:600px;
+max-width: 200px !important;
+position: relative !important;
+}
+.amcharts-balloon-div  div{
+
+font: inherit !important;
+}
+
+.ammapDescriptionWindow {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 4px;
+    border: 2px solid rgba(255, 255, 255, 1);
+    z-index: 10001;
+}
+
+.ammapDescriptionTitle {
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #0a4279;
+}
+
+.ammapDescriptionText {
+    max-height: 200px;
+    overflow: auto;
+}
+
+    .ammapDescriptionText img, .ammapDescriptionText p {
+        max-width: 95%;
+    }
+
+#imgAnimationABCMap {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

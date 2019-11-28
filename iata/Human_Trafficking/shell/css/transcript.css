@@ -1,0 +1,141 @@
+.transcript {
+  background: none repeat scroll 0 0 #fff;
+  bottom: 0px;
+  background-color: #fff;
+  height: 190px;
+  position: absolute;
+  width: 360px;
+  right: 178px;
+  z-index: 5000;
+  display: none;
+  /* border: 2px solid #013f54; */
+}
+
+.transTitleBar span {
+  position: absolute;
+  top: 10px;
+  margin-left: 21px;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.transcript_btn_disable {
+  opacity: 1;
+  background-color: #ec3013 !important;
+  background-image: url(../images/transcript_btn_over.png);
+}
+
+.transcript * {
+  font-size: 14px;
+}
+
+#transcript {
+  z-index: 100000;
+}
+
+.popWraper {
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.popWraper .popHeader {}
+
+.mCS_destroyedopacity {
+  opacity: 0;
+}
+
+.popWraper .popHeader .close {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  right: 0PX;
+  text-align: center;
+  vertical-align: middle;
+  top: 0px;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.transTitleBar {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 45px;
+  width: 100%;
+  cursor: move;
+  /* background: url(../images/CC_Close.png) no-repeat; */
+}
+
+.transcript .popHeader .close {
+  cursor: pointer;
+}
+
+.popScroller {
+  position: absolute;
+  height: 115px;
+  width: 332px;
+  left: 22px;
+  top: 60px;
+}
+
+#shell_r_popup_header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#shell_r_popup_header .close {
+  background-image: url('../images/close_btn_over.png');
+  height: 45px;
+  width: 45px;
+  position: absolute;
+  top: 0;
+  cursor: pointer;
+  right: -1px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#shell_r_popup_header .close:hover {
+  background-image: url('../images/close_btn_over.png') no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #ec3013 !important;
+}
+
+.transcriptClicked {
+  background-image: url(../images/help_AT_btn_hover.png);
+}
+
+#transText .list_style {
+  margin-bottom: 15px;
+}
+
+#transText .list_style>li:before {
+  height: 6px;
+  left: 1px;
+  top: 9px;
+  width: 6px;
+}
+
+#transText .list_style>li {
+  margin-bottom: 2px;
+  padding-left: 15px;
+}
+
+.disableTranscript {
+  cursor: default !important;
+  pointer-events: none !important;
+  /* background-image: url(../images/transcript_disbled_state.png) !important; */
+}
+
+#transcript .mCSB_inside>.mCSB_container {
+  margin-right: 30px;
+  width: 95%;
+}

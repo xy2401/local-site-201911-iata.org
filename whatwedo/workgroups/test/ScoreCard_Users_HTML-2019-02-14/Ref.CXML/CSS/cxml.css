@@ -1,0 +1,779 @@
+@import "htmlLocalCore.css";
+
+/*IMPORTANT: Paths for images are relative to the CSS file, not HTML */
+
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #002f5b;
+}
+/*	line-height: 18px;*/
+
+.iatabody {
+	margin-left: 16px;
+	margin-right:6px;
+	margin-top:6px;
+	margin-bottom:6px;
+}
+
+/* 2013-11-25 Re-declare IATA font as per syntax found at Mozilla & stackoverflow (search: ie 10 font problem)
+This was good for the browsers only, not for the IATA Reader */
+/*
+@font-face {
+	font-family: "IATA Unicode Based";
+	src:	url('IATAUNI0.eot');
+	src:	url('IATAUNI0.eot?#iefix') format('embedded-opentype'),
+			url('IATAUniR.woff') format('woff'),
+			url('IATAUniR.ttf') format('truetype');
+}
+*/
+/*     src: local("IATA Unicode Based"), */
+
+
+a:link {color:#0075bc;text-decoration:none; border-bottom: none;}
+a:visited {color:#0075bc;text-decoration:none; border-bottom: none;}
+a:active {color:#0075bc;text-decoration:none; border-bottom: none;}
+a:hover {color:#0075bc;text-decoration:underline; border-bottom: none;}
+
+
+/* ================= Expand/Collapse =================== */
+
+.iatadivhide {
+	display: none;
+}
+
+.iatadivshow {
+	display: block;
+	margin-left: 18px;
+}
+
+
+
+.iataExpandCollapse { 
+	/*float: left; */
+	display: inline; 
+}
+.iataExpandCollapse img { margin-left: 2px; border: 0px; margin-right: 5px; margin-bottom: 4px; cursor: pointer;	vertical-align:middle;}
+
+.iataNoExpandCollapse{
+	display: inline-block;
+	/* background-image: url('../images/Home/no-expand.gif'); */
+	width: 14px;
+	height: 14px;
+	margin-right: 5px;
+	margin-left: 2px;
+	
+/*	padding-right: 18px;*/ /*icon width (13px) + margin-right*/
+}
+
+.iataCollapseImage {}
+.iataExpandImage {}
+
+
+
+.iataRightAlignedFloatingBox {
+	float:right;
+	border: none;
+	padding: 3px 5px 5px 5px;
+	background-color: rgb(237,237,237);
+	margin-top:inherit;
+}
+
+.iatafloatingline{
+	font-weight:bold;
+	padding-top: 5px;
+}
+
+.iataExpandAllOption
+{
+	cursor:pointer;
+	color:Blue;
+	text-decoration:underline;
+}
+.iataCollapseAllOption
+{
+	cursor:pointer;
+	color:Blue;
+	text-decoration:underline;
+}
+
+
+/* ======================= Sections and Headings =========================  */
+
+.iatah1, .iatah2, .iatah3, .iatah4, .iatah5, .iatah6 { 
+	display:block;
+}
+
+.iatah2 {font-weight: bold; font-size: 16px}
+
+.iatah1 {	font-size: 18px;}
+
+/* ============================================ */
+/* ================= Schema =================== */
+/* ============================================ */
+
+.iataXSDRoot {
+	margin-top: 0;
+	/*border-left: 1pt solid #c0c0c0;*/
+	
+}
+
+.iataElement {
+	margin-left: 0pt;
+	border-left: 1pt dotted #c0c0c0;
+	white-space: nowrap;
+}
+
+.iataElementName {
+	 font-weight: bold; 
+}
+
+.iataElementName a {
+	 font-weight: normal; 
+}
+
+.iataElementAttribute {
+	
+}
+
+.iataAttributeName {
+	
+}
+
+.iataAttributeContent {
+	
+}
+
+.iataElementContent {
+	color: #999999;
+}
+
+.iataEndTag {
+	display: inline;
+	color: #c0c0c0;
+}
+
+
+/* ============================================ */
+/* ============= Business Data ================ */
+/* ============================================ */
+
+.iataMessage{
+}
+
+.iataMHeading {
+	font-size: 180%;
+	font-weight: bold;
+	line-height: 150%;
+	margin: -15px 0 8px 0;
+	
+}
+
+.iataMName {
+	font-size: 150%;
+	font-weight: bold;
+	line-height: 150%;
+}
+
+.iataMAcronym {
+	display: block;
+	padding-left: 0pt;
+}
+
+
+.iataMessageSamples {
+	border: 1px dotted #999999;
+	padding: 1px;
+	font-size: 8pt;
+	font-weight: normal;
+	margin-top: 15px;
+	-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+
+.iataMessageSamplesHeading {
+	display: inline-block;
+	font-weight: bold;
+	font-size: 125%;
+	height: 25px;
+	line-height: 25px;
+}
+
+
+.iataMessageSample {
+	display: block;
+	margin-bottom: 5px;
+	margin-top:10px;
+}
+
+.iataMessageSampleDescription {
+}
+
+.iataMessageSamplePara {
+	margin-top: 2px;
+	margin-left: 30px;
+}
+
+
+
+.iataMessageHistory {
+	border: 1px dotted #999999;
+	padding: 1px;
+	font-size: 8pt;
+	font-weight: normal;
+	margin-top: 15px;
+	-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+
+.iataMessageHistoryHeading {
+	display: inline-block;
+	font-weight: bold;
+	font-size: 125%;
+	height: 25px;
+	line-height: 25px;
+}
+
+.iataVersion {}
+
+.iataVersionLabels {
+	padding-right: 6px;
+}
+
+.iataVersionNumber {
+	padding-left: 3pt;
+	padding-right: 3pt;
+}
+
+.iataVersionednumber {
+	padding-left: 3pt;
+	padding-right: 3pt;
+}
+
+.iatacimprefattribute {
+	margin-top: 6pt;
+}
+
+.iataLayoutLinks {}
+
+.iataMFuncName {
+	display: inline-block;
+	font-weight: bold;
+	height: 25px;
+	line-height: 25px;
+}
+
+.iataMGroup {
+	margin-top: 12pt;
+	border-left: 1px solid #c0c0c0;
+	background: url('../images/Home/iataMGroup-bg.gif') top repeat-x;
+	-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+.iataMGroup1 {
+	margin-top: 12pt;
+	border-left: 1px solid #a6d6f5;
+	background: url('../images/Home/iataMGroup1-bg.gif') top repeat-x;
+		-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+
+.iataMGroup2 {
+	margin-top: 12pt;
+	border-left: 1px solid #bccf1b;
+	background: url('../images/Home/iataMGroup2-bg.gif') top repeat-x;
+		-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+.iataMGroup3 {
+	margin-top: 12pt;
+	border-left: 1px solid #ffdb00;
+	background: url('../images/Home/iataMGroup3-bg.gif') top repeat-x;
+		-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+
+.iataMGroup4 {
+	margin-top: 12pt;
+	border-left: 1px solid #e7e7e7;
+	background: url('../images/Home/iataMGroupX-bg.gif') top repeat-x;
+		-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+.iataMGroup5 {
+	margin-top: 12pt;
+	border-left: 1px solid #e7e7e7;
+	background: url('../images/Home/iataMGroupX-bg.gif') top repeat-x;
+		-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+
+.iataMGroup6 {
+	margin-top: 12pt;
+	background: url('../images/Home/iataMGroupX-bg.gif') top repeat-x;
+		-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+.iataMGroup7 {
+	margin-top: 12pt;
+	background: url('../images/Home/iataMGroupX-bg.gif') top repeat-x;
+		-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+.iataMGroup8 {
+	margin-top: 12pt;
+	background: url('../images/Home/iataMGroupX-bg.gif') top repeat-x;
+		-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+.iataDataElement {
+	margin-top: 12pt;
+	/*margin-left: 18px;*/
+	padding: 5px 10px;
+	background-color: #f2f9fe;
+	border: 1px solid #efefef;
+	-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+}
+
+.iataDataElement .iataMFuncName {
+	background-color: transparent;
+	font-weight: bold;
+}
+
+.iataMFuncName {
+	font-size: 10pt;
+}
+
+
+.iataMMOMOccMDataType {
+	height: 30px;
+	line-height: 30px;
+}
+
+.iataMMO {
+
+	padding-right: 20pt;
+}
+
+.iataMMO img {
+	vertical-align:middle;
+	margin-bottom:4px;
+	margin-right: 2px;
+}
+
+.iataMOcc {
+	padding-right: 20pt;
+}
+
+.iataMDataType {}
+
+.iataCIMPchar {}
+
+.iataMDescription {}
+.iataMRecLength {}
+.iataMCondition {}
+
+
+.iataMCondition img {
+	vertical-align:middle;
+	margin-bottom:4px;
+	margin-right: 2px;
+}
+
+.iatacodes {}
+
+.iataMCode {
+	padding-right: 20pt;
+}
+
+.iataMCodeList {
+	display: inline;
+	padding-right: 12pt;
+}
+
+.iataMExampleNote {}
+
+.iataUN-WCO {
+	display: block;
+}
+
+.iataUNTDEDref {
+	padding-right: 12pt;
+}
+
+.iataWCOref {}
+
+.iataCIMPrefGroup {}
+
+.iataCIMPref {
+	display: inline;
+	padding-right: 6pt;
+}
+
+.iataMExternalRefGroup {}
+
+.iataMExternalRef {
+	display: block;
+	/*padding-right: 6pt;*/
+}
+
+.iataMLayout {}
+
+.iataMLayoutExample {}
+
+.iatacgHeading {
+}
+
+
+.iataFAQs {}
+
+.iataQuestion {	color: #0075bc;}
+
+.iataFAQHeading {
+	font-size: 18px;
+	 font-weight: bold
+}
+
+.iataFAQsGeneratedList {
+	display: block;
+	margin-top: 12pt;
+	margin-bottom: 24pt;
+}
+
+.iataFAQsListQuestion {
+	margin-bottom: 3pt;
+}
+
+.iataFAQ {
+	padding: 1px;
+	font-weight: normal;
+	margin-top: 12px;
+/*	border: 1px dotted #999999;
+	-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px
+	}
+*/
+}
+
+.iataFAQQuestion {
+	margin-bottom: 6pt;
+}
+
+.iataFAQNumber {
+	font-weight: bold;
+	display: inline;
+	padding-right: 6pt;
+}
+
+.iataFAQNumber:before {
+	content: "Question ";
+}
+
+.iataFAQAnswer {
+	display: block;
+	color: #002f5b;
+}
+
+.iatalabel {
+	color: #999999;
+}
+
+/*========================== ToC ============================ */
+
+.iatatoc {
+	/*margin-left: -38px; */
+}
+
+.iataFAQHeadingtoc {}
+
+.iataFAQHeadingtocText {}
+
+
+.iataSection1Headingtoc {
+	margin-bottom: 6pt;
+}
+
+.iataSection1HeadingtocText {
+	font-weight: bold;
+	white-space: nowrap;
+}
+
+.iataSection2Headingtoc {
+	margin-bottom: 3pt;
+	white-space: nowrap;
+}
+
+.iataSection2HeadingtocText a {font-weight: normal;}
+
+/*======================= Codes ToC ======================== */
+
+.iataCodescodestoc {
+	margin-bottom: 30pt;
+}
+
+.iataCodesSection2toc{} 
+
+.iataCodesSection2Headingtoc {
+	font-weight: bold;
+}
+
+.iataCodesCodestoc {
+	margin-left: 16pt;
+}
+
+.iataCodesNametoc {}
+
+.iataCodesCodeContexttoc {
+	margin-left: 16pt;
+}
+
+.iataCodesCodeContextNametoc {}
+
+
+
+/* ====================== Support ========================== */
+
+
+.iata-cxml-support .iataSection2 .iataList {
+	margin:0;
+ 	padding: 15px 15px 0 15px;
+	display: block;
+}
+
+.iata-cxml-support .iataSection2 .iataPara {
+	margin:0;
+ 	padding: 15px;
+	display: block;
+}
+
+.iata-cxml-support .iataSection2 {
+	float: left;
+	display: block;
+	margin-top:15px;
+	margin-right:15px;
+	width: 31%;
+	/*height: 450px;*/ /*2012-10-30 was 375*/
+	height: auto;
+	/*overflow: auto;*/
+	border: 1px solid #ddd;
+	-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px;
+}
+
+/*
+*[id="cxml-support-1.2-toscroll"] {
+	display: block;
+	height: 414px;
+	overflow: auto;
+	margin-top: 0px;
+	padding-top: 2px;
+}
+*/
+
+.iata-cxml-support .iataSection2 .iatah2 { 
+	display:block;
+		background-color: #f2f9fe;
+	border-bottom: 1px solid #ddd;
+	margin: 0;
+	padding: 10px 15px 7px 15px;
+	-webkit-border-top-left-radius:6px;
+		-moz-border-top-left-radius:6px;
+			border-top-left-radius:6px;
+		-webkit-border-top-right-radius:6px;
+		-moz-border-top-right-radius:6px;
+			border-top-right-radius:6px;
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+
+*[id="cxml-support-1.1"] .iatah2 {background-image: url('../images/ico-email.gif');}
+
+*[id="cxml-support-1.2"] .iatah2 {background-image: url('../images/ico-phone.gif');}
+
+*[id="cxml-support-1.3"] .iatah2 {background-image: url('../images/ico-mail.gif');}
+
+
+
+/* ====================== CIMP + Downloads ========================== */
+
+.iataCIMPrefFullPDF, .iataCIMPrefInCXML, .iataCIMPrefGridsCXML, .iataCIMPrefOtherPDFs, .iataCIMPprevEditions, .iataDownloadsSchemasZip, .iataDownloadsSurveyResults, .iataDownloadsOthers, .iataDownloadsSamples {
+
+	float: left;
+	padding-bottom: 10px;
+	display: block;
+	margin-top:20px;
+	margin-right:15px;
+	width: 48%;
+	border: 1px solid #ddd;
+	-webkit-border-radius:6px;
+		-moz-border-radius:6px;
+			border-radius:6px;
+}
+
+/*.iataDownloadsSurveyResults, .iataDownloadsOthers  {height: 150px;}*/
+
+.iataCIMPrefHeading {	display:block;
+		background-color: #f2f9fe;
+	border-bottom: 1px solid #ddd;
+	padding: 10px 15px 7px 15px;
+	-webkit-border-top-left-radius:6px;
+		-moz-border-top-left-radius:6px;
+			border-top-left-radius:6px;
+		-webkit-border-top-right-radius:6px;
+		-moz-border-top-right-radius:6px;
+			border-top-right-radius:6px; font-weight: bold;
+				font-size: 14px;
+	font-weight: bold;}
+	
+
+
+.iataCIMPPDF {float: left; margin-left: 15px; margin-top: 10px;}
+
+.iatacimppreviouseditions {
+	display: block;
+	margin-top: 26pt;
+}
+
+.iatacimppreviouseditions .iatah2 {
+	display: block;
+	margin-top: 26pt;
+}
+
+.iataCIMPprevEd {
+	display: block;
+	margin-left: 15px; 
+	margin-top: 10px;
+}
+
+.iataSchemaZip, .iataPPoint {margin-left: 15px; margin-top: 4px}
+
+.iataDownloadsSchemasZip .iatah2, .iataDownloadsSurveyResults .iatah2, .iataDownloadsOthers .iatah2, .iataDownloadsSamples .iatah2  { 
+	display:block;
+		background-color: #f2f9fe;
+	border-bottom: 1px solid #ddd;
+	margin-top: 0;
+	margin-bottom: 10px;
+	padding: 10px 15px 7px 15px;
+	-webkit-border-top-left-radius:6px;
+		-moz-border-top-left-radius:6px;
+			border-top-left-radius:6px;
+		-webkit-border-top-right-radius:6px;
+		-moz-border-top-right-radius:6px;
+			border-top-right-radius:6px;
+}
+
+
+/* ======================================================= */
+/* ================= JavaScript Related ================== */
+/* ======================================================= */
+
+.iatacxmlopen {
+	color: #0075bc;
+	text-decoration: none;
+	border-bottom: none;	
+}
+
+.iatacxmlopen:hover {
+	color: #0075bc;
+	text-decoration: underline;
+	border-bottom: none;	
+	cursor: pointer;
+}
+
+.iataTLEhighlight {
+	border-left: 6px solid #ea3014;
+	border-top: 1px dotted #ea3014;
+	border-bottom: 1px dotted #ea3014;
+}
+
+.iataElemHighlight {
+	border-left: 6px solid #ea3014;
+	border-top: 1px dotted #ea3014;
+	border-bottom: 1px dotted #ea3014;
+}
+
+.iataElemNoHighlight {
+	border-left: 6px solid #ea3014;
+	border-top: 1px dotted #ea3014;
+	border-bottom: 1px dotted #ea3014;
+}
+
+/* ============================================ */
+/* =========== User Capabilities ============== */
+/* ============================================ */
+
+.iataucUser {
+	margin-top: 18pt;
+	padding: 2px;
+	/* border: 1px solid #c0c0c0;*/
+	
+}
+
+.iataucCieInfo{}
+
+.iataucCieInfo > .iataucName {
+	font-size: 200%;
+	font-weight: bold;
+}
+
+.iataucmessages .iataNotes {
+	display: block;
+	margin-top: 0px;
+	font-style:italic;
+	padding-left: 0px;
+}
+
+.iataucmessages .iataNote{
+	display: block;
+	font-style:italic;
+	margin-top: 0px;
+}
+
+/* ============================================ */
+/* ============== Code Lists ================== */
+/* ============================================ */
+
+/*
+#cxml-codes-CIMP tr:nth-child(even) {
+	background-color: #e5eff8;
+}
+
+#cxml-codes-CIMP td {
+	border-bottom: none;
+}
+*/
+
+#cxml-codes-CIMP Table {
+	border-top:1px solid #e5eff8;
+	border-bottom:1px solid #e5eff8;
+}
+
+.iatacxmlcodescolor {
+	background-color: #e5eff8;
+}

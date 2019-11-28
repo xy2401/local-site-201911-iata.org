@@ -1,0 +1,234 @@
+.component_button{
+  width: 110px;
+    height: 36px;
+    background-color: #013772;
+    /* background-color: transparent; */
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    font-size: 18px;
+    box-sizing: content-box;
+    text-align: center;
+    /* border: none; */
+    cursor: pointer;
+    font: 18px arial;
+    align-items: unset;
+    line-height: 36px;
+}
+.component_button:not(.disabled):hover{
+	 /* background-color: #ec3015 !important;
+	border: 3px solid #F2AE00 !important;
+	color:#fff;  */
+}
+.component_button.disabled{
+  /*background-color: rgba(163, 163, 163, 0.6)!important;*/
+    /* color: rgb(0, 155, 61);
+    border: 3px solid rgb(0, 155, 61); */
+	opacity:0.5;
+	cursor: default;
+}
+
+.component_feedback_popup .close:hover{
+
+	color:#F2AE00; 
+}
+
+.component_feedback_popup .close{
+    font-size: 30px;
+    font-weight: normal;
+    padding: 0px;
+    border: 0px;
+    background-color: rgba(0,0,0,0);
+    color: #FFF;
+    border-radius: 0;
+    width: 37px;
+    height: 37px;
+    top: 0px;
+    
+    position: absolute;
+    cursor: pointer;
+}
+
+.component_button.close{
+  /*font-family: "OpenSans-Regular";
+  font-size: 30px;
+  font-weight: normal;
+  padding: 0;*/
+  font-family: "OpenSans-Regular";
+  font-size: 30px;
+  font-weight: normal;
+  padding: 0;
+  border: 0px;
+  /* background-color: #009A3d; */
+  color: #FFF;
+  border-radius: 0;
+}
+.component_radio,
+.component_checkbox{
+  border: none;
+  padding: 10px;
+  background-color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+
+.component_checkbox .tick,
+.component_radio .tick{
+  position: relative;
+  float: left;
+  width: 0;
+  height: 0;
+}
+
+
+.component_checkbox .cross,
+.component_radio .cross{
+  position: relative;
+  float: left;
+  width: 0;
+  height: 0;
+}
+
+
+.component_checkbox.correct_tick .tick,
+.component_radio.correct_tick .tick{
+  width: 14px;
+  height: 6px;
+  transform: rotate(-45deg);
+  border-left: 2px solid green;
+  border-bottom: 2px solid green;
+  margin-top: 6px;
+  margin-right: 6px;
+}
+
+.component_checkbox.cross_tick .cross,
+.component_radio.cross_tick .cross{	
+	width: 13px;
+	height: 13px;
+    background: 
+   linear-gradient(to top left,
+       rgba(0,0,0,0) 0%,
+       rgba(0,0,0,0) calc(50% - 0.8px),
+       rgba(255, 0, 0, 1) 50%,
+       rgba(0,0,0,0) calc(50% + 0.8px),
+       rgba(0,0,0,0) 100%),
+   linear-gradient(to top right,
+       rgba(0,0,0,0) 0%,
+       rgba(0,0,0,0) calc(50% - 0.8px),
+       rgba(255, 0, 0, 1) 50%,
+       rgba(0,0,0,0) calc(50% + 0.8px),
+       rgba(0,0,0,0) 100%);
+	   margin-top: 6px;
+       margin-right: 6px;	
+}
+
+
+
+.component_checkbox.incorrect_tick .tick,
+.component_radio.incorrect_tick .tick{
+  width: 14px;
+  height: 6px;
+  margin-top: 0px;
+  margin-right: 8px;
+}
+.component_checkbox.incorrect_tick .tick:before,
+.component_radio.incorrect_tick .tick:before{
+  content: "\274c";
+  color: red;
+  font-size: 16px;
+}
+
+.component_radio .icon,
+.component_checkbox .icon{
+  position: relative;
+  height: 20px;
+  width: 20px;
+  /*border: 2px solid #169EDA;*/
+  border: 2px solid #efb001;
+  display: inline-block;
+  float: left;
+  padding: 0;
+  margin: 2px;
+  margin-right: 10px;
+  top:0px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+.component_radio .icon{
+	background-image: url(../../templates/mcq/assets/image/single.png);
+	  width:20px;
+	  height:20px;
+	  border:none;
+}
+
+.component_checkbox .icon{
+ background-image: url(../../templates/mmcq/assets/image/check_box_nor.png);
+	  width:20px;
+	  height:20px;
+	  border:none;
+
+}
+.component_checkbox .icon:hover{
+	background-image: url(../../templates/mmcq/assets/image/check_box_hover.png);
+	  width:20px;
+	  height:20px;
+	  border:none;
+}
+
+
+.component_radio .icon:hover{		
+	  background-image: url(../../templates/mcq/assets/image/single_roll.png);
+	  width:20px;
+	  height:20px;
+	  border:none;
+}
+.lockhover{
+  cursor:default;
+}
+.component_radio .icon{
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+}
+.component_radio .label,
+.component_checkbox .label{
+  color: #5d5d5d;
+  top: 0;
+  position: relative;
+  text-align: left;
+  
+  font-size: 16px;
+  display: table-cell;
+  font-weight:normal;
+}
+.component_radio.selected .icon{
+  /*border: 6px solid #169EDA;*/
+  /* border: 6px solid #06616d; */
+  background-image: url(../../templates/mcq/assets/image/single_selected.jpg);
+  width:20px;
+  height:20px;
+  border:none;
+}
+.component_checkbox.selected .icon{
+	background-image: url(../../templates/mmcq/assets/image/check_box_selected.png);
+  width:20px;
+  height:20px;
+  border:none;
+
+}
+
+
+.component_radio.selected,
+.component_radio.selected .icon,
+.component_radio.selected .label{
+  cursor: default;
+}
+.component_checkbox.selected,
+.component_checkbox.selected .icon,
+.component_checkbox.selected .label{
+  cursor: pointer;
+}

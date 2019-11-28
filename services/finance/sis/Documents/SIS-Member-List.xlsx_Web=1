@@ -1,0 +1,173 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link id="m_shortcutIcon" rel="shortcut icon" type="image/vnd.microsoft.icon" href="https://www.iata.org/_layouts/15/images/FavIcon_Excel.ico?rev=ShtQICRP45Dy46zfHHAlEA%3D%3D" />
+<style type="text/css"> html, body { overflow: hidden; margin: 0; padding: 0; } body, div.ewaContainer { position: absolute; top: 0; right: 0; bottom: 0; left: 0; } div.ewaContainer { overflow: hidden; top: 0; } </style>
+<script type="text/javascript"> var bsqmXLSPageLoadStartTime = new Date(); </script>
+<![if gte IE 8]> <style type="text/css"> #load_back{width:100%;height:100%;opacity:.7;background-color:#fff;position:absolute;z-index:1050;text-align:center;} #load_img{width:100%;height:100%;position:absolute;text-align:center;} #load_img img{z-index:1051;position:relative;} .load_center{position:absolute;left:0;right:0;bottom:50%;} .load_center img{margin:5px;} </style> <![endif]>
+<link href="https://www.iata.org/_layouts/15/1033/styles/EwrDefault.css?rev=%2Bt5eGUa0oj%2FmSr27pzPkfw%3D%3D" rel="Stylesheet" type="text/css" /><link href="https://www.iata.org/_layouts/15/styles/ExcelRibbon.css?rev=T2A3tsjEXX5wbCr%2BmKFWpQ%3D%3D" rel="Stylesheet" type="text/css" /><link href="https://www.iata.org/_layouts/15/1033/styles/excelframe.css?rev=oqCYN8hjVLFrlIEOAmHb2g%3D%3D" rel="Stylesheet" type="text/css" /><title>
+	Excel Web Access - /services/finance/sis/Documents/SIS-Member-List.xlsx
+</title></head>
+<body>
+<![if gte IE 8]> <div id="load_back"></div> <div id="load_img"> <div class="load_center">
+<img align="absmiddle" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKkAAAAgCAMAAABetKgNAAAANlBMVEX///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///9HkYW8AAAAEHRSTlMAv0CA758w31BgII9wEM+vbWkBUwAAA8JJREFUeF7tlluTnTgMhPEFbO7d///PbllSoWNvsjVskpfU9MMZCwv6MyVpmP56UTRe4vtHvMt3fd0mAom9b4yvvDntob4hDa7pNalj7gVN9/Z10hXAG1K4/i8puWSY4ivS/I40/+o75ZaBkuqarjekU7rjO9Lwq3XKGZgpqgv/WEcBYUh/T5oB0vv/rd6TUtSt+KhbD6RA6QA90wLXmNBHPw8G0jWEpBm1rVrinAGUfWpBvdt63siRFCA/QTe57Y7iEMLOeiHXEGZL4xHCIhuSHs2FowvPuQC44kh6ZmBp+MzIW+P0seBBXsie9GoBHXSFaSXFQS7EAizUjIJ8mrW7IPYuPlMSx46qEk3cgcPY5hqPAH1e3uMa0Ex60gptKQtXvW0Wb6kN4E4XD2BX0ij5QvrpEkeXdmONqRhpSapIMgCVNPzDTkZGoblOKn7qSM2sVGUls922ApeQWty8SMtfjPTTZXtcJnGJwC21ugnpo0RxKY03b2xrLGZOXi2wTi/j/6hmBwTJZgIOzbyBjdRHW7xQq+yikP7YRVOKmlB2RlI54UHg0FKYvVmBm6oAOKmKXAIgt7WqzVQdQBVSPmWxU/+uWsCDy9a5NJNykj6lJpPQB+SixZqA+lmKIakCEJ1URbJmq1avJy0U4DJSZj3EjXwaae8SB5cMlJXC2ndUixcAWepCislImODqSZ311m6HS0h9unBvWNzkRGa9A/FnLtr7Ofk87QyL1T0DsH2SXuHRMpB6Y5UpAtkz1450EcZDitFIw/A+yqcLNxla1/JvUjmj1nF/2lUuupzUJd2hY9L16UCt4QsXH9L/dKGxXuRIKgRyTGsuv66FbzLSQbTiyvStzkF6bJF+sg114eDisvG/DKQ6pU4Cl48/25BRbGuO89TSWAAp1+qZPSmBe0emk26w/mZTRvaA1GUCopG6mots7TooZpo4+wDZp4E0r89UuqhfyKq6Du+CN/KF2ZtZXU6BWtRFgzNN3Bb1M1LkrvoFp7Q9bjYk6oyJlCAy7gUjKVD2NR4BQKXUQE6R8biQRtIKWAvZhrnEWGeQtEBdIuYaY4KUE+FKzDagIlC0QkzTZ/AD0u6ThNcTHyMpi/aHk7oLOPUuEaYqs8i1phCkusk9hEry3AWvHJN0oQR53kguIazebr6jNZYKAPvss487E48Qqoa2QXfhRHdpjrc+ZhGoqRf5/LJ5TluMpyykkp5AsryjuMW4keQYa+Qu9NBWj8uTbS62jp7WaxqfYss+8NwRoM/8mqgaIuf43frWt771DxOvhlsj8qtsAAAAAElFTkSuQmCC" />
+<br />  <img align="absmiddle" src="data:image/gif;base64,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" /> </div> </div><![endif]>
+<form method="post" action="./xlviewer.aspx?id=%2fservices%2ffinance%2fsis%2fDocuments%2fSIS-Member-List.xlsx" id="ctl01" dir="ltr">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINTUyMzg4MDUPZBYEZg9kFgICAg8WAh4EaHJlZgVaaHR0cHM6Ly93d3cuaWF0YS5vcmcvX2xheW91dHMvMTUvaW1hZ2VzL0Zhdkljb25fRXhjZWwuaWNvP3Jldj1TaHRRSUNSUDQ1RHk0NnpmSEhBbEVBJTNEJTNEZAIBDxYCHgNkaXIFA2x0cmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFPW1fZXhjZWxXZWJSZW5kZXJlciRld2FDdGwkbV9wYXJhbWV0ZXJzVGFza1BhbmUkbV9leHBhbmRvSW1hZ2XdymxC6Ut5oJsJwwqfSEAtUVbSXIvk4vKW812I22JeCg==" />
+<script type="text/javascript">
+//<![CDATA[
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = null;
+var g_wsaSiteTemplateId = 'IATA#2';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fservices\u002ffinance\u002fsis", webAbsoluteUrl: "https:\u002f\u002fwww.iata.org\u002fservices\u002ffinance\u002fsis", siteAbsoluteUrl: "https:\u002f\u002fwww.iata.org", serverRequestPath: "\u002f_layouts\u002f15\u002fxlviewer.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Simplified Invoicing and Settlement", webTemplate: "10020", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002f_layouts\u002fimages\u002ftitlegraphic.gif", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2019-11-27T21:17:48.7647247Z") - new Date(), siteClientTag: "367$$15.0.5127.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673}, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};//]]>
+</script>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=R500FBwHjH3TO5LeC6KbFQ%3D%3D"></script>
+<script type="text/javascript">
+//<![CDATA[
+function _ewa_oile(a,b){a.alt=b;a.className='ewrchart-img-err';a.scrollLeft=a.scrollTop=0;}//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0AD36632" />
+<noscript class="ewa-root-noscript">
+				Unable to load because JavaScript is disabled.  Enable JavaScript and try again.
+			</noscript>
+<div id="ewaContainer" class="ewaContainer">
+<div id="m_excelWebRenderer_ewaCtl_m_ewa" class="ewa-root-ltr" role="application" dir="ltr">
+<div id="m_excelWebRenderer_ewaCtl_msospAFrameContainer" class="msospAFrameContainer">
+<input name="m_excelWebRenderer$ewaCtl$m_workbookContextJson" type="text" id="m_excelWebRenderer_ewaCtl_m_workbookContextJson" style="display:none" value="{&quot;CloseUri&quot;:&quot;\/services\/finance\/sis\/Documents&quot;,&quot;Configurations&quot;:1585920,&quot;CurrentVisibleSelection&quot;:{&quot;CurrentFirstColumn&quot;:1,&quot;CurrentFirstColumnVisibleOffset&quot;:0,&quot;CurrentFirstRow&quot;:1,&quot;CurrentFirstRowVisibleOffset&quot;:0},&quot;DataModelSizeOnDisk&quot;:0,&quot;DefaultHyperlinkStyle&quot;:&quot;color:#0563C1;text-decoration:underline;&quot;,&quot;EditUrl&quot;:&quot;&quot;,&quot;InitialStateId&quot;:1,&quot;NamedObjects&quot;:null,&quot;NovMode&quot;:1,&quot;Options&quot;:8,&quot;PermissionFlags&quot;:786361,&quot;PlainTextClientWorkbookUri&quot;:null,&quot;RedirectUrl&quot;:null,&quot;RequestId&quot;:null,&quot;Selection&quot;:{&quot;FirstColumn&quot;:12,&quot;FirstRow&quot;:59,&quot;NamedObjectName&quot;:&quot;&quot;,&quot;SheetName&quot;:&quot;SIS Participants&quot;,&quot;LastColumn&quot;:12,&quot;LastRow&quot;:59},&quot;SessionId&quot;:&quot;36.fbfa6ef9-567b-4f33-b80e-828668658f741.D91.1.V23.1196qzJ5Ji\/YP6iDaCncJqs14.5.en-US5.en-US36.eb484148-a84e-4ebc-87a7-47a828c7f4101.A1.N&quot;,&quot;SheetTabs&quot;:[{&quot;SheetName&quot;:&quot;SIS Participants&quot;,&quot;SheetOptions&quot;:4,&quot;SheetType&quot;:0,&quot;TabColor&quot;:null,&quot;Visible&quot;:0}],&quot;SurveyTitle&quot;:null,&quot;TaskPaneParameters&quot;:null,&quot;TransientEditSessionToken&quot;:null,&quot;WebExtensions&quot;:null,&quot;WebExtensionsImagesFolderUrl&quot;:null,&quot;WebExtensionsLayoutsFolderUrl&quot;:null,&quot;WebExtensionsStylesFolderUrl&quot;:null,&quot;WorkbookFileName&quot;:&quot;SIS-Member-List.xlsx&quot;,&quot;WorkbookFileVersionId&quot;:&quot;Monday, 25 November 2019 02:03:52&quot;,&quot;WorkbookMetadataState&quot;:{&quot;MetadataVersion&quot;:0,&quot;ServerEventVersion&quot;:0},&quot;WorkbookUri&quot;:&quot;https:\/\/www.iata.org\/services\/finance\/sis\/Documents\/SIS-Member-List.xlsx&quot;}" />
+<div id="m_excelWebRenderer_ewaCtl_headerDiv">
+<div id="m_excelWebRenderer_ewaCtl_infoBarDiv">
+</div>
+<div id="m_excelWebRenderer_ewaCtl_ribbonContainer" style="display:none;" lang="en-US">
+<div id="m_excelWebRenderer_ewaCtl_ribbonPlaceHolder" class="ewa-ribbon"></div>
+</div>
+<div id="m_excelWebRenderer_ewaCtl_readModeToolBarContainer" lang="en-US" style="display:;">
+<div id="m_excelWebRenderer_ewaCtl_readModeToolbarPlaceHolder" class="ewa-readmodetoolbar"></div>
+<span id="m_excelWebRenderer_ewaCtl_m_novDropDown" class="rmt-nov-cntr"></span>
+</div>
+<div id="m_excelWebRenderer_ewaCtl_businessBar" class="ewa-bb" style="display:none" aria-live="assertive"></div>
+<div id="m_excelWebRenderer_ewaCtl_formulaBarEditBox" class="ewa-fb" style="display:none;">
+<div id="m_excelWebRenderer_ewaCtl_functionboxButton" class="functionbox">
+<div class="clip13x13">
+<img title="Insert Function" class="ewaboot_formulabar13" src="https://www.iata.org/_layouts/15/1033/images/EwaCommon.png?rev=ne%2B0bC2rMNKF3q%2BG5T7%2Fxg%3D%3D" alt="Insert Function" />
+</div>
+</div><textarea name="m_excelWebRenderer$ewaCtl$formulaBarTextArea" rows="2" cols="20" id="m_excelWebRenderer_ewaCtl_formulaBarTextArea" class="ewa-fb-text-box" spellcheck="false" wrap="virtual"></textarea>
+</div>
+</div>
+<div id="m_excelWebRenderer_ewaCtl_clientAreaDiv" class="ewa-clientarea ewa-clientarea-read">
+<div id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_m_root" class="ewa-ptp-expanded ewa-ptp-ltr ewa-ptp-border-ltr" dir="ltr" dir="ltr" style="display: none">
+<input type="hidden" name="m_excelWebRenderer$ewaCtl$m_parametersTaskPane$m_expandedField" id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_m_expandedField" value="true" />
+<div id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_ptpTitle" class="ewa-ptp-title">
+<div id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_m_title_inner" title="Parameters" class="ewa-ptp-title-inner">
+Parameters
+</div>
+</div>
+<div id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_m_expandoInner" title="Hide Parameters Task Pane" class="ewa-ptp-expando">
+<div class="clip16x16">
+<input type="image" name="m_excelWebRenderer$ewaCtl$m_parametersTaskPane$m_expandoImage" id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_m_expandoImage" title="Hide Parameters Task Pane" class="ewa-ptp-collapseimg-ltr" src="https://www.iata.org/_layouts/15/1033/images/EwaCommon.png?rev=ne%2B0bC2rMNKF3q%2BG5T7%2Fxg%3D%3D" alt="Hide Parameters Task Pane" />
+</div>
+</div>
+<div id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_m_body">
+<div id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_ptpDescription" class="ewa-ptp-description">
+The following parameters are used in this workbook:
+</div>
+<div id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_m_parametersSection" class="ewa-ptp-parameters ewa-scrollbars">
+</div>
+<div id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_ptpButtons" align="bottom" class="ewa-ptp-buttons ">
+<button id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_m_applyButton" type="submit" class="ewa-ptp-button ewa-ptp-applybutton">APPLY</button>
+<button id="m_excelWebRenderer_ewaCtl_m_parametersTaskPane_m_resetButton" type="button" class="ewa-ptp-button">CLEAR</button>
+</div>
+</div>
+</div>
+<div id="m_excelWebRenderer_ewaCtl_m_fieldManagerPane_m_root" class="ewa-flp-ltr ewa-flp-border-ltr" data-cssfile="https://www.iata.org/_layouts/15/1033/styles/FieldListPane.css?rev=w%2FJzCAJf%2B5fHt78Eau8mHw%3D%3D" dir="ltr">
+</div>
+<div id="m_excelWebRenderer_ewaCtl_contentAreaDiv" class="ewa-contentarea" role="main">
+<textarea name="m_excelWebRenderer$ewaCtl$gridKeyboardInput" id="m_excelWebRenderer_ewaCtl_gridKeyboardInput" class="ewa-gridKeyHandler" spellcheck="false" autocomplete="false" wrap="virtual"></textarea>
+<div id="m_excelWebRenderer_ewaCtl_gridReadingDiv" class="ewa-gridReader" role="gridcell" aria-live="polite"></div>
+<div id="m_excelWebRenderer_ewaCtl_gridDiv" class="ewa-grid-ltr">
+<table id="m_excelWebRenderer_ewaCtl_scrollTable" cellspacing="0" cellpadding="0" role="presentation" dir="ltr" class="ewr-grdcontarea-ltr">
+<tr>
+<td valign="top"><div id="m_excelWebRenderer_ewaCtl_headersCornerDiv" class="ewr-hdrcornercontainer ewrol-cmax0 ewrol-rmax0" role="presentation">
+<div class="ewr-grdblk">
+<a class="ewrol-btn ewrol-cl0" href="#" onclick="_Ewa.Gim.scol(event,1,-1)">1</a>
+<a class="ewrol-btn ewrol-cl1" href="#" onclick="_Ewa.Gim.scol(event,2,-1)">2</a>
+<a class="ewrol-btn ewrol-cl2" href="#" onclick="_Ewa.Gim.scol(event,3,-1)">3</a>
+<a class="ewrol-btn ewrol-cl3" href="#" onclick="_Ewa.Gim.scol(event,4,-1)">4</a>
+<a class="ewrol-btn ewrol-cl4" href="#" onclick="_Ewa.Gim.scol(event,5,-1)">5</a>
+<a class="ewrol-btn ewrol-cl5" href="#" onclick="_Ewa.Gim.scol(event,6,-1)">6</a>
+<a class="ewrol-btn ewrol-cl6" href="#" onclick="_Ewa.Gim.scol(event,7,-1)">7</a>
+<a class="ewrol-btn ewrol-cl7" href="#" onclick="_Ewa.Gim.scol(event,8,-1)">8</a>
+<a class="ewrol-btn ewrol-rl0" href="#" onclick="_Ewa.Gim.srol(event,1,-1)">1</a>
+<a class="ewrol-btn ewrol-rl1" href="#" onclick="_Ewa.Gim.srol(event,2,-1)">2</a>
+<a class="ewrol-btn ewrol-rl2" href="#" onclick="_Ewa.Gim.srol(event,3,-1)">3</a>
+<a class="ewrol-btn ewrol-rl3" href="#" onclick="_Ewa.Gim.srol(event,4,-1)">4</a>
+<a class="ewrol-btn ewrol-rl4" href="#" onclick="_Ewa.Gim.srol(event,5,-1)">5</a>
+<a class="ewrol-btn ewrol-rl5" href="#" onclick="_Ewa.Gim.srol(event,6,-1)">6</a>
+<a class="ewrol-btn ewrol-rl6" href="#" onclick="_Ewa.Gim.srol(event,7,-1)">7</a>
+<a class="ewrol-btn ewrol-rl7" href="#" onclick="_Ewa.Gim.srol(event,8,-1)">8</a>
+</div>
+</div></td><td valign="top"><div id="m_excelWebRenderer_ewaCtl_columnHeadersDiv" class="ewr-colhdrcontainer" role="presentation">
+</div></td>
+</tr><tr>
+<td valign="top"><div id="m_excelWebRenderer_ewaCtl_rowHeadersDiv" class="ewr-rowhdrcontainer" role="presentation">
+</div></td><td valign="top"><div id="m_excelWebRenderer_ewaCtl_sheetContentDiv" class="ewr-sheetcontainer" role="presentation">
+</div></td>
+</tr>
+</table>
+<div id="m_excelWebRenderer_ewaCtl_chartContentDiv" role="presentation" dir="ltr" class="ewr-chrtcontarea-ltr ewa-scrollbars" style="display:none;">
+&nbsp;
+</div>
+<div id="m_excelWebRenderer_ewaCtl_webExtensionContentDiv" role="presentation" dir="ltr" class="ewr-chrtcontarea-ltr ewa-scrollbars" style="display:none;">
+&nbsp;
+</div>
+<div id="m_excelWebRenderer_ewaCtl_interactiveReportContentDiv" role="presentation" dir="ltr" class="ewr-chrtcontarea-ltr" style="display:none;">
+</div>
+<div id="m_excelWebRenderer_ewaCtl_emptyContentDiv" class="ewr-emptycontarea" role="presentation" style="display:none;">
+&nbsp;
+</div>
+</div>
+<div id="m_excelWebRenderer_ewaCtl_m_sheetTabBar" style="display: none; visibility: false;" role="presentation"></div>
+<script role="presentation" type="text/javascript">window._ewaBootstrapData||(window._ewaBootstrapData=[]);window._ewaBootstrapData[window._ewaBootstrapData.length]={"AccessToken":null,"BWsaStartTime":132193630720562544,"BWsaUploadPath":"https:\/\/www.iata.org\/services\/finance\/sis\/_layouts\/15\/WsaUpload.ashx","CloseNavigateGimMethod":"nw","CloseUri":"","DataCultureTag":"en-US","DocumentHostInfo":{"BreadcrumbBrandName":"","BreadcrumbBrandUrl":"","BreadcrumbDocName":"SIS-Member-List.xlsx","BreadcrumbDocUrl":"","BreadcrumbFolderName":"Simplified Invoicing and Settlement","BreadcrumbFolderUrl":"\/services\/finance\/sis\/Documents\/Forms\/AllItems.aspx","CloseUrl":null,"ClusterId":0,"CopyAndEditUrl":"","DirectInvokeDAVUrl":null,"DownloadACopyUrl":"","ExcelMashupUrl":null,"FeedbackDescription":"","FileEmbedCommandUrl":"","FileSharingUrl":"","FileSourceId":422603853,"FileVersionUrl":null,"HostCreateFormUrl":null,"HostEditUrl":null,"HostEmbeddedViewUrl":"","HostViewUrl":"","IrmPolicyDescription":null,"IrmPolicyTitle":null,"OpenInClientCommandUrl":null,"Options":251731968,"PostMessageOrigin":"","PrivacyUrl":"","QuerySignatureWithoutVersion":null,"ReplyWithChangesUrl":null,"ReportAbuseUrl":null,"RoamingAppsAreEnabled":true,"ShareFormCommandUrl":null,"SigninUrl":"","SignoutUrl":"","TermsOfUseUrl":"","TimeZone":"+0300#0000-11-00-01T02:00:00:0000#+0000#0000-03-00-02T02:00:00:0000#-0060","UserFriendlyName":"","UserNameUnknown":true},"Errors":[],"EwaControlDomElementId":"m_excelWebRenderer_ewaCtl_m_ewa","ExcelFeatures":12639992303815,"HelpTokenPrefix":"WSSEndUser","IsCrossDomain":false,"MachineCluster":null,"Options":17966224,"PageGenerationTime":3759,"ServerUriBase":"https:\/\/www.iata.org\/services\/finance\/sis","SkipAuthentication":false,"SqmQoSDataPoints":null,"TimeZone":null,"UICultureTag":"en-US","UICultureTagLcid":1033,"UserSessionId":"","UserType":"UNKNOWN","WacHostId":1,"WorkbookContextJsonSourceElementId":"m_excelWebRenderer_ewaCtl_m_workbookContextJson","WorkbookContextJsonTargetElementId":"m_excelWebRenderer_ewaCtl_m_workbookContextJson","AccessTokenExpirationPromptSeconds":600,"AccessTokenValidTo":0,"ActiveCellParameter":null,"BrandingUIRootId":null,"BuildVersion":"","Canary":"","EmbedCodeConstructionData":null,"EmbedConfiguratorUrl":"","EmbedUrl":null,"FeedbackDescription":null,"FileHandlerRelativeUri":"\/_layouts\/15\/XlFileHandler.aspx","FormLightBoxUrl":"https:\/\/www.iata.org\/services\/finance\/sis\/_layouts\/15\/xlform.aspx","FullViewBaseUrl":null,"LayoutsRelativeUri":"\/_layouts\/15","PostInitCommand":1461300262,"RenderingOptions":0,"RequestedUILcid":1033,"RoamingAppsControlInstallerUrl":"","RoamingAppsFirefoxExtensionUrl":"","RoamingAppsX86RootUrl":"","ShortTimeFormat":"h:mm tt","SlicerParameters":null,"SurveyRedirectUrl":null,"ThemedBackgroundColor":"transparent!important","ThemedTextColor":"#999999","VisibleItem":""};</script>
+</div>
+<div id="m_excelWebRenderer_ewaCtl_statusBarContainer" role="presentation" lang="en-US"></div>
+</div>
+</div>
+</div>
+<input style="display:none" id="__spPickerHasReturnValue" type="text" value="0" />
+<input style="display:none" id="__spPickerReturnValueHolder" type="text" value="0" />
+<div id="m_excelWebRenderer_nov_m_novBody" class="ewa-hidden ewa-nov2-ltr ewa-nov2-foreground" class="ewa-nov2-foreground" align="center" style="direction:ltr;">
+<div id="m_excelWebRenderer_nov_m_novHeader" class="ewa-nov2-header"></div>
+<div id="m_excelWebRenderer_nov_novViewport" class="ewa-nov2-viewport">
+<div id="m_excelWebRenderer_nov_novActionToolbarContainer" class="ewa-nov2-action-toolbar-container"></div>
+<div id="m_excelWebRenderer_nov_novContentPanes" class="ewa-nov2-content-panes">
+<div id="m_excelWebRenderer_nov_novActionPane" class="ewa-nov2-slicers">
+<div class="ewa-nov2-zone-header">
+</div>
+<div id="m_excelWebRenderer_nov_novSlicerPaneBody" class="ewa-nov2-zone-body ewa-scrollbars">
+</div>
+</div>
+<div id="m_excelWebRenderer_nov_novFocusPane" class="ewa-nov2-focus">
+<div class="ewa-nov2-zone-header">
+<div id="m_excelWebRenderer_nov_m_novFocusTitle" class="ewa-nov2-zone-label ewa-nov2-focus-label ewa-hidden" title=""></div>
+</div>
+<div class="ewa-nov2-zone-body ewa-scrollbars">
+<div id="m_excelWebRenderer_nov_ewaContainer" class="ewaContainer ewa-nov2-ewaContainer">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">RegisterSod("initstrings.js", "\u002f_layouts\u002f15\u002f1033\u002finitstrings.js?rev=S11vfGURQYVuACMEY0tLTg\u00253D\u00253D");</script><script type="text/javascript" src="/_layouts/15/init.js?rev=R500FBwHjH3TO5LeC6KbFQ%3D%3D"></script><script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=S11vfGURQYVuACMEY0tLTg%3D%3D"></script><script type="text/javascript" src="/_layouts/15/1033/strings.js?rev=xXYZY4hciX287lShPZuClw%3D%3D"></script><script type="text/javascript" src="/_layouts/15/core.js?rev=GpU7vxyOqzS0F9OfEX3CCw%3D%3D"></script><script type="text/javascript" src="https://www.iata.org/_layouts/15/MicrosoftAjax.js?rev=Civ3pT%2FplWDqWJ69HuRuNQ%3D%3D"></script><script type="text/javascript">function ULSPby(){var o=new Object;o.ULSTeamName="Excel Services";o.ULSFileName="ScriptHost.js";return o;}
+Type.registerNamespace("_Ewa");if(typeof _Ewa.ScriptLoader=="undefined"){var ScriptLoader=_Ewa.ScriptLoader=function(b){ULSPby:;var a=this;a._sus=b;a._lsc=0;a._lh=null;a._slts=[]};ScriptLoader._slus=[];ScriptLoader.prototype={dispose:function(){ULSPby:;var a=this;for(var b=0,d=a._slts.length;b<d;b++){var c=a._slts[b];c&&c.dispose()}a._slts=[];a._lsc=0;a._lh=null},load:function(f){ULSPby:;var a=this;a._lh=f;for(var b=0,d=a._sus?a._sus.length:0;b<d;b++){var c=document.createElement("script");c.charset="utf-8";c.src=a._sus[b];var e=c.src.toLowerCase();if(ScriptLoader._slus[e]){c=null;a._sus.splice(b,1);b--;d--;continue}ScriptLoader._slus[e]=true;a._slts[a._slts.length]=new Sys._ScriptLoaderTask(c,Function.createDelegate(a,a._sltc))}for(var b=0,d=a._slts.length;b<d;b++)a._slts[b].execute();a._slts.length==0&&a._sltc(a,true)},_sltc:function(b,c){ULSPby:;var a=this;if(!c)delete ScriptLoader._slus[b.src.toLowerCase()];++a._lsc>=a._slts.length&&a._lh&&a._lh(a,null)}};var ScriptHost=_Ewa.ScriptHost=function(){};ScriptHost.close=function(){ULSPby:;for(var b=ScriptHost._sls,a=0,c=b.length;a<c;a++)b[a]&&b[a].dispose();ScriptHost._sls=[];$removeHandler(window,"unload",ScriptHost._wuh);ScriptHost._wuh=null};ScriptHost.initialize=function(a,c){ULSPby:;var b=ScriptHost._sls;if(b.length==0){$addHandler(window,"unload",ScriptHost._wuh=Function.createDelegate(null,ScriptHost.close));ScriptHost.loadScripts(a,c)}};ScriptHost.loadScripts=function(c,d){ULSPby:;var a=ScriptHost._sls,b=a[a.length]=new ScriptLoader(c);b._cb=d;b.load(Function.createDelegate(null,ScriptHost._osc))};ScriptHost._osc=function(a){ULSPby:;a.dispose();a._cb&&a._cb()};ScriptHost._wuh=null;ScriptHost._sls=[]};_Ewa.ScriptHost.initialize(["https:\/\/www.iata.org\/_layouts\/15\/EwaMoss.js?rev=IWNsPHkMdflCaBALRGjVLA%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/Ewa.Strings.Moss.js?rev=rg%2BJOlG8b7%2Bang2f3l2LLg%3D%3D"],function() { window.ewamain && window.ewamain() })</script>
+<script type="text/javascript">
+//<![CDATA[
+window._ewaBootstrapData||(window._ewaBootstrapData=[]);window.ewamain=function(){if(typeof(_Ewa)!=='undefined'&&typeof(_Ewa.Gim)!=='undefined'&&typeof(_Ewa.StringManagerData)!=='undefined'){_Ewa.Gim.becs(window._ewaBootstrapData,{"CommonImageBase":"_layouts\/15\/1033\/images\/","CrossDomainUnsupportedHelpTopicId":"WSSEndUser_JSEmbedInfo","DivSyndicationLearnMoreHelpTopicId":"WSSEndUser_CustomizeEmbedJs","HomeHelpTopicId":"WSSEndUser_Home","ImageClusters":[{"ImageName":"EwaCommon.png","ImagePath":"https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/EwaCommon.png?rev=ne%2B0bC2rMNKF3q%2BG5T7%2Fxg%3D%3D","Localizable":true,"SubstitutionToken":"EWA_COMMON_CLUSTER","Type":0},{"ImageName":"EwaEdit.png","ImagePath":"https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/EwaEdit.png?rev=ReUTnZJtM7DUQc6ILiWuug%3D%3D","Localizable":true,"SubstitutionToken":"EWA_EDIT_CLUSTER","Type":1},{"ImageName":"ewais.png","ImagePath":"https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/ewais.png?rev=9VJpQjGPjdsgzPcZgWUOaw%3D%3D","Localizable":true,"SubstitutionToken":"","Type":2},{"ImageName":"EwaOther.png","ImagePath":"https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/EwaOther.png?rev=qEy63iMpbdVsUYyYQoEULg%3D%3D","Localizable":true,"SubstitutionToken":"","Type":3},{"ImageName":"EwaRibbonChart.png","ImagePath":"https:\/\/www.iata.org\/_layouts\/15\/images\/EwaRibbonChart.png?rev=5megTVB9%2F77VzqJGnVElYQ%3D%3D","Localizable":false,"SubstitutionToken":"EWA_CHART_TAB_CLUSTER","Type":4},{"ImageName":"EwaRibbonInsert.png","ImagePath":"https:\/\/www.iata.org\/_layouts\/15\/images\/EwaRibbonInsert.png?rev=3Os8Y9XSHMG8vPCM0SkqRQ%3D%3D","Localizable":false,"SubstitutionToken":"EWA_INSERT_TAB_CLUSTER","Type":5},{"ImageName":"EwaRibbonView.png","ImagePath":"https:\/\/www.iata.org\/_layouts\/15\/images\/EwaRibbonView.png?rev=TTeMo4FjPGQrKvnuTXX5PA%3D%3D","Localizable":false,"SubstitutionToken":"EWA_VIEW_TAB_CLUSTER","Type":7},{"ImageName":"EwaMenu.png","ImagePath":"https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/EwaMenu.png?rev=i6ShbpvaEoMRE%2Bu4xkD9sQ%3D%3D","Localizable":true,"SubstitutionToken":"EWA_MENU_CLUSTER","Type":8},{"ImageName":"EwaFieldList.png","ImagePath":"https:\/\/www.iata.org\/_layouts\/15\/images\/EwaFieldList.png?rev=1w8ZWM68fpBkaDOvyu3Uig%3D%3D","Localizable":false,"SubstitutionToken":"EWA_FIELDLIST_CLUSTER","Type":9},{"ImageName":"EwaNov.png","ImagePath":"https:\/\/www.iata.org\/_layouts\/15\/images\/EwaNov.png?rev=CGFs7T31podF6q%2BduZsEWw%3D%3D","Localizable":false,"SubstitutionToken":"EWA_NOV_CLUSTER","Type":10}],"InteractiveReportApiUrl":null,"InteractiveReportServiceUrl":null,"LayoutsContentUrlPrefix":"https:\/\/www.iata.org\/services\/finance\/sis\/_layouts\/15","OsfOmexBaseUrl":"https:\/\/office15client.microsoft.com","ResourceURIs":["https:\/\/www.iata.org\/_layouts\/15\/EwaMoss.cuixas.js?rev=ZFQhcr%2F62KSs3322j2H5Rg%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/wacairspaceanimationlibrary.js?rev=IKJBcKD6eX7fn3zG1GHsLQ%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/OsfRuntimeExcelWac.js?rev=8xFGJQdvkHZBCxNgaFxh7Q%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/EwaMoss.pi.js?rev=Ghx6yUQS4j8DGwOTjmZxqQ%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/EwaMoss.nov.js?rev=7TgUuPiqrGD1CdHi1srpVA%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/EwaMoss.ts.js?rev=lpytNF0IzjtlBM%2FPsUDIEw%3D%3D","","","","https:\/\/www.iata.org\/_layouts\/15\/EwaMoss.bi.js?rev=7PRqVnI79Kc8lSDTYSeRAg%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/EwaMoss.tp.js?rev=gmzj1EhjHkbz5vcz%2B69%2Fpw%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/Ewa.ReadToolbar.js?rev=N5VKIyKpf6a4BPXglFLqrQ%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/Ewa.Ribbon.js?rev=e9RYPIgM1eUE5fxf8mGZgQ%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/Ewa.StatusBar.js?rev=4Vu3CSamknrZPIGfeUoYrA%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/CommonIntl.js?rev=xjJq09Gt2W%2FSiiHHiDsWCA%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/styles\/BIExplore.css?rev=UmlDh2KXk%2FhmNpeqY1Mqvg%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/styles\/EwrNov.css?rev=bYY0xT3NL5B7tKJeAYz9VA%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/EwaOther.png?rev=qEy63iMpbdVsUYyYQoEULg%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/ewr080.png?rev=Z8gNLmkmkPSFpvkBwDNaIA%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/progress16.gif?rev=tfKablLUJrX2SEPHyWLiKA%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/moe_default_icon.png?rev=bpbeYxLhnfZyepp%2FHE0Olg%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/agavedefaulticon96x96.png?rev=CE52EmNd%2FPaaFiVbQecMqg%3D%3D","https:\/\/www.iata.org\/_layouts\/15\/1033\/images\/progress.gif?rev=ZIrS9%2B6pWptUkdzSIDsvVA%3D%3D",null],"StaticContentQueryParameter":"","StaticContentUrlPrefix":"https:\/\/www.iata.org\/","UICultureTag":"en-US"},true,null,null);window._ewaBootstrapData=[];}};window.ewamain();window._ewaApplicationReadyHandlers||(window._ewaApplicationReadyHandlers=[]);try{ Type.registerNamespace('Ewa');}catch(e){Ewa=function(){};Ewa.__namespace=true;Ewa.__typeName='Ewa';Ewa.getName=function(){return this.__typeName;};}if(typeof(Ewa.EwaControl)==='undefined'){Ewa.EwaControl=function(){};Ewa.EwaControl.add_applicationReady=function(cb){window._ewaApplicationReadyHandlers[window._ewaApplicationReadyHandlers.length]=cb;};Ewa.EwaControl.remove_applicationReady=function(cb){for(var are=window._ewaApplicationReadyHandlers,i=are.length-1;i>=0;--i){if(are[i]===cb){are.splice(i,1);}}};}//]]>
+</script>
+</form>
+</body>
+</html>

@@ -1,0 +1,1 @@
+var iataJQ=jQuery.noConflict();iataJQ(document).ready(function(){iataJQ('#carouselText').slick({dots:false,prevArrow:".carouselPrev",nextArrow:".carouselNext",slide:".carousel_el"});iataJQ('#carousel').slick({dots:true,prevArrow:"#carouselNav .prev",nextArrow:"#carouselNav .next",slide:".carousel_el"});});

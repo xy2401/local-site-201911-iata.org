@@ -1,0 +1,1416 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" href="../../../CSS/cxml.css" type="text/css"></link>
+<!--[if IE]><link rel="stylesheet" href="../../../CSS/embedie.css" /><![endif]-->
+<title>Cargo-XML Scorecard</title>
+<script type="text/javascript">
+// var i = "/images/Home/";
+
+var iconsPath = "/images/Home/";
+//alert ('Test - global Alert from cxml.js');
+
+/* 
+=============================================================================
+===================== From test file cxml-xcoo-en.html ======================
+=============================================================================
+*/
+
+var application = null; // External
+var thispage;
+var currentMessage;
+var rootpath;
+var oldElem;
+//var oldTLEelem = null;
+var oldMenuElem;
+
+/**
+* eval wrapper.
+* Evaluates a string and executes it as if it was script code.
+* @param {string} script The javascript to evaluate.
+* @return {object} The result of the executed code.
+*/
+var jsEvaluate = function(script)
+{
+  return eval(script);
+}
+
+/**
+* window.execScript wrapper.
+* Executes the specified script in the javascript language.
+* @param {string} script The javascript to execute.
+*/
+var jsExecute = function(script)
+{
+  window.execScript(script);
+}
+
+/**
+* Initialize this page for bi-directional comm between .net and js.
+* 
+* @param path {string} the root path of content.
+* @param message {string} the code of this message (ex.: xcoo).
+*/
+var jsInitialize = function(path, message)
+{
+  application = window.external;
+  rootpath = path;
+  thispage = "cxml-" + message;
+  currentMessage = message;
+  //alert('js: ' + thispage + ' rootpath has been set to ' + rootpath + '. Message code is ' + message);
+  application.Ready(thispage + ' is initialized');
+}
+
+
+
+function jsIsLayoutAvailable() {
+	var anid = "cxml-" + currentMessage + "-mlayout";
+	var anelem = document.getElementById(anid);
+	if (anelem){
+		return true;
+		//alert('valid element id: ' + anid + ', ' + isit);
+	}
+	return false;
+}
+
+function jsIsLayoutExampleAvailable() {
+	var anid = "cxml-" + currentMessage + "-mlayoutexample";
+	var anelem = document.getElementById(anid);
+	if (anelem){
+		return true;
+		//alert('valid element id: ' + anid + ', ' + isit);
+	}
+	return false;
+}
+
+
+
+/* ========================= Click from MBD to XSD ============================ */
+
+/**
+* Following a click in the business data page, hilite all correct elements in the bd and in the schema page.
+* 
+* @param xsd_elem {string} the ID of the element in the schema page.
+* @param bd_elem {string} the ID of the element in the business data page.
+*/
+var jsHighlightElemsBd = function(xsd_elem, bd_elem)
+{
+    //alert('In jsHighlightElemsBd yd');
+    jsHighlightElementInBd(bd_elem);
+    // Hilite the schema side
+    //alert('calling application.HighlightElemsBd');
+    application.HighlightElemsBd(xsd_elem, bd_elem);
+}
+
+var jsHighlightElementInBd = function(elem)
+{
+	var thiselement;
+	// Remove previous highlight
+	if(oldElem != null){
+		thiselement = document.getElementById(oldElem);
+		jsRemoveaClass(thiselement, 'iataElemHighlight');
+	}
+	
+	// highlight elem
+	if(elem != null)
+	{
+		thiselement = document.getElementById(elem);
+		jsAddaClass(thiselement, 'iataElemHighlight');
+		oldElem = elem;
+		//ExpandParents(thiselement, 
+			//function() 
+			//{  
+				//scrollTo(0, findPos(thiselement));  
+			//});				
+	}
+
+	window.oldElem = elem;
+}
+
+
+/**
+* Hilite the correct element in this page after a clicked in the schema page.
+* 
+* @param elem {string} the ID of the element hilite.
+*/
+var jsHighlightElementFromXsd = function(elem)
+{
+	var thiselement;
+	//alert('*** jsHighlightElementFromXsd is called but not from JS!!! ***');
+	// Remove previous highlight
+	if(oldElem != null){
+		thiselement = document.getElementById(oldElem);
+		jsRemoveaClass(thiselement, 'iataElemHighlight');
+	}
+	
+	// highlight elem
+	if(elem != null)
+	{
+		thiselement = document.getElementById(elem);
+		jsAddaClass(thiselement, 'iataElemHighlight');
+		oldElem = elem;
+		ExpandParents(thiselement, 
+			function() 
+			{  
+				scrollTo(0, findPos(thiselement));  
+			});				
+	}
+}
+
+/* ========================= Click from XSD to MBD ============================ */
+
+/**
+* Following a click in the schema page, hilite all correct elements in the schema and in the business data page.
+* 
+* @param clicked_elem {string} the ID of the element that was clicked.
+* @param target_elem {string} the ID of the target element in the business data panel.
+*/
+var jsHighlightElemsXsd = function(xsd_elem, bd_elem)
+{
+	jsHighlightElementInXsd(xsd_elem);
+	// Hilite the business data side
+	application.HighlightElemsXsd(xsd_elem, bd_elem);
+	return false;
+}
+
+
+/**
+* Hilite the correct element in this page
+* 
+* @param elem {string} the ID of the element hilite.
+*/
+var jsHighlightElementInXsd = function(elem)
+{
+	var thiselement;
+	if(oldMenuElem != null){
+		thiselement = document.getElementById(oldMenuElem);
+		jsRemoveaClass(thiselement, 'iataElemHighlight');
+	}
+	
+	// highlight MENU elem
+	thiselement = document.getElementById(elem);
+	jsAddaClass(thiselement, 'iataElemHighlight');
+	oldMenuElem = elem;
+}
+
+/**
+* Hilite the correct element in this page after a click in the business data page.
+* 
+* @param elem {string} the ID of the element hilite.
+*/
+var jsHighlightElementFromBd = function(elem)
+{
+	//alert('jsHighlightElementFromBd: ' + elem + ' CALLED from application, not JS');
+
+	var thiselement;
+	// Remove highlight on old elem
+	if(oldMenuElem != null){
+		thiselement = document.getElementById(oldMenuElem);
+		jsRemoveaClass(thiselement, 'iataElemHighlight');
+	}
+	
+	// highlight elem
+	thiselement = document.getElementById(elem);
+	jsAddaClass(thiselement, 'iataElemHighlight');
+	oldMenuElem = elem;
+	// Ensure both target elements are expanded and then scroll to the element
+	ExpandParents(document.getElementById(elem), 
+		function() 
+		{  
+			scrollTo(0, findPos(document.getElementById(elem)));  
+		});
+	oldMenuElem = elem;
+}
+
+
+/* ========================= Click from Revision Pages ============================ */
+
+/**
+* Inform the containing application that the schema tab needs to be made visible and scrolled at the specified location.
+* 
+* @param targetid {string} the ID of the element to scroll to in schema.
+*/
+var jsLinkRevXSD = function(targetid) 
+{
+	//alert('jsLinkRevXSD target ' + targetid);
+	application.LinkRevXSD(targetid);
+	//Must call jsHighlightElementInXsd(targetid);
+	//Cannot reset/highlight from javaScript as the calling page that has the target id cannot pass this info to the Schema page and then highlight. 
+	//.net can though.
+}
+
+
+/**
+* Inform the containing application that the business data tab needs to be made visible and scrolled at the specified location.
+* 
+* @param targetid {string} the ID of the element to scroll to in bd.
+*/
+var jsLinkRevMBD = function(targetid) 
+{
+	//alert('jsLinkRevMBD target ' + targetid);
+	application.LinkRevMBD(targetid);
+}
+
+
+/**
+* Inform the containing application that the Message Business Data's Conversion Guidelines Tab needs to be made visible and scrolled at the specified location.
+* 
+* @param targetid {string} the ID of the element to scroll to in MBD's CG.
+*/
+var jsLinkRevMBDCG = function(targetid) 
+{
+	//alert('jsLinkRevMBDCG target ' + targetid);
+	application.LinkRevMBDCG(targetid);
+}
+
+
+
+/* ========================= General Click Utilities ============================ */
+
+var jsOpenExternalLink = function(targeturl)
+{
+	//alert('jsOpenExternalLink target ' + targeturl);
+	application.OpenExternalLink(targeturl);
+}
+
+function jsOpenExternalDocument(aurl){
+	application.OpenExternalDocument(aurl);
+}
+
+
+
+
+/* 
+=============================================================================
+========================= Breadcrumbs JS Methods ============================
+=============================================================================
+*/
+
+/* 
+    This function returns a string of '>' delimited ID;Name pairs that corresponds to all the visible parents of the element ID provided (including itself). 
+    In effect, the returned string can be used for breadcrumb.
+    This method targets the schema panel content.
+*/
+function jsGetAllParentsXsd(anelem) {
+
+    var curElement = document.getElementById(anelem);
+
+    // crumbs contain all the elements' IDs that make up the breadcrumbs, in proper order
+    var crumbs = '';
+
+    var elementArray = [];
+
+    //alert('curElement.innerText: ' + curElement.innerText);
+
+    rxIataElement = new RegExp('(\\s|^)iataElement(\\s|$)');
+    rxXsdRoot = new RegExp('(\\s|^)iataXSDRoot(\\s|$)');
+    rxIataElementName = new RegExp('(\\s|^)iataElementName(\\s|$)');
+
+    // First, get all elements that have the 'iataElement' class since that class identifies 'viewable' items.
+    while (curElement != null) {
+
+        //alert('curElement.className: ' + curElement.className);
+        // Verifiy if the current element has the 'iataElement' or 'iataXSDRoot' class. 
+        if (curElement.className != null && (curElement.className.match(rxIataElement) || curElement.className.match(rxXsdRoot)))
+            elementArray.unshift(curElement);
+        curElement = curElement.parentNode;
+    }
+
+    //alert('elementArray.length: ' + elementArray.length);
+
+    // Second, build the list of crumbs that includes the ID and the name: Id;name>Id;name>...
+    // For each element identified in the previous loop, get the name by identifying the child element with class 'iataElementName'
+    for (i = 0; i < elementArray.length; i++) {
+        ci = 0;
+        var child = elementArray[i].children[ci];
+        while (child) {
+            if (child.className.match(rxIataElementName)) {
+                if (crumbs.length > 0)
+                    crumbs += '>';
+                crumbs += elementArray[i].id + ';' + child.innerText;
+                break;
+            }
+            child = elementArray[i].children[++ci];
+        }
+    }
+
+    //alert(crumbs);
+    return (crumbs);
+}
+
+
+/* 
+This function returns a string of '>' delimited ID;Name pairs that corresponds to all the visible parents of the element ID provided (including itself). 
+In effect, the returned string can be used for breadcrumb.
+This method targets the business data panel content.
+*/
+function jsGetAllParentsMBD(anelem) {
+
+    //alert('in jsGetAllParentsMBD : ' + anelem);
+    var curElement = document.getElementById(anelem);
+
+    // crumbs contain all the elements' IDs that make up the breadcrumbs, in proper order
+    var crumbs = '';
+
+    var elementArray = [];
+
+    //alert('curElement.innerText: ' + curElement.innerText);
+
+    rxIataElement = new RegExp('(\\s|^)iataDataElement(\\s|$)');
+    rxMDBRoot = new RegExp('(\\s|^)iataMessage(\\s|$)'); // Root
+    rxIataGroup = new RegExp('(\\s|^)iataMGroup[0-9]*(\\s|$)');
+    //rxLeafElement = new RegExp('(\\s|^)iataM(\\s|$)'); // This picks up too many unwanted elements
+    rxiataMLayout = new RegExp('(\\s|^)iataMLayout|iataMLayoutExample(\\s|$)'); // Layout and iataMLayoutExample
+    rxiataMLayoutLayout = new RegExp('(\\s|^)iataMLayout(\\s|$)'); // Layout only 
+    rxiataMLayoutExample = new RegExp('(\\s|^)iataMLayoutExample(\\s|$)'); // iataMLayoutExample only
+    rxNameElement = new RegExp('(\\s|^)iataMFuncName(\\s|$)');
+    rxNameRoot = new RegExp('(\\s|^)iataMName(\\s|$)');
+    rxAcroRoot = new RegExp('(\\s|^)iataMAcronym(\\s|$)');
+
+    // First, add original element, it may not fall into the known classes
+    elementArray.unshift(curElement);
+    curElement = curElement.parentNode;
+
+    // Second, get all parent elements that are 'viewable' items.
+    while (curElement != null) {
+
+        //alert('curElement.className: ' + curElement.className);
+        if (curElement.className != null && (curElement.className.match(rxIataElement) || curElement.className.match(rxMDBRoot) || curElement.className.match(rxIataGroup) || curElement.className.match(rxiataMLayout)))
+            elementArray.unshift(curElement);
+        curElement = curElement.parentNode;
+    }
+
+    //alert('elementArray.length: ' + elementArray.length);
+
+    // Second, build the list of crumbs that includes the ID and the name: Id;name>Id;name>...
+    // For each element identified in the previous loop, get the name by identifying an element that contains a description
+    for (i = 0; i < elementArray.length; i++) {
+        ci = 0;
+        //alert('elementArray className: ' + elementArray[i].className + '.');
+        //alert('nodeName=' + elementArray[i].parentNode.nodeName);
+
+        // Note : links in tables are not well identified with classes. Must rely on an empty class, or if the link was clicked, on the fact that it is hilited
+        //if ((elementArray[i].className == '' || elementArray[i].className == 'iataElemHighlight') && (elementArray[i].parentNode.nodeName.toLowerCase() == 'td' || elementArray[i].parentNode.parentNode.nodeName.toLowerCase() == 'td')) {
+        //    // Empty class name - the spans in the layout sections do not have class name - assume this is one of those
+        //    if (crumbs.length > 0)
+        //        crumbs += '>';
+        //    // Some "name" in element (particularly in tables) are way too long. Truncate.
+        //    strName = elementArray[i].innerText;
+        //    if (strName.length > 48) {
+        //        strName = strName.substring(0, 45);
+        //        strName += "...";
+        //    }
+        //    // In this particular case, use the ID and the inner text of the actual element, not children
+        //    crumbs += elementArray[i].id + ';' + strName;
+        //}
+        //else
+        if (elementArray[i].className.match(rxiataMLayoutExample)) {
+            // iataMLayoutExample is a table and we cannot identify the caption easily (it's in the iataTableHeading, 3 child level below). Just return a hard coded value.
+            //alert('match rxiataMLayoutExample');
+            if (crumbs.length > 0)
+                crumbs += '>';
+            crumbs += elementArray[i].id + ';' + 'Layout Example';
+        }
+        else
+            if (elementArray[i].className.match(rxiataMLayoutLayout)) {
+                // iataMLayout is a table and we cannot identify the caption easily (it's in the iataTableHeading, 3 child level below). Just return a hard coded value.
+                //alert('match rxiataMLayoutLayout');
+                if (crumbs.length > 0)
+                    crumbs += '>';
+                crumbs += elementArray[i].id + ';' + "Layout";
+            }
+            else {
+                // Other elements are assumed to contained a child with a proper name
+                bFound = false;
+                var child = elementArray[i].children[ci];
+                while (child) {
+                    if (child.className.match(rxNameElement)) {
+                        //alert('match rxNameElement');
+                        if (crumbs.length > 0)
+                            crumbs += '>';
+                        crumbs += elementArray[i].id + ';' + child.innerText;
+                        bFound = true;
+                        break;
+                    }
+                    else
+                        if (child.className.match(rxNameRoot)) {
+                            // It's the root element - try to get acronym under a child with "iataMAcronym" class
+                            //alert('match rxNameRoot');
+                            sci = 0;
+                            var childAcro = child.children[sci];
+                            while (childAcro) {
+                                if (childAcro.className.match(rxAcroRoot))
+                                    break;
+                                childAcro = child.children[++sci];
+                            }
+                            if (childAcro != null)
+                                child = childAcro;
+                            if (crumbs.length > 0)
+                                crumbs += '>';
+                            crumbs += elementArray[i].id + ';' + child.innerText;
+                            bFound = true;
+                            break;
+                        }
+                    child = elementArray[i].children[++ci];
+                } //while
+                if (!bFound) {
+                    //alert('Not well identified element');
+                    // Last case scenario: elements not well identified 
+                    // Note : links in tables are not well identified with classes. They have no class (empty class from a js perspective), or if the link was clicked, the iataElemHighlight class
+                    //        We just can't rely on class in the above circumstances, nor on the ID.
+                    // Since it is in the list, just process it and assumed it is supposed to be there.
+                    // Also assume the name of the element is its immediate inner text
+                    if (crumbs.length > 0)
+                        crumbs += '>';
+                    // Some "name" in element (particularly in tables) are way too long. Truncate.
+                    strName = elementArray[i].innerText;
+                    if (strName.length > 48) {
+                        strName = strName.substring(0, 45);
+                        strName += "...";
+                    }
+                    // In this particular case, use the ID and the inner text of the actual element, not children
+                    crumbs += elementArray[i].id + ';' + strName;
+                }
+            } //else
+    } //for
+
+    return (crumbs);
+}
+
+
+
+
+
+/* 
+=============================================================================
+========================= From ExpandCollapse.js ============================
+=============================================================================
+*/
+
+function ExpandParents(elem, callback) {
+    while (elem.nodeName != "BODY") {
+        if (elem.className == "iatadivhide") {
+            elem.className = "iatadivshow";
+            var anode = elem.parentNode;
+            if (anode.childNodes != null) {
+                for (i = 0; i < anode.childNodes.length; i++) {
+                    if (anode.childNodes[i].nodeName == "SPAN" && anode.childNodes[i].className == "iataExpandCollapse") {
+                        var imgnode = anode.childNodes[i].getElementsByTagName("IMG")[0];
+                        // var pathNode = self.frames['iframe1'].document.getElementById("jscriptPathVar");
+                        // var iconsPath = pathNode.getAttribute("iconsPath");
+                        //var iconsPath = "/images/Home/";
+                        imgnode.src = makePath("collapse.gif");
+                    }
+                }
+            }
+        }
+        elem = elem.parentNode;
+    }
+    if (callback) {
+        callback();
+    }
+}
+
+
+function makePath(icon) {
+    return rootpath + iconsPath + icon;
+}
+
+function Togglediv(elem){
+	var div = elem.parentNode;
+	//alert ("in Togglediv() " + iconsPath);
+	while (div.tagName != "DIV"){ //get the div parent
+		div = div.parentNode;
+	}
+	if (div.tagName == "DIV"){
+		//get substring from img src
+		var src = elem.getAttribute("src");
+		var i = src.lastIndexOf("/")
+		if (i > 0){
+			src = src.substring(i+1);
+		}
+		if (src == "collapse.gif"){
+			CollapseElement(div);
+			elem.src = makePath("expand.gif");
+		}
+		else { //we expand it
+			ExpandElement(div);
+			elem.src = makePath("collapse.gif");
+		}
+	}
+}
+
+function CollapseElement(elem){
+	var children = elem.childNodes;
+	for(var i = 0; i < children.length; i++){
+		if (children[i].tagName == "DIV"){
+					// FM091918 - Note: for .net webbrowser support in compatibility mode
+			if (navigator.appName == "Microsoft Internet Explorer"){
+            children[i].className = jsAddReplaceClassString(children[i].className, 'iatadivshow', 'iatadivhide'); //'iatadivhide';
+            //alert('children[i].className = ' + children[i].className);
+			}
+			else {
+            children[i].setAttribute('class', jsAddReplaceClassString(children[i].getAttribute('class'), 'iatadivshow', 'iatadivhide'));
+            //alert('children[i].getAttribute(class) = ' + children[i].getAttribute('class'));
+			}
+		}
+	}
+}
+
+function ExpandElement(elem){
+	var children = elem.childNodes;
+	var i = 0;
+	for(var i = 0; i < children.length; i++){
+		if (children[i].tagName == "DIV"){
+          // FM091918 - Note: navigator.appName is always undefined!
+			if (navigator.appName == "Microsoft Internet Explorer"){
+            children[i].className = jsAddReplaceClassString(children[i].className, 'iatadivhide', 'iatadivshow'); //'iatadivshow';
+            //alert('children[i].className = ' + children[i].className);
+			}
+			else {
+            children[i].setAttribute('class', jsAddReplaceClassString(children[i].getAttribute('class'), 'iatadivhide', 'iatadivshow'));
+            //alert('children[i].getAttribute(class) = ' + children[i].getAttribute('class'));
+			}
+		}
+	}
+}
+
+
+function ExpandAll() {
+	var images = document.getElementsByTagName("img");
+	var imageName = "expand.gif";
+	for (i=0; i < images.length; i++){
+		var elem = images[i];
+		var src = elem.getAttribute("src");
+		var lastSep = src.lastIndexOf("/");
+		var thisName = src.substr(lastSep + 1);
+		if (thisName==imageName) {
+	      var div = elem.parentNode;
+	      while (div.tagName != "DIV"){ //get the div parent
+	      div = div.parentNode;
+	      }
+			ExpandElement(div);
+			elem.src = makePath("collapse.gif");
+		}
+	}
+}
+
+function CollapseAll() {
+	var images = document.getElementsByTagName("img");
+	var imageName = "collapse.gif";
+	for (i=0; i < images.length; i++){
+		var elem = images[i];
+		var src = elem.getAttribute("src");
+		var lastSep = src.lastIndexOf("/");
+		var thisName = src.substr(lastSep + 1);
+		if (thisName==imageName) {
+	      var div = elem.parentNode;
+	      while (div.tagName != "DIV"){ //get the div parent
+	      div = div.parentNode;
+	      }
+			CollapseElement(div);
+			elem.src = makePath("expand.gif");
+		}
+	}
+}
+
+
+function jumpTo(elem) {
+    var position = "cxml-" + currentMessage + "-" + elem;
+    jsdoJumpTo(position);
+}
+
+function jsdoJumpTo(elem) {
+    //alert('doJumpTo ' + elem);
+    //Added integrity control 2013-07-25 yd
+    var atarget = document.getElementById(elem);
+    if (atarget) {
+    	ExpandParents(atarget);
+      scrollTo(0, parent.findPos((atarget)));
+    }
+}
+
+//Finds y value of an element
+function findPos(obj) {
+    var curtop = 0;
+    if (obj.offsetParent) {
+        do {
+            curtop += obj.offsetTop;
+        } while (obj = obj.offsetParent);
+        return [(curtop) - 80];
+    }
+    //alert(curtop);
+}
+
+
+/* 
+=============================================================================
+=========================== Javascript toolbox ==============================
+=============================================================================
+*/
+
+
+function jsHasaClass(anelem, aclass) {
+	return anelem.className.match(new RegExp('(\\s|^)'+aclass+'(\\s|$)'));
+}
+
+function jsRemoveaClass(anelem, aclass) {
+	if (jsHasaClass(anelem,aclass)) {
+		var reg = new RegExp('(\\s|^)'+aclass+'(\\s|$)');
+		anelem.className=anelem.className.replace(reg,' ');
+	}
+}
+
+function jsAddaClass(anelem,aclass) {
+	if (! jsHasaClass(anelem, aclass)) {
+		var classString = anelem.getAttribute('className');
+        anelem.className = classString + ' ' + aclass; // FM091918 -' iataElemHighlight';
+      }
+    }
+
+
+    /* Validate if aclass is contained in specified class string. FM091918 */
+    function jsHasaClassString(classString, aclass) {
+      //alert('In jsHasaClassString: classString=' + classString + ' aclass=' + aclass);
+      return classString.match(new RegExp('(\\s|^)' + aclass + '(\\s|$)'));
+    }
+
+    /* Add aclass in specified class string. FM091918 */
+    function jsAddaClassString(classString, aclass) {
+      if (!jsHasaClassString(classString, aclass)) {
+        //var classString = anelem.getAttribute('className');
+        if (!classString)
+          classString = aclass;
+        else
+          classString = aclass + " " + classString; //.trim();
+      }
+      return classString;
+	}
+
+
+    /* Replace targetClass with newClass, or add newClass, in specified class string. FM091918 */
+    function jsAddReplaceClassString(classString, targetClass, newClass) {
+      //alert('In jsAddReplaceClassString: classString=' + classString + ' targetClass=' + targetClass + ' newClass=' + newClass);
+      if (jsHasaClassString(classString, targetClass)) {
+        //var reg = new RegExp('(\\s|^)' + aclass + '(\\s|$)');
+        //alert('Replacing ' + targetClass + ' with ' + targetClass);
+        classString = classString.replace(targetClass, newClass);
+      }
+      else {
+        //alert('classString does not contain ' + targetClass);
+        if (!classString) {
+          //alert('classString is empty. Setting to newClass=' + newClass);
+          classString = newClass;
+        }
+        else {
+          //alert('Adding ' + newClass + ' to classString');
+          classString = newClass + " " + classString; //.trim();
+        }
+      }
+      //alert('Final classString=' + classString);
+      return classString;
+}
+
+
+function jsShowClass (anelem) {
+	var classString = anelem.getAttribute('className');
+	alert ('Class: ' + classString);
+}
+
+
+</script>
+</head>
+<body class="iatabody">
+<div xmlns="" class="iataSection1" id="cxml-scorecard">
+<h1 class="iatah1">Cargo-XML Scorecard</h1>
+<div class="iataNotes"><span class="iataNotesLabel">Notes:</span><br><div class="iataNote" id="cxml-users-cxml-1"><span class="iataNoteNumber">1. </span><span class="iataNoteFirstSimplePara">This page contains the Cargo-XML capabilities of the Cargo Messaging Working Group (CMWG) Members.</span></div>
+<div class="iataNote" id="cxml-users-cxml-2"><span class="iataNoteNumber">2. </span><span class="iataNoteFirstSimplePara">Click on the individual user to list the details of user capability.</span></div>
+</div>
+<div class="iataScrorecardLegend">
+<div id="cxml-users-cxml-legend-table">
+<table width="1000px" class="iatatable iataframeall">
+<col width="40px">
+<col width="160px">
+<col width="40.00px">
+ <col width="190.00px">
+<col width="40.00px">
+<col width="190.00px">
+<col width="40.00px">
+<col width="160.00px">
+<col width="40.00px">
+<col width="160.00px">
+<tbody>
+<tr>
+<td class="iatatd iatabgcolorsGreen iatacol1">&nbsp;</td>
+<td class="iatatd iatacol1">Live</td>
+<td class="iatatd iatabgcolorsYellow iatacol1">&nbsp;</td>
+<td class="iatatd iatacol1">Planned within one year</td>
+<td class="iatatd iatabgcolorsOrange iatacol1">&nbsp;</td>
+<td class="iatatd iatacol1">Planned beyond one year</td>
+<td class="iatatd iatabgcolorsRed iatacol1">&nbsp;</td>
+<td class="iatatd iatacol1">No Plans</td>
+<td class="iatatd iatacol1 iatabgshademedium">&nbsp;</td>
+<td class="iatatd">Not Applicable</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div>
+<table class="iatatable iataframeall iatawidthfull">
+<thead class="iatathead">
+<tr>
+<th class="iatatd iatacol1 iatarow1" rowspan="2"><span class="iatabold">Company Name</span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter" colspan="16"><span class="iatabold">Transport Messages</span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter" colspan="4"><span class="iatabold">Commercial Messages</span></th>
+</tr>
+<tr>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xfwb-en.html#cxml-xfwb?version=last">XFWB</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xfzb-en.html#cxml-xfzb?version=last">XFZB</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xfhl-en.html#cxml-xfhl?version=last">XFHL</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xffm-en.html#cxml-xffm?version=last">XFFM</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xfbl-en.html#cxml-xfbl?version=last">XFBL</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xfsu-en.html#cxml-xfsu?version=last">XFSU</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xcdd-en.html#cxml-xcdd?version=last">XCDD</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xfnm-en.html#cxml-xfnm?version=last">XFNM</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xfum-en.html#cxml-xfum?version=last">XFUM</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xraf-en.html#cxml-xraf?version=last">XRAF</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xrcp-en.html#cxml-xrcp?version=last">XRCP</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xucr-en.html#cxml-xucr?version=last">XUCR</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xffr-en.html#cxml-xffr?version=last">XFFR</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xcsn-en.html#cxml-xcsn?version=last">XCSN</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xsdg-en.html#cxml-xsdg?version=last">XSDG</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xgrq-en.html#cxml-xgrq?version=last">XGRQ</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xinv-en.html#cxml-xinv?version=last">XINV</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xpcl-en.html#cxml-xpcl?version=last">XPCL</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xcoo-en.html#cxml-xcoo?version=last">XCOO</a></span></th>
+<th class="iatatd iatacol1 iatarow1 iatahcenter "><span class="iatabold"><a href="cxml-xsli-en.html#cxml-xsli?version=last">XSLI</a></span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-AC" target="_top"><span class="iatabold">Air Canada</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFR - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XGRQ - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-KLM" target="_top"><span class="iatabold">Air France/KLM Cargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFHL - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFM - Live"></td>
+ <td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFBL - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFUM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFR - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XCSN - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XSDG - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XGRQ - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-ALHAG" target="_top"><span class="iatabold">ALHA Group</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFWB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFZB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFM - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFSU - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFNM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-AA" target="_top"><span class="iatabold">American Airlines Cargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFSU - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFNM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-CV" target="_top"><span class="iatabold">Cargolux</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFWB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFZB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFSU - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFNM - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-CargoMind" target="_top"><span class="iatabold">Cargomind</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFHL - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFR - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-CX" target="_top"><span class="iatabold">Cathay Pacific Cargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFR - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-DACHSER" target="_top"><span class="iatabold">DACHSER</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFHL - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFFR - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-DBSCHENKER" target="_top"><span class="iatabold">DB SCHENKER</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFHL - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFR - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-DL" target="_top"><span class="iatabold">Delta Air Lines</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFHL - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFR - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XGRQ - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-DHL.GF" target="_top"><span class="iatabold">DHL GF</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFHL - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFR - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-EK" target="_top"><span class="iatabold">Emirates SkyCargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFWB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFZB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFHL - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFFM - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFBL - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFSU - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFNM - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XSDG - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-HACTL" target="_top"><span class="iatabold">HACTL</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFHL - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFM - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFBL - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-BA" target="_top"><span class="iatabold">IAG Cargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFM - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFBL - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-INDITEX" target="_top"><span class="iatabold">INDITEX</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFWB - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFZB - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFSU - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFNM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XINV - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-KN" target="_top"><span class="iatabold">K+N</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFSU - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFR - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-KE" target="_top"><span class="iatabold">Korean Airline Cargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFZB - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFSU - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFNM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-LH" target="_top"><span class="iatabold">Lufthansa Cargo AG</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFHL - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XCSN - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XSDG - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-PANALPINA" target="_top"><span class="iatabold">PANALPINA</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFHL - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-QF" target="_top"><span class="iatabold">Qantas Freight</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFWB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFZB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFM - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFBL - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFSU - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFNM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-QATAR" target="_top"><span class="iatabold">Qatar Airways Cargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFHL - Live"></td>
+ <td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFBL - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFR - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-SAS" target="_top"><span class="iatabold">SAS Cargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFHL - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFBL - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFR - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XGRQ - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-SG" target="_top"><span class="iatabold">Singapore Airlines Cargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFWB - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFZB - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFHL - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFFM - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFBL - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFSU - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFNM - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFFR - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-Southwest" target="_top"><span class="iatabold">Southwest Airlines</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFWB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFZB - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFFM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFBL - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFSU - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XFNM - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+ <td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFR - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsGreen" title="XCSN - Live"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-SwissP" target="_top"><span class="iatabold">Swissport</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFWB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFZB - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFSU - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFNM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-LX" target="_top"><span class="iatabold"> Swiss WorldCargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFWB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFZB - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFM - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFBL - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFSU - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFNM - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XFFR - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XCSN - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsYellow" title="XSDG - Planned within one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+</tr>
+<tr>
+<td class="iatatd iatacol1 iatarow1"><a href="cxml-users-en.html#cxml-users-United" target="_top"><span class="iatabold">United Cargo</span></a></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFWB - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFZB - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFHL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFFM - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFBL - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsOrange" title="XFSU - Planned beyond one year"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCDD - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFNM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFUM - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRAF - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XRCP - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XUCR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XFFR - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XCSN - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XSDG - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgcolorsRed" title="XGRQ - No Plans"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XINV - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XPCL - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XCOO - Not Applicable"></td>
+<td class="iatatd iatacol1 iatarow1 iatabgshademedium" title="XSLI - Not Applicable"></td>
+ </tr>
+</tbody>
+</table>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,72 @@
+.scrubber:after {
+  background: none repeat scroll 0 0 #333333;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 5px;
+  
+}
+
+.scrubber {
+  cursor: pointer;
+  display: block !important;
+  height: 3px;
+  position: relative;
+  width: 685px;
+  left: 0;
+  top: 24px;
+  float: left;
+  background-color: rgba(141, 141, 141, 0.90);
+  border-radius: 18px;
+  margin: 0 20px;
+}
+.progress {
+  height: 100%;
+  position: absolute;
+  background-color: #ec3013;
+  left: 0px;
+  top: 0px;
+  border-radius: 18px;
+}
+
+.dragger{
+	position: absolute;
+	left: 0px;
+	top: -14px;
+	width: 20px;
+	height: 20px;
+	/* border: 2px solid red; */
+	/* border-radius: 20px; */
+}
+.dragger .draggerHandler{
+	position: absolute;
+	left: -12px;
+	top: 0px;
+	width: 25px;
+	height: 25px;
+	border: 2px solid red;
+	border-radius: 20px;
+}
+.dragger .draggerHandler .draggerHandlerSmall{
+	position: absolute;
+	left: 6px;
+	top: 6px;
+	width: 13px;
+	height: 13px;
+	/* border: 2px solid red; */
+	background-color: #0a4279;
+	border-radius: 20px;
+}
+
+
+.scrubber  .scrubberHitArea{
+	position: absolute;
+	left: 0px;
+	top: -10px;
+	width: 100%;
+	height: 20px;
+	/* border: 2px solid red; */
+	/* border-radius: 20px; */
+}

@@ -1,0 +1,114 @@
+.printpage {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  background: rgba(0,64,84,0.4);
+}
+
+.printbox {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  display: none;
+  z-index: 60000;
+}
+
+.printpagebox {
+  /* background: url('../images/print_popup_bg.png') no-repeat; */
+  /* background: url(../images/resources_popup_bg.png) no-repeat; */
+  height: 250px;
+  width: 462px;
+  position: absolute;
+  top: 235px;
+  left: 282px;
+  background-size: 100% 100%;
+}
+
+#printbutton1 {
+  /* background: url(../images/print_pdf_normal.png) no-repeat; */
+  height: 102px;
+  width: 75px;
+  top: 330px;
+  position: absolute;
+  left: 326px;
+  cursor: pointer;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+
+
+#printbutton2 {
+ /* background: url(../images/print_screen_normal.png) no-repeat; */
+ height: 76px;
+ width: 102px;
+ top: 356px;
+ position: absolute;
+ left: 459px;
+ cursor: pointer;
+}
+
+
+
+#printbutton3 {
+ background: url(../images/print_textOnly_normal.png) no-repeat;
+ height: 102px;
+ width: 75px;
+ top: 330px;
+ position: absolute;
+ left: 618px;
+ cursor: pointer;
+ pointer-events: none;
+ opacity: 0.5;
+}
+#printbutton3:hover{
+  background: url('../images/print_textOnly_hover.png') no-repeat;
+  }
+#printbutton1:hover{
+  background: url('../images/print_pdf_over.png') no-repeat;
+  }
+  #printbutton2:hover{
+  background: url('../images/print_screen_hoverl.png') no-repeat;
+  }
+#closebuttonfor_print {
+  background: url('../images/exit_normal.png') no-repeat;
+  height: 17px;
+  width: 17px;
+  position: absolute;
+  top: 252px;
+  left: 709px;
+}
+
+#closebuttonfor_print:hover {
+  background: url('../images/exit_selected.png') no-repeat;
+  cursor: pointer;
+}
+.printtext{color: #fff;position: absolute;font-size: 14px;}
+#printpagetext1{
+    top: 250px;
+    left: 309px;
+    font-size: 18px;
+    font-weight: Bold;
+}
+#printpagetext2{
+    top: 300px;
+    left: 309px;
+    
+}
+#printpagetext3{top: 439px;left: 303px;width: 120px;text-align: center;}
+#printpagetext4{
+    top: 439px;
+    left: 461px;
+    
+}
+#printpagetext5{
+    top: 439px;
+    left: 597px;
+    
+    width: 120px;
+    text-align: center;
+}

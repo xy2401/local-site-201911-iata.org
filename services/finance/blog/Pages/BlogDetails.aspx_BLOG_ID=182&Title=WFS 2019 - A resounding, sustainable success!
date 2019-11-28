@@ -1,0 +1,824 @@
+
+<!DOCTYPE html >
+<html dir="ltr" class="ms-isBot" lang="en-US">
+<head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="author" content="IATA" />
+<meta name="keywords" content='' />
+<meta name="description" content="" /><meta name="robots" content="NOFOLLOW,NOINDEX,NOHTMLINDEX" /><meta name="language" content="English" /><title>
+		
+    
+        IATA - Air Pulse 
+         
+
+</title><link rel="shortcut icon" href="/Style Library/IATA.org-v1/Core/Images/Icons/favicon.ico" /><link rel="icon" href="/Style Library/IATA.org-v1/Core/Images/Icons/favicon.ico" type="image/ico" /><link rel="icon" type="image/png" href="/Style Library/IATA.org-v1/Core/Images/Icons/favicon.png" />
+<script type="text/javascript" src="/_layouts/15/iata/Js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/_layouts/15/iata/Js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript">var jgn = jQuery.noConflict();</script>
+<link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=2bpHeX9U8DH09TB5zpJcsQ%3D%3D" />
+<script type="text/javascript" src="/_layouts/15/init.js?rev=R500FBwHjH3TO5LeC6KbFQ%3D%3D"></script>
+<script src="/_layouts/15/iata.taxonomy/js/crosslink.js"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=132G_K4lIBEIPwyhui8VZf39a7LCSn2CIAVy3d_lx_Ob05crJstSAMc6xb9wr4PKTkFpBfIP3wmp6dMbM04d3MrAYi5bDGhJoyA_tlFAItzcX7cpYxMB7wX2z8GLvEbMR22SniN1Pv6l_tH_WKKs59Qz8q3EwDAgormyW4FSxp2gq6r0Qjpe1j0Jj_FOfLCk0&amp;t=2b48f70a"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D"></script>
+<script type="text/javascript">RegisterSod("initstrings.js", "\u002f_layouts\u002f15\u002f1033\u002finitstrings.js?rev=S11vfGURQYVuACMEY0tLTg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=xXYZY4hciX287lShPZuClw\u00253D\u00253D");RegisterSodDep("strings.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=jvJC3Kl5gbORaLtf7kxULQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=yNk\u00252FhRzgBn40LJVP\u00252BqfgdQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=3Oh2QbaaiXSb7ldu2zd6QQ\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=GpU7vxyOqzS0F9OfEX3CCw\u00253D\u00253D");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=cXv35JACAh0ZCqUwKU592w\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=VYAJYBo5H8I3gVSL3MzD6A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=ryx2n4ePkYj1\u00252FALmcsXZfA\u00253D\u00253D");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=NjHQZTfQs\u00252BiDIjz4PK\u00252FeWg\u00253D\u00253D");RegisterSodDep("clienttemplates.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=XxxHIxIIc8BsW9ikVc6dgA\u00253D\u00253D");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=REwVU5jSsadDdOZlCx4wpA\u00253D\u00253D");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=5f2WkYJoaxlIRdwUeg4WEg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=BJ9b7Ak8FOS3NwGiaTXOjA\u00253D\u00253D");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=p5tCOm\u00252FlHUwcfll7W3pKNw\u00253D\u00253D");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=jWqEDmcjCSPmnQw2ZIfItQ\u00253D\u00253D");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=ProfileBrowserScriptRes\u0026rev=J5HzNnB\u00252FO1Id\u00252FGI18rpRcw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
+<link type="text/xml" rel="alternate" href="/services/finance/blog/_vti_bin/spsdisco.aspx" />
+<meta property='og:title' content='
+	WFS 2019 - A resounding, sustainable success!
+	'>
+<meta property='og:type' content='website'>
+<meta property='og:url' content='
+	https://www.iata.org/services/finance/blog/pages/blogdetails.aspx?BLOG_ID=182&Title=WFS%25202019%2520-%2520A%2520resounding,%2520sustainable%2520success!
+	'>
+<meta property='og:image' content='
+	https://www.iata.org/services/finance/blog/PublishingImages/Lists/Posts/AllPosts/WFS19-BANNER-V2-856.jpg
+	'>
+<meta property='og:description' content='
+	
+	'>
+<link rel="canonical" href="https://www.iata.org:443/services/finance/blog/Pages/BlogDetails.aspx?BLOG_ID=182&amp;Title=WFS+2019+-+A+resounding,+sustainable+success!" />
+<link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
+var datalayer;
+var jgn = jQuery.noConflict();
+var guaGmtGlobalRequestUri = "/services/finance/blog/Pages/BlogDetails.aspx";
+var guaGmtGlobalPageTitle = "Air Pulse";
+var guaGmtGlobalCurrentWebTitleName = "Air Pulse";
+// .....::::: Functions :::::.....
+function GetSocialMediaFollowerCookie() {
+var cookieValue = jgn.cookie('IATAIsSocialMediaFollower');
+return cookieValue;
+}
+function PrepareUniversalAnalyticsDataLayer() {
+var socialMediaFollowerCookie = GetSocialMediaFollowerCookie();
+var socialMediaFollowers = false;
+if(socialMediaFollowerCookie != null && socialMediaFollowerCookie != undefined && socialMediaFollowerCookie != '' && socialMediaFollowerCookie == 'true')
+{
+socialMediaFollowers = true;
+}
+dataLayer = [{
+'user' : {
+'socialMediaFollowers' : socialMediaFollowers
+},
+'page' : {
+'requestURI' : "/services/finance/blog/Pages/BlogDetails.aspx",
+'pageType' : "Home",
+'device' : "Desktop",
+'breadcrumb' : ["Services","Financial Services","Air Pulse"]
+}
+}];
+if (typeof(dataLayerEcommerce) != 'undefined' && dataLayerEcommerce){dataLayer[0]['ecommerce'] = dataLayerEcommerce; }
+}
+// .....::::: On Document Ready :::::.....
+jgn(function() {
+PrepareUniversalAnalyticsDataLayer();
+});
+</script>
+</head>
+<body onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();_spBodyOnLoadWrapper();">
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T883LZ"
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T883LZ');</script>
+
+<div id="imgPrefetch" style="display:none">
+<img src="/_layouts/15/images/spcommon.png?rev=23" />
+</div>
+<form method="post" action="./BlogDetails.aspx?BLOG_ID=182&amp;Title=WFS+2019+-+A+resounding%2c+sustainable+success!" id="aspnetForm">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x00901FFC2750FE0D46A33111B298BCB3546CAD86B96E9A741E2194E12B2C0AB232AEBE2A61B98DA047D2108281BF0FF5B90AB55E7238D150A4432F4DA84D3510,27 Nov 2019 21:13:39 -0000" />
+<input type="hidden" name="ctl00_sm_HiddenField" id="ctl00_sm_HiddenField" value="" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBgIGD2QWAgIBDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTE1LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIHD2QWAmYPZBYCAgEPZBYCAgEPFgIfAAsrBAFkAhcPZBYCAgMPZBYCZg9kFgJmDzwrAAYAZAIJD2QWBgIDD2QWAmYPZBYGBSZnXzAxZmFkMzQ4XzBjYjdfNGZiMV9iZWY5X2U2NzA0NzZmNDBhZA9kFgJmD2QWDGYPFgIeA3NyYwVUL3NlcnZpY2VzL2ZpbmFuY2UvYmxvZy9QdWJsaXNoaW5nSW1hZ2VzL0xpc3RzL1Bvc3RzL0FsbFBvc3RzL1dGUzE5LUJBTk5FUi1WMi04NTYuanBnZAIBDxYCHglpbm5lcmh0bWwFRUFpcmxpbmVzIC0gQ2FyZ28gQWdlbnRzIC0gRmluYW5jaWFsIFByb2R1Y3RzIC0gVHJhdmVsIEFnZW50cyAtIEV2ZW50c2QCAg8WAh8CBQ8yNSBPY3RvYmVyIDIwMTlkAgMPFgIfAgUtV0ZTIDIwMTkgLSBBIHJlc291bmRpbmcsIHN1c3RhaW5hYmxlIHN1Y2Nlc3MhZAIEDxYCHwIFhlM8ZGl2PjxkaXY+Rm91ciBJbmR1c3RyeSBNZWV0aW5ncywgdHdvIFNwZWNpYWxpemVkIFRyYWNrcywgZWlnaHQg4oCcTWVldCB0aGUgZXhwZXJ0c+KAnSBzZXNzaW9ucywgb25lIEhpZ2ggSW1wYWN0IFNlbWluYXIuIFRoZXNlIGFyZSBqdXN0IHNvbWUgb2YgdGhlIG51bWJlcnMgdGhhdCBtYWRlIGFub3RoZXIgdmVyeSBzdWNjZXNzZnVsIFdvcmxkIEZpbmFuY2lhbCBTeW1wb3NpdW0sIHdoaWNoIHRvb2sgcGxhY2UgaW4gTWlhbWkgb24gMjUgYW5kIDI2IFNlcHRlbWJlciAyMDE5LiBGb3IgaXRzIDZ0aCBlZGl0aW9uLCB0aGUgbm90LXRvLW1pc3MgZXZlbnQgZm9yIHRoZSBhaXJsaW5lIGZpbmFuY2lhbCBjb21tdW5pdHkgYWRkcmVzc2VkIHRoZSB0b3BpYyBvZiBzdXN0YWluYWJpbGl0eSB1bmRlciB0aGUgdGhlbWUg4oCcU2hhcGluZyBhIFN1c3RhaW5hYmxlIEZ1dHVyZSwgdG9nZXRoZXImIzU4OyBBaXJsaW5lcy4gSUFUQS4gUGFydG5lcnPigJ0uPGJyPjwvZGl2PjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxoMz5JbmR1c3RyeSBNZWV0aW5nczxicj48L2gzPjxkaXY+VGhlIHZlbnVlIHdhcyBidXp6aW5nIHdpdGggYWN0aXZpdHkgZXZlbiBiZWZvcmUgdGhlIGV2ZW50IG9mZmljaWFsbHkgc3RhcnRlZC4gQXMgZXZlcnkgeWVhciwgdHdvIG1ham9yIGdlbmVyYWwgbWVldGluZ3MgdG9vayBwbGFjZSBiZWZvcmUgV0ZTJiM1ODsgdGhlIFNJUyBhbmQgSW50ZXJsaW5lIEJpbGxpbmcgYW5kIFNldHRsZW1lbnQgT3BlcmF0aW9ucyBHZW5lcmFsIE1lZXRpbmdzLiBTdWNoIEdlbmVyYWwgTWVldGluZ3MgYXJlIGNyaXRpY2FsIHRvIG1haW50YWluIHN0cmVhbWxpbmVkIGZpbmFuY2lhbCBvcGVyYXRpb25zIHdpdGhpbiBvdXIgaW5kdXN0cnkgYW5kIGJyaW5nIGZvcndhcmQgbmV3IGlkZWFzIGZvciBmdXJ0aGVyIG1vZGVybml6YXRpb24gb2Ygb3VyIHByb2Nlc3Nlcy4gQWlybGluZXMsIElBVEEgYW5kIFBhcnRuZXJzIGhhdmUgdGhlIG9wcG9ydHVuaXR5IHRvIGV4cGxvcmUgdGhlIGZ1dHVyZSBvZiBvdXIgaW5kdXN0cnkuPGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxoMz5HbG9iYWwgRnJhdWQgUHJldmVudGlvbiBGb3J1bTxicj48L2gzPjxkaXY+VGhpcyB5ZWFyIGFnYWluLCB0aGUgR2xvYmFsIEZyYXVkIFByZXZlbnRpb24gRm9ydW0gb2ZmZXJlZCBncmVhdCBzZXNzaW9ucy4gUGFydGljaXBhbnRzIHdlcmUgYWJsZSB0byBzdXJmIHRocm91Z2ggYSB2YXJpZXR5IG9mIHRvcGljcyByYW5naW5nIGZyb20gY3liZXJjcmltZSBlY29ub215IGFuZCBpdHMgaW1wYWN0IG9uIGZyYXVkIGJ5IFByb2Zlc3NvciBEci4gTWljaGFlbCBNY0d1aXJlIGZyb20gdGhlIFVuaXZlcnNpdHkgb2YgU3VycmV5LCB0byB0aGUgcmVwZXJjdXNzaW9ucyBvciByb21hbmNlIGZyYXVkcywgYnkgRGV0ZWN0aXZlIElzYWFjIEJyYW5jaCBmcm9tIE5ZUEQuIFRoZSBldmVudCBjdWxtaW5hdGVkIHdpdGggYSBicmlsbGlhbnQgcHJlc2VudGF0aW9uIG9uIHRoZSBpbXBhY3Qgb2YgdGhlIG15dGhpYyBUcm9qYW4gSG9yc2Ugb24gdG9kYXnigJlzIGZyYXVkLjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+QSByZWNvcmQgMjMwIHBhcnRpY2lwYW50cyBhdHRlbmRlZCB0aGlzIDNyZCBlZGl0aW9uIG9mIHRoZSBldmVudCwgd2l0aCBzYXRpc2ZhY3Rpb24gc2NvcmVzIGhpZ2hlciB0aGFuIGV2ZXIuPC9kaXY+PGRpdj4mIzE2MDs8L2Rpdj48aDM+SW5kdXN0cnkgVGF4YXRpb24gRm9ydW08L2gzPjxkaXY+T3ZlciAxMDAgdGF4YXRpb24gZXhwZXJ0cyBmcm9tIGFsbCBvdmVyIHRoZSB3b3JsZCBnYXRoZXJlZCBkdXJpbmcgdGhlIHdlZWsgb2YgV0ZTIHRvIGF0dGVuZCB0aGUgSW5kdXN0cnkgVGF4YXRpb24gRm9ydW0uIFBhcnRpY2lwYW50cyBoYWQgdGhlIG9wcG9ydHVuaXR5IHRvIGRpc2N1c3MgdGF4IHBvbGljeSBhbmQgY29tcGxpYW5jZSwgYXMgd2VsbCBhcyB0byBzaGFyZSBiZXN0IHByYWN0aWNlcyBhbmQgdmlld3Mgb24gY2FtcGFpZ25zLiBUaGV5IGFsc28gaGVhcmQgYWJvdXQgcHJpb3JpdGllcyBhbmQga2V5IHN0cmF0ZWdpZXMgdG8gZW5zdXJlIGZhaXIgdGF4IHRyZWF0bWVudCBvZiBpbnRlcm5hdGlvbmFsIGFpciB0cmFuc3BvcnQuIFRoZSBhZ2VuZGEgY292ZXJlZCBib3RoIGdsb2JhbCBpc3N1ZXMsIHNwYW5uaW5nIGZyb20gZW52aXJvbm1lbnQtcmVsYXRlZCB0YXhlcyB0byB0aGUgdGF4YXRpb24gb2YgZS1jb21tZXJjZSwgYW5kIHJlZ2lvbmFsIHVwZGF0ZXMuPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5Bbm90aGVyIGdyZWF0IHN1Y2Nlc3MgZm9yIHRoZSB0aGlyZCBlZGl0aW9uIG9mIHRoZSBJbmR1c3RyeSBUYXhhdGlvbiBGb3J1bSE8L2Rpdj48ZGl2Pjxicj48L2Rpdj48aDM+V29ybGQgRmluYW5jaWFsIFN5bXBvc2l1bTxicj48L2gzPjxkaXY+PHN0cm9uZz48YnI+PC9zdHJvbmc+PC9kaXY+PGRpdj48c3Ryb25nPktleSBtZXNzYWdlPC9zdHJvbmc+PC9kaXY+PGRpdj5TdXN0YWluYWJpbGl0eSB3YXMgYWRkcmVzc2VkIGZyb20gbWFueSBkaWZmZXJlbnQgcGVyc3BlY3RpdmVzJiM1ODsgZmluYW5jaWFsIHN1c3RhaW5hYmlsaXR5LCBvcGVyYXRpb25hbCBzdXN0YWluYWJpbGl0eSwgYW5kIG9mIGNvdXJzZSBlbnZpcm9ubWVudGFsIHN1c3RhaW5hYmlsaXR5LiBBbmQgdGhlIGtleSBtZXNzYWdlIGVtZXJnZWQgbG91ZCBhbmQgY2xlYXImIzU4OyB0aGUgY29ubmVjdGlvbiBiZXR3ZWVuIGVudmlyb25tZW50YWwgc3VzdGFpbmFiaWxpdHkgYW5kIGZpbmFuY2lhbCBoZWFsdGggaXMgc3Ryb25nLCBhbmQgSUFUQSwgc3VwcG9ydGVkIGJ5IHRoZSBJbmR1c3RyeSBGaW5hbmNpYWwgQWR2aXNvcnkgQ291bmNpbCAoRmluQUMpIGFuZCBpdHMgV29ya2luZyBHcm91cHMsIHBsYXlzIGEgY3JpdGljYWwgcm9sZSBpbiB0cmFuc2xhdGluZyB0aGlzIGNvbm5lY3Rpb24gaW50byBhY3Rpb24gcGxhbnMgZm9yIGEgc2FmZSwgc2VjdXJlLCBhbmQgc3VzdGFpbmFibGUgYWlyIHRyYW5zcG9ydCBpbmR1c3RyeS48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PjxzdHJvbmc+T3BlbmluZyBwbGVuYXJ5PC9zdHJvbmc+PC9kaXY+PGRpdj48L2Rpdj48ZGl2PjxkaXY+VGhlIHN5bXBvc2l1bSBvcGVuZWQgd2l0aCBBdmlhbmNh4oCZcyBDRU8gQW5rbyB2YW4gZGVyIFdlcmZmLCB3aG8sIGluIHdoYXQgaGUgY2FsbGVkIGEg4oCcbG92ZSBsZXR0ZXIgdG8gdGhlIGluZHVzdHJ54oCdLCBzdHJlc3NlZCB0aGUgY3JpdGljYWwgcm9sZSBvZiBGaW5hbmNlIGluIGhlbHBpbmcgdGhlIGluZHVzdHJ5IG1ha2UgdGhlIHJpZ2h0IGRlY2lzaW9ucyBhbmQgYXZvaWQgdGhlIHRyYXBzIG9mIGdyb3d0aCBmb3IgdGhlIHNha2Ugb2YgZ3Jvd3RoLjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2Pkl0IGNvbnRpbnVlZCB3aXRoIGFuIGluc3BpcmluZyBrZXlub3RlIGZyb20gU3VzYW4gTWNQaGVyc29uIGZyb20gTWNQaGVyc29uIFN0cmF0ZWdpZXMgb24gdGhlIGdyb3dpbmcgbGluayBiZXR3ZWVuIHN1c3RhaW5hYmlsaXR5IGFuZCBsZWFkZXJzaGlwLCB3aGVyZSBzaGUgaGlnaGxpZ2h0ZWQgaG93IHNoYXJlaG9sZGVyc+KAmSB2YWx1ZSBpcyBubyBsb25nZXIgdGhlIG9ubHkgZHJpdmUgZm9yIGJ1c2luZXNzZXMuIEFzIGEgcHJvZmVzc2lvbmFsIGluIFNvY2lhbCBDb3Jwb3JhdGUgUmVzcG9uc2liaWxpdHkgYW5kIFN1c3RhaW5hYmlsaXR5IGFuZCBhIHBhc3Npb25hdGUgb2YgQWlyIFRyYXZlbCwgc2hlIGNhbGxlZCBmb3IgYSBUcmFuc2Zvcm1hdGlvbiwgYSB0cmFuc2Zvcm1hdGlvbiB0aGF0IGlzIGZ1bmRhbWVudGFsIHRvIG91ciBpbmR1c3RyeeKAmXMgc3VjY2VzcyBhbmQgdG8gcHJvdGVjdCBvdXIgZnV0dXJlIGFzIGEgc29jaWV0eS48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5CcmFuZG9uIE5lbHNvbiwgSmV0Qmx1ZeKAmXMgR2VuZXJhbCBDb3Vuc2VsICZhbXA7IENvcnBvcmF0ZSBTZWNyZXRhcnkgc2hhcmVkIHRoZSBhaXJsaW5l4oCZcyBpbnNwaXJpbmcgc3VzdGFpbmFiaWxpdHkgam91cm5leSBhbmQgQWxleCBNYWxmaXRhbmksIENFTyBvZiBBenVsIHRvbGQgdGhlIHN0b3J5IG9mIGhvdyB0aGV5IHdlbnQgZnJvbSBiZWluZyBhIHN0YXJ0dXAgdG8gYmVjb21pbmcgYSBzdWNjZXNzZnVsIHBsYXRmb3JtLiBNYW55IHBvaW50cyBvZiB2aWV3IGZyb20gbWFueSBkaWZmZXJlbnQgcGVyc3BlY3RpdmVzLCBhbGwgZXF1YWxseSBpbnNwaXJpbmcgYW5kIHJlaW5mb3JjaW5nIHRoZSBtZXNzYWdlIHRoYXQgc3VzdGFpbmFiaWxpdHkgaXMgbm90IGEgbmljZSB0byBoYXZlIG9yIGFzcGlyYXRpb25hbCB0aGlua2luZywgYnV0IGEgY3JpdGljYWwgZmVhdHVyZSBvZiB0b2RheeKAmXMgYnVzaW5lc3NlcyB0aGF0IHJlcXVpcmVzIGNsZWFyIGFjdGlvbnMsIGFuZCBhdmlhdGlvbiBpcyBubyBleGNlcHRpb24uPGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+VGhlIE9wZW5pbmcgUGxlbmFyeSBjb25jbHVkZWQgd2l0aCBNaWNoYWVsIERvZXJzYW0sIENoYWlyIG9mIHRoZSBJQVRBIEluZHVzdHJ5IEZpbmFuY2lhbCBBZHZpc29yeSBDb3VuY2lsLCB3aG8gZ2F2ZSBhbiBvdmVydmlldyBvZiB0aGUgaW5kdXN0cnnigJlzIGFjaGlldmVtZW50cyBvdmVyIHRoZSBwYXN0IDYgbW9udGhzLCBwcmVzZW50ZWQgdGhlIG5ldyBJQVRBIHN0cmF0ZWd5IGZvciBhIHNhZmUsIHNlY3VyZSBhbmQgc3VzdGFpbmFibGUgYWlyIHRyYW5zcG9ydCBpbmR1c3RyeSwgYW5kIGhpZ2hsaWdodGVkIHRoZSBjaGFsbGVuZ2VzIHRoYXQgdGhlIGluZHVzdHJ5IGlzIGN1cnJlbnRseSBmYWNpbmcsIG5hbWVseSBuZXcgdGVjaG5vbG9neSwgYWNjZXNzIHRvIGFuZCByZXRlbnRpb24gb2YgdG9wIHRhbGVudHMsIGFuZCBuZWVkbGVzcyB0byBzYXksIHN1c3RhaW5hYmlsaXR5LiYjMTYwOzxicj48L2Rpdj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PjxzdHJvbmc+U3BlY2lhbGl6ZWQgVHJhY2tzPC9zdHJvbmc+PC9kaXY+PGRpdj48L2Rpdj48ZGl2PjxkaXY+VHdvIHNwZWNpYWxpemVkIHRyYWNrcyByYW4gaW4gcGFyYWxsZWwgb24gUGF5bWVudCBhbmQgRnJhdWQgUHJldmVudGlvbiBhbmQgRmluYW5jaWFsIFN0cmF0ZWd5IGFuZCBSaXNrIE1hbmFnZW1lbnQuIFRoZSBQYXltZW50IGFuZCBGcmF1ZCBQcmV2ZW50aW9uIFRyYWNrIHdhcyBkb21pbmF0ZWQgYnkgdGhyZWUgcmVjdXJyaW5nIHRoZW1lcywgdGhhdCBhcmUgYXQgdGhlIGhlYXJ0IG9mIHRvZGF54oCZcyBwYXltZW50IGxhbmRzY2FwZSYjNTg7IHRoZSBkaWdpdGFsIHJldm9sdXRpb24sIHRoZSBuZWVkIGZvciBhbiBpbnRlZ3JhdGVkIHZpc2lvbiBmb3IgcGF5bWVudHMsIGFuZCBjdXN0b21lciBjZW50cmljaXR5Ljxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PlRlY2hub2xvZ3kgcGxheWVkIGEgcHJvbWluZW50IHJvbGUgYWxzbyBpbiB0aGUgRmluYW5jaWFsIFN0cmF0ZWd5IGFuZCBSaXNrIE1hbmFnZW1lbnQgVHJhY2ssIHdpdGggQmxvY2tjaGFpbiBhbmQgQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2UgYmVpbmcgYXQgdGhlIHRvcCBvZiB0aGUgbGlzdCBvZiBkaXNydXB0b3JzLCBidXQgYWxzbyBvZiBvcHBvcnR1bml0aWVzIGZvciB0cmVhc3VyZXJzLiBUaGUgbmVlZCBmb3IgdGFsZW50IHdoaWNoIGNhbiBkZWFsIHdpdGggYm90aCBmaW5hbmNpYWwgYW5kIHRlY2hub2xvZ2ljYWwgdG9waWNzIHdhcyByYWlzZWQgaW4gbWFueSBwcmVzZW50YXRpb25zLCBhcyB3ZWxsIGFzIHRoZSBpbXBvcnRhbmNlIG9mIGhhdmluZyBhIGhvbGlzdGljIHZpZXcgb24gY2FzaCBtb3ZlbWVudHMuPGJyPjwvZGl2PjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PHN0cm9uZz5IaWdoIEltcGFjdCBTZW1pbmFyPC9zdHJvbmc+PC9kaXY+PGRpdj48L2Rpdj48ZGl2PjxkaXY+RHVyaW5nIFdGUyBvbmNlIG1vcmUsIGEgcHJpdmF0ZSBzZXNzaW9uIGZvciBDRk9zIGFuZCBTZW5pb3IgRmluYW5jaWFsIEV4ZWN1dGl2ZXMgd2FzIGhlbGQgdW5kZXIgdGhlIGxhYmVsIG9mIEhpZ2ggSW1wYWN0IFNlbWluYXIuIFRoaXMgeWVhcnPigJkgZWRpdGlvbiB3YXMgbm90aGluZyBzaG9ydCBvZiB0aGUgYmVzdCBvbmUgZXZlciEgT25jZSBhZ2Fpbiwgc3VzdGFpbmFiaWxpdHkgd2FzIGF0IHRoZSBoZWFydCBvZiB0aGUgZGlzY3Vzc2lvbnMuIEl0IG9wZW5lZCB3aXRoIFRhbW15IFdlaW5iYXVtIGZyb20gQW1lcmljYW4gRXhwcmVzcywgd2hvIGFsc28gc3BvbnNvcmVkIHRoZSBldmVudCwgc2hhcmluZyB0aGVpciBzdHJhdGVneSBmb3IgYSByZXNwb25zaWJsZSBidXNpbmVzcywgYW5kIGhvdyBpdCBjb21iaW5lcyBwcm9maXQgYW5kIGN1c3RvbWVyIG5lZWRzLiBUaGVyZSB3YXMgYSBjbGVhciBhbmQgc2ltcGxlIG1lc3NhZ2UsIHRoYXQgd29ya2luZyB0b2dldGhlciBhcyBhbiBpbmR1c3RyeSBjYW4gYmUgbW9yZSBwb3dlcmZ1bCB0byBvdmVyY29tZSBjaGFsbGVuZ2VzIGFuZCBkcml2ZSBzdXN0YWluYWJpbGl0eS48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5JdCBjb250aW51ZWQgd2l0aCBhIHZlcnkgaW5zaWdodGZ1bCBwcmVzZW50YXRpb24gZnJvbSBNY0tpbnNleeKAmXMgQWxleCBEaWNodGVyIG9uIHRoZSBkcml2ZXJzIG9mIGFpcmxpbmVzIHN1Y2Nlc3MmIzU4OyBHcm93dGggd2l0aCBQdXJwb3NlLCBQdXNoaW5nIEFuY2lsbGFyaWVzIHRvIHRoZSBuZXh0IGxldmVsLCBJbmNyZWFzZSBjdXN0b21lciBwdWxsLCBCdWlsZCBwb2NrZXRzIG9mIHByaXZpbGVnZSwgVHJlYXQgZmxlZXQgc3RyYXRlZ3kgYXMgYW4gZXhpc3RlbnRpYWwgZGVjaXNpb24sIExlYWQgaW4gb3JnYW5pemF0aW9uYWwgaGVhbHRoLjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PkJyaWFuIFBlYXJjZSwgSUFUQeKAmXMgQ2hpZWYgRWNvbm9taXN0LCB0b2xkIHRoZSBjYXB0aXZhdGluZyBzdG9yeSBvZiB0aGUgbGluayBiZXR3ZWVuIHN1c3RhaW5hYmlsaXR5IGFuZCBmaW5hbmNpYWwgcGVyZm9ybWFuY2UmIzU4OyB3aGlsc3QgdGhlIGluZHVzdHJ5IGlzIGRvaW5nIGEgbG90IHRvIHJlZHVjZSBpdHMgQ08yIGVtaXNzaW9ucywgZWZmb3J0cyBhcmUgc3RpbGwgbm90IGVub3VnaCBhbmQgQ09SU0lBIGFuZCB0aGUgZGV2ZWxvcG1lbnQgb2YgYmlvLWZ1ZWxzIGFyZSB0aGUgd2F5IGZvcndhcmQuPGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+VGhlIEhpZ2ggSW1wYWN0IFNlbWluYXIgY29uY2x1ZGVkIHdpdGggYSB0b3AtbGV2ZWwgcGFuZWwgZGlzY3Vzc2lvbiBpbnZvbHZpbmcgQnJpYW4gUGVhcmNlLCBLYXJlbiBDbGF5dG9uIChJQVRB4oCZcyBDb3Jwb3JhdGUgU2VjcmV0YXJ5KSwgQWxleCBEaWNodGVyIGFuZCBFcmlrIFN3ZWxoZWltIChDRk8gb2YgS0xNKS4gVGhlIHBhbmVsIHByb3ZpZGVkIHVuaXF1ZSwgdG9wLWxldmVsIHZpZXdzIG9uIGhvdyB0aGUgdG9waWNzIG9mIGVudmlyb25tZW50IGFuZCBzdXN0YWluYWJpbGl0eSBhcmUgc2hhcGluZyB0aGUgZGlzY3Vzc2lvbnMgaW4gdGhlIEJvYXJkIHJvb20gYW5kIGFmZmVjdGluZyB0aGUgaW1hZ2Ugb2YgYWlybGluZXMuIEZsZWV0IGFuZCBvcGVyYXRpb25zLXJlbGF0ZWQgZGVjaXNpb25zIGFyZSBjZXJ0YWlubHkgaW1wYWN0ZWQsIGFuZCBzbyBpcyB0YWxlbnQgYXR0cmFjdGlvbiBhbmQgcmV0ZW50aW9uLCBwYXJ0aWN1bGFybHkgd2l0aCByZWxhdGlvbnMgdG8geW91bmdlciBzdGFmZiwgd2hvIGFyZSBtb3JlIHNlbnNpdGl2ZSB0byBlbnZpcm9ubWVudGFsIGNvbmNlcm5zLjxicj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PldpdGggaXRzIDIwMTkgZWRpdGlvbiwgdGhlIEhpZ2ggSW1wYWN0IFNlbWluYXIgaGFzIGVzdGFibGlzaGVkIGl0c2VsZiBhcyB0aGUgbm90LXRvLWJlLW1pc3NlZCBldmVudCBmb3IgdG9wIGFpcmxpbmVzIGZpbmFuY2UgZXhlY3V0aXZlcy48YnI+PC9kaXY+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48c3Ryb25nPk1lZXQgdGhlIEV4cGVydHMgU2Vzc2lvbnM8L3N0cm9uZz48L2Rpdj48ZGl2PkVpZ2h0IOKAnE1lZXQgdGhlIEV4cGVydHPigJ0gc2Vzc2lvbnMgdG9vayBwbGFjZSBvbiBkYXkgMiwgd2hlcmUgcGFydGljaXBhbnRzIGhhZCB0aGUgb3Bwb3J0dW5pdHkgdG8gaGF2ZSBhIGRpYWxvZ3VlIHdpdGggdG9wLWluZHVzdHJ5IGV4cGVydHMgb24gaG90IHRvcGljcyBzdWNoIGFzJiM1ODs8YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj48aW1nIHNyYz0iL3NlcnZpY2VzL2ZpbmFuY2UvYmxvZy9QdWJsaXNoaW5nSW1hZ2VzL0xpc3RzL1Bvc3RzL0FsbFBvc3RzL01URS0xLnBuZyIgYWx0PSJNVEUtMS5wbmciIHN0eWxlPSJtYXJnaW4mIzU4OzVweDt3aWR0aCYjNTg7NjAwcHg7aGVpZ2h0JiM1ODsxMzRweDsiIC8+PGJyPjwvZGl2PjxkaXY+PGltZyBzcmM9Ii9zZXJ2aWNlcy9maW5hbmNlL2Jsb2cvUHVibGlzaGluZ0ltYWdlcy9MaXN0cy9Qb3N0cy9BbGxQb3N0cy9NVEUtMi5wbmciIGFsdD0iTVRFLTIucG5nIiBzdHlsZT0ibWFyZ2luJiM1ODs1cHg7d2lkdGgmIzU4OzYwMHB4O2hlaWdodCYjNTg7MTMwcHg7IiAvPjxicj48L2Rpdj48ZGl2Pjxicj48ZGl2PjxzdHJvbmc+Q2xvc2luZyBQbGVuYXJ5PC9zdHJvbmc+PC9kaXY+PGRpdj48L2Rpdj48ZGl2PjxkaXY+VGhlIGV2ZW50IGNsb3NlZCBvbiBkYXkgMiB3aXRoIGEgY2FwdGl2YXRpbmcgc2VyaWVzIG9mIHNwZWFrZXJzIG9mZmVyaW5nIGRpdmVyc2UgYW5kIGluc2lnaHRmdWwgdmlld3MuIEthdCBNb3JzZSwgSUFUQeKAmXMgSW5ub3ZhdGlvbiBNYW5hZ2VyLCBwcmVzZW50ZWQgdGhlIGxhdGVzdCBhZGRpdGlvbiB0byB0aGUgSUFUQSBJbm5vdmF0aW9uIEVjb3N5c3RlbSYjNTg7IEFjY2VsZXJhdGVASUFUQS4gQSBkeW5hbWljIHByb2dyYW0gYWxsb3dpbmcgYWlybGluZXMgdG8gcGFydG5lciB3aXRoIHN0YXJ0LXVwcyB0byBkZWxpdmVyIGFjY2VsZXJhdGVkIGlubm92YXRpb24uPGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+QWx5c29uIEdlbm92ZXNlIGZyb20gR2xvYmFsIFJlcG9ydGluZyBJbml0aWF0aXZlIChHUkkpIGluc3BpcmVkIHRoZSBhdWRpZW5jZSBieSB0ZWxsaW5nIHRoZW0gYWxsIGFib3V0IGhvdyB0byBidWlsZCBhIGdvb2QgYnVzaW5lc3MuIE9uZSB0aGF0IGRvZXMgbm90IGZvcmdldCBldGhpY3MsIHBlb3BsZSwgYW5kIG9mIGNvdXJzZSBzdXN0YWluYWJpbGl0eS48YnI+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5UaGUgY2xvc2luZyBwbGVuYXJ5IGNvbnRpbnVlZCB3aXRoIElBVEHigJlzIFJvYmVydCBCb3lkLCB3aG8gdGFsa2VkIGFib3V0IHRoZSBmYXNjaW5hdGluZyB3b3JsZCBvZiBTdXN0YWluYWJsZSBBbHRlcm5hdGl2ZSBGdWVscyAoU0FGKSwgaG93IGZhciB0ZWNobm9sb2d5IGhhcyBnb25lIGluIHRoaXMgYXJlYSwgYW5kIGhvdyBmdXJ0aGVyIHdlIGNhbiBleHBlY3QgaXQgdG8gZ28gaW4gdGhlIGZ1dHVyZS4gU0FGIGFyZSBjbGVhcmx5IHRoZSB3YXkgZm9yd2FyZCB0byBhbGxvdyBhaXJsaW5lcyB0byBjb250aW51ZSBiZWluZyB0aGUgYnVzaW5lc3Mgb2YgZnJlZWRvbSwgd2hpbGUgZW5zdXJpbmcgYSBzYWZlLCBzZWN1cmUgYW5kIHN1c3RhaW5hYmxlIGluZHVzdHJ5LjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+TGFzdCBidXQgY2VydGFpbmx5IG5vdCBsZWFzdCwgTWljaGFlbCBEb2Vyc2FtIGNhbWUgYmFjayBvbiBzdGFnZSB0byBwcmVzZW50IHRoZSBuZXh0IHN0ZXBzIGZvciB0aGUgYWlyIHRyYW5zcG9ydCBpbmR1c3RyeSB0byBzaGFwZSBhIHN1c3RhaW5hYmxlIGZ1dHVyZSwgdG9nZXRoZXIuIFRoZSBGaW5BQyB3aWxsIHBsYXkgYSBrZXkgcm9sZSBieSBsZWFkaW5nIHRoZSBpbmR1c3RyeSBmaXJzdCBhbmQgZm9yZW1vc3QgaW4gZHJpdmluZyB0aGUgaW1wbGVtZW50YXRpb24gb2YgdGhlIElBVEEgc3RyYXRlZ2ljIHJvYWRtYXAuIFN1Y2Nlc3Mgd2lsbCBiZSBkZWZpbmVkIG5vdCBvbmx5IGJ5IHdoYXQgdGhlIGluZHVzdHJ5IGRvZXMsIGJ1dCBhbHNvIGJ5IGhvdyBpdCBkb2VzIGl0LiBJbmNsdXNpb24gb2YgZW52aXJvbm1lbnRhbCB0b3BpY3MgYWNyb3NzIHRoZSBvcmdhbml6YXRpb24gYW5kIGluIHRoZSBlY29zeXN0ZW0sIGVuZ2FnZW1lbnQgd2l0aCBwZW9wbGUgd2hvIHdhbnQgdG8gbWFrZSBhIGRpZmZlcmVuY2UsIGVuZ2FnZW1lbnQgd2l0aCBwYXJ0bmVycyBsZXZlcmFnaW5nIG9uIGNvbW1vbiBnb2FscyBhbmQgc3VzdGFpbmFiaWxpdHksIGFuZCBlbmdhZ2VtZW50IHdpdGggYSBsYXJnZXIgYXVkaWVuY2Ugb24gdGhlIGluZHVzdHJ54oCZcyBpbml0aWF0aXZlcyBhbmQgc3RvcnkgYXJlIGtleSBhcmVhcyBvZiBmb2N1cyBnb2luZyBmb3J3YXJkLjxicj48L2Rpdj48L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2PjxzdHJvbmc+QW5kIHRoZSBuZXh0IHN0b3AgaXPigKY8L3N0cm9uZz48L2Rpdj48ZGl2PlRoZSBldmVudCBjbG9zZWQgd2l0aCB0aGUgYW5ub3VuY2VtZW50IGVhZ2VybHkgYXdhaXRlZCBieSBhbGwmIzU4OyB3aGVyZSB3aWxsIFdGUyAyMDIwIHRha2UgcGxhY2U/PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+V2UgYXJlIGxvb2tpbmcgZm9yd2FyZCB0byBzZWVpbmcgeW91IGluIER1YmFpLCBVQUUsIG9uIDI5IFNlcHRlbWJlciAtIDEgT2N0b2JlciAyMDIwLCBwbGVhc2Ugc2F2ZSB0aGUgZGF0ZSE8YnI+PC9kaXY+PC9kaXY+PGRpdj48YnI+PC9kaXY+ZAIPDxYCHgtfIUl0ZW1Db3VudAL/////D2QFJmdfN2Y4MmMyMzRfOTdlYl80NjBkX2JjZDVfYjgzNzNkNGI5OGIyD2QWBGYPFgIeB1Zpc2libGVoZAIBDxYCHwRoZAUmZ18yOTRiMzQ2OF9jNmE1XzQ5NDNfYWZiYV9hMjljNzFlNjc0N2YPZBYEZg8WAh8EaGQCAQ8WAh8EaGQCBQ9kFgICBQ9kFgICAg9kFgICBQ9kFgICAw8WAh8EaBYCZg9kFgQCAg9kFgYCAQ8WAh8EaGQCAw8WAh8EaGQCBQ8WAh8EaGQCAw8PFgIeCUFjY2Vzc0tleQUBL2RkAg0PZBYCAgIPZBYcAgUPFgIfAAsrBAFkAgcPZBYCAgMPZBYGAgEPFgIeBGhyZWYFywFodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9zaGFyZXIucGhwP3U9aHR0cCUzQSUyRiUyRnd3dy5pYXRhLm9yZyUyRnNlcnZpY2VzJTJGZmluYW5jZSUyRmJsb2clMkZwYWdlcyUyRmJsb2dkZXRhaWxzLmFzcHglM0ZibG9nX2lkJTNEMTgyJTI2dGl0bGUlM0R3ZnMlMjAyMDE5JTIwLSUyMGElMjByZXNvdW5kaW5nJTJDJTIwc3VzdGFpbmFibGUlMjBzdWNjZXNzIWQCAw8WAh8GBdQBLy93d3cubGlua2VkaW4uY29tL3NoYXJlQXJ0aWNsZT9taW5pPXRydWUmdXJsPWh0dHAlM0ElMkYlMkZ3d3cuaWF0YS5vcmclMkZzZXJ2aWNlcyUyRmZpbmFuY2UlMkZibG9nJTJGUGFnZXMlMkZCbG9nRGV0YWlscy5hc3B4JTNGQkxPR19JRCUzRDE4MiUyNlRpdGxlJTNEV0ZTJTIwMjAxOSUyMC0lMjBBJTIwcmVzb3VuZGluZyUyQyUyMHN1c3RhaW5hYmxlJTIwc3VjY2VzcyFkAgUPFgIfBgXPAW1haWx0bzo/c3ViamVjdD1JIHdhbnRlZCB5b3UgdG8gc2VlIHRoaXMgc2l0ZSZhbXA7Ym9keT1DaGVjayBvdXQgdGhpcyBzaXRlIGh0dHA6Ly93d3cuaWF0YS5vcmcvc2VydmljZXMvZmluYW5jZS9ibG9nL1BhZ2VzL0Jsb2dEZXRhaWxzLmFzcHg/QkxPR19JRD0xODImYW1wO1RpdGxlPVdGUyAyMDE5IC0gQSByZXNvdW5kaW5nLCBzdXN0YWluYWJsZSBzdWNjZXNzIWQCCw8WAh8ACysEAWQCDw8WAh8ACysEAWQCFQ9kFgICAQ8WAh8ACysEAWQCGQ8WAh8ACysEAWQCHQ8WAh8ACysEAWQCHw8WAh8ACysEAWQCIw8WAh8ACysEAWQCJw8WAh8ACysEAWQCKQ8WAh8ACysEAWQCMQ9kFgJmDxYCHwRoZAIzD2QWAgIBDxYCHgRUZXh0BYEFPHNjcmlwdCBhc3luYz0nYXN5bmMnIHNyYz0naHR0cHM6Ly93d3cuZ29vZ2xldGFnc2VydmljZXMuY29tL3RhZy9qcy9ncHQuanMnPjwvc2NyaXB0Pgo8c2NyaXB0PgogIHZhciBnb29nbGV0YWcgPSBnb29nbGV0YWcgfHwge307CiAgZ29vZ2xldGFnLmNtZCA9IGdvb2dsZXRhZy5jbWQgfHwgW107Cjwvc2NyaXB0PgoKPHNjcmlwdD4KICBnb29nbGV0YWcuY21kLnB1c2goZnVuY3Rpb24oKSB7CiAgICBnb29nbGV0YWcuZGVmaW5lU2xvdCgnLzM5ODcyMTUvc2VydmljZXNfZmluYW5jZScsIFtbMTYwLCAxNDBdLCBbMTgwLCAxNTBdXSwgJ2Rpdi1ncHQtYWQtMTU1NDEzMzIyNjgxMC0wJykuYWRkU2VydmljZShnb29nbGV0YWcucHViYWRzKCkpOwogICAgZ29vZ2xldGFnLnB1YmFkcygpLmVuYWJsZVNpbmdsZVJlcXVlc3QoKTsKICAgIGdvb2dsZXRhZy5lbmFibGVTZXJ2aWNlcygpOwogIH0pOwo8L3NjcmlwdD48IS0tIC8zOTg3MjE1L3NlcnZpY2VzX2ZpbmFuY2UgLS0+CjxkaXYgaWQ9J2Rpdi1ncHQtYWQtMTU1NDEzMzIyNjgxMC0wJz4KPHNjcmlwdD4KZ29vZ2xldGFnLmNtZC5wdXNoKGZ1bmN0aW9uKCkgeyBnb29nbGV0YWcuZGlzcGxheSgnZGl2LWdwdC1hZC0xNTU0MTMzMjI2ODEwLTAnKTsgfSk7Cjwvc2NyaXB0Pgo8L2Rpdj5kAjsPZBYCAgMPFgIfAAsrBAFkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBTZjdGwwMCRIZWFkZXIkQWR2YW5jZVNlYXJjaEJveCREaXNwbGF5Q29udGVudCRidG5TZWFyY2hf4Atxo8DoTnu0BOCxD9MAonVMpCEykxyLK2sEnDpCxA==" />
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'IATA#2';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fservices\u002ffinance\u002fblog", webAbsoluteUrl: "https:\u002f\u002fwww.iata.org\u002fservices\u002ffinance\u002fblog", siteAbsoluteUrl: "https:\u002f\u002fwww.iata.org", serverRequestPath: "\u002fservices\u002ffinance\u002fblog\u002fPages\u002fBlogDetails.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Air Pulse", webTemplate: "10020", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002f_layouts\u002fimages\u002ftitlegraphic.gif", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2019-11-27T21:13:39.6544717Z") - new Date(), siteClientTag: "367$$15.0.5127.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196705},pageListId:"{a6a454e9-6eb3-4515-bf4e-fbbaa79f1a2e}",pageItemId:4, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var _spWebPartComponents = new Object();//]]>
+</script>
+<script src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() 
+        {
+          ExecuteOrDelayUntilScriptLoaded(
+            function()
+            {
+              var pairs = SP.ScriptHelpers.getDocumentQueryPairs();
+              var followDoc, itemId, listId, docName;
+              for (var key in pairs)
+              {
+                if(key.toLowerCase() == 'followdocument') 
+                  followDoc = pairs[key];
+                else if(key.toLowerCase() == 'itemid') 
+                  itemId = pairs[key];
+                else if(key.toLowerCase() == 'listid') 
+                  listId = pairs[key];
+                else if(key.toLowerCase() == 'docname') 
+                  docName = decodeURI(pairs[key]);
+              } 
+
+              if(followDoc != null && followDoc == '1' && listId!=null && itemId != null && docName != null)
+              {
+                SP.SOD.executeFunc('followingcommon.js', 'FollowDocumentFromEmail', function() 
+                { 
+                  FollowDocumentFromEmail(itemId, listId, docName);
+                });
+              }
+
+            }, 'SP.init.js');
+
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+
+            if (typeof(SPClientTemplates) === 'undefined' || SPClientTemplates === null || (typeof(APD_InAssetPicker) === 'function' && APD_InAssetPicker())) {
+                return;
+            }
+
+            var renderFollowFooter = function(renderCtx,  calloutActionMenu)
+            {
+                if (renderCtx.ListTemplateType == 700) 
+                    myDocsActionsMenuPopulator(renderCtx, calloutActionMenu);
+                else
+                    CalloutOnPostRenderTemplate(renderCtx, calloutActionMenu);
+
+                var listItem = renderCtx.CurrentItem;
+                if (typeof(listItem) === 'undefined' || listItem === null) {
+                    return;
+                }
+                if (listItem.FSObjType == 0) {
+                    calloutActionMenu.addAction(new CalloutAction({
+                        text: Strings.STS.L_CalloutFollowAction,
+                        tooltip: Strings.STS.L_CalloutFollowAction_Tooltip,
+                        onClickCallback: function (calloutActionClickEvent, calloutAction) {
+                            var callout = GetCalloutFromRenderCtx(renderCtx);
+                            if (!(typeof(callout) === 'undefined' || callout === null))
+                                callout.close();
+                            SP.SOD.executeFunc('followingcommon.js', 'FollowSelectedDocument', function() { FollowSelectedDocument(renderCtx); });
+                        }
+                    }));
+                }
+            };
+
+            var registerOverride = function(id) {
+                var followingOverridePostRenderCtx = {};
+                followingOverridePostRenderCtx.BaseViewID = 'Callout';
+                followingOverridePostRenderCtx.ListTemplateType = id;
+                followingOverridePostRenderCtx.Templates = {};
+                followingOverridePostRenderCtx.Templates.Footer = function(renderCtx) {
+                    var  renderECB;
+                    if (typeof(isSharedWithMeView) === 'undefined' || isSharedWithMeView === null) {
+                        renderECB = true;
+                    } else {
+                        var viewCtx = getViewCtxFromCalloutCtx(renderCtx);
+                        renderECB = !isSharedWithMeView(viewCtx);
+                    }
+                    return CalloutRenderFooterTemplate(renderCtx, renderFollowFooter, renderECB);
+                };
+                SPClientTemplates.TemplateManager.RegisterTemplateOverrides(followingOverridePostRenderCtx);
+            }
+            registerOverride(101);
+            registerOverride(700);
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />
+<input type="hidden" name="ctl00$sm" id="ctl00_sm" />
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.setServerId("ctl00_sm", "ctl00$sm");
+Sys.Application._enableHistoryInScriptManager();
+//]]>
+</script>
+<span id="DeltaSPWebPartManager"></span>
+<div id="sp-header">
+</div>
+<span>
+</span>
+<div id="ww">
+<div id="wc">
+<div id="s4-bodyContainer">
+<div id="hd" class="noindex">
+<a id="logo" href="/"><span class="offs noindex">IATA.org homepage</span></a>
+<div>
+<a class="homeIcon" href="/"><img id="imgHome" src="/_layouts/15/iata/images/toplogo.png" alt="Home" title="Home"></a>
+</div>
+<div id="sub-nav" class="subMenu"></div>
+<div id="srch" class="noindex">
+<h1 class="offs noindex">Search</h1>
+<input name="ctl00$Header$AdvanceSearchBox$DisplayContent$SearchTextBox" type="text" value="Search on IATA website" maxlength="255" id="SearchTextBox" class="srch" title="Search" />
+<input type="image" name="ctl00$Header$AdvanceSearchBox$DisplayContent$btnSearch" id="ctl00_Header_AdvanceSearchBox_DisplayContent_btnSearch" class="btn btn-srch" src="/Style%20Library/IATA.org-v1/Core/Images/icons/15_search.svg" onclick="return GACode();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Header$AdvanceSearchBox$DisplayContent$btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" />
+</div>
+<script language="javascript">
+    jgn('#SearchTextBox').on('click focusin', function() {
+        if(this.value == 'Search on IATA website'){
+            this.value = '';
+        }    
+    }).blur(function(){
+        if(this.value.trim() == ''){
+            this.value = 'Search on IATA website';
+        }
+    });
+
+    function GACode() {
+        // Note: Google Analytics is removed to integrate Google Universal Analytics (Important: enhancements phase) -->
+        /*
+        if (document.getElementById("SearchTextBox").value.length > 0)
+        _gaq.push(['_trackPageview', '/services/finance/blog/Pages/BlogDetails.aspx?q=' + document.getElementById("SearchTextBox").value + '&cat=Main_Search']);
+        */
+        return true;
+    }
+
+</script>
+<div id="mn-nav" class="noindex">
+<div id="bgHeader"></div>
+<div class="icon icon-minimenu"></div>
+<div class="icon icon-magnifier"></div>
+<h1 class="offs noindex">Main IATA navigation</h1>
+<div class="over noindex">
+<div class="megaMenu"></div>
+</div>
+</div>
+<script type='text/javascript'>
+    jgn(document).ready(function () {
+        IATA.MegaMenu.Init('[{"Id":294,"Title":"MegaMenu","Url":"/","IconClass":"","SubItems":[{"Id":1,"Title":"Programs","Url":"/whatwedo/pages/index.aspx","IconClass":"","SubItems":[{"Id":8,"Title":"Cargo","Url":"/whatwedo/cargo/pages/index.aspx","IconClass":"","SubItems":[{"Id":9,"Title":"Dangerous Goods (HAZMAT)","Url":"/whatwedo/cargo/dgr/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":1,"HasMenuImage":false},{"Id":10,"Title":"Live Animals","Url":"/whatwedo/cargo/live-animals/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":2,"HasMenuImage":false},{"Id":320,"Title":"StB Cargo","Url":"/whatwedo/cargo/stb/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":2,"HasMenuImage":false},{"Id":16,"Title":"Digital Cargo","Url":"/whatwedo/cargo/e/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":3,"HasMenuImage":false},{"Id":17,"Title":"Cargo Security","Url":"/whatwedo/cargo/security/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":4,"HasMenuImage":false},{"Id":14,"Title":"Cargo Operations","Url":"/whatwedo/cargo/pages/cargo-operations.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":5,"HasMenuImage":false},{"Id":20,"Title":"Cargo iQ","Url":"/whatwedo/cargo/cargoiq/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":6,"HasMenuImage":false},{"Id":11,"Title":"Pharma","Url":"/whatwedo/cargo/pharma/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":7,"HasMenuImage":false},{"Id":21,"Title":"Unit Load Devices","Url":"/whatwedo/cargo/unit-load-devices/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":8,"HasMenuImage":false},{"Id":12,"Title":"Perishables","Url":"/whatwedo/cargo/pages/perishables.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":9,"HasMenuImage":false},{"Id":15,"Title":"Cargo Agency Program","Url":"/whatwedo/cargo/pages/cargo-agency.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":10,"HasMenuImage":false},{"Id":18,"Title":"Customs \\u0026 Trade Facilitation","Url":"/whatwedo/cargo/fal/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":11,"HasMenuImage":false},{"Id":19,"Title":"Cargo Sustainability","Url":"/whatwedo/cargo/sustainability/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":12,"HasMenuImage":false},{"Id":13,"Title":"Air Mail","Url":"/whatwedo/cargo/pages/air-mail.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"8;#Cargo","ItemOrder":13,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"1;#Programs","ItemOrder":1,"HasMenuImage":false},{"Id":23,"Title":"Passenger Experience","Url":"/whatwedo/passenger/pages/index.aspx","IconClass":"","SubItems":[{"Id":523,"Title":"Fast Travel","Url":"/whatwedo/passenger/fast-travel/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"23;#Passenger Experience","ItemOrder":1,"HasMenuImage":false},{"Id":524,"Title":"Passenger Facilitation","Url":"/whatwedo/passenger/pages/passenger-facilitation.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"23;#Passenger Experience","ItemOrder":2,"HasMenuImage":false},{"Id":525,"Title":"Common Use Working Group","Url":"/whatwedo/workgroups/pages/cuwg.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"23;#Passenger Experience","ItemOrder":3,"HasMenuImage":false},{"Id":539,"Title":"One ID","Url":"/whatwedo/passenger/pages/one-id.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"23;#Passenger Experience","ItemOrder":3,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"1;#Programs","ItemOrder":2,"HasMenuImage":false},{"Id":30,"Title":"Distribution \\u0026 Payment","Url":"/whatwedo/airline-distribution/pages/index.aspx","IconClass":"","SubItems":[{"Id":486,"Title":"Airline Industry Retailing (AIR)","Url":"/whatwedo/airline-distribution/pages/air.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"30;#Distribution \\u0026 Payment","ItemOrder":1,"HasMenuImage":false},{"Id":32,"Title":"New Distribution Capability","Url":"/whatwedo/airline-distribution/ndc/pages/default.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"30;#Distribution \\u0026 Payment","ItemOrder":2,"HasMenuImage":false},{"Id":263,"Title":"ONE Order","Url":"/whatwedo/airline-distribution/one-order/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"30;#Distribution \\u0026 Payment","ItemOrder":3,"HasMenuImage":false},{"Id":357,"Title":"NewGen ISS","Url":"/whatwedo/airline-distribution/pages/newgen-iss.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"30;#Distribution \\u0026 Payment","ItemOrder":4,"HasMenuImage":false},{"Id":456,"Title":"Transparency in Payments","Url":"/whatwedo/airline-distribution/pages/transparency-payments.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"30;#Distribution \\u0026 Payment","ItemOrder":5,"HasMenuImage":false},{"Id":457,"Title":"ADM Management \\u0026 Reduction","Url":"/whatwedo/airline-distribution/pages/adm.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"30;#Distribution \\u0026 Payment","ItemOrder":6,"HasMenuImage":false},{"Id":458,"Title":"Postal Account Settlement System (PASS)","Url":"/whatwedo/airline-distribution/pages/pass.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"30;#Distribution \\u0026 Payment","ItemOrder":7,"HasMenuImage":false},{"Id":476,"Title":"HIPO Program","Url":"/whatwedo/airline-distribution/pages/hipo.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"30;#Distribution \\u0026 Payment","ItemOrder":8,"HasMenuImage":false},{"Id":511,"Title":"IATA Pay","Url":"/whatwedo/airline-distribution/pages/iata-pay.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"30;#Distribution \\u0026 Payment","ItemOrder":9,"HasMenuImage":false},{"Id":536,"Title":"Accelerate@IATA","Url":"/whatwedo/airline-distribution/pages/accelerate.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"30;#Distribution \\u0026 Payment","ItemOrder":10,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"1;#Programs","ItemOrder":4,"HasMenuImage":false},{"Id":33,"Title":"Environment","Url":"/whatwedo/environment/pages/index.aspx","IconClass":"","SubItems":[{"Id":34,"Title":"Sustainable Aviation Fuels (SAF)","Url":"/whatwedo/environment/pages/sustainable-alternative-jet-fuels.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"33;#Environment","ItemOrder":1,"HasMenuImage":false},{"Id":35,"Title":"Carbon Offset Program","Url":"/whatwedo/environment/pages/carbon-offset.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"33;#Environment","ItemOrder":2,"HasMenuImage":false},{"Id":36,"Title":"Environmental Assessment - IEnvA","Url":"/whatwedo/environment/pages/environmental-assessment.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"33;#Environment","ItemOrder":3,"HasMenuImage":false},{"Id":325,"Title":"FRED+","Url":"/whatwedo/environment/pages/fred.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"33;#Environment","ItemOrder":4,"HasMenuImage":false},{"Id":488,"Title":"Aicraft Decommissioning","Url":"/whatwedo/environment/pages/aircraft-decommissioning.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"33;#Environment","ItemOrder":5,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"1;#Programs","ItemOrder":5,"HasMenuImage":false},{"Id":37,"Title":"Safety","Url":"/whatwedo/safety/pages/index.aspx","IconClass":"","SubItems":[{"Id":340,"Title":"IOSA","Url":"/whatwedo/safety/audit/iosa/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":1,"HasMenuImage":false},{"Id":341,"Title":"ISAGO","Url":"/whatwedo/safety/audit/isago/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":2,"HasMenuImage":false},{"Id":39,"Title":"Safety Data Management and Analysis","Url":"/whatwedo/safety/pages/safety-data.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":3,"HasMenuImage":false},{"Id":40,"Title":"Safety Management Systems","Url":"/whatwedo/safety/pages/safety-management.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":4,"HasMenuImage":false},{"Id":41,"Title":"Cabin Safety","Url":"/whatwedo/safety/pages/cabin-safety.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":5,"HasMenuImage":false},{"Id":494,"Title":"Drones","Url":"/whatwedo/safety/pages/drones.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":6,"HasMenuImage":false},{"Id":42,"Title":"Health and Safety","Url":"/whatwedo/safety/health/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":7,"HasMenuImage":false},{"Id":497,"Title":"Runway Safety","Url":"/whatwedo/safety/runway-safety/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":8,"HasMenuImage":false},{"Id":498,"Title":"Loss of Control In-flight (LOC-I)","Url":"/whatwedo/safety/pages/loss-of-control-inflight.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":9,"HasMenuImage":false},{"Id":499,"Title":"Controlled Flight Into Terrain (CFIT) ","Url":"/whatwedo/safety/pages/controlled-flight-into-terrain.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":10,"HasMenuImage":false},{"Id":500,"Title":"Mid-air Collision ","Url":"/whatwedo/safety/pages/midair-collision.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":11,"HasMenuImage":false},{"Id":447,"Title":"Safety \\u0026 Flight Ops Operational Notices","Url":"/whatwedo/safety/pages/operational-notices.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":12,"HasMenuImage":false},{"Id":38,"Title":"Other Audits","Url":"/whatwedo/safety/audit/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"37;#Safety","ItemOrder":13,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"1;#Programs","ItemOrder":6,"HasMenuImage":false},{"Id":52,"Title":"Operations \\u0026 Infrastructure","Url":"/whatwedo/ops-infra/pages/index.aspx","IconClass":"","SubItems":[{"Id":53,"Title":"Ground Operations","Url":"/whatwedo/ops-infra/ground-operations/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":1,"HasMenuImage":false},{"Id":60,"Title":"Baggage Services","Url":"/whatwedo/ops-infra/baggage/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":2,"HasMenuImage":false},{"Id":54,"Title":"Fuel","Url":"/whatwedo/ops-infra/fuel/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":3,"HasMenuImage":false},{"Id":527,"Title":"Air Traffic Management","Url":"/whatwedo/ops-infra/air-traffic-management/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":4,"HasMenuImage":false},{"Id":379,"Title":"Airport Infrastructure","Url":"/whatwedo/ops-infra/airport-infrastructure/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":5,"HasMenuImage":false},{"Id":56,"Title":"Efficiency \\u0026 Cost Management","Url":"/whatwedo/ops-infra/pages/efficiency.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":6,"HasMenuImage":false},{"Id":58,"Title":"Engineering \\u0026 Maintenance","Url":"/whatwedo/ops-infra/pages/engineering.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":7,"HasMenuImage":false},{"Id":59,"Title":"Training and Licensing","Url":"/whatwedo/ops-infra/training-licensing/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":8,"HasMenuImage":false},{"Id":280,"Title":"Digital Aircraft Operations","Url":"/whatwedo/ops-infra/pages/digital-aircraft-operations.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":9,"HasMenuImage":false},{"Id":286,"Title":"Fatigue Risk Management","Url":"/whatwedo/ops-infra/pages/fatigue-risk.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":10,"HasMenuImage":false},{"Id":285,"Title":"IATA Tactical Ops Portal (ITOP)","Url":"/whatwedo/ops-infra/pages/itop.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"52;#Operations \\u0026 Infrastructure","ItemOrder":11,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"1;#Programs","ItemOrder":7,"HasMenuImage":false},{"Id":61,"Title":"Aviation Security","Url":"/whatwedo/security/pages/index.aspx","IconClass":"","SubItems":[{"Id":436,"Title":"Security Management System (SeMS)","Url":"/whatwedo/security/pages/security-management-system-sems.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"61;#Aviation Security","ItemOrder":2,"HasMenuImage":false},{"Id":538,"Title":"Cyber Security","Url":"/whatwedo/security/pages/cyber-security.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"61;#Aviation Security","ItemOrder":2,"HasMenuImage":false},{"Id":463,"Title":"Security Report Form","Url":"/whatwedo/security/pages/security-report.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"61;#Aviation Security","ItemOrder":4,"HasMenuImage":false},{"Id":544,"Title":"Blue Skies - Air Transport Security 2040","Url":"/whatwedo/security/pages/blueskies.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"61;#Aviation Security","ItemOrder":4,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"1;#Programs","ItemOrder":8,"HasMenuImage":false},{"Id":43,"Title":"Workgroups","Url":"/whatwedo/workgroups/pages/index.aspx","IconClass":"","SubItems":[{"Id":44,"Title":"Forthcoming Work Group Meetings","Url":"/whatwedo/workgroups/pages/calendar.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"43;#Workgroups","ItemOrder":1,"HasMenuImage":false},{"Id":45,"Title":"Cargo","Url":"/whatwedo/workgroups/pages/cargo.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"43;#Workgroups","ItemOrder":2,"HasMenuImage":false},{"Id":46,"Title":"Industry Financial Advisory Council","Url":"/whatwedo/workgroups/pages/financial.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"43;#Workgroups","ItemOrder":3,"HasMenuImage":false},{"Id":47,"Title":"Operations","Url":"/whatwedo/workgroups/pages/operations.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"43;#Workgroups","ItemOrder":4,"HasMenuImage":false},{"Id":537,"Title":"Security Advisory Council ","Url":"/whatwedo/workgroups/pages/sac.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"43;#Workgroups","ItemOrder":5,"HasMenuImage":false},{"Id":48,"Title":"Passenger","Url":"/whatwedo/workgroups/pages/passenger.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"43;#Workgroups","ItemOrder":6,"HasMenuImage":false},{"Id":49,"Title":"Environment","Url":"/whatwedo/workgroups/pages/env.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"43;#Workgroups","ItemOrder":7,"HasMenuImage":false},{"Id":50,"Title":"Industry Affairs Advisory Council","Url":"/whatwedo/workgroups/pages/iaac.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"43;#Workgroups","ItemOrder":8,"HasMenuImage":false},{"Id":51,"Title":"Legal Advisory Council","Url":"/whatwedo/workgroups/pages/lac.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"43;#Workgroups","ItemOrder":9,"HasMenuImage":false},{"Id":264,"Title":"Other workgroups","Url":"/whatwedo/workgroups/pages/industry-workgroups.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"43;#Workgroups","ItemOrder":10,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"1;#Programs","ItemOrder":9,"HasMenuImage":false}],"MenuImage":{"Title":"NEXTT, New Experience Travel Technologies","Description":"Shape the journey of the future","Url":"/whatwedo/ops-infra/airport-infrastructure/pages/nextt.aspx","ImageUrl":"/Fat Menu Images/Nextt_300x160.png","AltText":"Shape the journey of the future","Parent":"1;#Programs"},"ParentItem":"294;#MegaMenu","ItemOrder":1,"HasMenuImage":true},{"Id":2,"Title":"Policy","Url":"/policy/pages/default.aspx","IconClass":"","SubItems":[{"Id":409,"Title":"Worldwide Airport Slots","Url":"/policy/slots/pages/index.aspx","IconClass":"","SubItems":[{"Id":417,"Title":"Worldwide Slot Guidelines","Url":"/policy/slots/pages/slot-guidelines.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"409;#Worldwide Airport Slots","ItemOrder":1,"HasMenuImage":false},{"Id":418,"Title":"SlotLink","Url":"/policy/slots/pages/slotlink.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"409;#Worldwide Airport Slots","ItemOrder":2,"HasMenuImage":false},{"Id":419,"Title":"Slot Conference","Url":"/policy/slots/pages/conference.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"409;#Worldwide Airport Slots","ItemOrder":3,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"2;#Policy","ItemOrder":1,"HasMenuImage":false},{"Id":270,"Title":"Consumer \\u0026 Passenger Issues","Url":"/policy/consumer-pax-rights/pages/index.aspx","IconClass":"","SubItems":[{"Id":416,"Title":"Security","Url":"/policy/consumer-pax-rights/pages/security.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"270;#Consumer \\u0026 Passenger Issues","ItemOrder":1,"HasMenuImage":false},{"Id":80,"Title":"Consumer Protection","Url":"/policy/consumer-pax-rights/pages/consumer-protection.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"270;#Consumer \\u0026 Passenger Issues","ItemOrder":2,"HasMenuImage":false},{"Id":421,"Title":"Unruly Passengers","Url":"/policy/consumer-pax-rights/pages/unruly-passengers.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"270;#Consumer \\u0026 Passenger Issues","ItemOrder":3,"HasMenuImage":false},{"Id":434,"Title":"Human Trafficking","Url":"/policy/consumer-pax-rights/pages/human-trafficking.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"270;#Consumer \\u0026 Passenger Issues","ItemOrder":4,"HasMenuImage":false},{"Id":519,"Title":"Passengers with Disabilities","Url":"/policy/consumer-pax-rights/pages/passengers-disabilities.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"270;#Consumer \\u0026 Passenger Issues","ItemOrder":4,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"2;#Policy","ItemOrder":2,"HasMenuImage":false},{"Id":84,"Title":"Taxation","Url":"/policy/pages/taxation.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"2;#Policy","ItemOrder":3,"HasMenuImage":false},{"Id":272,"Title":"Environment","Url":"/policy/environment/pages/default.aspx","IconClass":"","SubItems":[{"Id":413,"Title":"Climate Change","Url":"/policy/environment/pages/climate-change.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"272;#Environment","ItemOrder":1,"HasMenuImage":false},{"Id":365,"Title":"CORSIA","Url":"/policy/environment/pages/corsia.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"272;#Environment","ItemOrder":2,"HasMenuImage":false},{"Id":414,"Title":"Aircraft Noise","Url":"/policy/environment/pages/aircraft-noise.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"272;#Environment","ItemOrder":4,"HasMenuImage":false},{"Id":415,"Title":"Local Air Quality","Url":"/policy/environment/pages/laq.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"272;#Environment","ItemOrder":5,"HasMenuImage":false},{"Id":505,"Title":"Cabin Waste","Url":"/policy/environment/pages/cabin-waste.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"272;#Environment","ItemOrder":6,"HasMenuImage":false},{"Id":412,"Title":"Illegal Wildlife Trafficking","Url":"/policy/environment/pages/wildlife-trafficking.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"272;#Environment","ItemOrder":7,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"2;#Policy","ItemOrder":4,"HasMenuImage":false},{"Id":268,"Title":"Infrastructure","Url":"/policy/infrastructure/pages/index.aspx","IconClass":"","SubItems":[{"Id":438,"Title":"European Airspace Modernization","Url":"/policy/infrastructure/news/pages/europe-airspace.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"268;#Infrastructure","ItemOrder":1,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"2;#Policy","ItemOrder":5,"HasMenuImage":false},{"Id":410,"Title":"Smarter Regulation","Url":"/policy/smarter-regulation/pages/index.aspx","IconClass":"","SubItems":[{"Id":440,"Title":"Smarter Regulation Home","Url":"/policy/smarter-regulation/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"410;#Smarter Regulation","ItemOrder":1,"HasMenuImage":false},{"Id":420,"Title":"Montreal Convention 1999","Url":"/policy/smarter-regulation/pages/mc99.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"410;#Smarter Regulation","ItemOrder":2,"HasMenuImage":false},{"Id":546,"Title":"ICAO Assembly","Url":"/policy/smarter-regulation/pages/icao-assembly.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"410;#Smarter Regulation","ItemOrder":3,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"2;#Policy","ItemOrder":6,"HasMenuImage":false},{"Id":271,"Title":"Business of Freedom","Url":"/policy/business-freedom/pages/index.aspx","IconClass":"","SubItems":[{"Id":501,"Title":"Campaign kit","Url":"/policy/business-freedom/pages/campaign-kit.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"271;#Business of Freedom","ItemOrder":1,"HasMenuImage":false},{"Id":502,"Title":"Value for regions and countries","Url":"/policy/business-freedom/pages/value-for-regions.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"271;#Business of Freedom","ItemOrder":2,"HasMenuImage":false},{"Id":503,"Title":"The Single African Air Transport Market ","Url":"/policy/business-freedom/pages/saatm.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"271;#Business of Freedom","ItemOrder":3,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"2;#Policy","ItemOrder":7,"HasMenuImage":false},{"Id":427,"Title":"25by2025","Url":"/policy/pages/25-by-2025.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"2;#Policy","ItemOrder":8,"HasMenuImage":false}],"MenuImage":{"Title":"Aviation and climate change","Description":"See what we’re doing to reduce aviation’s emissions","Url":"/policy/environment/pages/climate-change.aspx","ImageUrl":"/Fat Menu Images/climate-change.png","AltText":"See what we’re doing to reduce aviation’s emissions","Parent":"2;#Policy"},"ParentItem":"294;#MegaMenu","ItemOrder":2,"HasMenuImage":true},{"Id":3,"Title":"Publications","Url":"/publications/pages/index.aspx","IconClass":"","SubItems":[{"Id":114,"Title":"Sign up for IATA News","Url":"/publications/pages/signup.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"3;#Publications","ItemOrder":0,"HasMenuImage":false},{"Id":88,"Title":"Standards, Manuals \\u0026 Guidelines","Url":"/publications/pages/standards-manuals.aspx","IconClass":"","SubItems":[{"Id":89,"Title":"All Manuals \\u0026 Guidelines","Url":"/publications/pages/standards-manuals.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"88;#Standards, Manuals \\u0026 Guidelines","ItemOrder":1,"HasMenuImage":false},{"Id":93,"Title":"The Air Cargo Tariff and Rules (TACT)","Url":"/publications/tact/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"88;#Standards, Manuals \\u0026 Guidelines","ItemOrder":2,"HasMenuImage":false},{"Id":255,"Title":"Dangerous Goods Regulations (DGR)","Url":"/publications/dgr/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"88;#Standards, Manuals \\u0026 Guidelines","ItemOrder":2,"HasMenuImage":false},{"Id":94,"Title":"World Air Transport Statistics (WATS)","Url":"/publications/store/pages/world-air-transport-statistics.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"88;#Standards, Manuals \\u0026 Guidelines","ItemOrder":3,"HasMenuImage":false},{"Id":90,"Title":"Timatic Solutions","Url":"/publications/timatic/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"88;#Standards, Manuals \\u0026 Guidelines","ItemOrder":4,"HasMenuImage":false},{"Id":91,"Title":"Airport Handling Manual (AHM)","Url":"/publications/store/pages/airport-handling-manual.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"88;#Standards, Manuals \\u0026 Guidelines","ItemOrder":5,"HasMenuImage":false},{"Id":92,"Title":"Live Animals Regulation (LAR)","Url":"/publications/store/pages/live-animals-regulations.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"88;#Standards, Manuals \\u0026 Guidelines","ItemOrder":6,"HasMenuImage":false},{"Id":311,"Title":"Baggage Reference Manual","Url":"/publications/store/pages/baggage-reference-manual.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"88;#Standards, Manuals \\u0026 Guidelines","ItemOrder":8,"HasMenuImage":false},{"Id":284,"Title":"Aviation Charges Intelligence Center (ACIC)","Url":"/publications/store/pages/aviation-charges-intelligence-center-(acic).aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"88;#Standards, Manuals \\u0026 Guidelines","ItemOrder":9,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"3;#Publications","ItemOrder":1,"HasMenuImage":false},{"Id":95,"Title":"Economics","Url":"/publications/economics/pages/index.aspx","IconClass":"","SubItems":[{"Id":437,"Title":"All Reports","Url":"/publications/economics/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"95;#Economics","ItemOrder":1,"HasMenuImage":false},{"Id":100,"Title":"Fuel Price Monitor","Url":"/publications/economics/fuel-monitor/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"95;#Economics","ItemOrder":2,"HasMenuImage":false},{"Id":496,"Title":"Economics Mobile App","Url":"/publications/economics/pages/mobile-app.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"95;#Economics","ItemOrder":3,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"3;#Publications","ItemOrder":2,"HasMenuImage":false},{"Id":101,"Title":"Airlines. Magazine","Url":"/publications/pages/airlines-magazine.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"3;#Publications","ItemOrder":3,"HasMenuImage":false},{"Id":102,"Title":"Directories","Url":"/publications/pages/directories.aspx","IconClass":"","SubItems":[{"Id":103,"Title":"Cargo Link Directory","Url":"/publications/cargolink/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"102;#Directories","ItemOrder":1,"HasMenuImage":false},{"Id":104,"Title":"Airline Coding Directory (ACD)","Url":"/publications/store/pages/airline-coding-directory.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"102;#Directories","ItemOrder":2,"HasMenuImage":false},{"Id":105,"Title":"Airline \\u0026 Airport Code search","Url":"/publications/pages/code-search.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"102;#Directories","ItemOrder":3,"HasMenuImage":false},{"Id":107,"Title":"Ground Handling Partner Directory","Url":"/publications/ghp-directory/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"102;#Directories","ItemOrder":5,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"3;#Publications","ItemOrder":4,"HasMenuImage":false},{"Id":108,"Title":"Newsletters \\u0026 Blogs","Url":"/publications/pages/newsletters.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"3;#Publications","ItemOrder":5,"HasMenuImage":false},{"Id":113,"Title":"IATA\\u0027s Annual Review","Url":"/publications/pages/annual-review.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"3;#Publications","ItemOrder":6,"HasMenuImage":false},{"Id":115,"Title":"Publications Sales Agents","Url":"/publications/pages/resellers.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"3;#Publications","ItemOrder":8,"HasMenuImage":false}],"MenuImage":{"Title":"World Air Transport Statistics (WATS)","Description":"Analyze the air transport landscape","Url":"/publications/store/pages/world-air-transport-statistics.aspx","ImageUrl":"/Fat Menu Images/WATS-image.png","AltText":"Analyze the air transport landscape","Parent":"3;#Publications"},"ParentItem":"294;#MegaMenu","ItemOrder":3,"HasMenuImage":true},{"Id":4,"Title":"Services","Url":"/services/pages/index.aspx","IconClass":"","SubItems":[{"Id":116,"Title":"Accreditation - Travel \\u0026 Cargo","Url":"/services/accreditation/pages/index.aspx","IconClass":"","SubItems":[{"Id":117,"Title":"Full IATA Accreditation - Travel \\u0026 Cargo","Url":"/services/accreditation/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"116;#Accreditation - Travel \\u0026 Cargo","ItemOrder":1,"HasMenuImage":false},{"Id":118,"Title":"Agenthome","Url":"/services/accreditation/travel-tourism/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"116;#Accreditation - Travel \\u0026 Cargo","ItemOrder":2,"HasMenuImage":false},{"Id":119,"Title":"Travel Industry Designator (TIDS)","Url":"/services/accreditation/tids/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"116;#Accreditation - Travel \\u0026 Cargo","ItemOrder":3,"HasMenuImage":false},{"Id":120,"Title":"ID Card","Url":"/services/accreditation/idcard/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"116;#Accreditation - Travel \\u0026 Cargo","ItemOrder":4,"HasMenuImage":false},{"Id":121,"Title":"AgentExperience","Url":"/services/accreditation/agentexperience/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"116;#Accreditation - Travel \\u0026 Cargo","ItemOrder":5,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"4;#Services","ItemOrder":1,"HasMenuImage":false},{"Id":122,"Title":"Intelligence \\u0026 Statistics","Url":"/services/statistics/pages/index.aspx","IconClass":"","SubItems":[{"Id":123,"Title":"Business Intelligence","Url":"/services/statistics/intelligence/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"122;#Intelligence \\u0026 Statistics","ItemOrder":1,"HasMenuImage":false},{"Id":125,"Title":"Statistics","Url":"/services/statistics/air-transport-stats/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"122;#Intelligence \\u0026 Statistics","ItemOrder":2,"HasMenuImage":false},{"Id":124,"Title":"Global Aviation Data Management (GADM)","Url":"/services/statistics/gadm/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"122;#Intelligence \\u0026 Statistics","ItemOrder":3,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"4;#Services","ItemOrder":2,"HasMenuImage":false},{"Id":126,"Title":"Financial Services","Url":"/services/finance/pages/index.aspx","IconClass":"","SubItems":[{"Id":127,"Title":"Airlines","Url":"/services/finance/pages/airlines.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"126;#Financial Services","ItemOrder":1,"HasMenuImage":false},{"Id":128,"Title":"Airports","Url":"/services/finance/pages/airports.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"126;#Financial Services","ItemOrder":2,"HasMenuImage":false},{"Id":129,"Title":"ANSP","Url":"/services/finance/pages/ansp.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"126;#Financial Services","ItemOrder":3,"HasMenuImage":false},{"Id":131,"Title":"Industry Partners","Url":"/services/finance/pages/other-partners.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"126;#Financial Services","ItemOrder":5,"HasMenuImage":false},{"Id":132,"Title":"Travel Professionals","Url":"/services/finance/pages/travel-professionals.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"126;#Financial Services","ItemOrder":6,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"4;#Services","ItemOrder":3,"HasMenuImage":false},{"Id":134,"Title":"Consulting","Url":"/services/consulting/pages/index.aspx","IconClass":"","SubItems":[{"Id":136,"Title":"Airlines","Url":"/services/consulting/airlines/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"134;#Consulting","ItemOrder":2,"HasMenuImage":false},{"Id":137,"Title":"Airport, Passenger \\u0026 Security","Url":"/services/consulting/airport-pax-security/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"134;#Consulting","ItemOrder":3,"HasMenuImage":false},{"Id":140,"Title":"Environment","Url":"/services/consulting/environment/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"134;#Consulting","ItemOrder":4,"HasMenuImage":false},{"Id":138,"Title":"Ground Handling \\u0026 Cargo","Url":"/services/consulting/ground-and-cargo/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"134;#Consulting","ItemOrder":5,"HasMenuImage":false},{"Id":139,"Title":"Safety and Flight Operations","Url":"/services/consulting/safety-operations/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"134;#Consulting","ItemOrder":6,"HasMenuImage":false},{"Id":242,"Title":"Economics","Url":"/services/consulting/economics/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"134;#Consulting","ItemOrder":7,"HasMenuImage":false},{"Id":243,"Title":"Why IATA Consulting?","Url":"/services/consulting/pages/why-iata-consulting.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"134;#Consulting","ItemOrder":8,"HasMenuImage":false},{"Id":141,"Title":"Our Clients","Url":"/services/consulting/pages/clients.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"134;#Consulting","ItemOrder":9,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"4;#Services","ItemOrder":5,"HasMenuImage":false},{"Id":368,"Title":"Safety \\u0026 Flight Operations Solutions","Url":"/services/safety-flight-operations/pages/index.aspx","IconClass":"","SubItems":[{"Id":541,"Title":"Integrated Management Solutions (IMX)","Url":"/services/safety-flight-operations/pages/integrated-management-solutions.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"368;#Safety \\u0026 Flight Operations Solutions","ItemOrder":1,"HasMenuImage":false},{"Id":369,"Title":"Data Exchange for Air Traffic Management","Url":"/services/safety-flight-operations/pages/skyfusion.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"368;#Safety \\u0026 Flight Operations Solutions","ItemOrder":2,"HasMenuImage":false},{"Id":372,"Title":"Aviation Safety Culture Survey (I-ASC)","Url":"/services/safety-flight-operations/pages/i-asc.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"368;#Safety \\u0026 Flight Operations Solutions","ItemOrder":3,"HasMenuImage":false},{"Id":375,"Title":"Flight Data Connect","Url":"/services/safety-flight-operations/pages/flight-data-connect.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"368;#Safety \\u0026 Flight Operations Solutions","ItemOrder":4,"HasMenuImage":false},{"Id":490,"Title":"Turbulence Aware Platform","Url":"/services/safety-flight-operations/pages/turbulence-platform.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"368;#Safety \\u0026 Flight Operations Solutions","ItemOrder":5,"HasMenuImage":false},{"Id":542,"Title":"MRO Smarthub","Url":"/services/safety-flight-operations/pages/mro-smarthub.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"368;#Safety \\u0026 Flight Operations Solutions","ItemOrder":6,"HasMenuImage":false},{"Id":543,"Title":"Fueling Training Portal","Url":"/services/safety-flight-operations/pages/iftp.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"368;#Safety \\u0026 Flight Operations Solutions","ItemOrder":7,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"4;#Services","ItemOrder":5,"HasMenuImage":false},{"Id":142,"Title":"Advertising \\u0026 IATA Merchandise","Url":"/services/advertising/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"4;#Services","ItemOrder":6,"HasMenuImage":false},{"Id":143,"Title":"IATA Codes","Url":"/services/pages/codes.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"4;#Services","ItemOrder":7,"HasMenuImage":false},{"Id":356,"Title":"Conference Facilities","Url":"/services/conference-centers/pages/index.aspx","IconClass":"","SubItems":[{"Id":144,"Title":"Geneva Conference Center","Url":"/services/conference-centers/geneva-conference/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"356;#Conference Facilities","ItemOrder":1,"HasMenuImage":false},{"Id":145,"Title":"Montreal Conference Center","Url":"/services/conference-centers/montreal-conference/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"356;#Conference Facilities","ItemOrder":2,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"4;#Services","ItemOrder":9,"HasMenuImage":false}],"MenuImage":{"Title":"Keep passengers/crew safe \\u0026 fuel costs down","Description":"Join the Turbulence Aware platform","Url":"/services/safety-flight-operations/pages/turbulence-platform.aspx","ImageUrl":"/Fat Menu Images/turbulence-awareness.png","AltText":"Join the Turbulence Aware platform","Parent":"4;#Services"},"ParentItem":"294;#MegaMenu","ItemOrder":4,"HasMenuImage":true},{"Id":5,"Title":"Training","Url":"/training/pages/index.aspx","IconClass":"","SubItems":[{"Id":146,"Title":"Search Courses","Url":"/training/courses/pages/index.aspx","IconClass":"","SubItems":[{"Id":150,"Title":"Diploma Programs","Url":"/training/diploma_program/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"146;#Search Courses","ItemOrder":1,"HasMenuImage":false},{"Id":148,"Title":"Exams","Url":"/training/pages/exam-schedule.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"146;#Search Courses","ItemOrder":2,"HasMenuImage":false},{"Id":147,"Title":"IATA Classroom Schedule","Url":"/training/pages/calendar.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"146;#Search Courses","ItemOrder":3,"HasMenuImage":false},{"Id":472,"Title":"Training locations","Url":"/training/pages/partner-network.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"146;#Search Courses","ItemOrder":4,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"5;#Training","ItemOrder":1,"HasMenuImage":false},{"Id":151,"Title":"Subject Areas","Url":"/training/subject-areas/pages/index.aspx","IconClass":"","SubItems":[{"Id":152,"Title":"Air Navigation Services","Url":"/training/subject-areas/pages/air-navigation-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":1,"HasMenuImage":false},{"Id":153,"Title":"Airline Management","Url":"/training/subject-areas/pages/airline-management-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":2,"HasMenuImage":false},{"Id":154,"Title":"Airline Operations, Quality","Url":"/training/subject-areas/pages/airline-operations-quality.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":3,"HasMenuImage":false},{"Id":155,"Title":"Airport","Url":"/training/subject-areas/pages/airport-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":4,"HasMenuImage":false},{"Id":157,"Title":"Cargo \\u0026 Logistics","Url":"/training/subject-areas/pages/cargo.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":5,"HasMenuImage":false},{"Id":158,"Title":"Civil Aviation","Url":"/training/subject-areas/pages/civil-aviation-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":6,"HasMenuImage":false},{"Id":267,"Title":"Dangerous Goods Regulations","Url":"/training/subject-areas/pages/dangerous-goods-regulations-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":7,"HasMenuImage":false},{"Id":159,"Title":"Environment and Fuel","Url":"/training/subject-areas/pages/environment-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":8,"HasMenuImage":false},{"Id":160,"Title":"Fares and Ticketing","Url":"/training/subject-areas/pages/fares-ticketing-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":9,"HasMenuImage":false},{"Id":161,"Title":"Finance and Accounting","Url":"/training/subject-areas/pages/finance-accounting-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":10,"HasMenuImage":false},{"Id":162,"Title":"Ground Operations","Url":"/training/subject-areas/pages/ground-operations-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":11,"HasMenuImage":false},{"Id":164,"Title":"Law and Regulations","Url":"/training/subject-areas/pages/law-regulations-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":12,"HasMenuImage":false},{"Id":156,"Title":"Management and Leadership","Url":"/training/subject-areas/pages/human-performance-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":13,"HasMenuImage":false},{"Id":165,"Title":"Safety","Url":"/training/subject-areas/pages/safety-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":14,"HasMenuImage":false},{"Id":166,"Title":"Sales and Marketing","Url":"/training/subject-areas/pages/sales-marketing-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":15,"HasMenuImage":false},{"Id":167,"Title":"Security","Url":"/training/subject-areas/pages/security-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":16,"HasMenuImage":false},{"Id":168,"Title":"Travel and Tourism","Url":"/training/subject-areas/pages/travel-tourism-courses.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"151;#Subject Areas","ItemOrder":17,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"5;#Training","ItemOrder":2,"HasMenuImage":false},{"Id":169,"Title":"About IATA Training","Url":"/training/pages/aboutus.aspx","IconClass":"","SubItems":[{"Id":170,"Title":"FAQ","Url":"/training/pages/faq.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"169;#About IATA Training","ItemOrder":1,"HasMenuImage":false},{"Id":171,"Title":"Contact Us","Url":"/training/pages/contactus.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"169;#About IATA Training","ItemOrder":2,"HasMenuImage":false},{"Id":319,"Title":"Pricing","Url":"/training/pages/pricing.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"169;#About IATA Training","ItemOrder":3,"HasMenuImage":false},{"Id":473,"Title":"Instructors","Url":"/training/pages/our-instructors.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"169;#About IATA Training","ItemOrder":4,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"5;#Training","ItemOrder":3,"HasMenuImage":false},{"Id":172,"Title":"Learning Methods","Url":"/training/delivery/pages/index.aspx","IconClass":"","SubItems":[{"Id":173,"Title":"Instructor Led Training","Url":"/training/delivery/pages/classroom-training-centers.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"172;#Learning Methods","ItemOrder":1,"HasMenuImage":false},{"Id":174,"Title":"Self-study courses","Url":"/training/delivery/pages/distance-learning.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"172;#Learning Methods","ItemOrder":2,"HasMenuImage":false},{"Id":175,"Title":"In-house training","Url":"/training/delivery/pages/in-company.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"172;#Learning Methods","ItemOrder":3,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"5;#Training","ItemOrder":4,"HasMenuImage":false},{"Id":314,"Title":"Training Partners","Url":"/training/delivery/pages/trainingpartners.aspx","IconClass":"","SubItems":[{"Id":315,"Title":"Authorized Training Centers","Url":"/training/pages/atc_ats.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"314;#Training Partners","ItemOrder":1,"HasMenuImage":false},{"Id":316,"Title":"Accredited Training Schools ","Url":"/training/pages/endorsed_schools.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"314;#Training Partners","ItemOrder":2,"HasMenuImage":false},{"Id":317,"Title":"Regional Training Partners","Url":"/training/pages/regional_training_centres.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"314;#Training Partners","ItemOrder":3,"HasMenuImage":false},{"Id":318,"Title":"Academic Partners","Url":"/training/pages/academic-partners.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"314;#Training Partners","ItemOrder":4,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"5;#Training","ItemOrder":5,"HasMenuImage":false}],"MenuImage":{"Title":"Leadership Program for Women in Aviation","Description":"Take the next step","Url":"/training/courses/pages/executive-leadership-women-talg85.aspx","ImageUrl":"/Fat Menu Images/woman-leadership-training.png","AltText":"Take the next step","Parent":"5;#Training"},"ParentItem":"294;#MegaMenu","ItemOrder":5,"HasMenuImage":true},{"Id":6,"Title":"Events","Url":"/events/pages/index.aspx","IconClass":"","SubItems":[{"Id":324,"Title":"Coming up","Url":"/events/pages/index.aspx","IconClass":"","SubItems":[{"Id":556,"Title":"Airline Cost Conference, 27-28 Nov","Url":"/events/pages/airline-cost-conference.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"324;#Coming up","ItemOrder":2,"HasMenuImage":false},{"Id":555,"Title":"Legal Symposium, 19-21 Feb","Url":"/events/pages/legal-symposium.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"324;#Coming up","ItemOrder":3,"HasMenuImage":false},{"Id":557,"Title":"World Cargo Symposium, 10-12 March","Url":"/events/wcs/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"324;#Coming up","ItemOrder":4,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"6;#Events","ItemOrder":1,"HasMenuImage":false},{"Id":197,"Title":"Regional Events","Url":"/events/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"6;#Events","ItemOrder":2,"HasMenuImage":false},{"Id":334,"Title":"Webinars","Url":"/events/pages/index.aspx","IconClass":"","SubItems":[{"Id":487,"Title":"Crisis Management Webinar","Url":"/events/pages/dataminr-webinar.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"334;#Webinars","ItemOrder":1,"HasMenuImage":false},{"Id":477,"Title":"NEXTT Webinars","Url":"/whatwedo/ops-infra/airport-infrastructure/pages/nextt.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"334;#Webinars","ItemOrder":2,"HasMenuImage":false},{"Id":433,"Title":"Chargeback Management Webinar","Url":"/events/pages/chargeback-webinar.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"334;#Webinars","ItemOrder":3,"HasMenuImage":false},{"Id":471,"Title":"New Distribution Capability Webinar","Url":"/events/pages/ndc-webinar.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"334;#Webinars","ItemOrder":4,"HasMenuImage":false},{"Id":469,"Title":"Airline Cargo Webinar","Url":"/events/pages/airline-cargo-webinar-.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"334;#Webinars","ItemOrder":5,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"6;#Events","ItemOrder":3,"HasMenuImage":false},{"Id":450,"Title":"Workshops","Url":"/events/pages/index.aspx","IconClass":"","SubItems":[{"Id":550,"Title":"IOSA Workshop for Airlines, 4-5 Dec","Url":"/events/pages/iosa-workshop-airlines.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"450;#Workshops","ItemOrder":100,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"6;#Events","ItemOrder":4,"HasMenuImage":false},{"Id":260,"Title":"Annual General Meeting","Url":"/events/agm/pages/index.aspx","IconClass":"","SubItems":[{"Id":509,"Title":"AGM 2019","Url":"/events/agm/2019/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"260;#Annual General Meeting","ItemOrder":1,"HasMenuImage":false},{"Id":432,"Title":"AGM 2018","Url":"/events/agm/2018/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"260;#Annual General Meeting","ItemOrder":2,"HasMenuImage":false},{"Id":399,"Title":"AGM 2017","Url":"/events/agm/2017/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"260;#Annual General Meeting","ItemOrder":3,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"6;#Events","ItemOrder":5,"HasMenuImage":false},{"Id":535,"Title":"All Events","Url":"/events/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"6;#Events","ItemOrder":6,"HasMenuImage":false}],"MenuImage":{"Title":"World Cargo Symposium 2020, Istanbul","Description":"Influence the future of Air Cargo","Url":"/events/wcs/pages/index.aspx","ImageUrl":"/Fat Menu Images/WCS2.png","AltText":"Influence the future of Air Cargo","Parent":"6;#Events"},"ParentItem":"294;#MegaMenu","ItemOrder":6,"HasMenuImage":true},{"Id":7,"Title":"Pressroom","Url":"/pressroom/pages/index.aspx","IconClass":"","SubItems":[{"Id":203,"Title":"Press Releases","Url":"/pressroom/pr/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"7;#Pressroom","ItemOrder":1,"HasMenuImage":false},{"Id":205,"Title":"Facts \\u0026 Figures","Url":"/pressroom/facts_figures/pages/index.aspx","IconClass":"","SubItems":[{"Id":206,"Title":"Fact sheets","Url":"/pressroom/facts_figures/fact_sheets/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"205;#Facts \\u0026 Figures","ItemOrder":1,"HasMenuImage":false},{"Id":207,"Title":"Economic reports (IATA Economics)","Url":"/publications/economics/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"205;#Facts \\u0026 Figures","ItemOrder":2,"HasMenuImage":false},{"Id":208,"Title":"Ranking tables from WATS","Url":"/pressroom/facts_figures/pages/watsrankings.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"205;#Facts \\u0026 Figures","ItemOrder":3,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"7;#Pressroom","ItemOrder":2,"HasMenuImage":false},{"Id":204,"Title":"Speeches","Url":"/pressroom/speeches/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"7;#Pressroom","ItemOrder":3,"HasMenuImage":false},{"Id":212,"Title":"Opinion Pieces","Url":"/pressroom/pages/opeds.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"7;#Pressroom","ItemOrder":4,"HasMenuImage":false},{"Id":517,"Title":"Regulatory \\u0026 Legal Filings","Url":"/pressroom/pages/filings.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"7;#Pressroom","ItemOrder":5,"HasMenuImage":false},{"Id":213,"Title":"CEO Biography","Url":"/pressroom/pages/ceo-biography.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"7;#Pressroom","ItemOrder":6,"HasMenuImage":false},{"Id":350,"Title":"Alexandre de Juniac\\u0027s blog","Url":"/pressroom/ceoblog/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"7;#Pressroom","ItemOrder":7,"HasMenuImage":false},{"Id":214,"Title":"Press Enquiries","Url":"/pressroom/pages/contacts.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"7;#Pressroom","ItemOrder":8,"HasMenuImage":false}],"MenuImage":{"Title":"Alexandre de Juniac\\u0027s Report of the Air Transport Industry","Description":"IATA DG \\u0026 CEO delivered the State of the Industry Report at the 2019 AGM, which took place 1-3 June in Seoul. ","Url":"/pressroom/speeches/pages/2019-06-02-01.aspx","ImageUrl":"/Fat Menu Images/ADJ-AGM-2019.jpg","AltText":"IATA DG \\u0026 CEO delivered the State of the Industry Report at the 2019 AGM, which took place from 1-3 June in Seoul. ","Parent":"7;#Pressroom"},"ParentItem":"294;#MegaMenu","ItemOrder":7,"HasMenuImage":true}],"MenuImage":null,"ParentItem":"293;#Root","ItemOrder":0,"HasMenuImage":false},{"Id":295,"Title":"SubMenu","Url":"/","IconClass":"","SubItems":[{"Id":296,"Title":"About Us","Url":"/about/pages/index.aspx","IconClass":"","SubItems":[{"Id":299,"Title":"Mission \\u0026 Vision","Url":"/about/pages/mission.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"296;#About Us","ItemOrder":1,"HasMenuImage":false},{"Id":300,"Title":"Priorities","Url":"/about/pages/priorities.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"296;#About Us","ItemOrder":2,"HasMenuImage":false},{"Id":301,"Title":"Members","Url":"/about/members/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"296;#About Us","ItemOrder":3,"HasMenuImage":false},{"Id":304,"Title":"Strategic Partners","Url":"/about/sp/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"296;#About Us","ItemOrder":4,"HasMenuImage":false},{"Id":305,"Title":"International Training Fund","Url":"/about/pages/iatf.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"296;#About Us","ItemOrder":5,"HasMenuImage":false},{"Id":306,"Title":"Governance Structure","Url":"/about/pages/corporate-structure.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"296;#About Us","ItemOrder":6,"HasMenuImage":false},{"Id":307,"Title":"History","Url":"/about/pages/history.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"296;#About Us","ItemOrder":8,"HasMenuImage":false},{"Id":308,"Title":"IATA By Region","Url":"/about/worldwide/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"296;#About Us","ItemOrder":9,"HasMenuImage":false},{"Id":309,"Title":"Office Addresses","Url":"/about/pages/offices.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"296;#About Us","ItemOrder":10,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"295;#SubMenu","ItemOrder":1,"HasMenuImage":false},{"Id":297,"Title":"Careers","Url":"/careers/pages/index.aspx","IconClass":"","SubItems":[{"Id":545,"Title":"Job Opportunities","Url":"/careers/pages/index.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"297;#Careers","ItemOrder":1,"HasMenuImage":false},{"Id":303,"Title":"Internship Program","Url":"/careers/pages/index.aspx?tab=4","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"297;#Careers","ItemOrder":2,"HasMenuImage":false},{"Id":310,"Title":"Instructor Opportunities","Url":"/careers/pages/instructor-opportunities.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"297;#Careers","ItemOrder":3,"HasMenuImage":false},{"Id":364,"Title":"Consultant Opportunities","Url":"/careers/pages/consultant-opportunities.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"297;#Careers","ItemOrder":4,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"295;#SubMenu","ItemOrder":2,"HasMenuImage":false},{"Id":298,"Title":"Contact \\u0026 Support","Url":"/pages/contact.aspx","IconClass":"","SubItems":[],"MenuImage":null,"ParentItem":"295;#SubMenu","ItemOrder":3,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"293;#Root","ItemOrder":0,"HasMenuImage":false},{"Id":313,"Title":"YouIATAMenu","Url":"/","IconClass":"","SubItems":[{"Id":216,"Title":"Airlines","Url":"/pages/airlines.aspx","IconClass":"icon-plane_s","SubItems":[],"MenuImage":null,"ParentItem":"313;#YouIATAMenu","ItemOrder":1,"HasMenuImage":false},{"Id":217,"Title":"Airports","Url":"/pages/airports.aspx","IconClass":"icon-airport_s","SubItems":[],"MenuImage":null,"ParentItem":"313;#YouIATAMenu","ItemOrder":2,"HasMenuImage":false},{"Id":218,"Title":"Air Traffic Management","Url":"/pages/air-traffic-management.aspx","IconClass":"icon-radar_s","SubItems":[],"MenuImage":null,"ParentItem":"313;#YouIATAMenu","ItemOrder":3,"HasMenuImage":false},{"Id":219,"Title":"Freight Forwarders","Url":"/pages/freight-forwarders.aspx","IconClass":"icon-boxes_s","SubItems":[],"MenuImage":null,"ParentItem":"313;#YouIATAMenu","ItemOrder":4,"HasMenuImage":false},{"Id":220,"Title":"Governments \\u0026 Regulators","Url":"/pages/governments-policy-makers.aspx","IconClass":"icon-building_s","SubItems":[],"MenuImage":null,"ParentItem":"313;#YouIATAMenu","ItemOrder":5,"HasMenuImage":false},{"Id":221,"Title":"Ground Handlers","Url":"/pages/ground-handlers.aspx","IconClass":"icon-groundman_s","SubItems":[],"MenuImage":null,"ParentItem":"313;#YouIATAMenu","ItemOrder":6,"HasMenuImage":false},{"Id":222,"Title":"Industry Partners","Url":"/pages/industry-suppliers-manufacturers.aspx","IconClass":"icon-factory_s","SubItems":[],"MenuImage":null,"ParentItem":"313;#YouIATAMenu","ItemOrder":7,"HasMenuImage":false},{"Id":223,"Title":"Travelers","Url":"/travelers/pages/index.aspx","IconClass":"icon-walkingPassenger_s","SubItems":[],"MenuImage":null,"ParentItem":"313;#YouIATAMenu","ItemOrder":8,"HasMenuImage":false},{"Id":224,"Title":"Travel Agents","Url":"/pages/travel-agents.aspx","IconClass":"icon-speaker2","SubItems":[],"MenuImage":null,"ParentItem":"313;#YouIATAMenu","ItemOrder":9,"HasMenuImage":false}],"MenuImage":null,"ParentItem":"293;#Root","ItemOrder":100,"HasMenuImage":false}]');
+    });
+</script>
+</div>
+<div id="ct" class="clearfix">
+<span id="DeltaPlaceHolderMain">
+<script type="text/javascript">blogSite = true;</script>
+<div id="bc" class="widthLimiter">
+<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx">Home</a></span><span>  </span><span><a href="/services/Pages/index.aspx">Services</a></span><span>  </span><span><a href="/services/finance/Pages/index.aspx">Financial Services</a></span><span>  </span><span><a title="IATA&#39;s News platform on matters related to supporting sustained financial health" href="/services/finance/blog/Pages/index.aspx">Air Pulse</a></span><span>  </span><span><a href="/services/finance/blog/Pages/BlogDetails.aspx">Air Pulse</a></span></span>
+</div>
+<div id="bcMobile" class="widthLimiter blogMobile">
+</div>
+<div id="pageContentLimiter"><div class="widthLimiter"><div class="redFringe wide"></div></div></div>
+<div id="blogWrap">
+<div class="dividerContainer blogHeader">
+<span class="imageAuthorMask"></span>
+<span class="imageAuthor" style='background-image: url(/services/finance/blog/PublishingImages/BlogHeader/Asset10.png); '></span>
+<div class="widthLimiter forMobile">
+<div class="grid3_4">
+<div id="ct-wd" class="noindex">
+<div id='social-media' class='noindex'>
+<ul class="topLinks">
+<li><a href='javascript:window.print()'><div class="icon icon-printer"></div></a></li>
+<li><div id='sm-share' class="icon icon-share"></div></li>
+</ul>
+<div id="ctl00_PlaceHolderMain_pageTools_liShare">
+<div id='hidden-sm-div' class='noindex'>
+<span class='share-title'>Share this page</span>
+<ul>
+<li><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.iata.org%2Fservices%2Ffinance%2Fblog%2Fpages%2Fblogdetails.aspx%3Fblog_id%3D182%26title%3Dwfs%202019%20-%20a%20resounding%2C%20sustainable%20success!" id="ctl00_PlaceHolderMain_pageTools_linkFB" target="_blank" title="Share this Page"><span class="icon icon-facebook"></span></a></li>
+<li><a href='//twitter.com/share' target='_blank' data-via='iata' data-count='none' target='_blank'><span class="icon icon-twitter"></span></a></li>
+<li><a href="//www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.iata.org%2Fservices%2Ffinance%2Fblog%2FPages%2FBlogDetails.aspx%3FBLOG_ID%3D182%26Title%3DWFS%202019%20-%20A%20resounding%2C%20sustainable%20success!" id="ctl00_PlaceHolderMain_pageTools_linkLinkedIn" target="_blank"><span class="icon icon-linkedin"></span></a></li>
+<li><a href="mailto:?subject=I wanted you to see this site&amp;body=Check out this site http://www.iata.org/services/finance/blog/Pages/BlogDetails.aspx?BLOG_ID=182&amp;Title=WFS 2019 - A resounding, sustainable success!" id="ctl00_PlaceHolderMain_pageTools_linkMail" title="Share by Email"><span class="icon icon-enveloppeRound"></span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="printHeader">
+<img border="0" alt="" src="/Style%20Library/IATA.org-v1/Core/Images/Logos/logo-iata-2012.png" />
+</div>
+<div class="blogInfo">
+<h1 class="author">
+Air Pulse
+</h1>
+<h1>
+Financial &amp; Distribution News
+</h1>
+<h1 id="blogCategoryTitle"></h1>
+</div>
+</div>
+</div>
+</div>
+<div class="dividerContainer genericPage blog">
+<div class="widthLimiter">
+<div class="grid3_4">
+<h1>
+Financial &amp; Distribution News
+</h1>
+<div class="ms-webpart-zone ms-fullWidth">
+<div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+<div WebPartID="01fad348-0cb7-4fb1-bef9-e670476f40ad" HasPers="false" id="WebPartctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad" width="100%" class="ms-WPBody noindex " allowDelete="false" style=""><div id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad">
+<script type="text/javascript">
+
+    function ceoBlogCommentsValidate() {
+            
+
+        var firstName = jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputfirstName').val();
+        if (firstName == "") {
+            jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_lblErrorCaptcha').text("Please enter a value for First Name");
+            return false;
+        }
+
+        var inputlastName = jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputlastName').val();
+        if (inputlastName == "") {
+            jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_lblErrorCaptcha').text("Please enter a value for Last Name");
+            return false;
+        }
+
+        var inputEmail = jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputEmail').val();
+        if (inputEmail == "") {
+            jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_lblErrorCaptcha').text("Please enter a value for Email Address");
+            return false;
+        } else if (!validateEmail(inputEmail)) {
+            jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_lblErrorCaptcha').text("Please enter a valid Email Address");
+                return false;
+            }
+
+        var txtArComments = jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_txtArComments').val();
+        if (txtArComments == "") {
+            jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_lblErrorCaptcha').text("Please enter a value for Comments");
+            return false;
+        }
+
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_btnSubmitComments').hide();
+        jgn("#imgAnimationSubmitComments").show();
+
+        return true;
+    }
+
+    function cleanCaptcha() {
+        Recaptcha.reload();
+    }
+
+    function onSuccessComments() {
+        alert("Thank you for your comment. Once the administrator approves, the comment will be" +
+                " shown on the site.");
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputfirstName').val("");
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputlastName').val("");
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputEmail').val("");
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputCompany').val("");
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputFunction').val("");
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_txtArComments').val("");
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_lblErrorCaptcha').val("");
+        cleanCaptcha();
+
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_btnSubmitComments').show();
+        jgn("#imgAnimationSubmitComments").hide();
+    }
+
+    function onCaptchaError() {
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_lblErrorCaptcha').text("Incorrect captcha entry. Please refresh and try again");
+        cleanCaptcha();
+
+        jgn('#ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_btnSubmitComments').show();
+        jgn("#imgAnimationSubmitComments").hide();
+    }
+
+</script>
+
+<div id="dvBlogDetails">
+<img src="/services/finance/blog/PublishingImages/Lists/Posts/AllPosts/WFS19-BANNER-V2-856.jpg" id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_imgBlogImage" /></img>
+<div class="extraInfo">
+<span id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_spCategory" class="blogCat">Airlines - Cargo Agents - Financial Products - Travel Agents - Events</span>
+<span id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_spDate" class="blogDate">25 October 2019</span>
+</div>
+<h1 id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_hTitle">WFS 2019 - A resounding, sustainable success!</h1>
+<div class='blurb'>
+<span id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_spBody"><div><div>Four Industry Meetings, two Specialized Tracks, eight “Meet the experts” sessions, one High Impact Seminar. These are just some of the numbers that made another very successful World Financial Symposium, which took place in Miami on 25 and 26 September 2019. For its 6th edition, the not-to-miss event for the airline financial community addressed the topic of sustainability under the theme “Shaping a Sustainable Future, together&#58; Airlines. IATA. Partners”.<br></div></div><div><br></div><h3>Industry Meetings<br></h3><div>The venue was buzzing with activity even before the event officially started. As every year, two major general meetings took place before WFS&#58; the SIS and Interline Billing and Settlement Operations General Meetings. Such General Meetings are critical to maintain streamlined financial operations within our industry and bring forward new ideas for further modernization of our processes. Airlines, IATA and Partners have the opportunity to explore the future of our industry.<br></div><div><br></div><h3>Global Fraud Prevention Forum<br></h3><div>This year again, the Global Fraud Prevention Forum offered great sessions. Participants were able to surf through a variety of topics ranging from cybercrime economy and its impact on fraud by Professor Dr. Michael McGuire from the University of Surrey, to the repercussions or romance frauds, by Detective Isaac Branch from NYPD. The event culminated with a brilliant presentation on the impact of the mythic Trojan Horse on today’s fraud.</div><div><br></div><div>A record 230 participants attended this 3rd edition of the event, with satisfaction scores higher than ever.</div><div>&#160;</div><h3>Industry Taxation Forum</h3><div>Over 100 taxation experts from all over the world gathered during the week of WFS to attend the Industry Taxation Forum. Participants had the opportunity to discuss tax policy and compliance, as well as to share best practices and views on campaigns. They also heard about priorities and key strategies to ensure fair tax treatment of international air transport. The agenda covered both global issues, spanning from environment-related taxes to the taxation of e-commerce, and regional updates.</div><div><br></div><div>Another great success for the third edition of the Industry Taxation Forum!</div><div><br></div><h3>World Financial Symposium<br></h3><div><strong><br></strong></div><div><strong>Key message</strong></div><div>Sustainability was addressed from many different perspectives&#58; financial sustainability, operational sustainability, and of course environmental sustainability. And the key message emerged loud and clear&#58; the connection between environmental sustainability and financial health is strong, and IATA, supported by the Industry Financial Advisory Council (FinAC) and its Working Groups, plays a critical role in translating this connection into action plans for a safe, secure, and sustainable air transport industry.</div><div><br></div><div><strong>Opening plenary</strong></div><div></div><div><div>The symposium opened with Avianca’s CEO Anko van der Werff, who, in what he called a “love letter to the industry”, stressed the critical role of Finance in helping the industry make the right decisions and avoid the traps of growth for the sake of growth.<br></div><div><br></div><div>It continued with an inspiring keynote from Susan McPherson from McPherson Strategies on the growing link between sustainability and leadership, where she highlighted how shareholders’ value is no longer the only drive for businesses. As a professional in Social Corporate Responsibility and Sustainability and a passionate of Air Travel, she called for a Transformation, a transformation that is fundamental to our industry’s success and to protect our future as a society.<br></div><div><br></div><div>Brandon Nelson, JetBlue’s General Counsel &amp; Corporate Secretary shared the airline’s inspiring sustainability journey and Alex Malfitani, CEO of Azul told the story of how they went from being a startup to becoming a successful platform. Many points of view from many different perspectives, all equally inspiring and reinforcing the message that sustainability is not a nice to have or aspirational thinking, but a critical feature of today’s businesses that requires clear actions, and aviation is no exception.<br></div><div><br></div><div>The Opening Plenary concluded with Michael Doersam, Chair of the IATA Industry Financial Advisory Council, who gave an overview of the industry’s achievements over the past 6 months, presented the new IATA strategy for a safe, secure and sustainable air transport industry, and highlighted the challenges that the industry is currently facing, namely new technology, access to and retention of top talents, and needless to say, sustainability.&#160;<br></div></div><div><br></div><div><strong>Specialized Tracks</strong></div><div></div><div><div>Two specialized tracks ran in parallel on Payment and Fraud Prevention and Financial Strategy and Risk Management. The Payment and Fraud Prevention Track was dominated by three recurring themes, that are at the heart of today’s payment landscape&#58; the digital revolution, the need for an integrated vision for payments, and customer centricity.<br></div><div><br></div><div>Technology played a prominent role also in the Financial Strategy and Risk Management Track, with Blockchain and Artificial Intelligence being at the top of the list of disruptors, but also of opportunities for treasurers. The need for talent which can deal with both financial and technological topics was raised in many presentations, as well as the importance of having a holistic view on cash movements.<br></div></div><div><br></div><div><strong>High Impact Seminar</strong></div><div></div><div><div>During WFS once more, a private session for CFOs and Senior Financial Executives was held under the label of High Impact Seminar. This years’ edition was nothing short of the best one ever! Once again, sustainability was at the heart of the discussions. It opened with Tammy Weinbaum from American Express, who also sponsored the event, sharing their strategy for a responsible business, and how it combines profit and customer needs. There was a clear and simple message, that working together as an industry can be more powerful to overcome challenges and drive sustainability.<br></div><div><br></div><div>It continued with a very insightful presentation from McKinsey’s Alex Dichter on the drivers of airlines success&#58; Growth with Purpose, Pushing Ancillaries to the next level, Increase customer pull, Build pockets of privilege, Treat fleet strategy as an existential decision, Lead in organizational health.<br></div><div><br></div><div>Brian Pearce, IATA’s Chief Economist, told the captivating story of the link between sustainability and financial performance&#58; whilst the industry is doing a lot to reduce its CO2 emissions, efforts are still not enough and CORSIA and the development of bio-fuels are the way forward.<br></div><div><br></div><div>The High Impact Seminar concluded with a top-level panel discussion involving Brian Pearce, Karen Clayton (IATA’s Corporate Secretary), Alex Dichter and Erik Swelheim (CFO of KLM). The panel provided unique, top-level views on how the topics of environment and sustainability are shaping the discussions in the Board room and affecting the image of airlines. Fleet and operations-related decisions are certainly impacted, and so is talent attraction and retention, particularly with relations to younger staff, who are more sensitive to environmental concerns.<br></div><div><br></div><div>With its 2019 edition, the High Impact Seminar has established itself as the not-to-be-missed event for top airlines finance executives.<br></div></div><div><br></div><div><strong>Meet the Experts Sessions</strong></div><div>Eight “Meet the Experts” sessions took place on day 2, where participants had the opportunity to have a dialogue with top-industry experts on hot topics such as&#58;<br></div><div><br></div><div><br></div><div><img src="/services/finance/blog/PublishingImages/Lists/Posts/AllPosts/MTE-1.png" alt="MTE-1.png" style="margin&#58;5px;width&#58;600px;height&#58;134px;" /><br></div><div><img src="/services/finance/blog/PublishingImages/Lists/Posts/AllPosts/MTE-2.png" alt="MTE-2.png" style="margin&#58;5px;width&#58;600px;height&#58;130px;" /><br></div><div><br><div><strong>Closing Plenary</strong></div><div></div><div><div>The event closed on day 2 with a captivating series of speakers offering diverse and insightful views. Kat Morse, IATA’s Innovation Manager, presented the latest addition to the IATA Innovation Ecosystem&#58; Accelerate@IATA. A dynamic program allowing airlines to partner with start-ups to deliver accelerated innovation.<br></div><div><br></div><div>Alyson Genovese from Global Reporting Initiative (GRI) inspired the audience by telling them all about how to build a good business. One that does not forget ethics, people, and of course sustainability.<br></div><div><br></div><div>The closing plenary continued with IATA’s Robert Boyd, who talked about the fascinating world of Sustainable Alternative Fuels (SAF), how far technology has gone in this area, and how further we can expect it to go in the future. SAF are clearly the way forward to allow airlines to continue being the business of freedom, while ensuring a safe, secure and sustainable industry.</div><div><br></div><div>Last but certainly not least, Michael Doersam came back on stage to present the next steps for the air transport industry to shape a sustainable future, together. The FinAC will play a key role by leading the industry first and foremost in driving the implementation of the IATA strategic roadmap. Success will be defined not only by what the industry does, but also by how it does it. Inclusion of environmental topics across the organization and in the ecosystem, engagement with people who want to make a difference, engagement with partners leveraging on common goals and sustainability, and engagement with a larger audience on the industry’s initiatives and story are key areas of focus going forward.<br></div></div><div><br></div><div><strong>And the next stop is…</strong></div><div>The event closed with the announcement eagerly awaited by all&#58; where will WFS 2020 take place?<br></div><div><br></div><div>We are looking forward to seeing you in Dubai, UAE, on 29 September - 1 October 2020, please save the date!<br></div></div><div><br></div></span>
+</div>
+</div> 
+
+
+<div class="share2ndWrapper">
+<div id='social-media' class='blogsocial noindex'>
+<ul class="topLinks">
+<li>
+<a href='javascript:window.print()'>
+<div class="icon icon-printer"></div>
+</a>
+</li>
+<li>
+<div id='sm-share-blog' class="icon icon-share"></div>
+</li>
+</ul>
+<div id="liShareBlog">
+<div id='hidden-sm-div-blog' class='noindex' style="display: none">
+<span class='share-title'>Share this page</span>
+<ul>
+<li>
+<a id="linkFB-Blog" href="" target="_blank" title="Share this Page">
+<span class="icon icon-facebook"></span>
+</a>
+</li>
+<li>
+<a id="linkTwitterBlog" href='//twitter.com/share' target='_blank' class='twitter-share-button' data-via='iata' data-count='none' target='_blank'>
+<span class="icon icon-twitter"></span>
+</a>
+</li>
+<li>
+<a id="linkLinkedInBlog" href='' target='_blank'>
+<span class="icon icon-linkedin"></span>
+</a>
+</li>
+<li>
+<a id="linkGPlusBlog" href='' target='_blank'>
+<span class="icon icon-gplus"></span>
+</a>
+</li>
+<li>
+<a id="linkMailBlog" href='' title='Share by Email'>
+<span class="icon icon-enveloppeRound"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<span class="topFormFrise"></span>
+<h2 class="mousePointer iataBlogCommentToggler">
+<span class="icon icon-navArrowRight"></span>
+<span>Add a comment</span>
+</h2>
+<div class="iataStandardForm blogForm">
+<section>
+<fieldset>
+<label id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_lblErrorCaptcha" class="iata-blogcomments-captchaerror"></label>
+</fieldset>
+<div class="pseudoTable">
+<div class="row col1_2">
+<fieldset>
+<label>First Name*</label>
+<input name="ctl00$SPWebPartManager1$g_01fad348_0cb7_4fb1_bef9_e670476f40ad$ctl00$inputfirstName" type="text" id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputfirstName" maxlength="100" />
+</fieldset>
+</div>
+<div class="row col1_2">
+<fieldset>
+<label>Last Name*</label>
+<input name="ctl00$SPWebPartManager1$g_01fad348_0cb7_4fb1_bef9_e670476f40ad$ctl00$inputlastName" type="text" id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputlastName" maxlength="100" />
+</fieldset>
+</div>
+</div>
+<div class="pseudoTable">
+<div class="row col1_2">
+<fieldset>
+<label>Email address*</label>
+<input name="ctl00$SPWebPartManager1$g_01fad348_0cb7_4fb1_bef9_e670476f40ad$ctl00$inputEmail" type="text" id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputEmail" maxlength="200" />
+</fieldset>
+</div>
+<div class="row col1_2">
+<fieldset class="half">
+<label>Company</label>
+<input name="ctl00$SPWebPartManager1$g_01fad348_0cb7_4fb1_bef9_e670476f40ad$ctl00$inputCompany" type="text" id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputCompany" maxlength="100" />
+<label for="inputFunction">Function</label>
+<input name="ctl00$SPWebPartManager1$g_01fad348_0cb7_4fb1_bef9_e670476f40ad$ctl00$inputFunction" type="text" id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_inputFunction" maxlength="100" />
+</fieldset>
+</div>
+</div>
+<fieldset>
+<label for="txtArComments">Your Comment*</label>
+<textarea name="ctl00$SPWebPartManager1$g_01fad348_0cb7_4fb1_bef9_e670476f40ad$ctl00$txtArComments" id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_txtArComments"></textarea>
+</fieldset>
+<fieldset>
+<label for="Captcha">Captcha*</label>
+<span class="captchaArea">
+<div class="IATARequiredFieldRC"><span id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_DisplayRecaptcha_ctrlGoogleReCaptcha_requiredFieldLabel" class="required">Other Required</span><input name="ctl00$SPWebPartManager1$g_01fad348_0cb7_4fb1_bef9_e670476f40ad$ctl00$DisplayRecaptcha$ctrlGoogleReCaptcha$requiredField" type="text" id="requiredField" class="required" /><span>&nbsp;*</span></div>
+<div id='IATArcfield'></div>
+<script type="text/javascript"> function IATAReCatpchaInit(){
+	honeypotCountries = ['CN','CN' ];
+    jgn.ajax({
+            type: 'GET',
+            url: 'https://geoip-db.com/jsonp',
+		    contentType: 'application/json',
+		    jsonpCallback: 'callback',
+            dataType: 'jsonp',
+    		success: function(json){
+        		console.log(json);
+                if(jgn.inArray(json.country_code,honeypotCountries) == -1)
+			        renderCaptcha();		
+    		},
+		    error: function(jqXHR, textStatus, errorThrown){
+        		console.log(errorThrown);
+                renderCaptcha();
+    		}
+    });
+
+    function renderCaptcha() {
+        console.log('recaptcha rendered');
+		grecaptcha.render('IATArcfield', {'sitekey' : '6LdlD9YSAAAAACQBtcTazO6nEWLU5fESp492iGPR'});			
+    }
+}
+</script>
+<br />
+</span>
+</fieldset>
+<fieldset>
+<label></label>
+<lable></lable>
+</fieldset>
+<span id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_up">
+<fieldset>
+<i>*mandatory fields</i>
+<input onclick="return ceoBlogCommentsValidate(); if (typeof(Page_ClientValidate) == 'function') Page_ClientValidate(''); " name="ctl00$SPWebPartManager1$g_01fad348_0cb7_4fb1_bef9_e670476f40ad$ctl00$btnSubmitComments" type="submit" id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_btnSubmitComments" class="primaryBtn iataBlogCommentBtn" value="SUBMIT" />
+<Triggers>
+<asp:PostBackTrigger ControlID="btnSubmitComments" />
+</Triggers>
+</fieldset>
+</span>
+<fieldset>
+<label>Disclaimer: This blog uses cookies.</label>
+</fieldset>
+<img src="_layouts/15/iata/js/ajax-loader.gif" class="iatablog-imageanimation" id="imgAnimationSubmitComments" style="display: none;" />
+</section>
+</div>
+
+
+
+<input type="hidden" name="ctl00$SPWebPartManager1$g_01fad348_0cb7_4fb1_bef9_e670476f40ad$ctl00$hdnPagingInfo" id="ctl00_SPWebPartManager1_g_01fad348_0cb7_4fb1_bef9_e670476f40ad_ctl00_hdnPagingInfo" />
+</div><div class="ms-clear"></div></div>
+</div>
+</div>
+</div>
+<div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
+<menu class="ms-hide">
+<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+</ie:menuitem>
+</menu>
+<div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
+<div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
+<div class="opt-wrp clearfix">
+<div class="col-1">
+<div id="ctl00_PlaceHolderMain_IATAContentBox5Field_label" style='display:none'>IATAContentBox5</div><div id="ctl00_PlaceHolderMain_IATAContentBox5Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox5Field_label"></div>
+</div>
+<div class="col-2">
+<div id="ctl00_PlaceHolderMain_IATAContentBox6Field_label" style='display:none'>IATAContentBox6</div><div id="ctl00_PlaceHolderMain_IATAContentBox6Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox6Field_label"><p>​​<br></p></div>
+</div>
+</div>
+<div id="ctl00_PlaceHolderMain_IATAContentBox4Field_label" style='display:none'>IATAContentBox4</div><div id="ctl00_PlaceHolderMain_IATAContentBox4Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox4Field_label"></div>
+</div>
+<div class="grid1_3 extendContainer">
+<div class="noindex" id="googleAdDiv">
+<div id="ad-rhb">Advertisement</div>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/3987215/services_finance', [[160, 140], [180, 150]], 'div-gpt-ad-1554133226810-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<div id='div-gpt-ad-1554133226810-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1554133226810-0'); });
+</script>
+</div>
+</div>
+<script>
+var origin = window.location.hostname;
+if(origin.toLowerCase().indexOf("edit") >=0){
+	jgn("#ad-rhb").show();
+}else{
+	jgn("#ad-rhb").hide();
+}
+</script>
+<script type="text/javascript">
+    jgn(document).ready(function () {
+        var link = jgn('.hbContent').find('a[href]').attr('href');
+
+        jgn('.linkAnchor').prop('href', link).prop('target', '_blank');
+
+        // Open in new window
+        jgn(".highlightBox").click(function () {
+            var url = jgn(".hbContent").find("a:first").attr("href");
+            if (url && url.trim().length > 0) {
+                window.open(url);
+                return false;
+            }            
+        });
+
+        // Show URL on Mouse Hover
+        jgn(".highlightBox").hover(function () {
+            window.status = jgn(".hbContent").find("a:first").attr("href");
+        }, function () {
+            window.status = "";
+        });
+
+    });
+</script>
+<a id="ctl00_PlaceHolderMain_highlightBox_linkAnchor" class="linkAnchor">
+<div id="ctl00_PlaceHolderMain_highlightBox_highlightBox" class="highlightBox">
+<h2>
+Subscribe to Air Pulse
+</h2>
+<div class="hbContent">
+<a href="/publications/Pages/signup.aspx">Sign up for e-mail updates</a>
+</div>
+</div>
+</a>
+<div id="ctl00_PlaceHolderMain_pnlRHCExt" class="rhcPink">
+<div class="ms-webpart-zone ms-fullWidth">
+<div id="MSOZoneCell_WebPartWPQ2" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+<div class="ms-webpart-chrome-title" id="WebPartWPQ2_ChromeTitle">
+<span title="Help us improve! - Allows authors to enter rich text content." id="WebPartTitleWPQ2" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span>Help us improve!</span><span id="WebPartCaptionWPQ2"></span></h2></span>
+</div><div WebPartID="294b3468-c6a5-4943-afba-a29c71e6747f" HasPers="false" id="WebPartWPQ2" width="100%" class="ms-WPBody ms-WPBorder noindex ms-wpContentDivSpace " allowDelete="false" style=""><div class="ms-rtestate-field"><p>
+<a href="https://www.surveymonkey.com/r/airpulse2019">Take this short survey!</a><br /></p>
+<div class="imageWrapper">
+<a href="https://www.surveymonkey.com/r/airpulse2019" target="_blank">
+<div class="imageWrapper">
+<div class="imageWrapper">
+<div class="imageWrapper">
+<div class="imageWrapper">
+<div class="imageWrapper">
+<div class="imageWrapper">
+<div class="imageWrapper">
+<div class="imageWrapper" style="float: none; margin: 0px; width: 140px; height: 140px; max-width: 140px; max-height: 140px;"><div class="imageWrapper" style="float: none; margin: 0px; width: 140px; height: 140px;"><div class="imageWrapper" style="float: none; margin: 0px; width: 140px; height: 140px;"><div class="imageWrapper" style="float: none; margin: 0px; width: 140px; height: 140px;"><div class="imageWrapper" style="float: none; margin: 0px; width: 140px; height: 140px;"><div class="imageWrapper" style="float: none; margin: 0px; width: 140px; height: 140px;"><img alt="Air Pulse Survey" src="/services/finance/blog/PublishingImages/Pages/BlogDetails/Asset%201-635v2.jpg" unlockratio="true" style="margin: 0px; width: 140px; height: 140px;" /></div></div></div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></a> <br /></div></div><div class="ms-clear"></div></div>
+</div><div class="ms-PartSpacingVertical"></div>
+</div><div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+<div class="ms-webpart-chrome-title" id="WebPartWPQ1_ChromeTitle">
+<span title="  - Use for formatted text, tables, and images." id="WebPartTitleWPQ1" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span> </span><span id="WebPartCaptionWPQ1"></span></h2></span>
+</div><div WebPartID="7f82c234-97eb-460d-bcd5-b8373d4b98b2" HasPers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody ms-WPBorder noindex ms-wpContentDivSpace " allowDelete="false" style=""><div class="ms-rtestate-field"><a href="/services/finance/blog/Pages/index.aspx">Air Pulse Home</a><br />
+<h1>NEWS</h1>
+<h3>
+<div>
+<a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=17&amp;Category=Innovate-Accelerate-Deliver">
+<span class="ms-rteThemeForeColor-5-5">Innovate<br />Accelerate<br />Deliver</span></a><br /><br /></div>
+</h3>
+<h3>
+<div>By topic</div>
+</h3>
+<p>
+<a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=1&amp;Category=Airline%20Retailing%20(AIR)">Airline Retailing (AIR)</a><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=2&amp;Category=NDC%20and%20ONE%20Order">NDC &amp; ONE Order</a><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=4&amp;Category=NewGen%20ISS%20and%20TIP">NewGen ISS &amp; TIP</a><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=8&amp;Category=Global%20Delivery%20Center">Global Delivery Center</a><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=7&amp;Category=Digital%20Airline">Digital Airline</a><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=6&amp;Category=Financial%20Products">Financial Products</a><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=5&amp;Category=Aviation%20Data">Aviation Data</a><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=11&amp;Category=Travel%20and%20Tourism">Travel &amp; Tourism</a><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=12&amp;Category=Governance">Governance</a><br /><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=16&amp;Category=Events">Events</a><br /> </p>
+<h3>By audience</h3>
+<p>
+<a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=13&amp;Category=Airlines">Airlines</a><br /><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=14&amp;Category=Travel%20Agents">Travel Agents</a><br /><a href="https://www.iata.org/services/finance/blog/Pages/BlogCategory.aspx?CAT_ID=15&amp;Category=Cargo%20Agents">Cargo Agents</a><br /></p></div><div class="ms-clear"></div></div>
+</div>
+</div>
+</div>
+</div>
+<div id="ctl00_PlaceHolderMain_pnlRHCRelatedLinks" class="displayNone">
+<div id="ctl00_PlaceHolderMain_pnlRHCRelatedLinksTitle" class="newst pnlRHCRelatedLinksTitle">
+<div>
+<h2>Related Links</h2>
+</div>
+</div>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"></div>
+</div>
+<div class='hide_element_c27c2b71-f898-451c-b6f2-71bbbe87be47'></div><script type='text/javascript'>CTP.IATA.HideChrome('c27c2b71-f898-451c-b6f2-71bbbe87be47')</script>
+<div class='hide_element_92f7d492-5622-4d57-bd47-74d385a16dbf'></div><script type='text/javascript'>CTP.IATA.HideChrome('92f7d492-5622-4d57-bd47-74d385a16dbf')</script>
+</div>
+</div>
+</div>
+</div>
+<div style='display:none' id='hidZone'></div>
+</span>
+<div id="ft" class="noindex">
+<div class="header">
+<div class="widthLimiter">
+<span class="icon icon-logo"></span>
+<h2>Our mission is to represent, lead and serve the airline industry</h2>
+</div>
+</div>
+<div class="widthLimiter">
+<h1 class="offs noindex">Additional information</h1>
+<ul class="externalLinks clearfix">
+<li>Airlines. magazine<br /><a href="https://www.airlines.iata.org" target="_blank">www.airlines.iata.org</a></li>
+<li>Aviation and the environment<br><a href="http://www.enviro.aero" target="_blank">www.enviro.aero</a></li>
+</ul>
+<ul class="socialLinks">
+<li><a href="https://twitter.com/iata" target="_blank"><span class="icon icon-twitter"></span></a></li>
+<li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
+<li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
+<li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
+<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+</ul>
+<div class="copyright clearfix">
+<p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
+<ul class="legal">
+<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="DeltaFormDigest">
+<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0x1B9EC457E22EC439A243AA3CEF8E9A92DE392CA16D2D3E99A997A183F21411EA77436CA575ADACA55C4F61125E43F0C6B6E16D9C3417D8CAC3DDDE878DAD88DF,27 Nov 2019 21:13:40 -0000';
+            g_updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);(function() {var fn = function() {$get('ctl00_sm_HiddenField').value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{a6a454e9-6eb3-4515-bf4e-fbbaa79f1a2e}",itemId: 4,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fservices\u002ffinance\u002fblog\u002fPages",itemPermissions:{High:16,Low:196705}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+//]]>
+</script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=IATAReCatpchaInit&render=explicit" async defer></script></form>
+<span id="DeltaPlaceHolderUtilityContent">
+</span>
+<script type="text/javascript" src="/_layouts/15/iata/Js/iata.org.min.js?v=201902"></script>
+</body>
+</html>

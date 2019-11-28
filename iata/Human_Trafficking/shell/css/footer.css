@@ -1,0 +1,583 @@
+.page-no {
+  margin-right: 10px;
+  margin: 0px;
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 16px;
+  /* font-family: 'akzidenz-grotesk-bq-light'; */
+}
+
+.page-no .pageNoLeft {
+  padding-right: 2px;
+  font-size: 30px;
+  color: #ec3015;
+}
+
+.page-no .pageNoRight {
+  font-size: 16px;
+  color: #656565;
+}
+
+.page-no .pageNoRight:before {
+  content: '/';
+  font-size: 16px;
+  color: #656565;
+}
+
+footer.main {
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+  height: 49px;
+  z-index: 40000;
+  border-top: 1px solid #c4cbd3;
+}
+
+.cssshell_transcript {
+  background-image: url('../images/transcript_btn_normal.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  position: relative;
+  left: 0px;
+  bottom: 0px;
+  background-color: #ffffff;
+  width: 75px;
+  height: 50px;
+  float: left;
+}
+
+.cssshell_transcript:hover {
+  background-color: #ec3013;
+  background-image: url('../images/transcript_btn_over.png');
+}
+
+.transcript_btn_disable {
+  background-image: url('../images/transcript_btn_normal.png');
+  opacity: 0.5;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  position: relative;
+  left: 0px;
+  bottom: 0px;
+  background-color: #ffffff;
+  width: 75px;
+  height: 50px;
+  float: left;
+}
+
+.audtx {
+  position: absolute;
+  left: 25px;
+  top: 8px;
+  color: #fff;
+  font-size: 14px;
+}
+
+.audioButton {
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  position: relative;
+  left: 0px;
+  bottom: 0px;
+  background-color: #ffffff;
+  width: 75px;
+  height: 50px;
+  float: left;
+}
+
+.icon-soundOn {
+  background-image: url('../images/audioOn_btn_normal.png');
+}
+
+.icon-soundOn:hover {
+  background-image: url('../images/audioOn_btn_over.png');
+  background-color: #ec3013;
+}
+
+.icon-soundOff {
+  background-image: url('../images/audioOff_btn_normal.png');
+}
+
+.icon-soundOff:hover {
+  background-image: url('../images/audioOff_btn_over.png');
+  background-color: #ec3013;
+}
+
+.back.disabled {
+  cursor: default;
+  pointer-events: none;
+  background-color: #666666;
+  /* background-color: #01305c; */
+}
+
+.next.disabled {
+  cursor: default;
+  pointer-events: none;
+  background-color: #666666;
+  /* background-color: #01305c; */
+}
+
+.back.icon-back:before {
+  left: -3px;
+  position: absolute;
+  top: 9px;
+  color: #b0a2a0;
+}
+
+.next.icon-next:before {
+  position: absolute;
+  top: 9px;
+  right: -3px;
+  color: #b0a2a0;
+}
+
+.nav_nxtBck .pageno {
+  position: absolute;
+  left: 79px;
+  top: 18px;
+}
+
+.shell_all_audio:before {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+.transcriptButton a {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+#instruct_next {
+  font-size: 15px;
+  color: #FFF;
+  position: absolute;
+  right: 0px;
+  background-color: #004054;
+  height: 35px;
+  line-height: 20px;
+  display: none;
+  padding: 1px 11px 5px 12px;
+}
+
+#nextclickimage {
+  background-image: url("../images/next_btn_normal.png");
+  height: 28px;
+  width: 28px;
+  position: relative;
+  display: inline-block;
+  top: 10px;
+  vertical-align: text-bottom;
+  background-size: 55%;
+  background-repeat: no-repeat;
+  left: 5px;
+}
+
+.cssResourcesbtn {
+  background-image: url('../images/transcript_btn_normal.png');
+  top: 15px;
+  position: absolute;
+  width: 29px;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  display: block;
+  height: 23px;
+  right: 240px;
+}
+
+.cssglossarybtn {
+  background-image: url('../../assets/image/common/shell/glossary_icon_2x.png');
+  background-size: 27px 17px;
+  top: 15px;
+  position: relative;
+  right: 250px;
+  display: none;
+}
+
+.cssResourcesbtn:hover {
+  background-image: url('../images/transcript_btn_normal.png');
+}
+
+.cssglossarybtn:hover {
+  background-image: url('../../assets/image/common/shell/glossary_icon_over_2x.png');
+}
+
+.back,
+.next {
+  background-repeat: no-repeat;
+  width: 45px;
+  height: 63px;
+  float: left;
+  cursor: pointer;
+  position: absolute;
+  pointer-events: auto;
+  background-color: #01305c;
+  background-position: center;
+  z-index: 100001;
+}
+
+.back:hover,
+.next:hover {
+  background: #ec3015;
+}
+
+.back::after,
+.next::after {
+  content: "";
+  position: absolute;
+  background-repeat: no-repeat;
+  width: 45px;
+  height: 63px;
+  background-position: center;
+}
+
+.next:before {
+  right: 0;
+}
+
+/* .back:hover .nxtBackTitle,
+.next:hover .nxtBackTitle{
+  width: 240px;
+  line-height: 65px;
+  padding-left: 49px;
+  font-size: 16px;
+} */
+
+.nxtBackTitle span {}
+
+.back {
+  left: 0;
+}
+
+.next {
+  right: 0;
+}
+
+.back:after {
+  background-image: url('../images/back_btn_normal.png');
+}
+
+.next:after {
+  background-image: url('../images/next_btn_normal.png');
+  right: 0;
+}
+
+.next .nextSelected {
+  background-image: url('../images/next_btn_normal.png');
+  background-repeat: no-repeat;
+  width: 34px;
+  height: 34px;
+  /* cursor: pointer; */
+  position: relative;
+  float: left;
+  left: 6px;
+  top: 15px;
+  opacity: 0;
+}
+
+.time {
+  bottom: 24px;
+  font-size: 11px;
+  position: absolute;
+  right: 276px;
+  /* display: none; */
+  color: white;
+}
+
+.deviceiOS .time {
+  /* right: 50px; */
+}
+
+.mobLogo,
+.mobBadg {
+  display: none;
+}
+
+.MobplayButton.icon-play.play {
+  display: none;
+}
+
+.nav_nxtBck {
+  position: absolute;
+  width: 100%;
+  top: 43%;
+}
+
+.helpTxt {
+  background-image: url('../images/help_btn_normal.png');
+  cursor: pointer;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  left: 0px;
+  bottom: 0px;
+  background-color: #ffffff;
+  width: 75px;
+  height: 50px;
+  float: left;
+}
+
+.helpTxt:hover {
+  background-image: url('../images/help_btn_over.png');
+  background-color: #ec3015;
+}
+
+#audioTranscript {
+  font-size: 14px;
+  position: relative;
+  left: 20px;
+  top: 7px;
+  display: inline-block;
+}
+
+.audioTranscript {
+  color: #fff;
+}
+
+.tooltipfor_close {
+  position: absolute;
+  font-size: 12px;
+  background-color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+  white-space: nowrap;
+  box-shadow: 2px 2px 5px 0px black;
+  display: none;
+  right: 18px;
+  top: -10px;
+  color: #000;
+}
+
+#dummysupp {
+  background: url(../images/supporting_facts_disabled.png) no-repeat;
+  height: 31px;
+  width: 178px;
+  top: -1px;
+  position: absolute;
+  left: 334px;
+  cursor: default !important;
+  color: rgb(0, 64, 84);
+  padding: 10px 26px 7px;
+  font-size: 14px;
+}
+
+.temp {
+  cursor: default;
+}
+
+.arrowchange {
+  background: url('../images/down_arrow_white.png') no-repeat;
+  height: 8px;
+  width: 15px;
+  position: relative;
+  left: 7px;
+  top: 4px;
+  display: inline-block;
+}
+
+.imagedown {
+  background: url('../images/up_arrow_white.png') no-repeat;
+  /* top: 7px !important; */
+}
+
+.dummyArrow {
+  background: url('../images/up_arrow_white.png') no-repeat;
+  width: 50px;
+  height: 50px;
+  left: 481px;
+  position: relative;
+  top: 12px;
+}
+
+.progress {
+  height: 100%;
+  position: relative;
+}
+
+.playButton {
+  background-image: url('../images/play_btn_normal.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  position: relative;
+  left: 0px;
+  bottom: 0px;
+  background-color: #ffffff;
+  width: 75px;
+  height: 50px;
+  float: left;
+}
+
+.playButton:hover {
+  background-image: url('../images/play_btn_over.png');
+  background-repeat: no-repeat;
+  background-color: #ec3015;
+}
+
+.playing {
+  background-image: url('../images/pause_btn_normal.png');
+  background-repeat: no-repeat;
+  width: 75px;
+  height: 50px;
+  float: left;
+}
+
+.playing:hover {
+  background-image: url('../images/pause_btn_over.png');
+  background-repeat: no-repeat;
+  width: 75px;
+  height: 50px;
+  float: left;
+  background-color: #ec3015;
+}
+
+#replay_btn {
+  background-image: url('../images/replay_btn_normal.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  position: relative;
+  left: 0px;
+  bottom: 0px;
+  background-color: #ffffff;
+  width: 75px;
+  height: 50px;
+  float: left;
+}
+
+#replay_btn:hover {
+  background-image: url('../images/replay_btn_over.png');
+  background-color: #ec3015;
+}
+
+.Shell_menu li.mob_exit {
+  display: none;
+}
+
+.printpagebutton {
+  position: absolute;
+  float: left;
+  left: 76px;
+  top: 10px;
+  height: 50px;
+  width: 50px;
+  pointer-events: none;
+  opacity: 0.5;
+  display: none;
+}
+
+.printbutton {
+  background: url(../images/print_normal.png) no-repeat;
+  height: 19px;
+  width: 21px;
+  position: absolute;
+  top: 18px;
+  left: 26px;
+}
+
+.printbutton:hover {
+  background: url('../images/print_selected.png') no-repeat;
+  cursor: pointer;
+}
+
+.forcePause {
+  /*background: url(../images/pause_btn_normal.png) no-repeat;*/
+}
+
+.deactives {
+  cursor: default !important;
+  pointer-events: none !important;
+  opacity: 0.5;
+}
+
+.nxtBackTitle {
+  background: #ec3015;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  width: 4px;
+  top: 0;
+  display: block;
+  height: 100%;
+  color: #fff;
+  overflow: hidden;
+  transition: width 0.2s ease-in;
+  -webkit-transition: width 0.2s ease-in;
+  -moz-transition: width 0.2s ease-in;
+  -o-transition: width 0.2s ease-in;
+  transition: width 0.1s ease-out;
+  -webkit-transition: width 0.1s ease-out;
+  -moz-transition: width 0.1s ease-out;
+  -o-transition: width 0.1s ease-out;
+  /* transition: width 0.5s; */
+}
+
+#back_title {}
+
+#next_title {
+  right: 0;
+  left: auto;
+}
+
+.footer-holder .seperator {
+  display: block;
+  width: 1px;
+  height: 30px;
+  position: relative;
+  background-color: #c4cbd3;
+}
+
+.footer-holder .seperator.p1 {
+  top: 11px;
+  float: left;
+}
+
+.footer-holder .seperator.p2 {
+  top: 11px;
+  float: left;
+}
+
+.footer-holder .seperator.p3 {
+  top: 11px;
+  float: left;
+}
+
+.footer-holder .seperator.p4 {
+  top: 11px;
+  float: left;
+}
+
+.footer-holder .seperator.p5 {
+  top: 11px;
+  float: left;
+}
+
+.nxtBackTitleTxt {
+  opacity: 0;
+  position: relative;
+  left: 25px;
+  display: table-cell;
+  vertical-align: middle;
+  height: 64px;
+  max-width: 235px;
+}
+
+.back .nxtBackTitleTxt {
+  left: 55px;
+}
+
+.transcriptButton:hover.seperator {
+  background-color: transparent !important;
+}
+
+.transcriptButton.helpTxt.active {
+  background-image: url('../images/help_btn_over.png');
+  background-color: #ec3015;
+}

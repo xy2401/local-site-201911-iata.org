@@ -1,0 +1,290 @@
+
+/* -----------------------------This Class is for Click to Reveal Buttons------------- */
+.button_CR {
+    position: absolute;
+    height: 36px;
+    float: left;
+    width: 110px;
+    border: 3px solid #007da5;
+    box-shadow: 3px 3px 5px rgba(68, 68, 68, 0.25);
+    border-radius: 6px;
+    cursor: pointer;
+    color: #007da5;
+    font-size:16px;
+    text-align:center;
+}
+
+
+.buttonTitle_CR{
+	    width: 100%;
+	    height: 100%;
+	    text-align: center;
+	    position: absolute;
+	    align-items: center;
+	    display: flex;
+	    cursor: pointer;
+	    justify-content: center;
+	    font-weight: bold;
+}
+.buttonTitle_CR_hover {
+    background-color: #007da5!important;
+    color: white!important;
+    border-color: #F2AE00!important;
+    cursor: default!important;
+    background-image: none!important;
+    cursor: pointer !important;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.buttonTitle_CR_out {
+    /* background-color: #ffffff!important; */
+    color: #007da5!important;
+    border-color: #007da5!important;
+    cursor: default!important;
+    /* background-image: none!important; */
+    cursor: pointer !important;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+/* -----------------------------************************************------------- */
+
+
+
+.button_Submit{
+    position: absolute;
+    height: 36px;
+    float: left;
+    width: 110px;
+    border: 3px solid #009A3D;
+    box-shadow: none;
+    border-radius: 6px;
+    cursor: pointer;
+    color: #009A3D;
+    font-size:16px;
+    text-align:center;
+}
+.buttonTitle_Submit{
+	    width: 100%;
+	    height: 100%;
+	    text-align: center;
+	    position: absolute;
+	    align-items: center;
+	    display: flex;
+	    justify-content: center;
+	    pointer-events: none;
+}
+
+
+.buttonTitle_Submit_hover {
+    background-color: #007da4!important;
+    color: white!important;
+    border-color: #F2AE00!important;
+    cursor: default!important;
+    background-image: none!important;
+    cursor: pointer !important;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.buttonTitle_Submit_out {
+    background-color: #0a4279 !important;
+    color: #ffffff !important;
+    border-color: #0a4279 !important;
+    cursor: default!important;
+    background-image: none!important;
+    cursor: pointer !important;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+/* -----------------------------This Class is for Button proceed ------------- */
+
+
+
+.proceedBtn {
+    position: absolute;
+    width: 288px;
+    height: 36px;
+    float: left;
+    top: 80px;
+    border: 3px solid #007da4;
+    box-shadow: 3px 3px 5px rgba(68,68,68,0.25);
+    border-radius: 6px;
+    cursor: pointer;
+    color: #007da4;
+    font-size:16px;
+    text-align:center;
+    /* opacity: 0; */
+}
+.proceedBtnTitle{
+	    width: 240px;
+	    height: 100%;
+	    text-align: center;
+	    position: absolute;
+	    align-items: center;
+	    display: flex;
+	    left: 10px;
+	    cursor: pointer;
+	    justify-content: flex-start;
+	    font-weight: bold;
+}
+.proceedBtnArrowper{
+	 position: absolute;
+	 width: 40px;
+	 height: 36px;
+	 right: 0px;
+	 top: 0px;
+	 background-color: #007da4;
+	 cursor: pointer !important;
+	 -ms-transition:.5s;
+     -moz-transition:.5s;
+     -webkit-transition:.5s;
+     transition:.5s;
+}
+.proceedBtnArrow{
+	    width: 0;
+	    height: 0;
+	    border-top: 12px solid transparent;
+	    border-bottom: 12px solid transparent;
+	    border-left: 12px solid #fff;
+	    position: absolute;
+	    right: 10px;
+	    top: 6px;
+		cursor: inherit;
+}
+.proceedBtn_hover {
+    background-color: #06616d!important;
+    color: white!important;
+    border-color: #F2AE00!important;
+    cursor: default!important;
+    background-image: none!important;
+    cursor: pointer !important;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.proceedBtn_out {
+    background-color: #ffffff!important;
+    color: #007da4!important;
+    border-color: #007da4!important;
+    cursor: default!important;
+    background-image: none!important;
+    cursor: pointer !important;
+	-ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+/* -----------------------------************************************------------- */
+
+/* -----------------------------This Class is for Button Back ------------- */
+
+.backBtn {
+    position: absolute;
+    width: 288px;
+    height: 36px;
+    float: left;
+    top: 160px;
+    border: 3px solid #007da4;
+    box-shadow: 3px 3px 5px rgba(68,68,68,0.25);
+    border-radius: 6px;
+    cursor: pointer;
+    color: #007da4;
+    font-size:16px;
+    text-align:center;
+}
+.backBtnTitle{
+	    width: 270px;
+	    height: 100%;
+	    text-align: center;
+	    position: absolute;
+	    align-items: center;
+	    display: flex;
+	    right: 4px;
+	    top: 1px;
+	    cursor: pointer;
+	    justify-content: flex-start;
+	    /* font-weight: bold; */
+	    /* font-weight: normal; */
+}
+.backBtnArrowper{
+	 position: absolute;
+	 width: 40px;
+	 height: 36px;
+	 left: 0px;
+	 top: 0px;
+	 background-color: #007da5;
+	 cursor: pointer !important;
+	 -ms-transition:.5s;
+	 -moz-transition:.5s;
+	 -webkit-transition:.5s;
+	 transition:.5s;
+}
+.backBtnArrow{
+	   width: 0;
+	   height: 0;
+	   border-top: 12px solid transparent;
+	   border-bottom: 12px solid transparent;
+	   border-right:12px solid #fff;
+	   position: absolute;
+	   left: 10px;
+	   top: 6px;
+	   cursor: inherit;
+}
+.backBtn_hover {
+    background-color: #06616d!important;
+    color: white!important;
+    border-color: #F2AE00!important;
+    cursor: default!important;
+    background-image: none!important;
+    cursor: pointer !important;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+
+.backBtn_out {
+    background-color: #ffffff!important;
+    color: #009A3D!important;
+    border-color: #009A3D!important;
+    cursor: default!important;
+    background-image: none!important;
+    cursor: pointer !important;
+	-ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+}
+/* -----------------------------************************************------------- */
+/* -----------------------------This Class is for Video Play Btn ------------- */
+
+.play_btn{
+	
+    background-image: url('../../shell/images/scr_13_play_normal.png');
+    height: 125px;
+    width: 127px;
+    position: absolute;
+    top: 137px;
+    left: 460px;
+    cursor:pointer;
+}
+
+.play_btn:hover{
+	background-image: url('../../shell/images/scr_13_play_hoverl.png');
+}
+
+
+
