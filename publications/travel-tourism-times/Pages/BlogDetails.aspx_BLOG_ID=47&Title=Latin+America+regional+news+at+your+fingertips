@@ -316,7 +316,7 @@ Sys.Application._enableHistoryInScriptManager();
 <li><a href='javascript:window.print()'><div class="icon icon-printer"></div></a></li>
 <li><div id='sm-share' class="icon icon-share"></div></li>
 <li id="ctl00_PlaceHolderMain_pageTools_liRSS" class="rssLinkWrapper">
-<a href="http://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=/publications/blog&page=40ae9fe1-7d8b-419d-a397-361417e032cd&wp=e19c1b1f-8d1d-42ba-a70b-84f4d9acd5d5&pageurl=/publications/blog/Pages/ceo-rss.aspx" id="ctl00_PlaceHolderMain_pageTools_aRSSLink" title="Travel &amp; Tourism Times RSS feeds" target="_blank">
+<a href="/_layouts/15/feed.aspx?xsl=1&web=/publications/blog&page=40ae9fe1-7d8b-419d-a397-361417e032cd&wp=e19c1b1f-8d1d-42ba-a70b-84f4d9acd5d5&pageurl=/publications/blog/Pages/ceo-rss.aspx" id="ctl00_PlaceHolderMain_pageTools_aRSSLink" title="Travel &amp; Tourism Times RSS feeds" target="_blank">
 <div class="icon icon-rssRaw"></div>
 </a>
 </li>
@@ -451,7 +451,7 @@ Travel &amp; Tourism Times
 <div id='sm-share-blog' class="icon icon-share"></div>
 </li>
 <li id="ctl00_SPWebPartManager1_g_c3ee0233_2148_4e07_a364_d9ef83fb9f69_ctl00_liRSS">
-<a href="http://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=/publications/blog&page=40ae9fe1-7d8b-419d-a397-361417e032cd&wp=e19c1b1f-8d1d-42ba-a70b-84f4d9acd5d5&pageurl=/publications/blog/Pages/ceo-rss.aspx" id="ctl00_SPWebPartManager1_g_c3ee0233_2148_4e07_a364_d9ef83fb9f69_ctl00_linkRSSBlog" title="Travel &amp; Tourism Times RSS feeds" target="_blank">
+<a href="/_layouts/15/feed.aspx?xsl=1&web=/publications/blog&page=40ae9fe1-7d8b-419d-a397-361417e032cd&wp=e19c1b1f-8d1d-42ba-a70b-84f4d9acd5d5&pageurl=/publications/blog/Pages/ceo-rss.aspx" id="ctl00_SPWebPartManager1_g_c3ee0233_2148_4e07_a364_d9ef83fb9f69_ctl00_linkRSSBlog" title="Travel &amp; Tourism Times RSS feeds" target="_blank">
 <span class="icon icon-rssRaw"></span>
 </a>
 </li>

@@ -438,7 +438,7 @@ Instructor Opportunities
 <h2>
 Need Help?
 </h2>
-<a href="http://www.iata.org/training/Pages/contactus.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
+<a href="/training/Pages/contactus.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
 </div>
 <div class="noindex" id="googleAdDiv">
 <div id="ad-rhb">Advertisement</div>

@@ -316,7 +316,7 @@ Sys.Application._enableHistoryInScriptManager();
 <li><a href='javascript:window.print()'><div class="icon icon-printer"></div></a></li>
 <li><div id='sm-share' class="icon icon-share"></div></li>
 <li id="ctl00_PlaceHolderMain_pageTools_liRSS" class="rssLinkWrapper">
-<a href="http://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fceoblog&page=40ae9fe1-7d8b-419d-a397-361417e032cd&wp=e19c1b1f-8d1d-42ba-a70b-84f4d9acd5d5&pageurl=%2Fpressroom%2Fceoblog%2FPages%2Fceo%2Drss%2Easpx" id="ctl00_PlaceHolderMain_pageTools_aRSSLink" title="Alexandre de Juniac Blog RSS feeds" target="_blank">
+<a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fceoblog&page=40ae9fe1-7d8b-419d-a397-361417e032cd&wp=e19c1b1f-8d1d-42ba-a70b-84f4d9acd5d5&pageurl=%2Fpressroom%2Fceoblog%2FPages%2Fceo%2Drss%2Easpx" id="ctl00_PlaceHolderMain_pageTools_aRSSLink" title="Alexandre de Juniac Blog RSS feeds" target="_blank">
 <div class="icon icon-rssRaw"></div>
 </a>
 </li>

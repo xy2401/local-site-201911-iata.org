@@ -722,7 +722,7 @@ In-house Training
 <br />
 </fieldset>
 <fieldset>
-<label>I consent to the processing of my personal information in accordance with <a href="http://www.iata.org/Pages/privacy.aspx" target="_blank">IATA's Privacy Policy</a> and I understand and agree to the <a href="http://www.iata.org/training/Pages/terms-conditions.aspx" target="_blank">Training T&Cs</a></label>
+<label>I consent to the processing of my personal information in accordance with <a href="/Pages/privacy.aspx" target="_blank">IATA's Privacy Policy</a> and I understand and agree to the <a href="/training/Pages/terms-conditions.aspx" target="_blank">Training T&Cs</a></label>
 <span IsRequired="true"><input id="ctl00_SPWebPartManager1_g_9e6927e1_916f_41e8_83c6_f2589b36e7a8_ctl00_chkbInfoConsent" type="checkbox" name="ctl00$SPWebPartManager1$g_9e6927e1_916f_41e8_83c6_f2589b36e7a8$ctl00$chkbInfoConsent" /></span>
 <span class="required">&nbsp;*</span>
 </fieldset>

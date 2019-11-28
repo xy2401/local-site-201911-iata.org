@@ -354,7 +354,7 @@ Proposed Tourism Tax will Harm New Zealand’s Economy
 <h2>
 Need Help?
 </h2>
-<a href="http://www.iata.org/about/worldwide/asia_pacific/Pages/contactus.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
+<a href="/about/worldwide/asia_pacific/Pages/contactus.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
 </div>
 <div class="noindex" id="googleAdDiv">
 <div id="ad-rhb">Advertisement</div>

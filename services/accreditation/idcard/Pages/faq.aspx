@@ -387,7 +387,7 @@ exclusive site allowing</span>&#160;valid IATA/IATAN ID Card holders to view spe
 <h2>
 Need Help?
 </h2>
-<a href="http://www.iata.org/customer-portal/Pages/index.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
+<a href="/customer-portal/Pages/index.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
 </div>
 <div class="noindex" id="googleAdDiv">
 <div id="ad-rhb">Advertisement</div>

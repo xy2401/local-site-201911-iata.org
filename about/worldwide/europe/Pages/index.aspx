@@ -367,7 +367,7 @@ Europe
 <h2>
 Need Help?
 </h2>
-<a href="http://www.iata.org/about/worldwide/europe/Pages/contact-us.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
+<a href="/about/worldwide/europe/Pages/contact-us.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
 </div>
 <div class="noindex" id="googleAdDiv">
 <div id="ad-rhb">Advertisement</div>

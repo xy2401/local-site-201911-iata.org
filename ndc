@@ -452,7 +452,7 @@ Certification
 <h2>
 Need Help?
 </h2>
-<a href="http://www.iata.org/whatwedo/airline-distribution/ndc/Pages/contact.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
+<a href="/whatwedo/airline-distribution/ndc/Pages/contact.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
 </div>
 <div class="noindex" id="googleAdDiv">
 <div id="ad-rhb">Advertisement</div>
