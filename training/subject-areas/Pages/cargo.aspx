@@ -51,7 +51,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='Cargo &amp; Logostics training for air cargo professionals: accepting, handling, and shipping all types of goods.'>
-<link rel="canonical" href="https://www.iata.org:443/training/subject-areas/Pages/cargo.aspx" />
+<link rel="canonical" href=":443/training/subject-areas/Pages/cargo.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script language="javascript">var ExpireDays = 90;qstr = document.location.search;qstr = qstr.substring(1,qstr.length);function SetCookie(cookieName,cookieValue,nDays){var today = new Date();var expire = new Date();if (nDays==null || nDays==0) nDays=1;expire.setTime(today.getTime() + 3600000*24*nDays);document.cookie = cookieName + " = " + escape(cookieValue) + "; expires=" + expire.toGMTString() + "; path=/;domain=iata.org";}thevars = qstr.split("&");for(i=0;i<thevars.length;i++){cookiecase = thevars[i].split("=");switch(cookiecase[0]){case "e":e = cookiecase[1];SetCookie("EmailAddr",e,ExpireDays);break;case "j":j = cookiecase[1];SetCookie("JobID",j,ExpireDays);break;case "l":l = cookiecase[1];SetCookie("ListID",l,ExpireDays);break;case "jb":jb = cookiecase[1];SetCookie("BatchID",jb,ExpireDays);break;case "u":u = cookiecase[1];SetCookie("UrlID",u,ExpireDays);break;case "mid":mid = cookiecase[1];SetCookie("MemberID",mid,ExpireDays);break;default:break;}}</script><script>(function(){var g=function(e,h,f,g){this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};try{(new g(100,"r","QSI_S_ZN_02n9OLqgS1dv0qh","//zn02n9olqgs1dv0qh-singuserfd5583c7.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_02n9OLqgS1dv0qh&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();</script><div id='ZN_02n9OLqgS1dv0qh'></div><script src="https://sw.nohold.net/IATA/Uploads/iata_kplaunch.js" type="text/javascript"></script><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -373,7 +373,7 @@ Cargo &amp; Logistics Training Courses
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1083');" style="cursor:hand; cursor:pointer;"><img title="Since 1977, IATA has developed cargo agent training with the help of experts from member airlines and associations. This course uses our expertise to provide knowledge on cargo rating principles and Air Waybill completion, as well as basic marketing procedures. This course is the ideal way for you to refresh your knowledge and learn new skills for career development." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-rating-marketing-tcgp12.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl01_lbCourseTitle">Air Cargo Advanced Marketing </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-rating-marketing-tcgp12.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl01_lbCourseTitle">Air Cargo Advanced Marketing </span></a></td>
 <td style="width:10%;text-align:center;"></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl01_imgSelf" title="Distance Learning" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-selfStudy.gif" /></td>
 </tr>
@@ -387,7 +387,7 @@ Cargo &amp; Logistics Training Courses
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1085');" style="cursor:hand; cursor:pointer;"><img title="Since 1977, IATA has developed cargo agent training with the help of experts from member airlines and associations. This course uses our expertise to provide knowledge on cargo rating principles and Air Waybill completion, as well as basic marketing procedures. This course is the ideal way for you to refresh your knowledge and learn new skills for career development. This training program combines IATA's trusted Cargo Advanced Rating and Marketing course with Harvard ManageMentor© (HMM), a state-of-the-art, media-rich training platform furnished by Harvard Business School faculty, global business leaders and practitioners in the field of leadership development." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-rating-marketing-tcgp12hmm.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl02_lbCourseTitle">Air Cargo Advanced Marketing for the Leadership & Management Training Program </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-rating-marketing-tcgp12hmm.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl02_lbCourseTitle">Air Cargo Advanced Marketing for the Leadership & Management Training Program </span></a></td>
 <td style="width:10%;text-align:center;"></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl02_imgSelf" title="Distance Learning" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-selfStudy.gif" /></td>
 </tr>
@@ -402,7 +402,7 @@ This training program combines IATA's trusted Cargo Advanced Rating and Marketin
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc762');" style="cursor:hand; cursor:pointer;"><img title=" Learn the key elements necessary to manage a successful air cargo company. Fundamental structural changes are taking place in the industry. Volumes are growing rapidly but yields are declining as the high yield traffic moves to integrated operators. For many airlines, the cargo contribution represents the difference between profit and loss on almost all international routes. Cargo management faces challenges as never before. This course is designed to give managers a better understanding of the new cargo environment so that they can learn to avoid costly strategic and tactical errors and thereby help improve their company’s overall competitive performance.This course is offered as part of the IATA-University of Geneva Aviation Management Program. A related course is also scheduled at our IATA Training Centers." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/unige-air-cargo-tcgg04.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl03_lbCourseTitle">Air Cargo Management - University of Geneva (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/unige-air-cargo-tcgg04.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl03_lbCourseTitle">Air Cargo Management - University of Geneva (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl03_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -418,7 +418,7 @@ Fundamental structural changes are taking place in the industry. Volumes are gro
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc760');" style="cursor:hand; cursor:pointer;"><img title="This highly interactive course provides a 360° management perspective from industry experts working at the most successful airlines and freight forwarders about the air cargo industry. You will review the cargo management system with an international perspective, focusing on the business, operations and regulatory fundamentals. Over five days you will explore how the air cargo industry is changing and how to identify opportunities to become more successful as a manager in your company. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/air-cargo-management-tcgg01.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl04_lbCourseTitle">Air Cargo Management (Classroom, 5 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/air-cargo-management-tcgg01.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl04_lbCourseTitle">Air Cargo Management (Classroom, 5 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl04_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -432,7 +432,7 @@ Fundamental structural changes are taking place in the industry. Volumes are gro
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc650422');" style="cursor:hand; cursor:pointer;"><img title=" As your pharmaceutical handling operations expand to new markets, you will be subject to a spectrum of international, national, and industry audit requirements. This course provides a standard internal audit process you can immediately apply within your business to ensure compliance with common regulations and quality standards.  Through daily course exercises, you will have the opportunity to use the IATA Time and Temperature Sensitive Audit Checklist and develop corrective actions based on your findings. This course is available at IATA Training Centers and Regional Training Partner locations, and on-demand as in-house training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/temperature-audit-quality-tcgt03.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl05_lbCourseTitle">Audit, Quality and Risk Management for Temperature Controlled Cargo (Classroom, 5 Days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/temperature-audit-quality-tcgt03.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl05_lbCourseTitle">Audit, Quality and Risk Management for Temperature Controlled Cargo (Classroom, 5 Days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl05_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -448,7 +448,7 @@ Through daily course exercises, you will have the opportunity to use the IATA Ti
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc797');" style="cursor:hand; cursor:pointer;"><img title="Air cargo accidents must be taken very seriously. They require immediate attention upon occurrence. It is crucial to identify as soon as possible the root causes of the incident in order to avoid re-occurrence whilst adjusting the safety management system of the organization.A good investigation often leads to improved prevention. This course will provide you with the necessary tools and techniques to complete a professional cargo accident investigation process taking into account both the process and the human factor involved.The course follows a model similar to accident investigation and is based on the ICAO Annex 13. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-accident-investigation-tcgp29.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl06_lbCourseTitle">Cargo Accident Investigation and Prevention (Classroom, 5 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-accident-investigation-tcgp29.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl06_lbCourseTitle">Cargo Accident Investigation and Prevention (Classroom, 5 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl06_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -463,7 +463,7 @@ Through daily course exercises, you will have the opportunity to use the IATA Ti
 <a onclick="javascript:switchDisplay('trdesc1054958');" style="cursor:hand; cursor:pointer;"><img title="Providing excellent customer service is essential to the long-term viability of every business. In today's climate where every customer service provider is under pressure, we appreciate the importance of building lasting, valuable relationships with customers.This course introduces the fundamental elements of customer service and explains how they can be applied in any organization, for all employees, ensuring they are equipped to meet and exceed the customer's expectations. You will learn about customer needs and demands, the ethics of customer service, and customer contact techniques to help your business to develop its customer service program to the highest level.
  This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-airline-customer-tcgp70.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl07_lbCourseTitle">Cargo Airline Customer Service (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-airline-customer-tcgp70.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl07_lbCourseTitle">Cargo Airline Customer Service (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl07_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -480,7 +480,7 @@ Through lectures and a business simulation game you will gain a comprehensive an
 This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training.
 " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-airline-management-tcgg18.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl08_lbCourseTitle">Cargo Airline Management with Business Simulation (Classroom, 5 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-airline-management-tcgg18.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl08_lbCourseTitle">Cargo Airline Management with Business Simulation (Classroom, 5 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl08_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -495,7 +495,7 @@ This course is available at IATA Training Centers, Regional Training Partner loc
 <a onclick="javascript:switchDisplay('trdesc525082');" style="cursor:hand; cursor:pointer;"><img title="Air cargo is an important income generating opportunity for an airport. This condensed three day course will provide you with the knowledge you need to start building and developing your cargo business network. Learn how to invigorate your marketing campaigns and craft fresh ideas to attract new cargo business to your airport. Through discussions, practical examples and exercises, gain insight into the factors that drive the air cargo business and learn new practices for leveraging them.
  This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-airport-business-tcgp67.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl09_lbCourseTitle">Cargo Business Development for Airports (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-airport-business-tcgp67.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl09_lbCourseTitle">Cargo Business Development for Airports (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl09_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -509,7 +509,7 @@ This course is available at IATA Training Centers, Regional Training Partner loc
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1219450');" style="cursor:hand; cursor:pointer;"><img title="Industry and competitive analysis are part of strategy development in organizations. Managers need to use competition analysis tools to allocate resources, reach strategic goals such as increasing market share or improving profitability. This will help your company improve its position within the cargo industry.Learn about the factors that impact performance in the industry, how to make effective decision through the interpretation of market research and analysis, and how to help your company improve its market share. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-house training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-bi-analysis-tcgg28.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl10_lbCourseTitle">Cargo Business Intelligence (BI) and Competition Analysis (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-bi-analysis-tcgg28.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl10_lbCourseTitle">Cargo Business Intelligence (BI) and Competition Analysis (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl10_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -523,7 +523,7 @@ This course is available at IATA Training Centers, Regional Training Partner loc
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1219449');" style="cursor:hand; cursor:pointer;"><img title="A strategy is a plan of action for an organization to follow in order to achieve a long-term business goal. With a clear strategy, an organization can gain advantages by focusing its direction and refining its scope in an ever-changing environment. It can do this through the configuration of resources and competences to fulfill shareholder expectations.This course will introduce you to new managerial perspectives and show you how to create strategic pillars, develop encouraging business strategies and materialize plans with accuracy, while working towards a common strategic goal. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-strategy-planning-tcgg26.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl11_lbCourseTitle">Cargo Business Strategy and Planning Management (Classroom, 4 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-strategy-planning-tcgg26.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl11_lbCourseTitle">Cargo Business Strategy and Planning Management (Classroom, 4 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl11_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -537,7 +537,7 @@ This course is available at IATA Training Centers, Regional Training Partner loc
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc939903');" style="cursor:hand; cursor:pointer;"><img title="Handling claims in air cargo involves the application of a strict documentary process in line with the specific legal frameworks applicable. A correct claims process will lead to proper settlement of claims mitigating potential frustration of any stakeholder involved.This course will provide you with the knowledge of the current crucial legal aspects of carriage of cargo by air for all industry stakeholders who are concerned with effective cargo claims handling and loss prevention. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-claims-handling-tcgg11.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl12_lbCourseTitle">Cargo Claims and Complaint Handling (Classroom, 2 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-claims-handling-tcgg11.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl12_lbCourseTitle">Cargo Claims and Complaint Handling (Classroom, 2 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl12_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -551,7 +551,7 @@ This course is available at IATA Training Centers, Regional Training Partner loc
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc139590');" style="cursor:hand; cursor:pointer;"><img title="The cargo industry is truly global, providing exciting opportunities to work with people from around the world. This course will prepare you with the relevant English vocabulary and terminology you need to know to work in this industry and communicate in day-to-day operations." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-english-tcgp23.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl13_lbCourseTitle">Cargo English </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-english-tcgp23.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl13_lbCourseTitle">Cargo English </span></a></td>
 <td style="width:10%;text-align:center;"></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl13_imgSelf" title="Distance Learning" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-selfStudy.gif" /></td>
 </tr>
@@ -565,7 +565,7 @@ This course is available at IATA Training Centers, Regional Training Partner loc
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1034156');" style="cursor:hand; cursor:pointer;"><img title="With over 52 million tons of cargo shipped annually, the air cargo industry is the place to be. Prepare yourself to work in the industry with this comprehensive course. You will learn about basic IATA cargo rules and procedures, how freight forwarders and airline cargo units operate, plus much more.This course is mandated for IATA Cargo Agents in accordance with the IATA Cargo Agency Resolutions.Important noteThe 4th edition of the Cargo Introductory Course will be released on 5 December 2019. You will be able to answer the exam with both the previous and the new edition without issue after this date." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-introductory-tcgp11.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl14_lbCourseTitle">Cargo Introductory Course </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-introductory-tcgp11.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl14_lbCourseTitle">Cargo Introductory Course </span></a></td>
 <td style="width:10%;text-align:center;"></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl14_imgSelf" title="Distance Learning" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-selfStudy.gif" /></td>
 </tr>
@@ -582,7 +582,7 @@ issue after this date.</p></td>
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1034158');" style="cursor:hand; cursor:pointer;"><img title="With over 52 million tons of cargo shipped annually, the air cargo industry is the place to be. Prepare yourself to work in the industry with this comprehensive course. You will learn about basic IATA cargo rules and procedures, how freight forwarders and airline cargo units operate, plus much more.This course is mandated for IATA Cargo Agents in accordance with the IATA Cargo Agency Resolutions.This training program combines IATA's trusted Cargo Introductory Course course with Harvard ManageMentor© (HMM), a state-of-the-art, media-rich training platform furnished by Harvard Business School faculty, global business leaders and practitioners in the field of leadership development.Important noteThe 4th edition of the Cargo Introductory Course will be released on 5 December 2019. You will be able to answer the exam with both the previous and the new edition without issue after this date." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-introductory-tcgp11hmm.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl15_lbCourseTitle">Cargo Introductory Course for the Leadership & Management Training Program </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-introductory-tcgp11hmm.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl15_lbCourseTitle">Cargo Introductory Course for the Leadership & Management Training Program </span></a></td>
 <td style="width:10%;text-align:center;"></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl15_imgSelf" title="Distance Learning" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-selfStudy.gif" /></td>
 </tr>
@@ -599,7 +599,7 @@ issue after this date.</p></td>
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc768');" style="cursor:hand; cursor:pointer;"><img title=" Examine cargo demand and create marketing solutions for your target market; strategize creative and cost-effective marketing. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-advertising-marketing-tcgm02.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl16_lbCourseTitle">Cargo Marketing and Advertising (Classroom, 4 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-advertising-marketing-tcgm02.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl16_lbCourseTitle">Cargo Marketing and Advertising (Classroom, 4 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl16_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -614,7 +614,7 @@ Examine cargo demand and create marketing solutions for your target market; stra
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc165616');" style="cursor:hand; cursor:pointer;"><img title=" This four-day course will provide you with a comprehensive understanding of cargo operations at an airport. Improve your understanding of various components of cargo operations, and how these components interact with each other in daily cargo operations. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/air-cargo-airports-tcgp84.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl17_lbCourseTitle">Cargo Operations Oversight for Airports (Classroom, 4 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/air-cargo-airports-tcgp84.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl17_lbCourseTitle">Cargo Operations Oversight for Airports (Classroom, 4 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl17_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -630,7 +630,7 @@ This four-day course will provide you with a comprehensive understanding of carg
 <a onclick="javascript:switchDisplay('trdesc631');" style="cursor:hand; cursor:pointer;"><img title="Learn how to apply the rules of the Prorate Manual – Cargo (PMC) and the Multilateral Proration Agreement – Cargo (MPA-C) within your organization.
 You will learn how proration can be a useful tool in maximizing the revenue of an airline, through proper pricing policy and fare structuring. Over five days you will build on your knowledge on how best to apply and adhere to the appropriate articles, resolutions, rules and regulations that will allow your business to become cost-effective and positively impact your financial bottom-line. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-proration-talf13.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl18_lbCourseTitle">Cargo Proration (Classroom, 5 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-proration-talf13.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl18_lbCourseTitle">Cargo Proration (Classroom, 5 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl18_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -644,7 +644,7 @@ You will learn how proration can be a useful tool in maximizing the revenue of a
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1067980');" style="cursor:hand; cursor:pointer;"><img title=" During this course improve your knowledge and gain the practical skills to monitor your cargo sales and revenue processing. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-sales-revenue-tcgp83.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl19_lbCourseTitle">Cargo Revenue Accounting Procedures (Classroom, 5 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-sales-revenue-tcgp83.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl19_lbCourseTitle">Cargo Revenue Accounting Procedures (Classroom, 5 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl19_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -659,7 +659,7 @@ During this course improve your knowledge and gain the practical skills to monit
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc821');" style="cursor:hand; cursor:pointer;"><img title="Learn the fundamental cargo revenue management procedures and optimization skills.This course provides solid basic knowledge about steering revenue and demand, while optimizing pricing and capacity in the air cargo industry. Over 4 days, lectures, exercises and optimization simulations, will help you gain a comprehensive, valuable and practical insight into revenue management procedures. These procedures have a direct impact on your company´s performance, and with this additional knowledge you will have the possibility of increasing your contribution to your company. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-revenue-management-tcgp47.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl20_lbCourseTitle">Cargo Revenue Management with Optimization Simulations (Classroom, 4 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-revenue-management-tcgp47.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl20_lbCourseTitle">Cargo Revenue Management with Optimization Simulations (Classroom, 4 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl20_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -673,7 +673,7 @@ During this course improve your knowledge and gain the practical skills to monit
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1219451');" style="cursor:hand; cursor:pointer;"><img title="It is imperative for airlines to economize every single cent and employ their assets efficiently to cut down expenses and enhance profitability. This involves meticulous analysis of information and intelligent judgments. One of the fundamental elements, which define the future of an airline, is route profitability.This course provides you with a helicopter view of methods to determine whether a specific course of action is rewarding or not, during a given time period. It will empower you to make rapid decisions on whether to alter, supplement or exclude routes from your network or schedule. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-route-optimization-tcgg27.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl21_lbCourseTitle">Cargo Route Development Optimization (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-route-optimization-tcgg27.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl21_lbCourseTitle">Cargo Route Development Optimization (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl21_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -687,7 +687,7 @@ During this course improve your knowledge and gain the practical skills to monit
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc241897');" style="cursor:hand; cursor:pointer;"><img title="Success in air cargo sales is the result of discipline, dedication and a good sales strategy!This unique 4-day course will provide you with a wide range of tools and techniques to develop a strategic sales plan in a competitive air cargo industry. Learn how to observe and monitor your market environment, understand what your customers are looking for and how to focus on the right solutions to help them.Following an in-class case study, you will learn how to benchmark a company’s sales plan to determine areas for improvement. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-sales-management-tcgp09.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl22_lbCourseTitle">Cargo Sales and Key Account Management (Classroom, 4 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-sales-management-tcgp09.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl22_lbCourseTitle">Cargo Sales and Key Account Management (Classroom, 4 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl22_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -701,7 +701,7 @@ During this course improve your knowledge and gain the practical skills to monit
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1172665');" style="cursor:hand; cursor:pointer;"><img title=" Build necessary awareness regarding air cargo security and understand applicable regulations, latest concepts and basic principles of security in cargo environment." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-security-awareness-tcgp79.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl23_lbCourseTitle">Cargo Security Awareness </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-security-awareness-tcgp79.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl23_lbCourseTitle">Cargo Security Awareness </span></a></td>
 <td style="width:10%;text-align:center;"></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl23_imgSelf" title="Distance Learning" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-selfStudy.gif" /></td>
 </tr>
@@ -716,7 +716,7 @@ Build necessary awareness regarding air cargo security and understand applicable
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc770');" style="cursor:hand; cursor:pointer;"><img title="Do you want to become an air cargo expert and understand the operational framework and processes to ship cargo by air? Air cargo transportation is all about ensuring critical supply chains are not disrupted, meanwhile guaranteeing the transportation is conducted in a safe and profitable way. At the same time the applicable laws and regulations need to be respected.Over five days you will greatly enhance your knowledge on the complex methods and procedures applied in the global air cargo industry. You will acquire solid cargo knowledge, helping you and your company to face the challenges of your highly competitive working environment. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-house training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-procedures-tcgp01.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl24_lbCourseTitle">Cargo Skills and Procedures (Classroom, 5 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-procedures-tcgp01.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl24_lbCourseTitle">Cargo Skills and Procedures (Classroom, 5 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl24_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -730,7 +730,7 @@ Build necessary awareness regarding air cargo security and understand applicable
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc201150');" style="cursor:hand; cursor:pointer;"><img title=" Build necessary knowledge regarding supply chain management, logistics and different modes of transport. You will learn the key principles and concepts in freight transport management, multimodal transport operations, the unitization and containerisation of cargo, and the transportation of dangerous goods by air, land and sea." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/transport-supply-chain-tcgp80.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl25_lbCourseTitle">Cargo Supply Chain and Transport Modes </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/transport-supply-chain-tcgp80.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl25_lbCourseTitle">Cargo Supply Chain and Transport Modes </span></a></td>
 <td style="width:10%;text-align:center;"></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl25_imgSelf" title="Distance Learning" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-selfStudy.gif" /></td>
 </tr>
@@ -746,7 +746,7 @@ Build necessary knowledge regarding supply chain management, logistics and diffe
 <a onclick="javascript:switchDisplay('trdesc177051');" style="cursor:hand; cursor:pointer;"><img title="This course is designed for participants engaged in Warehouse Operations including ULD handling, ULD Airworthiness control and ULD Build-up either at an elementary or supervisory level. During the course you will have a chance to observe practical work in the warehouse and link it together with classroom theory.
  This course is available at IATA Training Centers and Regional Training Partner locations, and on-demand as in-house training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-warehouse-operations-tcgp64.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl26_lbCourseTitle">Cargo Warehouse Operations and ULD Build-up (Classroom, 4 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-warehouse-operations-tcgp64.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl26_lbCourseTitle">Cargo Warehouse Operations and ULD Build-up (Classroom, 4 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl26_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -762,7 +762,7 @@ Build necessary knowledge regarding supply chain management, logistics and diffe
 During this course you will analyze how Cargo-XML standards improve information exchange both within a company and between different stakeholders, such as shippers, freight forwards, ground handlers, airlines, regulators, and customs and security agencies. Using the IATA Cargo-XML manual and toolkit, learn how to implement Cargo-XML within your organization and how to convert between Cargo-XML and Cargo-IMP.This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training.
 " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-xml-tcgg06.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl27_lbCourseTitle">Cargo XML Messaging and Standards (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-xml-tcgg06.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl27_lbCourseTitle">Cargo XML Messaging and Standards (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl27_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -778,7 +778,7 @@ Standard Accepted by the U.S. Customs and Border Protection Agency</a><span></sp
 <a onclick="javascript:switchDisplay('trdesc1189399');" style="cursor:hand; cursor:pointer;"><img title="This fully customizable workshop is designed for IATA Accredited and Associate Cargo Agents to learn more about local IATA Cargo Account Settlement System (CASS) and Governance, and the latest enhancements and functionalities in CASSLink. During the Workshop you will gain a good understanding of how you can maximize your efficiency when managing back-office reconciliations, how to interpret reports, understand CASS processes, and how to use CASSLink as a vital resource for information.This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-house training.
 " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/casslink-cargo-europe-talf33.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl28_lbCourseTitle">CASS and CASSlink Workshop (Classroom, 1 day) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/casslink-cargo-europe-talf33.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl28_lbCourseTitle">CASS and CASSlink Workshop (Classroom, 1 day) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl28_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -792,7 +792,7 @@ Standard Accepted by the U.S. Customs and Border Protection Agency</a><span></sp
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1378594');" style="cursor:hand; cursor:pointer;"><img title="This 2-day course is aimed at key personnel in the Pharma industry and air cargo industry stakeholders engaged in defining quality and risk management systems around the transport, handling and manipulation of Pharma time and temperature sensitive shipments in the air freight industry. This course is available at IATA Training Centers and Regional Training Partner locations, and on-demand as in-house training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/ceiv-pharma-refresher-tcgg29.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl29_lbCourseTitle">CEIV Pharma Refresher course for Key Personnel (Classroom, 2 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/ceiv-pharma-refresher-tcgg29.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl29_lbCourseTitle">CEIV Pharma Refresher course for Key Personnel (Classroom, 2 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl29_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -807,7 +807,7 @@ Standard Accepted by the U.S. Customs and Border Protection Agency</a><span></sp
 <a onclick="javascript:switchDisplay('trdesc932500');" style="cursor:hand; cursor:pointer;"><img title="Become an expert in e-business processes and standards, and understand the role of technology in air freight in order to assess and prepare your organization for the adoption of e-freight. This four-day course will provide you with the latest developments in e-cargo procedures, standard electronic messaging, and e-air waybill business rules. Learn about information exchange, system integration, and the technical requirements for core documents.Air cargo procedures and standards involve the use of many types of documents and the movement of millions of document pouches worldwide. Air cargo should move towards electronic documents, becoming paperless, to increase its efficiency, and preserve the environment.
  This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/ecargo-business-process-tcgt07.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl30_lbCourseTitle">e-Cargo Business Process and Standards (Classroom, 4 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/ecargo-business-process-tcgt07.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl30_lbCourseTitle">e-Cargo Business Process and Standards (Classroom, 4 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl30_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -821,7 +821,7 @@ Standard Accepted by the U.S. Customs and Border Protection Agency</a><span></sp
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc6459');" style="cursor:hand; cursor:pointer;"><img title=" Progrese gracias a una visión de 360 grados del sector de la carga aérea. Replantéese el sector de la carga con un punto de vista internacional centrado en la empresa, las operaciones y los fundamentos normativos. Este curso interactivo brinda la oportunidad de aprender de la mano de expertos del sector empleados por las líneas aéreas y los transitarios más importantes. Este curso está disponible en  Centros de Formación IATA ,  Ubicaciones de Formación Regional de Socios, y por encargo como  formación en empresa " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/gestion-carga-aerea-tcgg01-es.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl31_lbCourseTitle">Gestión de la Carga Aérea (presencial, 5 días) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/gestion-carga-aerea-tcgg01-es.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl31_lbCourseTitle">Gestión de la Carga Aérea (presencial, 5 días) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl31_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -837,7 +837,7 @@ Replantéese el sector de la carga con un punto de vista internacional centrado 
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1173139');" style="cursor:hand; cursor:pointer;"><img title="IATA has joined forces with Embry-Riddle Aeronautical University – Worldwide (ERAU) to bring you an online Supply Chain Management certificate. This Program combines two key cargo courses from IATA and two specialized courses form ERAU to provide you with a strong foundation in cargo supply chain management.Designed for individuals currently working in the industry, the certificate’s coursework will address topics such as basic cargo procedures, loading, sourcing, procurement, packaging, distribution and customer service. Courses are offered fully online and are self-paced. Enrollment is open and courses can be started at anytime." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/supply-chain-management-tcgg25.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl32_lbCourseTitle">IATA - Embry-Riddle Supply Chain Management Certificate - E-learning - English</span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/supply-chain-management-tcgg25.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl32_lbCourseTitle">IATA - Embry-Riddle Supply Chain Management Certificate - E-learning - English</span></a></td>
 <td style="width:10%;text-align:center;"></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl32_imgSelf" title="Distance Learning" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-selfStudy.gif" /></td>
 </tr>
@@ -853,7 +853,7 @@ Aeronautical University – Worldwide</a> (ERAU) to bring you an online Supply C
 <a onclick="javascript:switchDisplay('trdesc1445084');" style="cursor:hand; cursor:pointer;"><img title="In today's modern world the carriage of live animals by air is considered the most humane and expedient method of transportation over long distances. From an ethical point of view, the Air Transport industry must ensure that the best practices and standards are in place for the welfare of these animals. Any entity engaged in reservations, acceptance, handling and transportation of live animals need to have the systems, procedures, infrastructure, equipment, processes and qualified personnel in place, ensuring animals are transported safely and humanely and provide a compliant, fast and reliable service to animal owners.This course is designed to raise the bar for the industry and provides relevant key concepts, building up to a standard audit process, which can be applied within businesses to ensure compliance with common regulations, quality and ethical standards. You will be given the opportunity to familiarize yourself with the concepts of a quality management system (QMS), quality assurance, continuous improvement and other quality service-driving concepts and tools. You will also learn how to use the CEIV Live Animals Logistics Audit Checklist, and develop corrective actions based on your findings to enhance the management of live animal logistics in your organization.
  This course is available at IATA Training Centers and Regional Training Partner locations, and on-demand as in-house training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/live-animals-logistics-tcgt12.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl33_lbCourseTitle">Live Animals Cargo Logistics Management (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/live-animals-logistics-tcgt12.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl33_lbCourseTitle">Live Animals Cargo Logistics Management (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl33_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -868,7 +868,7 @@ Aeronautical University – Worldwide</a> (ERAU) to bring you an online Supply C
 <a onclick="javascript:switchDisplay('trdesc787');" style="cursor:hand; cursor:pointer;"><img title="When shipping or accepting live animals for air transportation, you have to know how to use and comply with the IATA Live Animals Regulations (LAR). IATA LAR is the global standard and essential guide to transporting live animals by air in a safe, humane, and cost-effective manner. The expertise acquired in this course will also allow you to identify business development opportunities for your company as this type of transportation requires a high degree of technical skills.Whether you are a shipper, a freight forwarder, an airline, or an animal care professional, a working knowledge of LAR is a must to ensure that live animals are transported humanely and in compliance with airline regulations and animal welfare standards.Note This course meets the training requirements for handling and acceptance personnel, as per the Live Animals Regulations (LAR) Section 1.4
  This course is available at IATA Training Centers and Regional Training Partner locations, and on-demand as in-house training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/live-animal-regulations-tcgp06.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl34_lbCourseTitle">Live Animals Transportation (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/live-animal-regulations-tcgp06.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl34_lbCourseTitle">Live Animals Transportation (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl34_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -885,7 +885,7 @@ Animals Regulations (LAR) Section 1.4</span><br></p><p> This course is available
 <a onclick="javascript:switchDisplay('trdesc808');" style="cursor:hand; cursor:pointer;"><img title="Master the techniques of planning, building and managing Air Cargo Operations. In a world of increasing competition, a clear business strategy is crucial, and more important than ever before. Learn how to define a correct business strategy and also to put that strategy into action.The techniques presented in this course will help you to save money, avoid risks, enhance your cargo operations and achieve profitable growth in today’s and tomorrow’s business environment. It will show you how to develop an effective Air Cargo Operations strategy and manage it successfully.
  This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/air-cargo-operations-tcgp69.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl35_lbCourseTitle">Managing Air Cargo Operations (Classroom, 4 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/air-cargo-operations-tcgp69.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl35_lbCourseTitle">Managing Air Cargo Operations (Classroom, 4 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl35_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -899,7 +899,7 @@ Animals Regulations (LAR) Section 1.4</span><br></p><p> This course is available
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc6484');" style="cursor:hand; cursor:pointer;"><img title=" El mercado mundial de la logística farmacéutica tiene un valor de 30.000 millones de dólares. ¿Tiene las cualificaciones necesarias para reclamar su parte? Los productos farmacéuticos son las mercancías más reglamentadas, caras y frágiles que existen actualmente en el mundo. Este curso lo ayudará a mejorar la gestión y la manipulación de mercancías farmacéuticas mediante un examen de las necesidades de logística y las tendencias del sector médico." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/manipulacion-mercancias-sensibles-temperatura-tcgp63-es.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl36_lbCourseTitle">Manipulación de Mercancías Sensibles a la Temperatura (presencial, 3 días) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/manipulacion-mercancias-sensibles-temperatura-tcgp63-es.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl36_lbCourseTitle">Manipulación de Mercancías Sensibles a la Temperatura (presencial, 3 días) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl36_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -915,7 +915,7 @@ Los productos farmacéuticos son las mercancías más reglamentadas, caras y fr�
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc6476');" style="cursor:hand; cursor:pointer;"><img title=" Conozca los requisitos específicos de las líneas aéreas y las autoridades nacionales más recientes relativos al transporte aéreo de animales vivos. Si usted transporta o acepta animales vivos para transportarlos por vía aérea, necesita saber cómo utilizar las normas de la Asociación Internacional del Transporte Aéreo relativas a los animales vivos (IATA LAR por sus siglas en inglés) y cumplirlas. Las IATA LAR constituyen la reglamentación mundial en la materia, y una guía de gran importancia para asegurar un transporte aéreo de animales vivos que sea seguro, humano y rentable. Ya sea usted expedidor, transitario, una línea aérea o un profesional del cuidado de animales, un conocimiento profesional de las IATA LAR es crucial para garantizar que los animales vivos sean transportados de la forma más humana posible y en conformidad con las normas de las líneas aéreas y las normativas relativas al bien estar de los animales. Este curso está disponible en  Centros de Formación IATA ,  Ubicaciones de Formación Regional de Socios, y por encargo como  formación en empresa Nota importante Esta clase se impartirá en Español con materiales en Inglés." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/normativas-relativas-animales-vivos-tcgp06-es.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl37_lbCourseTitle">Normativas relativas a Animales Vivos (presencial, 3 días) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/normativas-relativas-animales-vivos-tcgp06-es.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl37_lbCourseTitle">Normativas relativas a Animales Vivos (presencial, 3 días) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl37_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -932,7 +932,7 @@ Ya sea usted expedidor, transitario, una línea aérea o un profesional del cuid
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1595968');" style="cursor:hand; cursor:pointer;"><img title="This course is aimed at key personnel in the perishable air cargo logistics industry engaged in defining quality and risk management systems around the transport, handling and management of time and temperature sensitive perishable shipments.Over 3 days you will learn how to use IATA’s Perishable Cargo Regulations (PCR), explore the Hazard Analysis Critical Control Point (HACCP) methodology and learn how to use IATA’s CEIV (Center of Excellence for Independent Validators) fresh audit checklist and to implement it in your organization. This course is available at IATA Training Centers and Regional Training Partner locations, and on-demand as in-house training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/perishable-cargo-logistics-tcgt13.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl38_lbCourseTitle">Perishable Cargo Logistics Management (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/perishable-cargo-logistics-tcgt13.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl38_lbCourseTitle">Perishable Cargo Logistics Management (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl38_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -946,7 +946,7 @@ Ya sea usted expedidor, transitario, una línea aérea o un profesional del cuid
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc790');" style="cursor:hand; cursor:pointer;"><img title="Gain the knowledge required to ship perishable cargo safely complying with industry standards meanwhile identifying interesting business development opportunities for your company.Whether it concerns fruits, pharmaceuticals, vegetables, frozen fish or flowers, perishables are, due to their nature, often shipped via air. These products are usually for human consumption, have a short shelf life and closely monitored by national government bodies. Ensuring this cargo is delivered at its destination within the best conditions requires a thorough understanding of the most up-to-date regulations and procedures. This course provides the detailed insight into the proper handling of perishable cargo. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/shipping-perishable-cargo-tcgp21.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl39_lbCourseTitle">Perishable Cargo Transportation (Classroom, 2 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/shipping-perishable-cargo-tcgp21.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl39_lbCourseTitle">Perishable Cargo Transportation (Classroom, 2 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl39_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -960,7 +960,7 @@ Ya sea usted expedidor, transitario, una línea aérea o un profesional del cuid
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc6464');" style="cursor:hand; cursor:pointer;"><img title=" Ofrezca a su carrera en la carga las bases más sólidas aprendiendo los fundamentos de las técnicas y de los procedimientos relativos a la carga. Los procedimientos operacionales en el área de la carga pueden parecer complejos en cuanto a los métodos utilizados en la manipulación y el transporte aéreo de carga. Este curso le proporcionará paso a paso conocimientos, técnicas y habilidades sólidos sobre la carga, y le permitirá crear un entorno de trabajo más eficiente." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/tecnicas-procedimientos-carga-tcgp01-es.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl40_lbCourseTitle">Técnicas y Procedimientos Relativos a la Carga (presencial, 5 días) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/tecnicas-procedimientos-carga-tcgp01-es.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl40_lbCourseTitle">Técnicas y Procedimientos Relativos a la Carga (presencial, 5 días) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl40_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -976,7 +976,7 @@ Los procedimientos operacionales en el área de la carga pueden parecer complejo
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc803');" style="cursor:hand; cursor:pointer;"><img title="Learn the requirements of the healthcare industry for an air cargo logistics service provider, to become a player in the pharmaceutical logistics market. During this 3-day course you will learn about the packaging requirements and the air cargo industry’s best practices for storing, accepting and handling time-and temperature-sensitive healthcare shipments.Your business will need to guarantee the efficient and reliable handling of time- and temperature-sensitive products under variable circumstances. Following the requirements of the Quality Management Systems (QMS) applicable to the Healthcare and Air Cargo industries, apply these skills in practice scenarios, and receive guidelines to create your own Standard Operating Procedures (SOPs) and Service Level Agreements (SLAs). This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/temperature-sensitive-cargo-tcgp63.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl41_lbCourseTitle">Temperature Controlled Cargo Operations (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/temperature-sensitive-cargo-tcgp63.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl41_lbCourseTitle">Temperature Controlled Cargo Operations (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl41_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -990,7 +990,7 @@ Los procedimientos operacionales en el área de la carga pueden parecer complejo
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc448019');" style="cursor:hand; cursor:pointer;"><img title="The transport of temperature-sensitive cargo by air is a complex business, requiring expertise in the technology and regulations specific to the field. This course will bring you up-to-speed on container types and their special operating procedures so you can ensure your equipment and services meet industry requirements. This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/temperature-controlled-containers-tcgp88 .aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl42_lbCourseTitle">Temperature Controlled Container Operations (Classroom, 2 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/temperature-controlled-containers-tcgp88 .aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl42_lbCourseTitle">Temperature Controlled Container Operations (Classroom, 2 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl42_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -1004,7 +1004,7 @@ Los procedimientos operacionales en el área de la carga pueden parecer complejo
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1687195');" style="cursor:hand; cursor:pointer;"><img title="Temperature mapping is a process of identifying the differences and changes in temperature that occur within a designated storage area. A temperature mapping exercise for any new temperature-controlled storage area shall be carried out before its use, according to the international regulations such as WHO, EU Good Distribution Practices Guidelines (GDP) and International Society for Pharmacoepidemiology (ISPE).During this course you will gain theoretical and practical knowledge on how to conduct a temperature mapping study related to storage areas designated for temperature-controlled healthcare products.  This course is available at IATA Training Centers and Regional Training Partner locations, and on-demand as in-house training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/temperature-mapping-study-tcgt15.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl43_lbCourseTitle">Temperature Mapping Study (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/temperature-mapping-study-tcgt15.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl43_lbCourseTitle">Temperature Mapping Study (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl43_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -1018,7 +1018,7 @@ Los procedimientos operacionales en el área de la carga pueden parecer complejo
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1116551');" style="cursor:hand; cursor:pointer;"><img title="Our self-study course will teach you how to transport time and temperature sensitive healthcare and pharmaceutical products safely according to IATA Temperature Control Regulations. Learn about product temperature ranges, packaging technology, key risk factors and critical control points." src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/sensitive-healthcare-products-tcgp97.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl44_lbCourseTitle">Time & Temperature Sensitive Healthcare Products </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/sensitive-healthcare-products-tcgp97.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl44_lbCourseTitle">Time & Temperature Sensitive Healthcare Products </span></a></td>
 <td style="width:10%;text-align:center;"></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl44_imgSelf" title="Distance Learning" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-selfStudy.gif" /></td>
 </tr>
@@ -1033,7 +1033,7 @@ Los procedimientos operacionales en el área de la carga pueden parecer complejo
 <a onclick="javascript:switchDisplay('trdesc6478');" style="cursor:hand; cursor:pointer;"><img title="Obtener los conocimientos necesarios para un transporte seguro de carga perecible cumpliendo con los estándares de la industria e identificando el eventual desarrollo de oportunidades interesantes de negocios para su empresa.Sea que se trate de frutas, verduras, pescado congelado o flores, los productos perecibles son, debido a su naturaleza, a menudo embarcados por vía aérea. Estos productos suelen ser para consumo humano, tienen una vida útil breve y son estrechamente supervisados por organismos gubernamentales nacionales. Para hacer posible que esta carga sea entregada en destino en las mejores condiciones, se requiere de un conocimiento a fondo de las regulaciones y procedimientos más actualizados. Este curso proporciona una visión detallada para el manejo adecuado de carga perecible.
   Este curso está disponible en  Centros de Formación IATA ,  Ubicaciones de Formación Regional de Socios, y por encargo como  formación en empresa " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/transporte-mercancías-perecederas-tcgp21-es.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl45_lbCourseTitle">Transporte de Mercancías Perecederas (presencial, 2 días) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/transporte-mercancías-perecederas-tcgp21-es.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl45_lbCourseTitle">Transporte de Mercancías Perecederas (presencial, 2 días) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl45_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -1050,7 +1050,7 @@ Los procedimientos operacionales en el área de la carga pueden parecer complejo
 
  This course is available at IATA Training Centers and Regional Training Partner locations, and on-demand as in-house training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/uld-operations-tcgp30.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl46_lbCourseTitle">ULD Operations (Classroom, 3 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/uld-operations-tcgp30.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl46_lbCourseTitle">ULD Operations (Classroom, 3 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl46_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -1066,7 +1066,7 @@ training requirements as per the ULD Regulations Table 1.6.A</span><br></p><p><i
 <a onclick="javascript:switchDisplay('trdesc1105522');" style="cursor:hand; cursor:pointer;"><img title="Enhance your skills as a Unit Load Device (ULD) instructor with the latest teaching methods. Develop teaching objectives specific to ULD build-up and handling by reviewing flight accidents, and understand the function of regulatory regimes in flight safety.Ensure that you are up-to-date with the latest standards, guidelines and best practices with this hands-on course, which focuses on both training and ULD operations and management. Over 5 days you will boost your skills, and identify and address your needs as an instructor by testing and developing your classroom skills. With the help of performance objectives, learn how to design lesson plans and instructional aids, and gain practical experience by preparing and presenting short lessons during the course.
  This course is available at IATA Training Centers, Regional Training Partner locations, and on-demand as in-company training. " src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/uld-train-trainers-tcgp44.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl47_lbCourseTitle">ULD Train the Trainer (Classroom, 5 days) </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/uld-train-trainers-tcgp44.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl47_lbCourseTitle">ULD Train the Trainer (Classroom, 5 days) </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl47_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -1080,7 +1080,7 @@ training requirements as per the ULD Regulations Table 1.6.A</span><br></p><p><i
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1062597');" style="cursor:hand; cursor:pointer;"><img title=" 获得在运营中处理、运输和管理ULD所需的知识 随着宽体飞机数量的增加，集装设备(ULDs)已经变成了高效航空运输的关键要素。目前航空公司大约有120万个ULD流动库存来运输货物和旅客的行李。ULD资产的管理对航空公司来说是一个主要的挑战。失去的ULD需要更换，通常需要相当大的费用，并且错误的处理可能导致损坏从而需要昂贵的费用进行维修。 这个为期3天的ULD培训是当今市场上最全面最可靠的培训。它为您提供了ULD处理的扎实的课题背景和最新的应用知识。本课程按照权威部门的要求，对所有的参与ULD的操作人员都进行了培训，包括FAA AC 120-85 Sec规定的培训要求。" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/tcgp30-zh.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl48_lbCourseTitle">ULD 管理基础课程 </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/tcgp30-zh.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl48_lbCourseTitle">ULD 管理基础课程 </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl48_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -1097,7 +1097,7 @@ training requirements as per the ULD Regulations Table 1.6.A</span><br></p><p><i
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1574306');" style="cursor:hand; cursor:pointer;"><img title="掌握关于供应链管理、物流和不同运输方式的必要知识。你将学习货运管理、多式联运经营、货物的成组化和集装箱运输，以及危险品空运、陆运、海运的关键原则和概念。" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/cargo-supply-chain-tcgp80-zh.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl49_lbCourseTitle">供应链与运输方式 </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/cargo-supply-chain-tcgp80-zh.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl49_lbCourseTitle">供应链与运输方式 </span></a></td>
 <td style="width:10%;text-align:center;"></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl49_imgSelf" title="Distance Learning" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-selfStudy.gif" /></td>
 </tr>
@@ -1111,7 +1111,7 @@ training requirements as per the ULD Regulations Table 1.6.A</span><br></p><p><i
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc6477');" style="cursor:hand; cursor:pointer;"><img title=" 了解航空公司和政府允许的活体动物航空运输的最新要求。 如果你负责验收或航空运输活体动物，你必须知道如何使用和按照IATA活体动物运输规程(LAR)。IATA LAR是利用航空以安全、人性和划算的方式运输活体动物的全球标准和基本指南。无论你是托运人、货运代理公司、航空公司还是动物护理的专业人员，都必须具备LAR的应用知识来确保动物以最人性化的方式进行运输并遵循航空法规和动物福利标准。" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/tcgp06-zh.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl50_lbCourseTitle">活体动物运输规定 </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/tcgp06-zh.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl50_lbCourseTitle">活体动物运输规定 </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl50_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -1127,7 +1127,7 @@ training requirements as per the ULD Regulations Table 1.6.A</span><br></p><p><i
 <td style="width:4%!important;text-align:center;">
 <a onclick="javascript:switchDisplay('trdesc1062285');" style="cursor:hand; cursor:pointer;"><img title=" 获取安全运输易腐货物所需的知识并遵守行业标准。 这个为期2天的易腐货物处理培训是当今市场上最全面最可靠的培训。它为您提供了航空运输易腐货物的扎实的课题背景、最新的应用知识。" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/info-icon.gif" alt="" /></a>
 </td>
-<td style="width:76%;padding:4px 4px 6px 4px;"><a href="https://www.iata.org/training/courses/Pages/tcgp21-zh.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl51_lbCourseTitle">鲜活易腐货物运输 </span></a></td>
+<td style="width:76%;padding:4px 4px 6px 4px;"><a href="/training/courses/Pages/tcgp21-zh.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl51_lbCourseTitle">鲜活易腐货物运输 </span></a></td>
 <td style="width:10%;text-align:center;"><img id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptCourses_ctl51_imgClass" title="Instructor Led" src="/Style%20Library/IATA.org-v1/Core/Images/Icons/icon-classRoom.gif" /></td>
 <td style="width:10%;text-align:center;"></td>
 </tr>
@@ -1158,22 +1158,22 @@ training requirements as per the ULD Regulations Table 1.6.A</span><br></p><p><i
 </div>
 <table border="0" style="font-size:8pt!important;width:100%;" cellpadding="0" cellspacing="0">
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/diploma_program/Pages/iata-air-cargo-diploma-(dl).aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl01_lbCourseTitle">Air Cargo Diploma (Self-study)</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/diploma_program/Pages/iata-air-cargo-diploma-(dl).aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl01_lbCourseTitle">Air Cargo Diploma (Self-study)</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/diploma_program/Pages/cargo-management.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl02_lbCourseTitle">Air Cargo Management Diploma</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/diploma_program/Pages/cargo-management.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl02_lbCourseTitle">Air Cargo Management Diploma</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/diploma_program/Pages/cargo-leadership-development-program-with-harvard-managementor.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl03_lbCourseTitle">Cargo Leadership Development Program with Harvard Business Publishing</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/diploma_program/Pages/cargo-leadership-development-program-with-harvard-managementor.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl03_lbCourseTitle">Cargo Leadership Development Program with Harvard Business Publishing</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/diploma_program/Pages/pharmaceutical-handling-diploma.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl04_lbCourseTitle">Pharmaceutical Handling Diploma</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/diploma_program/Pages/pharmaceutical-handling-diploma.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl04_lbCourseTitle">Pharmaceutical Handling Diploma</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/diploma_program/Pages/special-cargo.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl05_lbCourseTitle">Special Cargo Handling Diploma</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/diploma_program/Pages/special-cargo.aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl05_lbCourseTitle">Special Cargo Handling Diploma</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/diploma_program/Pages/iata-diploma-in-handling-special-cargo-(dl).aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl06_lbCourseTitle">Special Cargo Handling Diploma (Self-study)</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/diploma_program/Pages/iata-diploma-in-handling-special-cargo-(dl).aspx"><span id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_rptDiplomas_ctl06_lbCourseTitle">Special Cargo Handling Diploma (Self-study)</span></a></td>
 </tr>
 </table>
 <input type="hidden" name="ctl00$SPWebPartManager1$g_ca525666_fe92_4fcc_a61f_172543f86af2$ctl00$panDiplomasCollapsibleExtender_ClientState" id="ctl00_SPWebPartManager1_g_ca525666_fe92_4fcc_a61f_172543f86af2_ctl00_panDiplomasCollapsibleExtender_ClientState" />
@@ -1331,14 +1331,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

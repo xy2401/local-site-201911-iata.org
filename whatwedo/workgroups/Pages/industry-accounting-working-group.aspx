@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='The Industry Accounting Working Group contributes to the development of high-quality accounting standards and uniform accounting policies within the airline industry. '>
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/workgroups/Pages/industry-accounting-working-group.aspx" />
+<link rel="canonical" href=":443/whatwedo/workgroups/Pages/industry-accounting-working-group.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -340,7 +340,7 @@ Industry Accounting Working Group
 <div><span>These&#160;Airline Disclosure Guides (ADGs) were compiled&#160;by the </span><a href="/whatwedo/workgroups/Pages/industry-accounting-working-group.aspx">IATA Industry Accounting Working Group (IAWG) </a><span>in association with KPMG. The ADGs cover the latest accounting practices, principally from airlines reporting under IFRS or its equivalents, to highlight key issues, judgments and disclosures made by airlines. They are designed to help in the development and analysis of airlines’ annual reports.</span></div>
 <div>&#160;</div>
 <div>The four guides cover&#58;&#160;</div><div></div><ul><li>Hedging</li><li>Maintenance accounting</li><li>Aircraft acquisition cost and depreciation</li><li>Segment reporting<br><br></li></ul>
-<div><a href="https://www.iata.org/publications/Pages/accounting-guidelines.aspx">Download the Airlines Disclosure Guides</a>&#160;</div><h2 class="iataElement-Title2">IAWG Accounting Guides</h2><p>These guidance documents were compiled by the IATA Industry Accounting Working Group (IAWG) in association with advisors from international accounting firms. They cover specific issues that the IAWG believe may cause diversity in practice. They are not prescriptive and simply provide a means to share the views of a group of accounting professionals within the airline industry on the specific topics addressed.​​</p><h3 class="iataElement-Title3">IFRS 9, Financial Instruments<br></h3><ul><li><a href="/whatwedo/workgroups/Documents/IAWG/IAWG-Guidance-IFRS-9.pdf" target="_blank">Download the booklet</a><a href="/whatwedo/workgroups/Documents/IAWG/IFRS-9-Hedges-of-foreign-currency-risk-in-owned-aircraft.pdf" target="_blank">&#160;</a>(pdf)<br></li></ul><h3 class="iataElement-Title3">IFRS 15, Revenue from Contracts with Customers - version 2</h3><ul><li><span><a href="/whatwedo/workgroups/Documents/IAWG/IAWG-Guidance-IFRS-15.pdf" target="_blank">Download the booklet</a>&#160;(pdf)</span></li></ul><h3 class="iataElement-Title3">IFRS 16, Leases - version 1</h3><ul><li><a href="/whatwedo/workgroups/Documents/IAWG/IAWG-Guidance-IFRS-16.pdf" target="_blank">Download the booklet</a> (pdf)</li></ul>
+<div><a href="/publications/Pages/accounting-guidelines.aspx">Download the Airlines Disclosure Guides</a>&#160;</div><h2 class="iataElement-Title2">IAWG Accounting Guides</h2><p>These guidance documents were compiled by the IATA Industry Accounting Working Group (IAWG) in association with advisors from international accounting firms. They cover specific issues that the IAWG believe may cause diversity in practice. They are not prescriptive and simply provide a means to share the views of a group of accounting professionals within the airline industry on the specific topics addressed.​​</p><h3 class="iataElement-Title3">IFRS 9, Financial Instruments<br></h3><ul><li><a href="/whatwedo/workgroups/Documents/IAWG/IAWG-Guidance-IFRS-9.pdf" target="_blank">Download the booklet</a><a href="/whatwedo/workgroups/Documents/IAWG/IFRS-9-Hedges-of-foreign-currency-risk-in-owned-aircraft.pdf" target="_blank">&#160;</a>(pdf)<br></li></ul><h3 class="iataElement-Title3">IFRS 15, Revenue from Contracts with Customers - version 2</h3><ul><li><span><a href="/whatwedo/workgroups/Documents/IAWG/IAWG-Guidance-IFRS-15.pdf" target="_blank">Download the booklet</a>&#160;(pdf)</span></li></ul><h3 class="iataElement-Title3">IFRS 16, Leases - version 1</h3><ul><li><a href="/whatwedo/workgroups/Documents/IAWG/IAWG-Guidance-IFRS-16.pdf" target="_blank">Download the booklet</a> (pdf)</li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -457,14 +457,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

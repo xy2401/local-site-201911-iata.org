@@ -46,7 +46,7 @@
 <meta property='og:image' content='https://www.iata.org/whatwedo/PublishingImages/AIR-Page-Image-300.jpg'>
 <meta property='og:image:secure_url' content='https://www.iata.org/whatwedo/PublishingImages/AIR-Page-Image-300.jpg'>
 <meta property='og:description' content='The Airline Industry Retailing (AIR) initiative aims to help the airline industry build stronger retailing processes, enabling customers to “shop-order-pay” for air products across all channels. '>
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/airline-distribution/Pages/air.aspx" />
+<link rel="canonical" href=":443/whatwedo/airline-distribution/Pages/air.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -356,7 +356,7 @@ Airline Industry Retailing (AIR)
 <span>
 <div class="pseudoTable"><div class="row"><div class="cell col1_2">
 <a href="https://www.iata.org/whatwedo/airline-distribution/Documents/AIR_TT_whitepaper_2019.pdf" target="_blank">AIR Think Tank white paper</a><br><a href="/whatwedo/airline-distribution/ndc/Pages/default.aspx?tab=2"><span>NDC white papers</span></a><br><a href="/whatwedo/airline-distribution/Documents/air-white-paper-dynamic-offer-creation.pdf" target="_blank">Dynamic Offer Creation white paper</a> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </div><div class="cell col1_2">
-<a href="https://www.iata.org/publications/Pages/AI-white-paper.aspx">Artificial Intelligence white paper</a><br><a href="/publications/Documents/blockchain-in-aviation-white-paper.pdf" target="_blank">Blockchain white paper</a><br></div></div></div> ​​​​</span> </div></div>
+<a href="/publications/Pages/AI-white-paper.aspx">Artificial Intelligence white paper</a><br><a href="/publications/Documents/blockchain-in-aviation-white-paper.pdf" target="_blank">Blockchain white paper</a><br></div></div></div> ​​​​</span> </div></div>
 <h3 class="iataElement-Title3"><br>AIR Events &amp; Activities</h3>
 <ul>
 <span lang="EN"></span>
@@ -472,14 +472,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

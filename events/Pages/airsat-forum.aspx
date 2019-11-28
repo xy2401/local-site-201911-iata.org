@@ -45,7 +45,7 @@ Service, Insight Business, Routes, Flights, Attributes Market, rating, ranking, 
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/events/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/events/Pages/airsat-forum.aspx" />
+<link rel="canonical" href=":443/events/Pages/airsat-forum.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -375,7 +375,7 @@ Contact us
 <h3 class="iataElement-Title3">What is Airs@t</h3>
 <span> </span>
 <p>
-<a href="https://www.iata.org/services/statistics/intelligence/Pages/passenger-satisfaction-survey.aspx">Airs@t</a>&#160;is a passenger satisfaction benchmarking survey, recognized by the airline industry. It captures the complete travel experience, across all customer touch points (pre-flight, in-flight and post-flight), directly from the best source&#58; over 62,000 passengers!&#160;<span>See the&#160;</span><a href="http&#58;//www.iata.org/services/statistics/intelligence/Documents/Airs%40t/Benchmark-Your-Service-Quality-With-Airs%40t.pdf" target="_blank">Airs@t infographic</a><span>&#160;(pdf)&#160;to learn more about the solution.</span></p>
+<a href="/services/statistics/intelligence/Pages/passenger-satisfaction-survey.aspx">Airs@t</a>&#160;is a passenger satisfaction benchmarking survey, recognized by the airline industry. It captures the complete travel experience, across all customer touch points (pre-flight, in-flight and post-flight), directly from the best source&#58; over 62,000 passengers!&#160;<span>See the&#160;</span><a href="http&#58;//www.iata.org/services/statistics/intelligence/Documents/Airs%40t/Benchmark-Your-Service-Quality-With-Airs%40t.pdf" target="_blank">Airs@t infographic</a><span>&#160;(pdf)&#160;to learn more about the solution.</span></p>
 <h3 class="iataElement-Title3">The Airs@t Forum is a rare opportunity to&#58;<br></h3><ul><li>Discover Airs@t and hear first-hand updates on current and upcoming developments</li><li>Network with CX and business intelligence peers</li><li>Benchmark your strategy and learn from industry best practices<br></li></ul><h3 class="iataElement-Title3">Who should attend?<br></h3><p>Airlines representatives&#58;<br></p><ul><li>From business units such as Customer Insight, Market Insight, Service Quality or Product &amp; Service Development</li><li>I<span>nterested in IATA Airs@t Passenger Satisfaction Benchmark&#160;</span></li><li>Searching for&#160;inspiration and guidance on how to start tracking their passenger experience</li><li>Looking for ways to expand their internal customer insight capabilities</li><li>Willing to support their organizations with Business Intelligence tools to improve their product and service offering<br></li></ul></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2" class="ajax__tab_panel" style="display:none;">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2_label" style='display:none'>IATATabContent2</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2_label"><h3 class="iataElement-Title3"></h3><h2 class="iataElement-Title2">REGISTER TODAY as spaces are limited!</h2><p>We have a lot to share with you - from valuable market insights to important updates on the latest Airs@t developments.<br></p><p><a href="https&#58;//go.updates.iata.org/l/123902/2019-04-11/8353wm" target="_blank"><img src="/events/Images1/buttons/register-button.png" alt="" style="margin&#58;5px;" /></a></p><p>​<span>Where&#58; Montréal, Canada<br></span><span>Venue&#58; Hotel Le Crystal<br></span><span>Duration&#58; Two days on 1-2 October, 2019<br></span><span>Audience&#58; Airs@t customers and airline representatives interested in improving their passenger journey through data-based decisions.</span></p></div>
@@ -487,14 +487,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

@@ -47,7 +47,7 @@
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='The Strategic Partnerships program provides aviation suppliers and service providers with a platform to contribute to the development of solutions to industry challenges 
 '>
-<link rel="canonical" href="https://www.iata.org:443/about/sp/Pages/index.aspx" />
+<link rel="canonical" href=":443/about/sp/Pages/index.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -516,7 +516,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>
-<a href="https://www.iata.org/about/sp/Pages/getonboard3.aspx">Get on Board!</a><br></p><p><a href="/about/sp/Documents/SP%20eBrochure.pdf" target="_blank">Strategic Partnerships Brochure</a><br></p><p><a href="/about/sp/Documents/2020%20AGM%20Flyer.pdf" target="_blank">IATA Annual General Meeting</a><br></p><p>
+<a href="/about/sp/Pages/getonboard3.aspx">Get on Board!</a><br></p><p><a href="/about/sp/Documents/SP%20eBrochure.pdf" target="_blank">Strategic Partnerships Brochure</a><br></p><p><a href="/about/sp/Documents/2020%20AGM%20Flyer.pdf" target="_blank">IATA Annual General Meeting</a><br></p><p>
 <strong>Partner Newsletter</strong></p><p><a href="https&#58;//go.updates.iata.org/webmail/123902/1065539149/b9d4d7909cb3e6844373061552fc6d00a655500426cc15f85ff5e7978edfd6cb" target="_blank">September 2019</a><br></p><p><strong></strong><a href="https&#58;//go.updates.iata.org/webmail/123902/1030985811/b9d4d7909cb3e6844373061552fc6d00a655500426cc15f85ff5e7978edfd6cb" target="_blank">June 2019</a></p><p>
 <a href="https&#58;//go.updates.iata.org/webmail/123902/996535632/b9d4d7909cb3e6844373061552fc6d00a655500426cc15f85ff5e7978edfd6cb" target="_blank">March 2019</a><br></p><p>&#160;<a href="/publications/Pages/signup.aspx">Sign up for the IATA Partner Newsletter</a></p><p>
 <a href="/about/sp/Pages/events.aspx">Work Groups Calendar</a></p></div>
@@ -546,14 +546,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

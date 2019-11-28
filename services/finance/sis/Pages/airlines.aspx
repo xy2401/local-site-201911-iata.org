@@ -44,7 +44,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/services/finance/sis/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/services/finance/sis/Pages/airlines.aspx" />
+<link rel="canonical" href=":443/services/finance/sis/Pages/airlines.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -360,7 +360,7 @@ Media
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_body">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1" class="ajax__tab_panel">
  <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1_label" style='display:none'>IATATabContent1</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1_label"><h2 class="iataElement-Title2">Who can join SIS for interlining?</h2>
-<p>All airlines (IATA and Non IATA Members) and their&#160;intermodal partners&#160;are eligible to become SIS participants under the &quot;SIS for Airlines &amp; Intermodal&quot; program.&#160;This membership covers all 4 submission classes&#58; Passenger, Cargo, UATP and Miscellaneous/Non-Transportation. The participation fees incurred under this model are variable, based on budgetary expectations of operating cost, and vary according to the size and status of the participant (larger, smaller, etc.; IATA, non-IATA, etc.). This is the core agreement for SIS Participation and includes governance rights such as the ability to vote for changes to the standard industry agreement terms, or to vote for changes to functionality at the SIS General Meeting. </p><p>A sample&#160;of the &quot;<a href="https://www.iata.org/services/finance/sis/Documents/IS-Participation-Agreement.zip" target="_blank">Standard Agreement for SIS Participation</a>&quot; (zip)&#160;is available for&#160;information purposes only, not for signature.&#160; The costs of using SIS under this program are outlined in&#160;<a href="/services/finance/sis/Documents/ISPA-Attachment-A-Pricing-Schedule.pdf" target="_blank">Attachment A</a>&#160;(pdf)&#160;of the agreement.&#160;</p><p><span>Please refer to the</span><a href="/services/finance/sis/Documents/How%20to%20Join%20SIS%20-%20Online%20Application%20-.pdf" target="_blank">&#160;user guide</a><span>&#160;(pdf) on how to access the forms and submit an application&#160;</span><span>using the&#160;</span><a href="/customer-portal/Pages/index.aspx" target="_blank">IATA Customer Portal</a><span>.</span><br></p><h2 class="iataElement-Title2">Documents required for joining<br></h2><ul><li>
+<p>All airlines (IATA and Non IATA Members) and their&#160;intermodal partners&#160;are eligible to become SIS participants under the &quot;SIS for Airlines &amp; Intermodal&quot; program.&#160;This membership covers all 4 submission classes&#58; Passenger, Cargo, UATP and Miscellaneous/Non-Transportation. The participation fees incurred under this model are variable, based on budgetary expectations of operating cost, and vary according to the size and status of the participant (larger, smaller, etc.; IATA, non-IATA, etc.). This is the core agreement for SIS Participation and includes governance rights such as the ability to vote for changes to the standard industry agreement terms, or to vote for changes to functionality at the SIS General Meeting. </p><p>A sample&#160;of the &quot;<a href="/services/finance/sis/Documents/IS-Participation-Agreement.zip" target="_blank">Standard Agreement for SIS Participation</a>&quot; (zip)&#160;is available for&#160;information purposes only, not for signature.&#160; The costs of using SIS under this program are outlined in&#160;<a href="/services/finance/sis/Documents/ISPA-Attachment-A-Pricing-Schedule.pdf" target="_blank">Attachment A</a>&#160;(pdf)&#160;of the agreement.&#160;</p><p><span>Please refer to the</span><a href="/services/finance/sis/Documents/How%20to%20Join%20SIS%20-%20Online%20Application%20-.pdf" target="_blank">&#160;user guide</a><span>&#160;(pdf) on how to access the forms and submit an application&#160;</span><span>using the&#160;</span><a href="/customer-portal/Pages/index.aspx" target="_blank">IATA Customer Portal</a><span>.</span><br></p><h2 class="iataElement-Title2">Documents required for joining<br></h2><ul><li>
 <span><a href="https://www.iata.org/services/finance/sis/Documents/ISPA%20Joining%20Checklist_2019.pdf" target="_blank">Joining checklist</a></span><span><a href="/services/finance/sis/Documents/ISPA%20Joining%20Checklist_2019.pdf" target="_blank">&#160;</a>(pdf)</span><br></li><li>
 <span>Online application </span>
 <span>form submitted via the </span>
@@ -772,14 +772,14 @@ IATA Financial Systems Certification
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content=''>
-<link rel="canonical" href="https://www.iata.org:443/publications/tracker/jan-2019/Pages/default.aspx" />
+<link rel="canonical" href=":443/publications/tracker/jan-2019/Pages/default.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script language="javascript">var ExpireDays = 90;qstr = document.location.search;qstr = qstr.substring(1,qstr.length);function SetCookie(cookieName,cookieValue,nDays){var today = new Date();var expire = new Date();if (nDays==null || nDays==0) nDays=1;expire.setTime(today.getTime() + 3600000*24*nDays);document.cookie = cookieName + " = " + escape(cookieValue) + "; expires=" + expire.toGMTString() + "; path=/;domain=iata.org";}thevars = qstr.split("&");for(i=0;i<thevars.length;i++){cookiecase = thevars[i].split("=");switch(cookiecase[0]){case "e":e = cookiecase[1];SetCookie("EmailAddr",e,ExpireDays);break;case "j":j = cookiecase[1];SetCookie("JobID",j,ExpireDays);break;case "l":l = cookiecase[1];SetCookie("ListID",l,ExpireDays);break;case "jb":jb = cookiecase[1];SetCookie("BatchID",jb,ExpireDays);break;case "u":u = cookiecase[1];SetCookie("UrlID",u,ExpireDays);break;case "mid":mid = cookiecase[1];SetCookie("MemberID",mid,ExpireDays);break;default:break;}}</script><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -336,7 +336,7 @@ January 2019
 <div class="introAndImage">
 </div>
 <h2 class="iataElement-Title2">In this issue<br></h2><h3 class="iataElement-Title3">WCS 2019&#58; Sneak Peek<br></h3><p>This year’s World Cargo Symposium agenda is bursting with informative workshops, specialized tracks, and topical plenary sessions. <a href="/publications/tracker/jan-2019/Pages/wcs-2019.aspx">Find out more...</a><br></p><h3 class="iataElement-Title3">Competency-Based Training and Assessment in Dangerous Goods Training<br></h3><p>Competency-based training and assessment is a training approach which was first introduced into the ICAO Procedures for Air Navigation Services (PANS) aviation training provisions in 2006. <a href="/publications/tracker/jan-2019/Pages/competency-training.aspx">Find out more...</a><br></p><h3 class="iataElement-Title3">Are&#160;Shippers Happy with Air Cargo?<br></h3><p>
-<span> <span class="wrappedImageRight"></span></span>Since 2015, the IATA Global Shipper’s Survey asked shippers for their perception, experience and expectation when using air to transport goods. Their input helps IATA and its airline members to better understand customer needs and launch industry transformational initiatives to improve this service. <a href="https://www.iata.org/publications/tracker/jan-2019/Pages/shipper-survey.aspx">Find out more...</a><br></p><h3 class="iataElement-Title3">e-AWB global penetration&#58;<br></h3><p>Find out the latest <a href="/whatwedo/cargo/e/eawb/Documents/e-awb-monthly-report-r17.pdf" target="_blank">e-AWB global penetration in the full monthly </a> (pdf) report for December&#160;2018.<br>For insight on the e-AWB performance at airport level, check out the <a href="/whatwedo/cargo/e/eawb/Documents/IATA_eAWB_AirportOverview.pdf" target="_blank">Top 100 Airports monthly report</a> (pdf)&#160;<br></p>
+<span> <span class="wrappedImageRight"></span></span>Since 2015, the IATA Global Shipper’s Survey asked shippers for their perception, experience and expectation when using air to transport goods. Their input helps IATA and its airline members to better understand customer needs and launch industry transformational initiatives to improve this service. <a href="/publications/tracker/jan-2019/Pages/shipper-survey.aspx">Find out more...</a><br></p><h3 class="iataElement-Title3">e-AWB global penetration&#58;<br></h3><p>Find out the latest <a href="/whatwedo/cargo/e/eawb/Documents/e-awb-monthly-report-r17.pdf" target="_blank">e-AWB global penetration in the full monthly </a> (pdf) report for December&#160;2018.<br>For insight on the e-AWB performance at airport level, check out the <a href="/whatwedo/cargo/e/eawb/Documents/IATA_eAWB_AirportOverview.pdf" target="_blank">Top 100 Airports monthly report</a> (pdf)&#160;<br></p>
 <br>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
@@ -448,14 +448,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

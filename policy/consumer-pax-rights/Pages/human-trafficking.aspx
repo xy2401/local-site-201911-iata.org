@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='Human Trafficking (HT) is the fastest growing and second largest criminal industry in the world. The airline industry recognizes that it can play an important role in the fight against human trafficking.'>
-<link rel="canonical" href="https://www.iata.org:443/policy/consumer-pax-rights/Pages/human-trafficking.aspx" />
+<link rel="canonical" href=":443/policy/consumer-pax-rights/Pages/human-trafficking.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -343,7 +343,7 @@ Human Trafficking (HT)
 <a href="/pressroom/pr/Pages/2018-06-05-03.aspx">Airlines Denounce Human Trafficking and Commit to Action</a></p><p>
 <strong>NEW -&#160;Resources for airline staff training</strong></p><ul><li><a href="/iata/Human_Trafficking/index.html" target="_blank">Free online tutorial for airline staff</a></li><li>
 <a href="https://www.iata.org/policy/consumer-pax-rights/Documents/human-trafficking-cheatsheet.pdf">Cheat sheet</a> (pdf) &#160;-&#160;one pager&#160;summary</li><li>
-<a href="https://www.iata.org/policy/consumer-pax-rights/Documents/human-trafficking-guidelines-v1.pdf" target="_blank">Guidance on Human Trafficking&#160;</a>(pdf)&#160;complete guidelines for airlines</li><li><a href="/training/courses/Pages/human-trafficking-awareness-talg49.aspx">Human Trafficking 2-day classroom training</a></li></ul><p>
+<a href="/policy/consumer-pax-rights/Documents/human-trafficking-guidelines-v1.pdf" target="_blank">Guidance on Human Trafficking&#160;</a>(pdf)&#160;complete guidelines for airlines</li><li><a href="/training/courses/Pages/human-trafficking-awareness-talg49.aspx">Human Trafficking 2-day classroom training</a></li></ul><p>
 <strong>Campaign materials</strong></p><ul><li>
 <a href="https://www.iata.org/policy/consumer-pax-rights/Documents/human-trafficking-infographic.pdf" target="_blank">Infographic&#160;</a>(pdf)</li><li>Video - can be shared on any media<br>- English&#58; view&#58;
 <a href="https&#58;//youtu.be/QWTNYRaPXnc">Eyes open against human trafficking</a>&#160; -
@@ -485,14 +485,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

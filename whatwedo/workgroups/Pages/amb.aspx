@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='The Airmail Board is responsible for all matters dealing with the movement of mail cargo by air'>
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/workgroups/Pages/amb.aspx" />
+<link rel="canonical" href=":443/whatwedo/workgroups/Pages/amb.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -339,12 +339,12 @@ Air Mail Board (AMB)
 <div class="pseudoTable"><div class="row"><div class="cell col1_2">
 <span> </span>
 <span aria-hidden="true"></span>
-<span>The Air Mail Board&#160;(AMB) is responsible for all matters dealing with the movement of&#160;</span><a href="https://www.iata.org/whatwedo/cargo/Pages/air-mail.aspx">mail by air</a><span>, with the exception of issues related to airmail rates and charges. AMB&#160;works closely with international organizations such as the&#160;</span><a href="http&#58;//www.upu.int/en.html" target="_blank">Universal Postal Union (UPU)</a><span>&#160;and the&#160;</span><a href="http&#58;//www.ipc.be/" target="_blank">International Post Corporation (IPC)</a><span>. Members of the AMB&#160;are also members of the joint working group&#160;IATA-UPU Contact Committee, which works under the umbrella of the&#160;</span><a href="/whatwedo/workgroups/Documents/memorandum-understanding-iata-upu.pdf" target="_blank">IATA-UPU Memorandum of Understanding</a><span>&#160;(pdf).&#160;</span><br></div><div class="cell col1_2">
+<span>The Air Mail Board&#160;(AMB) is responsible for all matters dealing with the movement of&#160;</span><a href="/whatwedo/cargo/Pages/air-mail.aspx">mail by air</a><span>, with the exception of issues related to airmail rates and charges. AMB&#160;works closely with international organizations such as the&#160;</span><a href="http&#58;//www.upu.int/en.html" target="_blank">Universal Postal Union (UPU)</a><span>&#160;and the&#160;</span><a href="http&#58;//www.ipc.be/" target="_blank">International Post Corporation (IPC)</a><span>. Members of the AMB&#160;are also members of the joint working group&#160;IATA-UPU Contact Committee, which works under the umbrella of the&#160;</span><a href="/whatwedo/workgroups/Documents/memorandum-understanding-iata-upu.pdf" target="_blank">IATA-UPU Memorandum of Understanding</a><span>&#160;(pdf).&#160;</span><br></div><div class="cell col1_2">
 <span>
 <div class="zHighlight"><div class="zHighlightBox"><h2>Electronic data interchange (EDI)<br></h2><p>Check out the new joint&#160;<a href="https://www.iata.org/whatwedo/workgroups/Documents/edi-brochure.pdf" target="_blank">UPU-IATA-IPC Brochure</a>&#160;(pdf) promoting the use of electronic data interchange (EDI) in the air mail business.&#160;<br></p></div></div>&#160; </span></div></div></div></span>
 <p>
 <span>These collaborative efforts have produced&#58;</span><br></p><ul><li>A model&#160;<a href="https://www.iata.org/whatwedo/workgroups/Documents/amp-framework-postal-service-agreement.pdf" target="_blank">Framework for a Postal Service Agreement</a>&#160;(pdf) that is a template setting out standard provisions on the technical and liability aspects of a bilateral agreement between an airline and a Designated Postal Operator (DPO)&#160;to provide transportation services for mail</li><li>
-<span>A&#160;</span><a href="https://www.iata.org/whatwedo/workgroups/Documents/edi-brochure.pdf" target="_blank">Joint UPU-IATA-IPC Brochure</a><span>&#160;(pdf) promoting the use of electronic data interchange (EDI) in the air mail business</span></li><li>Standards and procedures concerning the handling of mail which are included as recommendations in the&#160;<a href="/publications/store/pages/airport-handling-manual.aspx">IATA’s Airport Handling Manual </a></li><li>
+<span>A&#160;</span><a href="/whatwedo/workgroups/Documents/edi-brochure.pdf" target="_blank">Joint UPU-IATA-IPC Brochure</a><span>&#160;(pdf) promoting the use of electronic data interchange (EDI) in the air mail business</span></li><li>Standards and procedures concerning the handling of mail which are included as recommendations in the&#160;<a href="/publications/store/pages/airport-handling-manual.aspx">IATA’s Airport Handling Manual </a></li><li>
 <span lang="EN-GB">The AMB elaborated </span>
 <span>in conjunction with the UPU</span><span lang="EN-GB"> the Alarm Resolutions</span><span>, </span>
 <span lang="EN-GB">when prohibited items are inserted in the mail; that&#160; will be incorporated into the
@@ -478,14 +478,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
  </div>
 </div>

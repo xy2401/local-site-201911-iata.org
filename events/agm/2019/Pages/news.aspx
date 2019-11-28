@@ -37,7 +37,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/events/agm/2019/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/events/agm/2019/Pages/news.aspx" />
+<link rel="canonical" href=":443/events/agm/2019/Pages/news.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -389,7 +389,7 @@ News
 <a href="/pressroom/pr/Pages/2019-05-29-03.aspx" target="_blank">Aviation Leaders Assemble in Seoul for IATA’s 75th Annual General Meeting</a>&#160;(29 May)<br></li></ul></div><div class="cell col1_2"><h3 class="iataElement-Title3">Speeches<br></h3><ul><li>
 <a href="/pressroom/speeches/Pages/2019-06-02-02.aspx">Director General's Report on IATA</a><br></li><li><a href="/pressroom/speeches/Pages/2019-06-02-01.aspx">Director General's Report on the Air Transport Industry</a></li><li>
 <a href="https://www.iata.org/events/agm/2019/Documents/speech-eu-commissioner-transport.pdf" target="_blank">EU Commissioner for Transport</a>&#160;(pdf)<br></li><li>
-<a href="https://www.iata.org/events/agm/2019/Documents/speech-minister-land-infrastructure-transport-republic-korea.pdf" target="_blank">Republic of Korea's Minister of Land, Infrastructure &amp; Transport</a>&#160;(pdf)&#160;<a href="/pressroom/speeches/Pages/2019-06-02-01.aspx" target="_blank">Korean version</a>&#160;(pdf)</li><li>
+<a href="/events/agm/2019/Documents/speech-minister-land-infrastructure-transport-republic-korea.pdf" target="_blank">Republic of Korea's Minister of Land, Infrastructure &amp; Transport</a>&#160;(pdf)&#160;<a href="/pressroom/speeches/Pages/2019-06-02-01.aspx" target="_blank">Korean version</a>&#160;(pdf)</li><li>
 <a href="https://www.iata.org/events/agm/2019/Documents/report-al-baker-bog-agm-01062019.pdf" target="_blank">Chairman's Report to the Board</a>&#160; (pdf)<br></li></ul><h3 class="iataElement-Title3">Newsletters</h3><ul><li>
 <a href="https://www.iata.org/events/agm/2019/Documents/capa-daily-03-Jun-2019.pdf" target="_blank">CAPA News 3 June</a> (pdf)</li><li><a href="/events/agm/2019/Documents/airline-business-daily-news-%203june.pdf" target="_blank">Airline Business Daily News 3 June</a>&#160;(pdf)<br></li><li>
 <a href="https://www.iata.org/events/agm/2019/Documents/airline-business-daily-news-2june2019.pdf" target="_blank">Airline Business Daily News 2 June</a>&#160;(pdf)<br></li><li>
@@ -428,14 +428,14 @@ News
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

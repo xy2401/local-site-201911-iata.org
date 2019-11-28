@@ -36,7 +36,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/Pages/default.aspx" />
+<link rel="canonical" href=":443/Pages/default.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type='text/javascript'>window._adftrack = {pm: 560779,divider: encodeURIComponent('|'),pagename: encodeURIComponent('Frontpage')};(function () { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://track.adform.net/serving/scripts/trackpoint/async/'; var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x); })();</script><noscript><p style='margin:0;padding:0;border:0;'><img src='https://track.adform.net/Serving/TrackPoint/?pm=560779&ADFPageName=Frontpage&ADFdivider=|' width='1' height='1' alt='' /></p></noscript><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -282,7 +282,7 @@ Sys.Application._enableHistoryInScriptManager();
 <div class="carousel_el">
 <div class="carousel_img">
 <div class="imgHolder">
-<a href="https://www.iata.org/events/wcs/Pages/index.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl0_lnkImgSlider" title="World Cargo Symposium 2020, Istanbul">
+<a href="/events/wcs/Pages/index.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl0_lnkImgSlider" title="World Cargo Symposium 2020, Istanbul">
 <img src="/In Focus Items/WCS2.png" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl0_imgSlider" class="largeImg" alt="Influence the future of Air Cargo" Title="World Cargo Symposium 2020, Istanbul" />
 <img src="/In%20Focus%20Items/WCS2.png" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl0_imgMobileSlider" class="smallImg" alt="Influence the future of Air Cargo" />
 </a>
@@ -291,13 +291,13 @@ Sys.Application._enableHistoryInScriptManager();
 <div class="carouselInfo">
 <h4><span id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl0_litSliderCaption" class="sliderTitle">World Cargo Symposium 2020, Istanbul</span></h4>
 <h1><span id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl0_litSliderDescription" class="sliderDescription">Influence the future of Air Cargo</span></h1>
-<a href="https://www.iata.org/events/wcs/Pages/index.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl0_litTextLink" class="button" title="World Cargo Symposium 2020, Istanbul">Learn more</a>
+<a href="/events/wcs/Pages/index.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl0_litTextLink" class="button" title="World Cargo Symposium 2020, Istanbul">Learn more</a>
 </div>
 </div> 
 <div class="carousel_el">
 <div class="carousel_img">
 <div class="imgHolder">
-<a href="https://www.iata.org/policy/environment/Pages/climate-change.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl1_lnkImgSlider" title="Aviation climate change">
+<a href="/policy/environment/Pages/climate-change.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl1_lnkImgSlider" title="Aviation climate change">
 <img src="/In Focus Items/ecobalance_650x370.png" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl1_imgSlider" class="largeImg" alt="Ambitious targets to reduce emissions
 " Title="Aviation climate change" />
 <img src="/In%20Focus%20Items/ecobalance_650x370.png" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl1_imgMobileSlider" class="smallImg" alt="Ambitious targets to reduce emissions
@@ -308,13 +308,13 @@ Sys.Application._enableHistoryInScriptManager();
 <div class="carouselInfo">
 <h4><span id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl1_litSliderCaption" class="sliderTitle">Aviation climate change</span></h4>
 <h1><span id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl1_litSliderDescription" class="sliderDescription">Ambitious targets to reduce emissions</span></h1>
-<a href="https://www.iata.org/policy/environment/Pages/climate-change.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl1_litTextLink" class="button" title="Aviation climate change">Learn more</a>
+<a href="/policy/environment/Pages/climate-change.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl1_litTextLink" class="button" title="Aviation climate change">Learn more</a>
 </div>
 </div>
 <div class="carousel_el">
 <div class="carousel_img">
 <div class="imgHolder">
-<a href="https://www.iata.org/whatwedo/ops-infra/airport-infrastructure/Pages/nextt.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl2_lnkImgSlider" title="NEXTT, New Experience Travel Technologies">
+<a href="/whatwedo/ops-infra/airport-infrastructure/Pages/nextt.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl2_lnkImgSlider" title="NEXTT, New Experience Travel Technologies">
 <img src="/In Focus Items/Nextt-Carousel_650x370.png" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl2_imgSlider" class="largeImg" alt="Shape the journey of the future" Title="NEXTT, New Experience Travel Technologies" />
 <img src="/In%20Focus%20Items/Nextt-Carousel_650x370.png" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl2_imgMobileSlider" class="smallImg" alt="Shape the journey of the future" />
 </a>
@@ -323,13 +323,13 @@ Sys.Application._enableHistoryInScriptManager();
 <div class="carouselInfo">
 <h4><span id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl2_litSliderCaption" class="sliderTitle">NEXTT, New Experience Travel Technologies</span></h4>
 <h1><span id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl2_litSliderDescription" class="sliderDescription">Shape the journey of the future</span></h1>
-<a href="https://www.iata.org/whatwedo/ops-infra/airport-infrastructure/Pages/nextt.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl2_litTextLink" class="button" title="NEXTT, New Experience Travel Technologies">Learn more</a>
+<a href="/whatwedo/ops-infra/airport-infrastructure/Pages/nextt.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl2_litTextLink" class="button" title="NEXTT, New Experience Travel Technologies">Learn more</a>
 </div>
 </div>
 <div class="carousel_el">
 <div class="carousel_img">
 <div class="imgHolder">
-<a href="https://www.iata.org/training/courses/Pages/executive-leadership-women-talg85.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl3_lnkImgSlider" title="Leadership Program for Women in Aviation">
+<a href="/training/courses/Pages/executive-leadership-women-talg85.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl3_lnkImgSlider" title="Leadership Program for Women in Aviation">
 <img src="/In Focus Items/woman-leadership-training.png" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl3_imgSlider" class="largeImg" alt="Take the next step" Title="Leadership Program for Women in Aviation" />
 <img src="/In%20Focus%20Items/woman-leadership-training.png" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl3_imgMobileSlider" class="smallImg" alt="Take the next step" />
 </a>
@@ -338,13 +338,13 @@ Sys.Application._enableHistoryInScriptManager();
 <div class="carouselInfo">
 <h4><span id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl3_litSliderCaption" class="sliderTitle">Leadership Program for Women in Aviation</span></h4>
 <h1><span id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl3_litSliderDescription" class="sliderDescription">Take the next step</span></h1>
-<a href="https://www.iata.org/training/courses/Pages/executive-leadership-women-talg85.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl3_litTextLink" class="button" title="Leadership Program for Women in Aviation">Learn more</a>
+<a href="/training/courses/Pages/executive-leadership-women-talg85.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl3_litTextLink" class="button" title="Leadership Program for Women in Aviation">Learn more</a>
 </div>
 </div>
 <div class="carousel_el">
 <div class="carousel_img">
 <div class="imgHolder">
-<a href="https://www.iata.org/services/safety-flight-operations/Pages/turbulence-platform.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl4_lnkImgSlider" title="Keep passengers/crew safe &amp; fuel costs down">
+<a href="/services/safety-flight-operations/Pages/turbulence-platform.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl4_lnkImgSlider" title="Keep passengers/crew safe &amp; fuel costs down">
 <img src="/In Focus Items/turbulence-awareness.png" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl4_imgSlider" class="largeImg" alt="Participate in the Turbulence Aware platform" Title="Keep passengers/crew safe &amp; fuel costs down" />
 <img src="/In%20Focus%20Items/turbulence-awareness.png" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl4_imgMobileSlider" class="smallImg" alt="Participate in the Turbulence Aware platform" />
 </a>
@@ -353,7 +353,7 @@ Sys.Application._enableHistoryInScriptManager();
 <div class="carouselInfo">
 <h4><span id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl4_litSliderCaption" class="sliderTitle">Keep passengers/crew safe & fuel costs down</span></h4>
 <h1><span id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl4_litSliderDescription" class="sliderDescription">Participate in the Turbulence Aware platform</span></h1>
-<a href="https://www.iata.org/services/safety-flight-operations/Pages/turbulence-platform.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl4_litTextLink" class="button" title="Keep passengers/crew safe &amp; fuel costs down">Learn more</a>
+<a href="/services/safety-flight-operations/Pages/turbulence-platform.aspx" id="ctl00_PlaceHolderBannerSlider_displayInFocus_InFocusSliderListView_ctrl4_litTextLink" class="button" title="Keep passengers/crew safe &amp; fuel costs down">Learn more</a>
 </div>
 </div>
 <ul id="carouselNav">
@@ -430,7 +430,7 @@ IATA accredited travel and cargo agents reliably serve travelers and shippers wo
 Latest press releases and speeches</h1>
 <span class="keeper">
 <div class="contentTeaser">
-<a title="A Sustainable Industry for all Europe’s Citizens" href="https://www.iata.org/pressroom/pr/Pages/2019-11-19-01.aspx">
+<a title="A Sustainable Industry for all Europe’s Citizens" href="/pressroom/pr/Pages/2019-11-19-01.aspx">
 <img alt="" title='A Sustainable Industry for all Europe’s Citizens' src="/pressroom/pr/PublishingImages/environment-woce.jpg" style="BORDER: 0px solid; ">
 <h2>A Sustainable Industry for all Europe’s Citizens</h2>
 <div class="blurb">
@@ -443,7 +443,7 @@ IATA called on governments to create a sustainable aviation industry that protec
 </a>
 </div>
 <div class="contentTeaser">
-<a title="Four Priorities for African Aviation" href="https://www.iata.org/pressroom/pr/Pages/2019-11-11-01.aspx">
+<a title="Four Priorities for African Aviation" href="/pressroom/pr/Pages/2019-11-11-01.aspx">
 <img alt="" title='Four Priorities for African Aviation' src="/pressroom/pr/PublishingImages/afraa-image.jpg" style="BORDER: 0px solid; ">
 <h2>Four Priorities for African Aviation</h2>
 <div class="blurb">
@@ -456,7 +456,7 @@ IATA called on governments and industry in Africa to focus on safety, cost-compe
 </a>
 </div>
 <div class="contentTeaser">
-<a title="Passenger Demand Continues on Moderate Upward Path" href="https://www.iata.org/pressroom/pr/Pages/2019-11-07-01.aspx">
+<a title="Passenger Demand Continues on Moderate Upward Path" href="/pressroom/pr/Pages/2019-11-07-01.aspx">
 <img alt="" title='Passenger Demand Continues on Moderate Upward Path' src="/pressroom/pr/PublishingImages/passenger-demand-september.jpg" style="BORDER: 0px solid; ">
 <h2>Passenger Demand Continues on Moderate Upward Path</h2>
 <div class="blurb">
@@ -731,14 +731,14 @@ Travel Agents
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

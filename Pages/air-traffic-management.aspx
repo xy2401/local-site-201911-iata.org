@@ -43,7 +43,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/Pages/air-traffic-management.aspx" />
+<link rel="canonical" href=":443/Pages/air-traffic-management.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -337,7 +337,7 @@ Training
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_body">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1" class="ajax__tab_panel">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1_label" style='display:none'>IATATabContent1</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1_label"><p>IATA initiatives in air traffic management have been developed in cooperation with the relevant authorities and air navigation service providers. An even closer working relationship will enable the industry to realize significant benefits.</p>
-<div class="pseudoTable"><div class="row"><div class="cell col1_2"><h2>Policy</h2><p>IATA&#160;works relentlessly at the structural and operational level towards the implementation of two major projects aimed at making air traffic management more efficient&#58;</p><ul><li>The&#160;<a href="https://www.iata.org/pressroom/pr/Documents/blueprint-single-european-sky.pdf" target="_blank">Single European Sky</a></li><li><a href="http&#58;//www.faa.gov/nextgen/" target="_blank">US NextGen</a></li></ul><p>IATA also works with air navigation service providers across the globe to drive cost-efficiency improvements. Find out about our&#160;<a href="/policy/infrastructure/Pages/index.aspx">policy activities related to infrastructure</a>.</p><h2>Air Traffic Management resources</h2><p>Communication, navigation and surveillance. Read more on IATA's activities related to the&#160;<a title="Air Traffic Management" href="/whatwedo/ops-infra/air-traffic-management/Pages/index.aspx">Air Traffic Management</a>/</p>
+<div class="pseudoTable"><div class="row"><div class="cell col1_2"><h2>Policy</h2><p>IATA&#160;works relentlessly at the structural and operational level towards the implementation of two major projects aimed at making air traffic management more efficient&#58;</p><ul><li>The&#160;<a href="/pressroom/pr/Documents/blueprint-single-european-sky.pdf" target="_blank">Single European Sky</a></li><li><a href="http&#58;//www.faa.gov/nextgen/" target="_blank">US NextGen</a></li></ul><p>IATA also works with air navigation service providers across the globe to drive cost-efficiency improvements. Find out about our&#160;<a href="/policy/infrastructure/Pages/index.aspx">policy activities related to infrastructure</a>.</p><h2>Air Traffic Management resources</h2><p>Communication, navigation and surveillance. Read more on IATA's activities related to the&#160;<a title="Air Traffic Management" href="/whatwedo/ops-infra/air-traffic-management/Pages/index.aspx">Air Traffic Management</a>/</p>
 See also&#58;<ul><li><a href="http&#58;//airlines.iata.org/subject/airport-atm-structure" target="_blank">Airport &amp; ATM structure</a>&#160;(Airlines International)</li></ul><div><div class="zHighlight"><div class="zHighlightBox"><h2>New ATC Phraseology for SIDs / STARs</h2><p>Learn about&#160;<a href="http&#58;//www.icao.int/airnavigation/sidstar/Pages/CHANGES-TO-SID_STAR-PHRA-SEOLOGIES.aspx"><strong>important changes</strong>&#160;</a>in&#160;<a href="/whatwedo/ops-infra/air-traffic-management/pages/index.aspx"><strong>air traffic control</strong></a>&#160;phraseology being phased in globally from&#160;10 November 2016.​</p></div></div><span>
 ​​​​​​​​​​​​​</span><br></div></div><div class="cell col1_2"><h2 class="ms-rteElement-H2">Environment
 </h2><p>Air Traffic Management&#160;enhancements could improve&#160;airlines' fuel efficiency and CO2 emissions up to 12%.<br>
@@ -478,14 +478,14 @@ New Study
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

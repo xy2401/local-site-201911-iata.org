@@ -39,7 +39,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/pressroom/speeches/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/pressroom/speeches/Pages/2017-06-05-02.aspx" />
+<link rel="canonical" href=":443/pressroom/speeches/Pages/2017-06-05-02.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -374,7 +374,7 @@ Director General’s Report on IATA
 <strong>CORSIA (5)</strong>. The historic ICAO CORSIA global market-based measure agreement will take some hard work to bring to implementation. IATA is working with ICAO to ensure a transparent and open process as the details are decided. You can help us to help you by getting your internal teams together to develop monitoring plans that must be submitted next year. IATA environment experts are at your service if you have questions or need help. And we are pressing for the on-time publication of the requirements by ICAO so that plans can be finalized.</p><p>In all the areas where we work together, your feedback is critically valuable. It helps us to help you. So I will take this opportunity to ask that our member CEOs spare a few minutes to respond to five simple but important questions in our
 <strong>Membership Satisfaction </strong>Survey which was sent out to the member CEOs last week. It will help keep IATA focused on what matters most to you.</p><h3>Conclusion</h3><p>In closing, I will say thank you to our members—particularly those who serve on the Board, committees and working groups—for your guidance and support during my first months at IATA. You have trusted IATA to deliver on challenging targets. We know they are important to your business success. And we will do our best to deserve your trust by delivering the results you need.</p><p>From me personally and on your behalf, I would also like to thank the IATA team of dedicated professionals who are committed to representing, leading and serving your amazing industry. </p><p>Your association is at your service and looking forward to a successful year ahead.</p><p>Thank you.</p><p>1. See&#58;
 <a href="/whatwedo/airline-distribution/ndc/pages/default.aspx">NDC section</a><br> 2. See&#58;
-<a href="https://www.iata.org/whatwedo/airline-distribution/one-order/Pages/index.aspx">OneOrder </a>&#160;&#160;<br> 3.&#160;See&#58; <a href="/policy/Documents/iata-future-airline-industry.pdf">Future of airline industry report </a><br> 4. See&#58; <a href="/services/statistics/intelligence/Pages/direct-data-solutions.aspx">Direct Data Services (DDS)</a>&#160;
+<a href="/whatwedo/airline-distribution/one-order/Pages/index.aspx">OneOrder </a>&#160;&#160;<br> 3.&#160;See&#58; <a href="/policy/Documents/iata-future-airline-industry.pdf">Future of airline industry report </a><br> 4. See&#58; <a href="/services/statistics/intelligence/Pages/direct-data-solutions.aspx">Direct Data Services (DDS)</a>&#160;
 &#160;&#160;&#160;&#160;<br> 5. See&#58;
 <a href="/policy/environment/pages/corsia.aspx">CORSIA</a></p> </div>
 
@@ -448,7 +448,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><h3> Photos</h3><p>​<a title="AGM Opening Session" href="https&#58;//www.flickr.com/photos/iataorg/34952219392/in/album-72157682022301331/" data-flickr-embed="true"><img width="150" height="150" alt="AGM Opening Session" src="https&#58;//c1.staticflickr.com/5/4268/34952219392_f4d0d44aa6_q.jpg" /></a></p>
 <span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>
@@ -484,14 +484,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

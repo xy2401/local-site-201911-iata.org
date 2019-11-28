@@ -44,7 +44,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/whatwedo/environment/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/environment/Pages/environmental-assessment.aspx" />
+<link rel="canonical" href=":443/whatwedo/environment/Pages/environmental-assessment.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -359,7 +359,7 @@ Resources
 <a href="/whatwedo/environment/Pages/ienva.aspx">interactive map</a>.</p></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2" class="ajax__tab_panel" style="display:none;">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2_label" style='display:none'>IATATabContent2</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2_label"><h2>IEnvA Offers</h2><ul><li>Access to industry best practices </li><li>Simplified industry reporting </li><li>Access to airport environmental database</li><li>Peer reviewed mitigation tools </li><li>Automated audit software</li><li>Expert support </li></ul><p>
-<a href="https://www.iata.org/whatwedo/environment/Documents/ienva-briefing-note.pdf" target="_blank">IEnvA briefing note</a> (pdf)</p><h3>Benefits for airlines</h3><ul><li>Quality environmental assessment program under the stewardship of IATA based on the successful <a href="/whatwedo/safety/audit/iosa/Pages/index.aspx">IATA Operational Safety Audit </a>(IOSA) and <a href="/whatwedo/safety/audit/isago/Pages/index.aspx">IATA Safety Audit for Ground Operations </a>(ISAGO) programs&#160;</li><li>Dynamic program with continuous updating of standards to reflect regulatory revision and&#160; environmental best practices overseen by an advisory group of 14 airlines</li><li>Independent assessments by accredited Environmental Assessment Organizations (EAOs), maximizing the use of online tools and data exchange&#160;</li><li>Reduced regulatory compliance risk, improved financial benefits from resource saving and demonstration of good environmental governance&#160;</li><li>Two-stage implementation approach based on core airline activities of flight operations and corporate activities allows for early recognition of environmental management achievements</li></ul></div>
+<a href="/whatwedo/environment/Documents/ienva-briefing-note.pdf" target="_blank">IEnvA briefing note</a> (pdf)</p><h3>Benefits for airlines</h3><ul><li>Quality environmental assessment program under the stewardship of IATA based on the successful <a href="/whatwedo/safety/audit/iosa/Pages/index.aspx">IATA Operational Safety Audit </a>(IOSA) and <a href="/whatwedo/safety/audit/isago/Pages/index.aspx">IATA Safety Audit for Ground Operations </a>(ISAGO) programs&#160;</li><li>Dynamic program with continuous updating of standards to reflect regulatory revision and&#160; environmental best practices overseen by an advisory group of 14 airlines</li><li>Independent assessments by accredited Environmental Assessment Organizations (EAOs), maximizing the use of online tools and data exchange&#160;</li><li>Reduced regulatory compliance risk, improved financial benefits from resource saving and demonstration of good environmental governance&#160;</li><li>Two-stage implementation approach based on core airline activities of flight operations and corporate activities allows for early recognition of environmental management achievements</li></ul></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel3" class="ajax__tab_panel" style="display:none;">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel3_DisplayIATATabContent3_label" style='display:none'>IATATabContent3</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel3_DisplayIATATabContent3__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel3_DisplayIATATabContent3_label"><p>IEnvA recognizes that airlines have varying environmental management capacities and experience, and the adoption of a staged implementation approach allows for wider airline participation. Airlines are able to phase the implementation of the IEnvA program with recognition as Stage 1 or Stage 2 Operator.&#160; </p><p>
 <br>
@@ -546,14 +546,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

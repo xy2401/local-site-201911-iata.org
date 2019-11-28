@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='Working with industry and governments, IATA addresses climate change with ambitious targets to mitigate CO2 emissions from air transport'>
-<link rel="canonical" href="https://www.iata.org:443/policy/environment/Pages/climate-change.aspx" />
+<link rel="canonical" href=":443/policy/environment/Pages/climate-change.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -352,7 +352,7 @@ reduce it.”&#160;</span></p></span><p><span><span lang="EN-US">Alexandre de Ju
 <strong>operations</strong></li><li>
 <strong>Infrastructure </strong>improvements, including modernized air traffic management systems</li><li>A single
 <strong>global market-based measure</strong>, to fill the remaining emissions gap&#160;<br></li></ul><p>
-<strong>Fact sheets<br></strong><a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-climate-change.pdf" target="_blank">Climate change</a>&#160;(pdf)<br><a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-greentaxation.pdf" target="_blank">Green taxes</a>&#160;(pdf)</p><h3 class="iataElement-Title3">A global market-based measure for aviation<br></h3><p><span>In 2016, the 39th ICAO Assembly concluded with the adoption of a global offsetting&#160;scheme to address CO2 emissions from international aviation. The agreement at ICAO demonstrates that aviation is determined to live up to its commitments and play its part in meeting international goals for emissions reduction.</span>&#160;<br></p><p><span>The scheme established by ICAO is a global offsetting mechanism, called CORSIA (<a href="/policy/environment/Pages/corsia.aspx">Carbon Offsetting and Reduction Scheme for International Aviation</a>). CORSIA aims to help address any annual increase in total CO2 emissions from international civil aviation above 2020 levels.</span></p>
+<strong>Fact sheets<br></strong><a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-climate-change.pdf" target="_blank">Climate change</a>&#160;(pdf)<br><a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-greentaxation.pdf" target="_blank">Green taxes</a>&#160;(pdf)</p><h3 class="iataElement-Title3">A global market-based measure for aviation<br></h3><p><span>In 2016, the 39th ICAO Assembly concluded with the adoption of a global offsetting&#160;scheme to address CO2 emissions from international aviation. The agreement at ICAO demonstrates that aviation is determined to live up to its commitments and play its part in meeting international goals for emissions reduction.</span>&#160;<br></p><p><span>The scheme established by ICAO is a global offsetting mechanism, called CORSIA (<a href="/policy/environment/Pages/corsia.aspx">Carbon Offsetting and Reduction Scheme for International Aviation</a>). CORSIA aims to help address any annual increase in total CO2 emissions from international civil aviation above 2020 levels.</span></p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -477,14 +477,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

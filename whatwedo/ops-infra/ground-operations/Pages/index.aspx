@@ -44,7 +44,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/whatwedo/ops-infra/ground-operations/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/ops-infra/ground-operations/Pages/index.aspx" />
+<link rel="canonical" href=":443/whatwedo/ops-infra/ground-operations/Pages/index.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -362,7 +362,7 @@ Stakeholders
 <a href="/publications/store/Pages/airport-handling-manual.aspx" target="_blank">​Airport Handling Manual (AHM)​</a><br>Identification of, and updates to, industry recommended practices</p><p>
 <a href="/publications/store/Pages/iata-ground-operations-manual.aspx" target="_blank">IATA Ground Operations Manual (IGOM)</a><br>Development and implementation of the standard procedures</p><p>
 <a href="/whatwedo/safety/audit/isago/Pages/index.aspx" target="_blank">IATA Safety Audit for Ground Operations (ISAGO)</a><br><span>O</span><span>n-site verification of implementation of ground handling procedures</span></p><p>
-<a href="https://www.iata.org/services/statistics/gadm/Pages/gddb.aspx" target="_blank">Ground Damage Database (GDDB)</a><br>Hazard identification, including data analysis and feedback</p><h2>IGOM Adoption</h2><p>To&#160;relay the<a href="/whatwedo/ops-infra/ground-operations/Documents/IGOM%20Adoption%20policy%20Final.pdf" target="_blank"><span>IGOM Adoption Policy</span></a> (pdf) to the industry, IATA has developed an IGOM Adoption Awareness session of two videos to assist the industry in IGOM implementation.</p>
+<a href="/services/statistics/gadm/Pages/gddb.aspx" target="_blank">Ground Damage Database (GDDB)</a><br>Hazard identification, including data analysis and feedback</p><h2>IGOM Adoption</h2><p>To&#160;relay the<a href="/whatwedo/ops-infra/ground-operations/Documents/IGOM%20Adoption%20policy%20Final.pdf" target="_blank"><span>IGOM Adoption Policy</span></a> (pdf) to the industry, IATA has developed an IGOM Adoption Awareness session of two videos to assist the industry in IGOM implementation.</p>
 <span>
 <div class="pseudoTable"><div class="row"><div class="cell col1_2">
 <span>
@@ -533,14 +533,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

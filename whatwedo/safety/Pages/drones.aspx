@@ -47,7 +47,7 @@
 <meta property='og:image:secure_url' content='https://www.iata.org/whatwedo/ops-infra/air-traffic-management/PublishingImages/Pages/drone-330.png'>
 <meta property='og:description' content='Concerns that an RPA-related incident such as drones could occur at or near airports, or during commercial aircraft operations, is being addressed by the aviation industry. 
 '>
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/safety/Pages/drones.aspx" />
+<link rel="canonical" href=":443/whatwedo/safety/Pages/drones.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -431,7 +431,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><span aria-hidden="true"></span>​
 <p>
-<a href="https://www.iata.org/whatwedo/safety/Documents/Safety-Awareness-for-RPA-users-joint-statement.pdf" target="_blank">Joint Statement on the Safe Operation of RPA</a>(pdf)<br></p><p><a href="/whatwedo/ops-infra/air-traffic-management/Documents/11%20June_Information%20IATA%20Position%20on%20%20Anti-Unmanned%20Aircraft%20System%20(Anti-UAS)%20Measures.pdf">Anti-UAS Measures</a>&#160;<span>(pdf)</span></p><p>​<a href="http&#58;//knowbeforeyoufly.org/" target="_blank"><img alt="knowbeforeyoufly-logo.png" src="/whatwedo/safety/PublishingImages/knowbeforeyoufly-logo.png" style="margin&#58;5px;width&#58;145px;height&#58;32px;" /></a><br></p><p><a href="/whatwedo/cargo/Pages/cargo-drones.aspx">Drones &amp; Cargo</a></p><h3 class="iataElement-Title3">Airlines. Magazine<br><br></h3><span aria-hidden="true"><a href="https&#58;//www.airlines.iata.org/analysis/dossier-dealing-with-drones?_ga=2.110622278.273014917.1558345404-1709139626.1546527531" target="_blank">Dossier&#58; Dealing with drones</a><br>(April 2019)<br></span></div>
+<a href="/whatwedo/safety/Documents/Safety-Awareness-for-RPA-users-joint-statement.pdf" target="_blank">Joint Statement on the Safe Operation of RPA</a>(pdf)<br></p><p><a href="/whatwedo/ops-infra/air-traffic-management/Documents/11%20June_Information%20IATA%20Position%20on%20%20Anti-Unmanned%20Aircraft%20System%20(Anti-UAS)%20Measures.pdf">Anti-UAS Measures</a>&#160;<span>(pdf)</span></p><p>​<a href="http&#58;//knowbeforeyoufly.org/" target="_blank"><img alt="knowbeforeyoufly-logo.png" src="/whatwedo/safety/PublishingImages/knowbeforeyoufly-logo.png" style="margin&#58;5px;width&#58;145px;height&#58;32px;" /></a><br></p><p><a href="/whatwedo/cargo/Pages/cargo-drones.aspx">Drones &amp; Cargo</a></p><h3 class="iataElement-Title3">Airlines. Magazine<br><br></h3><span aria-hidden="true"><a href="https&#58;//www.airlines.iata.org/analysis/dossier-dealing-with-drones?_ga=2.110622278.273014917.1558345404-1709139626.1546527531" target="_blank">Dossier&#58; Dealing with drones</a><br>(April 2019)<br></span></div>
 </div>
 <div class='hide_element_0a60f98c-ef31-412a-8314-1f92826c26bd'></div><script type='text/javascript'>CTP.IATA.HideChrome('0a60f98c-ef31-412a-8314-1f92826c26bd')</script>
 <div class='crossLinksExploreMore'>
@@ -461,14 +461,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

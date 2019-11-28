@@ -48,7 +48,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='Press Releases'>
-<link rel="canonical" href="https://www.iata.org:443/pressroom/pr/Pages/index.aspx" />
+<link rel="canonical" href=":443/pressroom/pr/Pages/index.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -403,637 +403,637 @@ Press Releases
 <li>
 <span>20 Nov</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-11-20-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl01_lblTitle">Competitiveness of aviation in the Netherlands crucial for jobs and prosperity </span></a>
+<a href="/pressroom/pr/Pages/2019-11-20-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl01_lblTitle">Competitiveness of aviation in the Netherlands crucial for jobs and prosperity </span></a>
 <br><br>
 </li>
 <li>
 <span>19 Nov</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-11-19-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl02_lblTitle">Boosting aviation competitiveness in Germany will create new jobs and prosperity </span></a>
+<a href="/pressroom/pr/Pages/2019-11-19-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl02_lblTitle">Boosting aviation competitiveness in Germany will create new jobs and prosperity </span></a>
 <br><br>
 </li>
 <li>
 <span>19 Nov</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-11-19-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl03_lblTitle">A Sustainable Industry for all Europe’s Citizens</span></a>
+<a href="/pressroom/pr/Pages/2019-11-19-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl03_lblTitle">A Sustainable Industry for all Europe’s Citizens</span></a>
 <br><br>
 </li>
 <li>
 <span>13 Nov</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-11-13-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl04_lblTitle">Improving accessibility and inclusion in air travel – first industry event wraps up in Dubai</span></a>
+<a href="/pressroom/pr/Pages/2019-11-13-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl04_lblTitle">Improving accessibility and inclusion in air travel – first industry event wraps up in Dubai</span></a>
 <br><br>
 </li>
 <li>
 <span>11 Nov</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-11-11-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl05_lblTitle">Four Priorities for African Aviation</span></a>
+<a href="/pressroom/pr/Pages/2019-11-11-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl05_lblTitle">Four Priorities for African Aviation</span></a>
 <br><br>
 </li>
 <li>
 <span>07 Nov</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-11-07-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl06_lblTitle">Passenger Demand Continues on Moderate Upward Path</span></a>
+<a href="/pressroom/pr/Pages/2019-11-07-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl06_lblTitle">Passenger Demand Continues on Moderate Upward Path</span></a>
 <br><br>
 </li>
 <li>
 <span>06 Nov</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-11-06-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl07_lblTitle">September Air Freight Volumes Remain Weak</span></a>
+<a href="/pressroom/pr/Pages/2019-11-06-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl07_lblTitle">September Air Freight Volumes Remain Weak</span></a>
 <br><br>
 </li>
 <li>
 <span>05 Nov</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-11-05-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl08_lblTitle">Four Priorities Identified for MENA Aviation as Challenging Operating Environment Persists</span></a>
+<a href="/pressroom/pr/Pages/2019-11-05-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl08_lblTitle">Four Priorities Identified for MENA Aviation as Challenging Operating Environment Persists</span></a>
 <br><br>
 </li>
 <li>
 <span>28 Oct</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-10-28-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl09_lblTitle">IATA Update on Regional Developments in Latin America</span></a>
+<a href="/pressroom/pr/Pages/2019-10-28-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl09_lblTitle">IATA Update on Regional Developments in Latin America</span></a>
 <br><br>
 </li>
 <li>
 <span>16 Oct</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-10-16-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl10_lblTitle">More Control, Less Waiting - Top Priorities for Passengers</span></a>
+<a href="/pressroom/pr/Pages/2019-10-16-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl10_lblTitle">More Control, Less Waiting - Top Priorities for Passengers</span></a>
 <br><br>
 </li>
 <li>
 <span>15 Oct</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-10-15-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl11_lblTitle">Technology to Drive Advances in Passenger Experience and Infrastructure </span></a>
+<a href="/pressroom/pr/Pages/2019-10-15-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl11_lblTitle">Technology to Drive Advances in Passenger Experience and Infrastructure </span></a>
  <br><br>
 </li>
 <li>
 <span>10 Oct</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-10-10-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl12_lblTitle">A more competitive air transport industry could generate 200,000 more jobs in Italy</span></a>
+<a href="/pressroom/pr/Pages/2019-10-10-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl12_lblTitle">A more competitive air transport industry could generate 200,000 more jobs in Italy</span></a>
 <br><br>
 </li>
 <li>
 <span>10 Oct</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-10-10-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl13_lblTitle">August Sees Moderate Pick-up in Passenger Demand</span></a>
+<a href="/pressroom/pr/Pages/2019-10-10-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl13_lblTitle">August Sees Moderate Pick-up in Passenger Demand</span></a>
 <br><br>
 </li>
 <li>
 <span>09 Oct</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-10-09-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl14_lblTitle">US-China Trade War Weighs Heavily on Air Cargo</span></a>
+<a href="/pressroom/pr/Pages/2019-10-09-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl14_lblTitle">US-China Trade War Weighs Heavily on Air Cargo</span></a>
 <br><br>
 </li>
 <li>
 <span>08 Oct</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-10-08-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl15_lblTitle"> Continued Prioritization of Aviation Essential to Supporting Jobs and GDP Growth in UAE </span></a>
+<a href="/pressroom/pr/Pages/2019-10-08-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl15_lblTitle"> Continued Prioritization of Aviation Essential to Supporting Jobs and GDP Growth in UAE </span></a>
 <br><br>
 </li>
 <li>
 <span>04 Oct</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-10-04-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl16_lblTitle">Airlines welcome significant progress made at 40th ICAO Assembly</span></a>
+<a href="/pressroom/pr/Pages/2019-10-04-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl16_lblTitle">Airlines welcome significant progress made at 40th ICAO Assembly</span></a>
 <br><br>
 </li>
 <li>
 <span>26 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-26-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl17_lblTitle">Statement: IATA Welcomes Decision to Allow Ancillary Revenues in Brazil</span></a>
+<a href="/pressroom/pr/Pages/2019-09-26-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl17_lblTitle">Statement: IATA Welcomes Decision to Allow Ancillary Revenues in Brazil</span></a>
 <br><br>
 </li>
 <li>
 <span>26 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-26-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl18_lblTitle">IATA Launches Gender Diversity Campaign </span></a>
+<a href="/pressroom/pr/Pages/2019-09-26-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl18_lblTitle">IATA Launches Gender Diversity Campaign </span></a>
 <br><br>
 </li>
 <li>
 <span>25 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-25-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl19_lblTitle">Industry High-level Group Launches Second Aviation Benefits Report</span></a>
+<a href="/pressroom/pr/Pages/2019-09-25-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl19_lblTitle">Industry High-level Group Launches Second Aviation Benefits Report</span></a>
 <br><br> 
 </li>
 <li>
 <span>24 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-24-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl20_lblTitle">Supporting Carbon Neutral Growth Tops Full Agenda at ICAO Assembly</span></a>
+<a href="/pressroom/pr/Pages/2019-09-24-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl20_lblTitle">Supporting Carbon Neutral Growth Tops Full Agenda at ICAO Assembly</span></a>
 <br><br>
 </li>
 <li>
 <span>23 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-23-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl21_lblTitle">Statement on Bankruptcy of Thomas Cook</span></a>
+<a href="/pressroom/pr/Pages/2019-09-23-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl21_lblTitle">Statement on Bankruptcy of Thomas Cook</span></a>
 <br><br>
 </li>
 <li>
 <span>23 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-23-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl22_lblTitle">IATA Launches Solution to Costly Airline Parts Challenges</span></a>
+<a href="/pressroom/pr/Pages/2019-09-23-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl22_lblTitle">IATA Launches Solution to Costly Airline Parts Challenges</span></a>
 <br><br>
 </li>
 <li>
 <span>19 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-19-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl23_lblTitle">Preparing for a Digital Retailing Environment</span></a>
+<a href="/pressroom/pr/Pages/2019-09-19-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl23_lblTitle">Preparing for a Digital Retailing Environment</span></a>
 <br><br>
 </li>
 <li>
 <span>17 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-17-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl24_lblTitle">Improved Infrastructure, Connectivity, Safety & Technology Needed to Unlock Kenya’s Economy</span></a>
+<a href="/pressroom/pr/Pages/2019-09-17-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl24_lblTitle">Improved Infrastructure, Connectivity, Safety & Technology Needed to Unlock Kenya’s Economy</span></a>
 <br><br>
 </li>
 <li>
 <span>16 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-16-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl25_lblTitle">Improving aviation competitiveness in Poland will foster prosperity and generate new jobs</span></a>
+<a href="/pressroom/pr/Pages/2019-09-16-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl25_lblTitle">Improving aviation competitiveness in Poland will foster prosperity and generate new jobs</span></a>
 <br><br>
 </li>
 <li>
 <span>10 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-10-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl26_lblTitle">IATA Calls for Open Dialogue between Government and Industry in Panamá</span></a>
+<a href="/pressroom/pr/Pages/2019-09-10-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl26_lblTitle">IATA Calls for Open Dialogue between Government and Industry in Panamá</span></a>
 <br><br>
 </li>
 <li>
 <span>10 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-10-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl27_lblTitle">Newsbrief: Competitiveness of Austrian Aviation Crucial for Jobs and Prosperity</span></a>
+<a href="/pressroom/pr/Pages/2019-09-10-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl27_lblTitle">Newsbrief: Competitiveness of Austrian Aviation Crucial for Jobs and Prosperity</span></a>
 <br><br>
  </li>
 <li>
 <span>06 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-06-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl28_lblTitle">A Soft Start to the Peak Travel Period</span></a>
+<a href="/pressroom/pr/Pages/2019-09-06-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl28_lblTitle">A Soft Start to the Peak Travel Period</span></a>
 <br><br>
 </li>
 <li>
 <span>05 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-05-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl29_lblTitle">Trade War Impacting Air Freight Demand </span></a>
+<a href="/pressroom/pr/Pages/2019-09-05-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl29_lblTitle">Trade War Impacting Air Freight Demand </span></a>
 <br><br>
 </li>
 <li>
 <span>03 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-03-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl30_lblTitle">Living up to the Legacy of the Chicago Convention </span></a>
+<a href="/pressroom/pr/Pages/2019-09-03-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl30_lblTitle">Living up to the Legacy of the Chicago Convention </span></a>
 <br><br>
 </li>
 <li>
 <span>03 Sep</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-09-03-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl31_lblTitle">Building Capacity for the Future </span></a>
+<a href="/pressroom/pr/Pages/2019-09-03-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl31_lblTitle">Building Capacity for the Future </span></a>
 <br><br>
 </li>
 <li>
 <span>22 Aug</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-08-22-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl32_lblTitle">Working Together to Shape a Sustainable Future</span></a>
+<a href="/pressroom/pr/Pages/2019-08-22-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl32_lblTitle">Working Together to Shape a Sustainable Future</span></a>
 <br><br>
 </li>
 <li>
 <span>20 Aug</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-08-20-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl33_lblTitle">Competitiveness of Swiss aviation crucial for jobs and prosperity</span></a>
+<a href="/pressroom/pr/Pages/2019-08-20-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl33_lblTitle">Competitiveness of Swiss aviation crucial for jobs and prosperity</span></a>
 <br><br>
 </li>
 <li>
 <span>08 Aug</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-08-08-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl34_lblTitle">Solid Passenger Demand, Record Load Factor in June</span></a>
+<a href="/pressroom/pr/Pages/2019-08-08-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl34_lblTitle">Solid Passenger Demand, Record Load Factor in June</span></a>
 <br><br>
 </li>
 <li>
 <span>07 Aug</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-08-07-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl35_lblTitle">Air Freight in Decline for Eighth Consecutive Month</span></a>
+<a href="/pressroom/pr/Pages/2019-08-07-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl35_lblTitle">Air Freight in Decline for Eighth Consecutive Month</span></a>
 <br><br>
 </li>
 <li>
 <span>02 Aug</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-08-02-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl36_lblTitle">NDC Matchmaker Launched</span></a>
+<a href="/pressroom/pr/Pages/2019-08-02-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl36_lblTitle">NDC Matchmaker Launched</span></a>
 <br><br>
 </li>
 <li>
 <span>31 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-31-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl37_lblTitle">More Connectivity and Improved Efficiency -2018 Airline Industry Statistics Released</span></a>
+<a href="/pressroom/pr/Pages/2019-07-31-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl37_lblTitle">More Connectivity and Improved Efficiency -2018 Airline Industry Statistics Released</span></a>
 <br><br>
 </li>
 <li>
 <span>19 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-19-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl38_lblTitle">IATA lista para cooperar con el gobierno mexicano en el rediseño del espacio aéreo en la Ciudad de México </span></a>
+<a href="/pressroom/pr/Pages/2019-07-19-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl38_lblTitle">IATA lista para cooperar con el gobierno mexicano en el rediseño del espacio aéreo en la Ciudad de México </span></a>
 <br><br>
 </li>
 <li>
 <span>19 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-19-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl39_lblTitle">IATA Recommendations on boosting the value of aviation in Colombia</span></a>
+<a href="/pressroom/pr/Pages/2019-07-19-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl39_lblTitle">IATA Recommendations on boosting the value of aviation in Colombia</span></a>
 <br><br>
 </li>
 <li>
 <span>18 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-18-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl40_lblTitle">Statement on the Ebola outbreak in DR Congo</span></a>
+<a href="/pressroom/pr/Pages/2019-07-18-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl40_lblTitle">Statement on the Ebola outbreak in DR Congo</span></a>
 <br><br>
 </li>
 <li>
 <span>18 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-18-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl41_lblTitle">Air Traffic Control Inefficiencies Mean Summer of Wasted Emissions and Delays </span></a>
+<a href="/pressroom/pr/Pages/2019-07-18-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl41_lblTitle">Air Traffic Control Inefficiencies Mean Summer of Wasted Emissions and Delays </span></a>
 <br><br>
 </li>
 <li>
 <span>15 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-15-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl42_lblTitle">Stronger Regulation of Powerful Airports Needed to Protect Consumers</span></a>
+<a href="/pressroom/pr/Pages/2019-07-15-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl42_lblTitle">Stronger Regulation of Powerful Airports Needed to Protect Consumers</span></a>
 <br><br>
 </li>
 <li>
 <span>11 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-11-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl43_lblTitle">Reforms needed to maximize aviation benefits in South Africa </span></a>
+<a href="/pressroom/pr/Pages/2019-07-11-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl43_lblTitle">Reforms needed to maximize aviation benefits in South Africa </span></a>
 <br><br>
 </li>
 <li>
 <span>10 Jul</span>
 <br>
- <a href="https://www.iata.org/pressroom/pr/Pages/2019-07-10-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl44_lblTitle">IATA and ATA and Join Forces to Implement CEIV Live Animals</span></a>
+ <a href="/pressroom/pr/Pages/2019-07-10-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl44_lblTitle">IATA and ATA and Join Forces to Implement CEIV Live Animals</span></a>
 <br><br>
 </li>
 <li>
 <span>09 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-09-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl45_lblTitle">Statement -On French Eco Aviation Tax</span></a>
+<a href="/pressroom/pr/Pages/2019-07-09-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl45_lblTitle">Statement -On French Eco Aviation Tax</span></a>
 <br><br>
 </li>
 <li>
 <span>09 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-08-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl46_lblTitle">Jobs at Risk if UK Air Transport Competitiveness is Not Safeguarded</span></a>
+<a href="/pressroom/pr/Pages/2019-07-08-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl46_lblTitle">Jobs at Risk if UK Air Transport Competitiveness is Not Safeguarded</span></a>
 <br><br>
 </li>
 <li>
 <span>09 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-09-03.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl47_lblTitle">Securing Air Service Levels for Zimbabwe</span></a>
+<a href="/pressroom/pr/Pages/2019-07-09-03.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl47_lblTitle">Securing Air Service Levels for Zimbabwe</span></a>
 <br><br>
 </li>
 <li>
 <span>04 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-04-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl48_lblTitle">Passenger Demand Stays Solid but the Trend has Slowed</span></a>
+<a href="/pressroom/pr/Pages/2019-07-04-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl48_lblTitle">Passenger Demand Stays Solid but the Trend has Slowed</span></a>
 <br><br>
 </li>
 <li>
 <span>03 Jul</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-07-03-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl49_lblTitle">May Air Freight Volumes Remain Weak </span></a>
+<a href="/pressroom/pr/Pages/2019-07-03-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl49_lblTitle">May Air Freight Volumes Remain Weak </span></a>
 <br><br>
 </li>
 <li>
 <span>28 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-28-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl50_lblTitle">IATA considera urgente la inversión para mejorar la infraestructura aeroportuaria en Cusco</span></a>
+<a href="/pressroom/pr/Pages/2019-06-28-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl50_lblTitle">IATA considera urgente la inversión para mejorar la infraestructura aeroportuaria en Cusco</span></a>
 <br><br>
 </li>
 <li>
 <span>27 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-27-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl51_lblTitle">Statement - Coordinated Effort to Safely Return 737 MAX to Service</span></a>
+<a href="/pressroom/pr/Pages/2019-06-27-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl51_lblTitle">Statement - Coordinated Effort to Safely Return 737 MAX to Service</span></a>
 <br><br>
 </li>
 <li>
 <span>25 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-25-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl52_lblTitle">Three Recommendations to Boost the Benefits of Aviation in Greece</span></a>
+<a href="/pressroom/pr/Pages/2019-06-25-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl52_lblTitle">Three Recommendations to Boost the Benefits of Aviation in Greece</span></a>
 <br><br>
 </li>
 <li>
 <span>25 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-25-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl53_lblTitle">Data, Digital Transformation to Drive Future Customer Experience</span></a>
+<a href="/pressroom/pr/Pages/2019-06-25-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl53_lblTitle">Data, Digital Transformation to Drive Future Customer Experience</span></a>
 <br><br>
 </li>
 <li>
 <span>24 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-24-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl54_lblTitle">Statement about the attacks on Abha Airport, Saudi Arabia</span></a>
+<a href="/pressroom/pr/Pages/2019-06-24-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl54_lblTitle">Statement about the attacks on Abha Airport, Saudi Arabia</span></a>
 <br><br>
 </li>
 <li>
 <span>20 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-20-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl55_lblTitle">IATA Welcomes Brazil's Government Decisions in Further Aligning with International Aviations Standards</span></a>
+<a href="/pressroom/pr/Pages/2019-06-20-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl55_lblTitle">IATA Welcomes Brazil's Government Decisions in Further Aligning with International Aviations Standards</span></a>
 <br><br>
 </li>
 <li>
 <span>20 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-20-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl56_lblTitle">IATA recebe de forma positiva as decisões do governo brasileiro de alinhamento aos padrões internacionais da aviação</span></a>
+<a href="/pressroom/pr/Pages/2019-06-20-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl56_lblTitle">IATA recebe de forma positiva as decisões do governo brasileiro de alinhamento aos padrões internacionais da aviação</span></a>
 <br><br>
 </li>
 <li>
 <span>19 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-19-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl57_lblTitle">Passengers Want Governments to Focus on Sustainable Fuels to Cut Carbon</span></a>
+<a href="/pressroom/pr/Pages/2019-06-19-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl57_lblTitle">Passengers Want Governments to Focus on Sustainable Fuels to Cut Carbon</span></a>
 <br><br>
 </li>
 <li>
 <span>03 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-03-03.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl58_lblTitle">Industry Collaboration Brings New Era for Airport Slot Allocation</span></a>
+<a href="/pressroom/pr/Pages/2019-06-03-03.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl58_lblTitle">Industry Collaboration Brings New Era for Airport Slot Allocation</span></a>
 <br><br>
 </li>
 <li>
 <span>03 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-03-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl59_lblTitle">IATA and Star Alliance Extend Cooperation to Improve Passenger Experience</span></a>
+<a href="/pressroom/pr/Pages/2019-06-03-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl59_lblTitle">IATA and Star Alliance Extend Cooperation to Improve Passenger Experience</span></a>
 <br><br>
 </li>
 <li>
 <span>03 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-03-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl60_lblTitle">Winners of IATA Diversity & Inclusion Awards announced</span></a>
+<a href="/pressroom/pr/Pages/2019-06-03-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl60_lblTitle">Winners of IATA Diversity & Inclusion Awards announced</span></a>
 <br><br>
 </li>
 <li>
 <span>02 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-02-09.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl61_lblTitle">Carsten Spohr New IATA Board Chairman</span></a>
+<a href="/pressroom/pr/Pages/2019-06-02-09.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl61_lblTitle">Carsten Spohr New IATA Board Chairman</span></a>
 <br><br>
 </li>
 <li>
 <span>02 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-02-08.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl62_lblTitle">KLM Royal Dutch Airlines to Host 76th IATA AGM in Amsterdam</span></a>
+<a href="/pressroom/pr/Pages/2019-06-02-08.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl62_lblTitle">KLM Royal Dutch Airlines to Host 76th IATA AGM in Amsterdam</span></a>
 <br><br>
 </li>
 <li>
 <span>02 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-02-07.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl63_lblTitle">IATA AGM Endorses 5 Resolutions</span></a>
+<a href="/pressroom/pr/Pages/2019-06-02-07.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl63_lblTitle">IATA AGM Endorses 5 Resolutions</span></a>
 <br><br>
 </li>
 <li>
 <span>02 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-02-06.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl64_lblTitle">Resolution: End-to-end Seamless Travel across Borders Closer to Reality </span></a>
+<a href="/pressroom/pr/Pages/2019-06-02-06.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl64_lblTitle">Resolution: End-to-end Seamless Travel across Borders Closer to Reality </span></a>
 <br><br>
 </li>
 <li>
 <span>02 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-02-05.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl65_lblTitle">Resolution: RFID Baggage Tracking Set for Global Deployment</span></a>
+<a href="/pressroom/pr/Pages/2019-06-02-05.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl65_lblTitle">Resolution: RFID Baggage Tracking Set for Global Deployment</span></a>
 <br><br>
 </li>
 <li>
 <span>02 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-02-04.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl66_lblTitle">Resolution: Airlines Call for Implementation of Global Carbon Offsetting Scheme</span></a>
+<a href="/pressroom/pr/Pages/2019-06-02-04.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl66_lblTitle">Resolution: Airlines Call for Implementation of Global Carbon Offsetting Scheme</span></a>
 <br><br>
 </li>
 <li>
 <span>02 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-02-03.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl67_lblTitle">Resolution: Airlines Urge Governments to Adhere to Global Slot Allocation Guidelines</span></a>
+<a href="/pressroom/pr/Pages/2019-06-02-03.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl67_lblTitle">Resolution: Airlines Urge Governments to Adhere to Global Slot Allocation Guidelines</span></a>
 <br><br>
 </li>
 <li>
 <span>02 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-02-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl68_lblTitle">Resolution: Airlines Commit to Improve Travel for Passengers with Disabilities</span></a>
+<a href="/pressroom/pr/Pages/2019-06-02-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl68_lblTitle">Resolution: Airlines Commit to Improve Travel for Passengers with Disabilities</span></a>
 <br><br>
 </li>
 <li>
 <span>02 Jun</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-06-02-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl69_lblTitle">Slowing Demand and Rising Costs Squeeze Airline Profits</span></a>
+<a href="/pressroom/pr/Pages/2019-06-02-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl69_lblTitle">Slowing Demand and Rising Costs Squeeze Airline Profits</span></a>
 <br><br>
 </li>
 <li>
 <span>29 May</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-05-29-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl70_lblTitle">Air Cargo Demand Continues Negative 2019 Trend</span></a>
+<a href="/pressroom/pr/Pages/2019-05-29-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl70_lblTitle">Air Cargo Demand Continues Negative 2019 Trend</span></a>
 <br><br>
 </li>
 <li>
 <span>29 May</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-05-29-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl71_lblTitle">Solid Passenger Demand Growth in April</span></a>
+<a href="/pressroom/pr/Pages/2019-05-29-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl71_lblTitle">Solid Passenger Demand Growth in April</span></a>
 <br><br>
 </li>
 <li>
 <span>29 May</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-05-29-03.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl72_lblTitle">Aviation Leaders Assemble in Seoul for IATA’s 75th Annual General Meeting</span></a>
+<a href="/pressroom/pr/Pages/2019-05-29-03.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl72_lblTitle">Aviation Leaders Assemble in Seoul for IATA’s 75th Annual General Meeting</span></a>
 <br><br>
 </li>
 <li>
 <span>27 May</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-05-27-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl73_lblTitle">Ground Handling Priorities: Safety, Global Standards and Modernization</span></a>
+<a href="/pressroom/pr/Pages/2019-05-27-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl73_lblTitle">Ground Handling Priorities: Safety, Global Standards and Modernization</span></a>
 <br><br>
 </li>
 <li>
 <span>13 May</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-05-13-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl74_lblTitle">Three Recommendations to Boost the Benefits of Aviation in France </span></a>
+<a href="/pressroom/pr/Pages/2019-05-13-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl74_lblTitle">Three Recommendations to Boost the Benefits of Aviation in France </span></a>
 <br><br>
 </li>
 <li>
 <span>09 May</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-05-09-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl75_lblTitle">Thriving in the Age of Data and Digital Transformation </span></a>
+<a href="/pressroom/pr/Pages/2019-05-09-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl75_lblTitle">Thriving in the Age of Data and Digital Transformation </span></a>
 <br><br>
 </li>
 <li>
 <span>08 May</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-05-08-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl76_lblTitle">March Passenger Demand Growth Slows on Later Easter Holiday</span></a>
+<a href="/pressroom/pr/Pages/2019-05-08-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl76_lblTitle">March Passenger Demand Growth Slows on Later Easter Holiday</span></a>
 <br><br>
 </li>
 <li>
 <span>07 May</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-05-07-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl77_lblTitle">Weak Air Freight Demand Continues</span></a>
+<a href="/pressroom/pr/Pages/2019-05-07-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl77_lblTitle">Weak Air Freight Demand Continues</span></a>
 <br><br>
 </li>
 <li>
 <span>23 Apr</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-04-23-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl78_lblTitle">IATA Objects to the Manual Collection of Government-Imposed Fees</span></a>
+<a href="/pressroom/pr/Pages/2019-04-23-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl78_lblTitle">IATA Objects to the Manual Collection of Government-Imposed Fees</span></a>
 <br><br>
 </li>
 <li>
 <span>23 Apr</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-04-23-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl79_lblTitle">IATA, ACAO sign MoU to Advance Aviation in MENA</span></a>
+<a href="/pressroom/pr/Pages/2019-04-23-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl79_lblTitle">IATA, ACAO sign MoU to Advance Aviation in MENA</span></a>
 <br><br>
 </li>
 <li>
 <span>12 Apr</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-04-12-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl80_lblTitle">Pursuing an Agenda for Romanian and EU Aviation Competitiveness</span></a>
+<a href="/pressroom/pr/Pages/2019-04-12-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl80_lblTitle">Pursuing an Agenda for Romanian and EU Aviation Competitiveness</span></a>
 <br><br>
 </li>
 <li>
 <span>11 Apr</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-04-11-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl81_lblTitle">IATA Honors its 2019 Top Performing Global Training Partners </span></a>
+<a href="/pressroom/pr/Pages/2019-04-11-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl81_lblTitle">IATA Honors its 2019 Top Performing Global Training Partners </span></a>
 <br><br>
 </li>
 <li>
 <span>04 Apr</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-04-04-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl82_lblTitle">Passenger Demand Moderates in February</span></a>
+<a href="/pressroom/pr/Pages/2019-04-04-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl82_lblTitle">Passenger Demand Moderates in February</span></a>
 <br><br>
 </li>
 <li>
 <span>03 Apr</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-04-03-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl83_lblTitle">Air Freight Demand Continues Downward Trajectory in February 2019 </span></a>
+<a href="/pressroom/pr/Pages/2019-04-03-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl83_lblTitle">Air Freight Demand Continues Downward Trajectory in February 2019 </span></a>
 <br><br>
 </li>
 <li>
 <span>28 Mar</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/28-03-2019-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl84_lblTitle">IATA Diversity and Inclusion Award Judges</span></a>
+<a href="/pressroom/pr/Pages/28-03-2019-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl84_lblTitle">IATA Diversity and Inclusion Award Judges</span></a>
  <br><br>
 </li>
 <li>
 <span>20 Mar</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-03-20-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl85_lblTitle">Unilode Aviation Solutions Wins 2019 IATA Air Cargo Innovation Award</span></a>
+<a href="/pressroom/pr/Pages/2019-03-20-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl85_lblTitle">Unilode Aviation Solutions Wins 2019 IATA Air Cargo Innovation Award</span></a>
 <br><br>
 </li>
 <li>
 <span>13 Mar</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-03-13-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl86_lblTitle">Air France KLM Cargo Become First Airline Group to Adopt DG AutoCheck </span></a>
+<a href="/pressroom/pr/Pages/2019-03-13-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl86_lblTitle">Air France KLM Cargo Become First Airline Group to Adopt DG AutoCheck </span></a>
 <br><br>
 </li>
 <li>
 <span>12 Mar</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-03-12-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl87_lblTitle">IATA Launches CEIV Fresh</span></a>
+<a href="/pressroom/pr/Pages/2019-03-12-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl87_lblTitle">IATA Launches CEIV Fresh</span></a>
 <br><br>
 </li>
 <li>
 <span>12 Mar</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-03-12-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl88_lblTitle">Air Cargo Priorities: Trade, Global Standards and Modernization </span></a>
+<a href="/pressroom/pr/Pages/2019-03-12-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl88_lblTitle">Air Cargo Priorities: Trade, Global Standards and Modernization </span></a>
 <br><br>
 </li>
 <li>
 <span>07 Mar</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-03-07-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl89_lblTitle">2019 Starts on a Positive Note for Passenger Demand</span></a>
+<a href="/pressroom/pr/Pages/2019-03-07-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl89_lblTitle">2019 Starts on a Positive Note for Passenger Demand</span></a>
 <br><br>
 </li>
 <li>
 <span>07 Mar</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-03-07-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl90_lblTitle">Air Freight Makes Weak Start to 2019</span></a>
+<a href="/pressroom/pr/Pages/2019-03-07-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl90_lblTitle">Air Freight Makes Weak Start to 2019</span></a>
 <br><br>
 </li>
 <li>
 <span>28 Feb</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-02-28-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl91_lblTitle">IATA Urges Government-Industry Dialogue in Mexico</span></a>
+<a href="/pressroom/pr/Pages/2019-02-28-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl91_lblTitle">IATA Urges Government-Industry Dialogue in Mexico</span></a>
 <br><br>
 </li>
 <li>
 <span>27 Feb</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-02-27-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl92_lblTitle">IATA Names Ma Tao Regional VP for North Asia</span></a>
+<a href="/pressroom/pr/Pages/2019-02-27-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl92_lblTitle">IATA Names Ma Tao Regional VP for North Asia</span></a>
 <br><br>
 </li>
 <li>
  <span>27 Feb</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-02-27-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl93_lblTitle">Cooperation Key to Keeping Aviation Secure Amid Evolving Threats & Doubling Passenger Demand </span></a>
+<a href="/pressroom/pr/Pages/2019-02-27-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl93_lblTitle">Cooperation Key to Keeping Aviation Secure Amid Evolving Threats & Doubling Passenger Demand </span></a>
 <br><br>
 </li>
 <li>
 <span>26 Feb</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/26-02-2019-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl94_lblTitle">IATA Launches Diversity & Inclusion Awards</span></a>
+<a href="/pressroom/pr/Pages/26-02-2019-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl94_lblTitle">IATA Launches Diversity & Inclusion Awards</span></a>
 <br><br>
 </li>
 <li>
 <span>25 Feb</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/statement-brexit-2019-02-26-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl95_lblTitle">Statement on Latest Aviation No-Deal Brexit Planning</span></a>
+<a href="/pressroom/pr/Pages/statement-brexit-2019-02-26-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl95_lblTitle">Statement on Latest Aviation No-Deal Brexit Planning</span></a>
 <br><br>
 </li>
 <li>
 <span>21 Feb</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-02-21-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl96_lblTitle">IATA Releases 2018 Airline Safety Performance</span></a>
+<a href="/pressroom/pr/Pages/2019-02-21-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl96_lblTitle">IATA Releases 2018 Airline Safety Performance</span></a>
 <br><br>
 </li>
 <li>
 <span>13 Feb</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-02-13-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl97_lblTitle">IATA Calls on US Government, Industry, to Work Together to Grow Aviation’s Benefits</span></a>
+<a href="/pressroom/pr/Pages/2019-02-13-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl97_lblTitle">IATA Calls on US Government, Industry, to Work Together to Grow Aviation’s Benefits</span></a>
 <br><br>
 </li>
 <li>
 <span>07 Feb</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-02-07-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl98_lblTitle">Healthy Passenger Demand Continues in 2018 with Another Record Load Factor </span></a>
+<a href="/pressroom/pr/Pages/2019-02-07-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl98_lblTitle">Healthy Passenger Demand Continues in 2018 with Another Record Load Factor </span></a>
 <br><br>
 </li>
 <li>
 <span>06 Feb</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-02-06-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl99_lblTitle">Air Freight Demand Ends Year Up 3.5%, Despite Softening Late 2018</span></a>
+<a href="/pressroom/pr/Pages/2019-02-06-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl99_lblTitle">Air Freight Demand Ends Year Up 3.5%, Despite Softening Late 2018</span></a>
 <br><br>
 </li>
 <li>
 <span>24 Jan</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-01-24-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl100_lblTitle">AVSEC World Conference Looks at Disrupters & Enablers to Aviation Security </span></a>
+<a href="/pressroom/pr/Pages/2019-01-24-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl100_lblTitle">AVSEC World Conference Looks at Disrupters & Enablers to Aviation Security </span></a>
 <br><br>
 </li>
 <li>
  <span>22 Jan</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-01-22-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl101_lblTitle">PNR (Passenger Name Record) Statement</span></a>
+<a href="/pressroom/pr/Pages/2019-01-22-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl101_lblTitle">PNR (Passenger Name Record) Statement</span></a>
 <br><br>
 </li>
 <li>
 <span>15 Jan</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-01-15-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl102_lblTitle">Statement: Current Flights Protected, but Future Growth at Risk from No Deal Brexit</span></a>
+<a href="/pressroom/pr/Pages/2019-01-15-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl102_lblTitle">Statement: Current Flights Protected, but Future Growth at Risk from No Deal Brexit</span></a>
 <br><br>
 </li>
 <li>
 <span>09 Jan</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-01-09-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl103_lblTitle">Solid but Moderating Passenger Demand in November</span></a>
+<a href="/pressroom/pr/Pages/2019-01-09-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl103_lblTitle">Solid but Moderating Passenger Demand in November</span></a>
 <br><br>
 </li>
 <li>
 <span>08 Jan</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-01-08-03.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl104_lblTitle">Air Freight Demand Flat in November </span></a>
+<a href="/pressroom/pr/Pages/2019-01-08-03.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl104_lblTitle">Air Freight Demand Flat in November </span></a>
 <br><br>
 </li>
 <li>
 <span>08 Jan</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-01-08-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl105_lblTitle">Aviation Drives Economic Growth for Jordan</span></a>
+<a href="/pressroom/pr/Pages/2019-01-08-02.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl105_lblTitle">Aviation Drives Economic Growth for Jordan</span></a>
 <br><br>
 </li>
 <li>
 <span>08 Jan</span>
 <br>
-<a href="https://www.iata.org/pressroom/pr/Pages/2019-01-08-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl106_lblTitle">New Payment Method for Air Tickets Successfully Demonstrated </span></a>
+<a href="/pressroom/pr/Pages/2019-01-08-01.aspx"><span id="ctl00_SPWebPartManager1_g_5debb5d0_cec6_4dc9_a063_186151d7a222_ctl00_rptPressRelease_ctl106_lblTitle">New Payment Method for Air Tickets Successfully Demonstrated </span></a>
 <br><br>
 </li>
 </ul>
@@ -1117,7 +1117,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">
 <span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>
@@ -1149,14 +1149,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

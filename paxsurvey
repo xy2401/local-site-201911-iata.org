@@ -1020,13 +1020,13 @@ piHostname = 'pi.pardot.com';
 			<div class="row mobile-hide">
 				<!-- Button : BEGIN -->
 				<div align="center" cellspacing="0" cellpadding="0" border="0" style="background: #ffffff; padding: 10px; width: 93%; margin: 0 auto;">
-					<a class="button-a button-a-primary" href="https://www.iata.org/publications/store/Pages/global-passenger-survey.aspx" target="_blank" style=" background-image: url('https://go.updates.iata.org/l/123902/2019-04-16/835gqc/123902/285332/2670_Shape_Button.png'); background-repeat: no-repeat; background-position: right bottom; text-align: left; font-family: sans-serif; font-size: 30px; text-decoration: none; display: block; line-height: 32px;"><span class="button-link" style="color: #f04632;">Learn more about the<br/><strong>IATA Global Passenger Survey</strong></span></a>
+					<a class="button-a button-a-primary" href="/publications/store/Pages/global-passenger-survey.aspx" target="_blank" style=" background-image: url('https://go.updates.iata.org/l/123902/2019-04-16/835gqc/123902/285332/2670_Shape_Button.png'); background-repeat: no-repeat; background-position: right bottom; text-align: left; font-family: sans-serif; font-size: 30px; text-decoration: none; display: block; line-height: 32px;"><span class="button-link" style="color: #f04632;">Learn more about the<br/><strong>IATA Global Passenger Survey</strong></span></a>
 				</div>
 				<!-- Button : END -->
 			</div>
 			<div class="row desktop-hide">
 				<div align="center" cellspacing="0" cellpadding="0" border="0" style="background: #ffffff; padding: 10px 15px; width: 80%; margin: 0 auto;">
-					<a class="button-a button-a-primary" href="https://www.iata.org/publications/store/Pages/global-passenger-survey.aspx" target="_blank" style="text-align: left; font-family: sans-serif; font-size: 30px; text-decoration: none; display: block; line-height: 32px;"><span class="button-link" style="color: #f04632;">Learn more about the <strong>IATA Global Passenger Survey</strong></span></a>
+					<a class="button-a button-a-primary" href="/publications/store/Pages/global-passenger-survey.aspx" target="_blank" style="text-align: left; font-family: sans-serif; font-size: 30px; text-decoration: none; display: block; line-height: 32px;"><span class="button-link" style="color: #f04632;">Learn more about the <strong>IATA Global Passenger Survey</strong></span></a>
 				</div>
 			</div>
 		</div>
@@ -1072,7 +1072,7 @@ piHostname = 'pi.pardot.com';
 							<a href="https://www.youtube.com/iatatv" target="_blank" style="color: #ffffff; text-decoration: none;"><i class="fab fa-youtube" style="font-size: 25px;"></i></a>
 						</li>
 						<li style="list-style-type: none; display: inline; padding: 0 15px;">
-							<a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&amp;web=%2Fpressroom%2Fpr&amp;page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&amp;wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&amp;pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank" style="color: #ffffff; text-decoration: none;"><i class="fas fa-rss" style="font-size: 25px;"></i></a>
+							<a href="/_layouts/15/feed.aspx?xsl=1&amp;web=%2Fpressroom%2Fpr&amp;page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&amp;wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&amp;pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank" style="color: #ffffff; text-decoration: none;"><i class="fas fa-rss" style="font-size: 25px;"></i></a>
 						</li>
 					</ul>
 				</div>
@@ -1083,7 +1083,7 @@ piHostname = 'pi.pardot.com';
 					<p class="center-on-narrow" style="color: #FFF;">© International Air Transport Association (IATA) 2019. All rights reserved.</p>
 				</div>
 				<div class="col-md-2">
-					<p style="color: #FFF; text-align: center;"><a href="https://www.iata.org/Pages/privacy.aspx" target="_self" style="color: #ffffff; text-decoration: none;">Privacy</a> | <a href="https://www.iata.org/Pages/terms.aspx" target="_self" style="color: #ffffff; text-decoration: none;">Legal</a></p>
+					<p style="color: #FFF; text-align: center;"><a href="/Pages/privacy.aspx" target="_self" style="color: #ffffff; text-decoration: none;">Privacy</a> | <a href="/Pages/terms.aspx" target="_self" style="color: #ffffff; text-decoration: none;">Legal</a></p>
 				</div>
 			</div>
 		</div>

@@ -44,7 +44,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/pressroom/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/pressroom/Pages/index.aspx" />
+<link rel="canonical" href=":443/pressroom/Pages/index.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -356,7 +356,7 @@ Senior Management Bios
 <a href="/pressroom/pr/Pages/index.aspx">Press releases</a></li><li>
 <a href="/pressroom/speeches/pages/index.aspx">Speeches</a><br></li><li>
 <a href="/pressroom/Pages/opeds.aspx">Opinion pieces</a></li><li>
-<a href="https://www.iata.org/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)</li></ul></div><div class="cell col1_2"></div><div><p>​​​​​​​​​​​​​​​​​​​​<span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/51_.000"><a href="http&#58;//airlines.iata.org/" target="_blank"><img alt="Airlines International Magazine" src="/PublishingImages/airlines-5-central.jpg" border="0" style="border&#58;0px solid currentcolor;width&#58;330px;" /></a></span> &#160; &#160;&#160;<a href="/publications/pages/annual-review.aspx" target="_blank"><img alt="annual-review-2015-update.png" src="/pressroom/PublishingImages/Annual-review-pr.jpg" style="width&#58;316px;height&#58;336px;" /></a><br></p><h2>Media contact</h2><ul><li>
+<a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)</li></ul></div><div class="cell col1_2"></div><div><p>​​​​​​​​​​​​​​​​​​​​<span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/51_.000"><a href="http&#58;//airlines.iata.org/" target="_blank"><img alt="Airlines International Magazine" src="/PublishingImages/airlines-5-central.jpg" border="0" style="border&#58;0px solid currentcolor;width&#58;330px;" /></a></span> &#160; &#160;&#160;<a href="/publications/pages/annual-review.aspx" target="_blank"><img alt="annual-review-2015-update.png" src="/pressroom/PublishingImages/Annual-review-pr.jpg" style="width&#58;316px;height&#58;336px;" /></a><br></p><h2>Media contact</h2><ul><li>
 <a href="/pressroom/Pages/contacts.aspx" target="_blank">Contact our media relations team</a><br></li></ul></div></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2" class="ajax__tab_panel" style="display:none;">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2_label" style='display:none'>IATATabContent2</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2_label"><h3 class="ms-rteElement-H3">Most popular fact sheets</h3><ul><li>
@@ -486,7 +486,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><strong>AGM 2019 Photos </strong>
 <a title="Annual Report of the Air Transport Industry" href="https&#58;//www.flickr.com/photos/iataorg/47982291102/in/album-72157708785739312/" data-flickr-embed="true">
 <img width="150" height="150" alt="Annual Report of the Air Transport Industry" src="https&#58;//live.staticflickr.com/65535/47982291102_d2ef14eb38_q.jpg" /></a><a title="Hyun-Mee Kim, Minister of Land, Infrastructure and Transport, Republic of Korea" href="https&#58;//www.flickr.com/photos/iataorg/47982348807/in/album-72157708785739312/" data-flickr-embed="true"><img width="150" height="150" alt="Hyun-Mee Kim, Minister of Land, Infrastructure and Transport, Republic of Korea" src="https&#58;//live.staticflickr.com/65535/47982348807_e986cc4aa3_q.jpg" /></a><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>
@@ -518,14 +518,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

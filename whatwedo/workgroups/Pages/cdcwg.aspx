@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content=''>
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/workgroups/Pages/cdcwg.aspx" />
+<link rel="canonical" href=":443/whatwedo/workgroups/Pages/cdcwg.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -433,7 +433,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <a href="/whatwedo/cargo/e/Pages/cargo-connect.aspx" target="_blank">Cargo Connect project</a><br></p><p>
 <a href="/whatwedo/cargo/stb/Pages/index.aspx">StB Cargo</a><br></p><p>
 <a href="https://www.iata.org/whatwedo/cargo/e/Documents/air-cargo-digital-connectivity.pdf" target="_blank">​​White Paper on Air Cargo Digital Connectivity and Data Exchange Methodologies</a><br></p><p>
-<a href="https://www.iata.org/publications/store/Pages/cargo-services-conference-resolution.aspx">Recommended Practice 1687&#58; Digital Connectivity and Data Exchange Practice</a><br></p><p><a href="/whatwedo/workgroups/Documents/standard-procedure-for-partner-registration.pdf" target="_blank">Standard Procedures for Partner Registration and Distribution </a>(pdf)<br></p></div>
+<a href="/publications/store/Pages/cargo-services-conference-resolution.aspx">Recommended Practice 1687&#58; Digital Connectivity and Data Exchange Practice</a><br></p><p><a href="/whatwedo/workgroups/Documents/standard-procedure-for-partner-registration.pdf" target="_blank">Standard Procedures for Partner Registration and Distribution </a>(pdf)<br></p></div>
 </div>
 <div class='hide_element_75ec9e35-30a5-43f7-b090-cf4b8ab8fd6f'></div><script type='text/javascript'>CTP.IATA.HideChrome('75ec9e35-30a5-43f7-b090-cf4b8ab8fd6f')</script>
 <div class='hide_element_c0f6a794-750d-46a2-839b-938c5533c7c5'></div><script type='text/javascript'>CTP.IATA.HideChrome('c0f6a794-750d-46a2-839b-938c5533c7c5')</script>
@@ -460,15 +460,15 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

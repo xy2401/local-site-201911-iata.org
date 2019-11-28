@@ -45,7 +45,7 @@
 <meta property='og:image' content='https://www.iata.org/pressroom/pr/PublishingImages/Briand-pearce-2019-AGM.jpg'>
 <meta property='og:image:secure_url' content='https://www.iata.org/pressroom/pr/PublishingImages/Briand-pearce-2019-AGM.jpg'>
 <meta property='og:description' content='IATA announced a downgrade of its 2019 outlook for the global air transport industry to a $28 billion profit (from $35.5 billion forecast in December 2018). '>
-<link rel="canonical" href="https://www.iata.org:443/pressroom/pr/Pages/2019-06-02-01.aspx" />
+<link rel="canonical" href=":443/pressroom/pr/Pages/2019-06-02-01.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -388,7 +388,7 @@ Slowing Demand and Rising Costs Squeeze Airline Profits
 <strong>Latin America</strong></td><td>7.0</td><td>6.2</td><td>7.3</td><td colspan="1">5.1​</td><td colspan="1">81.6</td><td colspan="1">82.5​</td></tr><tr><td rowspan="1">
 <strong>​Africa</strong></td><td rowspan="1">​6.1</td><td rowspan="1">4.3​</td><td rowspan="1">4.4​</td><td rowspan="1" colspan="1">3.7​</td><td rowspan="1" colspan="1">71.5​</td><td rowspan="1" colspan="1">71.9​</td></tr></tbody></table></span>
 <p> &#160;</p><h3 class="iataElement-Title3">The Business of Freedom</h3><p>&#160;“Aviation is the business of freedom. For 4.6 billion travelers it is their freedom to explore, build business, or reunite with friends and family. The economic benefit of this is 65 million jobs and a $2.7 trillion boost to the global economy. Aviation is growing responsibly to meet this demand. From 2020, for example, the industry will achieve carbon-neutral growth. And that is on the way to the much more ambitious goal of cutting emissions to half 2005 levels by 2050. We are determined to deliver sustainable global connectivity through aviation,” said de Juniac.</p><p>Some key indicators of the strength of global connectivity include&#58;<br></p><ul><li>The 2019 average return airfare (before surcharges and tax) is expected to be $317 (2018 dollars), which is 61% below 1998 levels after adjusting for inflation. It is also $10 lower than in 2018 in real terms.</li><li>Average air freight rates in 2019 are expected to be $1.86/kg (2018 dollars) which is a 62% fall on 1998 levels.</li><li>The number of routes served by aviation is forecast to grow to over 58,000 in 2019, up from 52,000 in 2014.</li><li>The global spend on tourism enabled by air transport is expected to grow by 7.8% in 2019 to $909 billion.</li><li>Airlines are expected to take delivery of more than 1,770 new aircraft in 2019, many of which will replace older and less fuel-efficient aircraft. This will expand the global commercial fleet by 3.67% to over 30,697 aircraft. This will help improve fuel efficiency by 1.7% to 22.4 liters/100 available tonne kilometers.</li></ul><p>
-<a href="https://www.iata.org/publications/economics/Reports/Industry-Econ-Performance/Airline-Industry-Economic-Performance-Jun19-Report.pdf" target="_blank">View full traffic tables</a> (pdf)<br><a href="/pressroom/speeches/Pages/2019-06-02-01.aspx">Alexandre de Juniac's report of the Air Transport Industry&#160;</a><br></p><p>
+<a href="/publications/economics/Reports/Industry-Econ-Performance/Airline-Industry-Economic-Performance-Jun19-Report.pdf" target="_blank">View full traffic tables</a> (pdf)<br><a href="/pressroom/speeches/Pages/2019-06-02-01.aspx">Alexandre de Juniac's report of the Air Transport Industry&#160;</a><br></p><p>
 <strong>For more information, please contact</strong>&#58;
 <br>Corporate Communications<br>Tel&#58; +41 22 770 2967<br>Email&#58;
 <a href="mailto&#58;corpcomms@iata.org">corpcomms@iata.org</a><br><br><strong>Notes for Editors</strong>&#58;<br></p><ul><li>IATA (International Air Transport Association) represents some 290 airlines comprising 82% of global air traffic.</li><li>You can follow us at
@@ -472,7 +472,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <a title="Industry Outlook Update" href="https&#58;//www.flickr.com/photos/iataorg/47982964101/in/album-72157708785739312/" data-flickr-embed="true">
 <img width="150" height="150" alt="Industry Outlook Update" src="https&#58;//live.staticflickr.com/65535/47982964101_77da2daf1c_q.jpg" /></a><a title="Media Briefing&#58; Economic Outlook" href="https&#58;//www.flickr.com/photos/iataorg/47983417746/in/album-72157708785739312/" data-flickr-embed="true"><img width="150" height="150" alt="Media Briefing&#58; Economic Outlook" src="https&#58;//live.staticflickr.com/65535/47983417746_884b33780f_q.jpg" /></a>
 <span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>
@@ -505,14 +505,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

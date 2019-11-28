@@ -305,7 +305,7 @@ Sys.Application._enableHistoryInScriptManager();
 <div class="dividerContainer genericPage">
 <div id="ct-txt" class="clearfix widthLimiter">
 <div id="leftNavigation" class="noindex">
-<ul><li><div><a href="/training/Pages/index.aspx">Training</a></div><span class="icon icon-navArrowDown"></span><ul><li><div><a href="/training/courses/Pages/index.aspx">Search Courses</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/training/Pages/Calendar.aspx">IATA Classroom Schedule</a></div></li><li><div><a href="/training/Pages/partner-network.aspx">Training Locations</a></div></li><li><div><a href="/training/Pages/exam-schedule.aspx">Exams</a></div></li><li><div><a href="/training/diploma_program/Pages/index.aspx">Diploma Programs</a></div></li></ul></li><li><div><a href="/training/subject-areas/Pages/index.aspx">Subject Areas</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/training/subject-areas/Pages/air-navigation-courses.aspx">Air Navigation Services</a></div></li><li><div><a href="/training/subject-areas/Pages/airline-management-courses.aspx">Airline Management</a></div></li><li><div><a href="/training/subject-areas/Pages/airline-operations-quality.aspx">Airline Operations, Quality</a></div></li><li><div><a href="/training/subject-areas/Pages/airport-courses.aspx">Airport</a></div></li><li><div><a href="/training/subject-areas/Pages/human-performance-courses.aspx">Management & Leadership</a></div></li><li><div><a href="/training/subject-areas/Pages/cargo.aspx">Cargo & Logistics</a></div></li><li><div><a href="/training/subject-areas/Pages/civil-aviation-courses.aspx">Civil Aviation Authorities</a></div></li><li><div><a href="/training/subject-areas/Pages/dangerous-goods-regulations-courses.aspx">DGR</a></div></li><li><div><a href="/training/subject-areas/Pages/environment-courses.aspx">Environment and Fuel</a></div></li><li><div><a href="/training/subject-areas/Pages/fares-ticketing-courses.aspx">Fares and Ticketing</a></div></li><li><div><a href="/training/subject-areas/Pages/finance-accounting-courses.aspx">Finance and Accounting</a></div></li><li><div><a href="/training/subject-areas/Pages/ground-operations-courses.aspx">Ground Operations</a></div></li><li><div><a href="/training/subject-areas/Pages/law-regulations-courses.aspx">Law and Regulations</a></div></li><li><div><a href="/training/subject-areas/Pages/safety-courses.aspx">Safety</a></div></li><li><div><a href="/training/subject-areas/Pages/sales-marketing-courses.aspx">Sales and Marketing</a></div></li><li><div><a href="/training/subject-areas/Pages/security-courses.aspx">Security</a></div></li><li><div><a href="/training/subject-areas/Pages/travel-tourism-courses.aspx">Travel and Tourism</a></div></li></ul></li><li><div><a href="/training/delivery/Pages/index.aspx">Learning Methods</a></div><span class="icon icon-navArrowDown"></span><ul><li><div><a href="/training/delivery/Pages/classroom-training-centers.aspx">Instructor-led training</a></div></li><li class="current"><div><a href="/training/delivery/Pages/distance-learning.aspx">Self-study courses</a></div></li><li><div><a href="/training/delivery/Pages/in-company.aspx">In-house training</a></div></li></ul></li><li><div><a href="/training/delivery/Pages/trainingpartners.aspx">Training Partners</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/training/Pages/atc.aspx">Authorized Training Centers </a></div></li><li><div><a href="/training/Pages/ats.aspx">Accredited Training Schools </a></div></li><li><div><a href="/training/Pages/regional_training_centres.aspx">Regional Training Partners </a></div></li><li><div><a href="/training/Pages/academic-partners.aspx">Academic Partners</a></div></li></ul></li><li><div><a href="https://www.iata.org/training/validation-programs/Pages/validation-programs.aspx">Validation Programs</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="https://www.iata.org/training/validation-programs/Pages/cetv.aspx">Training Validation</a></div></li><li><div><a href="https://www.iata.org/training/validation-programs/Pages/consultancy.aspx">Training Consultancy</a></div></li></ul></li><li><div><a href="/training/Pages/aboutus.aspx">About Training</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/training/Pages/our-instructors.aspx">Instructors</a></div></li><li><div><a href="/training/Pages/pricing.aspx">Pricing</a></div></li><li><div><a href="/training/Pages/faq.aspx">FAQ</a></div></li><li><div><a href="/training/Pages/contactus.aspx">Contact us</a></div></li></ul></li><li><div><a href="/training">Recent</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li></ul></li></ul>
+<ul><li><div><a href="/training/Pages/index.aspx">Training</a></div><span class="icon icon-navArrowDown"></span><ul><li><div><a href="/training/courses/Pages/index.aspx">Search Courses</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/training/Pages/Calendar.aspx">IATA Classroom Schedule</a></div></li><li><div><a href="/training/Pages/partner-network.aspx">Training Locations</a></div></li><li><div><a href="/training/Pages/exam-schedule.aspx">Exams</a></div></li><li><div><a href="/training/diploma_program/Pages/index.aspx">Diploma Programs</a></div></li></ul></li><li><div><a href="/training/subject-areas/Pages/index.aspx">Subject Areas</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/training/subject-areas/Pages/air-navigation-courses.aspx">Air Navigation Services</a></div></li><li><div><a href="/training/subject-areas/Pages/airline-management-courses.aspx">Airline Management</a></div></li><li><div><a href="/training/subject-areas/Pages/airline-operations-quality.aspx">Airline Operations, Quality</a></div></li><li><div><a href="/training/subject-areas/Pages/airport-courses.aspx">Airport</a></div></li><li><div><a href="/training/subject-areas/Pages/human-performance-courses.aspx">Management & Leadership</a></div></li><li><div><a href="/training/subject-areas/Pages/cargo.aspx">Cargo & Logistics</a></div></li><li><div><a href="/training/subject-areas/Pages/civil-aviation-courses.aspx">Civil Aviation Authorities</a></div></li><li><div><a href="/training/subject-areas/Pages/dangerous-goods-regulations-courses.aspx">DGR</a></div></li><li><div><a href="/training/subject-areas/Pages/environment-courses.aspx">Environment and Fuel</a></div></li><li><div><a href="/training/subject-areas/Pages/fares-ticketing-courses.aspx">Fares and Ticketing</a></div></li><li><div><a href="/training/subject-areas/Pages/finance-accounting-courses.aspx">Finance and Accounting</a></div></li><li><div><a href="/training/subject-areas/Pages/ground-operations-courses.aspx">Ground Operations</a></div></li><li><div><a href="/training/subject-areas/Pages/law-regulations-courses.aspx">Law and Regulations</a></div></li><li><div><a href="/training/subject-areas/Pages/safety-courses.aspx">Safety</a></div></li><li><div><a href="/training/subject-areas/Pages/sales-marketing-courses.aspx">Sales and Marketing</a></div></li><li><div><a href="/training/subject-areas/Pages/security-courses.aspx">Security</a></div></li><li><div><a href="/training/subject-areas/Pages/travel-tourism-courses.aspx">Travel and Tourism</a></div></li></ul></li><li><div><a href="/training/delivery/Pages/index.aspx">Learning Methods</a></div><span class="icon icon-navArrowDown"></span><ul><li><div><a href="/training/delivery/Pages/classroom-training-centers.aspx">Instructor-led training</a></div></li><li class="current"><div><a href="/training/delivery/Pages/distance-learning.aspx">Self-study courses</a></div></li><li><div><a href="/training/delivery/Pages/in-company.aspx">In-house training</a></div></li></ul></li><li><div><a href="/training/delivery/Pages/trainingpartners.aspx">Training Partners</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/training/Pages/atc.aspx">Authorized Training Centers </a></div></li><li><div><a href="/training/Pages/ats.aspx">Accredited Training Schools </a></div></li><li><div><a href="/training/Pages/regional_training_centres.aspx">Regional Training Partners </a></div></li><li><div><a href="/training/Pages/academic-partners.aspx">Academic Partners</a></div></li></ul></li><li><div><a href="/training/validation-programs/Pages/validation-programs.aspx">Validation Programs</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/training/validation-programs/Pages/cetv.aspx">Training Validation</a></div></li><li><div><a href="/training/validation-programs/Pages/consultancy.aspx">Training Consultancy</a></div></li></ul></li><li><div><a href="/training/Pages/aboutus.aspx">About Training</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/training/Pages/our-instructors.aspx">Instructors</a></div></li><li><div><a href="/training/Pages/pricing.aspx">Pricing</a></div></li><li><div><a href="/training/Pages/faq.aspx">FAQ</a></div></li><li><div><a href="/training/Pages/contactus.aspx">Contact us</a></div></li></ul></li><li><div><a href="/training">Recent</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li></ul></li></ul>
 <div>
 <div id="ctl00_PlaceHolderMain_DisplaySkyScraper_ctl00_label" style='display:none'>IATASkyscraperAD</div><div id="ctl00_PlaceHolderMain_DisplaySkyScraper_ctl00__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplaySkyScraper_ctl00_label"><div class="ms-rtestate-field">&#160;</div></div>
 </div>
@@ -395,10 +395,10 @@ Shipping Fees
 </div>
 <table border="0" style="width:100%;font-size:8pt!important;" cellpadding="0" cellspacing="0">
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transportation-system-tcvg92.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl00_rptCourses_ctl01_lbCourseTitle">Overview of the Air Transportation System - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transportation-system-tcvg92.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl00_rptCourses_ctl01_lbCourseTitle">Overview of the Air Transportation System - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/pbn-awareness-package-tcvt48.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl00_rptCourses_ctl02_lbCourseTitle">Performance Based Navigation (PBN) Awareness Package (NAV-PBN-AWR) - with the EUROCONTROL Institute of ANS - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/pbn-awareness-package-tcvt48.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl00_rptCourses_ctl02_lbCourseTitle">Performance Based Navigation (PBN) Awareness Package (NAV-PBN-AWR) - with the EUROCONTROL Institute of ANS - E-Learning - English</span></a></td>
 </tr>
 </table>
 <input type="hidden" name="ctl00$SPWebPartManager1$g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0$ctl00$rptBusiness$ctl00$panCoursesCollapsibleExtender_ClientState" id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl00_panCoursesCollapsibleExtender_ClientState" />
@@ -419,145 +419,145 @@ Shipping Fees
 </div>
 <table border="0" style="width:100%;font-size:8pt!important;" cellpadding="0" cellspacing="0">
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-rating-marketing-tcgp12.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl01_lbCourseTitle">Air Cargo Advanced Marketing </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-rating-marketing-tcgp12.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl01_lbCourseTitle">Air Cargo Advanced Marketing </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-rating-marketing-tcgp12hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl02_lbCourseTitle">Air Cargo Advanced Marketing for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-rating-marketing-tcgp12hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl02_lbCourseTitle">Air Cargo Advanced Marketing for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transport-fundamentals-tcvg27.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl03_lbCourseTitle">Air Transport Fundamentals </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transport-fundamentals-tcvg27.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl03_lbCourseTitle">Air Transport Fundamentals </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transport-fundamentals-tcvg27hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl04_lbCourseTitle">Air Transport Fundamentals for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transport-fundamentals-tcvg27hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl04_lbCourseTitle">Air Transport Fundamentals for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-cabin-crew-talg51.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl05_lbCourseTitle">Airline Cabin Crew Training </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-cabin-crew-talg51.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl05_lbCourseTitle">Airline Cabin Crew Training </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-cabin-crew-talg51hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl06_lbCourseTitle">Airline Cabin Crew Training for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-cabin-crew-talg51hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl06_lbCourseTitle">Airline Cabin Crew Training for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-customer-service-talm51.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl07_lbCourseTitle">Airline Customer Service </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-customer-service-talm51.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl07_lbCourseTitle">Airline Customer Service </span></a></td>
  </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-customer-service-talm51hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl08_lbCourseTitle">Airline Customer Service for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-customer-service-talm51hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl08_lbCourseTitle">Airline Customer Service for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-marketing-talm53.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl09_lbCourseTitle">Airline Marketing </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-marketing-talm53.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl09_lbCourseTitle">Airline Marketing </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-marketing-talm53hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl10_lbCourseTitle">Airline Marketing for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-marketing-talm53hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl10_lbCourseTitle">Airline Marketing for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-revenue-management-talf51.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl11_lbCourseTitle">Airline Revenue Management </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-revenue-management-talf51.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl11_lbCourseTitle">Airline Revenue Management </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-revenue-management-talf51hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl12_lbCourseTitle">Airline Revenue Management for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-revenue-management-talf51hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl12_lbCourseTitle">Airline Revenue Management for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/aviation-competition-law-tall16.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl13_lbCourseTitle">Aviation Competition Law - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/aviation-competition-law-tall16.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl13_lbCourseTitle">Aviation Competition Law - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/aviation-security-awareness-tscs13.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl14_lbCourseTitle">Aviation Security Awareness </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/aviation-security-awareness-tscs13.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl14_lbCourseTitle">Aviation Security Awareness </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/aviation-security-awareness-tscs13hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl15_lbCourseTitle">Aviation Security Awareness for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/aviation-security-awareness-tscs13hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl15_lbCourseTitle">Aviation Security Awareness for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-billing-agent-tttg46.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl16_lbCourseTitle">BSP Agent Billing Reports and Procedures - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-billing-agent-tttg46.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl16_lbCourseTitle">BSP Agent Billing Reports and Procedures - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-agent-remittance-tttg47.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl17_lbCourseTitle">BSP Agent Remittance Procedures - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-agent-remittance-tttg47.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl17_lbCourseTitle">BSP Agent Remittance Procedures - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-essentials-tttg49.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl18_lbCourseTitle">BSP Essentials for Travel Agents - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-essentials-tttg49.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl18_lbCourseTitle">BSP Essentials for Travel Agents - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-essentials-exam-tttg50.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl19_lbCourseTitle">BSP Essentials for Travel Agents: Final Examination - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-essentials-exam-tttg50.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl19_lbCourseTitle">BSP Essentials for Travel Agents: Final Examination - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-documents-procedures-tttg45.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl20_lbCourseTitle">BSP Standard Documents and Procedures - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-documents-procedures-tttg45.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl20_lbCourseTitle">BSP Standard Documents and Procedures - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-introductory-tcgp11.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl21_lbCourseTitle">Cargo Introductory Course </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-introductory-tcgp11.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl21_lbCourseTitle">Cargo Introductory Course </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-introductory-tcgp11hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl22_lbCourseTitle">Cargo Introductory Course for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-introductory-tcgp11hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl22_lbCourseTitle">Cargo Introductory Course for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-security-awareness-tcgp79.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl23_lbCourseTitle">Cargo Security Awareness </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-security-awareness-tcgp79.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl23_lbCourseTitle">Cargo Security Awareness </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-cabin-security-tcgp42.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl24_lbCourseTitle">Dangerous Goods Regulations (DGR) for Cabin Crew, Passenger Handling and Security Personnel - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-cabin-security-tcgp42.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl24_lbCourseTitle">Dangerous Goods Regulations (DGR) for Cabin Crew, Passenger Handling and Security Personnel - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
- <td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-flight-crew-load-tcgp39.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl25_lbCourseTitle">Dangerous Goods Regulations (DGR) for Flight Crew and Load Planners - E-Learning - English</span></a></td>
+ <td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-flight-crew-load-tcgp39.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl25_lbCourseTitle">Dangerous Goods Regulations (DGR) for Flight Crew and Load Planners - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-ramp-warehouse-tcgp41.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl26_lbCourseTitle">Dangerous Goods Regulations (DGR) for Ramp and Warehouse Personnel - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-ramp-warehouse-tcgp41.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl26_lbCourseTitle">Dangerous Goods Regulations (DGR) for Ramp and Warehouse Personnel - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/distribution-retailing-ndc-tttg24.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl27_lbCourseTitle">Distribution and Airline Retailing with NDC - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/distribution-retailing-ndc-tttg24.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl27_lbCourseTitle">Distribution and Airline Retailing with NDC - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/human-trafficking-awareness-talg76.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl28_lbCourseTitle">Human Trafficking Awareness - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/human-trafficking-awareness-talg76.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl28_lbCourseTitle">Human Trafficking Awareness - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/introduction-bsplink-tttg44.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl29_lbCourseTitle">Introduction to BSPlink - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/introduction-bsplink-tttg44.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl29_lbCourseTitle">Introduction to BSPlink - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/sms-introduction-tcvg70.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl30_lbCourseTitle">Introduction to Safety Management Systems (SMS) </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/sms-introduction-tcvg70.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl30_lbCourseTitle">Introduction to Safety Management Systems (SMS) </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-industry-introduction-talg50.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl31_lbCourseTitle">Introduction to the Airline Industry </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-industry-introduction-talg50.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl31_lbCourseTitle">Introduction to the Airline Industry </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-industry-introduction-talg50hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl32_lbCourseTitle">Introduction to the Airline Industry for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-industry-introduction-talg50hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl32_lbCourseTitle">Introduction to the Airline Industry for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-system-language-tttg43.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl33_lbCourseTitle">Introduction to the BSP System and Language - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-system-language-tttg43.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl33_lbCourseTitle">Introduction to the BSP System and Language - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/isago-auditor-agm-tals63.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl34_lbCourseTitle">ISAGO Auditor CBT – Aircraft Ground Movement (AGM) - E-learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/isago-auditor-agm-tals63.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl34_lbCourseTitle">ISAGO Auditor CBT – Aircraft Ground Movement (AGM) - E-learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/isago-auditor-hdl-tals62.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl35_lbCourseTitle">ISAGO Auditor CBT – Aircraft Handling and Loading (HDL) - E-learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/isago-auditor-hdl-tals62.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl35_lbCourseTitle">ISAGO Auditor CBT – Aircraft Handling and Loading (HDL) - E-learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/isago-auditor-cgm-tals64.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl36_lbCourseTitle">ISAGO Auditor CBT – Cargo and Mail Handling (CGM) - E-learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/isago-auditor-cgm-tals64.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl36_lbCourseTitle">ISAGO Auditor CBT – Cargo and Mail Handling (CGM) - E-learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/isago-auditor-lod-tals60.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl37_lbCourseTitle">ISAGO Auditor CBT - Load Control (LOD) - E-learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/isago-auditor-lod-tals60.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl37_lbCourseTitle">ISAGO Auditor CBT - Load Control (LOD) - E-learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/isago-auditor-orm-tals59.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl38_lbCourseTitle">ISAGO Auditor CBT - Organization and Management (ORM) - E-learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/isago-auditor-orm-tals59.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl38_lbCourseTitle">ISAGO Auditor CBT - Organization and Management (ORM) - E-learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/isago-auditor-pab-tals61.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl39_lbCourseTitle">ISAGO Auditor CBT – Passenger and Baggage Handling (PAB) - E-learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/isago-auditor-pab-tals61.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl39_lbCourseTitle">ISAGO Auditor CBT – Passenger and Baggage Handling (PAB) - E-learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transportation-system-tcvg92.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl40_lbCourseTitle">Overview of the Air Transportation System - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transportation-system-tcvg92.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl40_lbCourseTitle">Overview of the Air Transportation System - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/pbn-awareness-package-tcvt48.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl41_lbCourseTitle">Performance Based Navigation (PBN) Awareness Package (NAV-PBN-AWR) - with the EUROCONTROL Institute of ANS - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/pbn-awareness-package-tcvt48.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl41_lbCourseTitle">Performance Based Navigation (PBN) Awareness Package (NAV-PBN-AWR) - with the EUROCONTROL Institute of ANS - E-Learning - English</span></a></td>
  </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/sems-competency-test-tscs62.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl42_lbCourseTitle">Security Management System - SeMS Competency Test </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/sems-competency-test-tscs62.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl42_lbCourseTitle">Security Management System - SeMS Competency Test </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/xray-screening-baggage-tscs19.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl43_lbCourseTitle">X-Ray Screening Refresher – Baggage Screening - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/xray-screening-baggage-tscs19.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl43_lbCourseTitle">X-Ray Screening Refresher – Baggage Screening - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/xray-screening-cargo-tscs20.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl44_lbCourseTitle">X-Ray Screening Refresher – Cargo Screening - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/xray-screening-cargo-tscs20.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl44_lbCourseTitle">X-Ray Screening Refresher – Cargo Screening - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-cabin-crew-talg51-zh.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl45_lbCourseTitle">航空公司乘务人员课程 </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-cabin-crew-talg51-zh.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl45_lbCourseTitle">航空公司乘务人员课程 </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airline-customer-service-talm51-zh.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl46_lbCourseTitle">航空公司客户服务课程 </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airline-customer-service-talm51-zh.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl46_lbCourseTitle">航空公司客户服务课程 </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/aviation-security-awareness-tscs13-zh.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl47_lbCourseTitle">航空安全意识 </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/aviation-security-awareness-tscs13-zh.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_rptCourses_ctl47_lbCourseTitle">航空安全意识 </span></a></td>
 </tr>
 </table>
 <input type="hidden" name="ctl00$SPWebPartManager1$g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0$ctl00$rptBusiness$ctl01$panCoursesCollapsibleExtender_ClientState" id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl01_panCoursesCollapsibleExtender_ClientState" />
@@ -578,40 +578,40 @@ Shipping Fees
 </div>
 <table border="0" style="width:100%;font-size:8pt!important;" cellpadding="0" cellspacing="0">
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transport-fundamentals-tcvg27.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl01_lbCourseTitle">Air Transport Fundamentals </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transport-fundamentals-tcvg27.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl01_lbCourseTitle">Air Transport Fundamentals </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transport-fundamentals-tcvg27hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl02_lbCourseTitle">Air Transport Fundamentals for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transport-fundamentals-tcvg27hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl02_lbCourseTitle">Air Transport Fundamentals for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airport-operations-tapp14.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl03_lbCourseTitle">Airport Operations Fundamentals </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airport-operations-tapp14.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl03_lbCourseTitle">Airport Operations Fundamentals </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airport-operations-tapp14hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl04_lbCourseTitle">Airport Operations Fundamentals for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airport-operations-tapp14hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl04_lbCourseTitle">Airport Operations Fundamentals for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/basic-airside-safety-talp17.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl05_lbCourseTitle">Basic Airside Safety - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/basic-airside-safety-talp17.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl05_lbCourseTitle">Basic Airside Safety - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-security-awareness-tcgp79.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl06_lbCourseTitle">Cargo Security Awareness </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-security-awareness-tcgp79.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl06_lbCourseTitle">Cargo Security Awareness </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/sms-introduction-tcvg70.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl07_lbCourseTitle">Introduction to Safety Management Systems (SMS) </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/sms-introduction-tcvg70.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl07_lbCourseTitle">Introduction to Safety Management Systems (SMS) </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transportation-system-tcvg92.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl08_lbCourseTitle">Overview of the Air Transportation System - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transportation-system-tcvg92.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl08_lbCourseTitle">Overview of the Air Transportation System - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/sems-competency-test-tscs62.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl09_lbCourseTitle">Security Management System - SeMS Competency Test </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/sems-competency-test-tscs62.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl09_lbCourseTitle">Security Management System - SeMS Competency Test </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/xray-screening-baggage-tscs19.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl10_lbCourseTitle">X-Ray Screening Refresher – Baggage Screening - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/xray-screening-baggage-tscs19.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl10_lbCourseTitle">X-Ray Screening Refresher – Baggage Screening - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/xray-screening-cargo-tscs20.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl11_lbCourseTitle">X-Ray Screening Refresher – Cargo Screening - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/xray-screening-cargo-tscs20.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl11_lbCourseTitle">X-Ray Screening Refresher – Cargo Screening - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airport-operations-tapp14-zh.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl12_lbCourseTitle">机场运营 – 远程学习 </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airport-operations-tapp14-zh.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_rptCourses_ctl12_lbCourseTitle">机场运营 – 远程学习 </span></a></td>
 </tr>
 </table>
 <input type="hidden" name="ctl00$SPWebPartManager1$g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0$ctl00$rptBusiness$ctl02$panCoursesCollapsibleExtender_ClientState" id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl02_panCoursesCollapsibleExtender_ClientState" />
@@ -632,62 +632,62 @@ Shipping Fees
 </div>
 <table border="0" style="width:100%;font-size:8pt!important;" cellpadding="0" cellspacing="0">
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-rating-marketing-tcgp12.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl01_lbCourseTitle">Air Cargo Advanced Marketing </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-rating-marketing-tcgp12.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl01_lbCourseTitle">Air Cargo Advanced Marketing </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-rating-marketing-tcgp12hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl02_lbCourseTitle">Air Cargo Advanced Marketing for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-rating-marketing-tcgp12hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl02_lbCourseTitle">Air Cargo Advanced Marketing for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-english-tcgp23.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl03_lbCourseTitle">Cargo English </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-english-tcgp23.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl03_lbCourseTitle">Cargo English </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-introductory-tcgp11.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl04_lbCourseTitle">Cargo Introductory Course </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-introductory-tcgp11.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl04_lbCourseTitle">Cargo Introductory Course </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-introductory-tcgp11hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl05_lbCourseTitle">Cargo Introductory Course for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-introductory-tcgp11hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl05_lbCourseTitle">Cargo Introductory Course for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-security-awareness-tcgp79.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl06_lbCourseTitle">Cargo Security Awareness </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-security-awareness-tcgp79.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl06_lbCourseTitle">Cargo Security Awareness </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/transport-supply-chain-tcgp80.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl07_lbCourseTitle">Cargo Supply Chain and Transport Modes </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/transport-supply-chain-tcgp80.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl07_lbCourseTitle">Cargo Supply Chain and Transport Modes </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-cat3-tcgp13hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl08_lbCourseTitle">Dangerous Goods Regulations (DGR) Category 3 for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-cat3-tcgp13hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl08_lbCourseTitle">Dangerous Goods Regulations (DGR) Category 3 for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-cabin-security-tcgp42.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl09_lbCourseTitle">Dangerous Goods Regulations (DGR) for Cabin Crew, Passenger Handling and Security Personnel - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-cabin-security-tcgp42.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl09_lbCourseTitle">Dangerous Goods Regulations (DGR) for Cabin Crew, Passenger Handling and Security Personnel - E-Learning - English</span></a></td>
 </tr>
 
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-flight-crew-load-tcgp39.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl10_lbCourseTitle">Dangerous Goods Regulations (DGR) for Flight Crew and Load Planners - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-flight-crew-load-tcgp39.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl10_lbCourseTitle">Dangerous Goods Regulations (DGR) for Flight Crew and Load Planners - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-cargo-acceptance-tcgp40.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl11_lbCourseTitle">Dangerous Goods Regulations (DGR) for General Cargo Acceptance Personnel - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-cargo-acceptance-tcgp40.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl11_lbCourseTitle">Dangerous Goods Regulations (DGR) for General Cargo Acceptance Personnel - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-ramp-warehouse-tcgp41.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl12_lbCourseTitle">Dangerous Goods Regulations (DGR) for Ramp and Warehouse Personnel - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-ramp-warehouse-tcgp41.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl12_lbCourseTitle">Dangerous Goods Regulations (DGR) for Ramp and Warehouse Personnel - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-initial-cat3-tcgp13.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl13_lbCourseTitle">Dangerous Goods Regulations (DGR) Initial Category 3 </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-initial-cat3-tcgp13.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl13_lbCourseTitle">Dangerous Goods Regulations (DGR) Initial Category 3 </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-recurrent-cat3-tcgp14.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl14_lbCourseTitle">Dangerous Goods Regulations (DGR) Recurrent Category 3 </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-recurrent-cat3-tcgp14.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl14_lbCourseTitle">Dangerous Goods Regulations (DGR) Recurrent Category 3 </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/supply-chain-management-tcgg25.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl15_lbCourseTitle">IATA - Embry-Riddle Supply Chain Management Certificate - E-learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/supply-chain-management-tcgg25.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl15_lbCourseTitle">IATA - Embry-Riddle Supply Chain Management Certificate - E-learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/infectious-substances-shipping-tcgp43.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl16_lbCourseTitle">Infectious Substances Shipping Guidelines </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/infectious-substances-shipping-tcgp43.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl16_lbCourseTitle">Infectious Substances Shipping Guidelines </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/sms-introduction-tcvg70.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl17_lbCourseTitle">Introduction to Safety Management Systems (SMS) </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/sms-introduction-tcvg70.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl17_lbCourseTitle">Introduction to Safety Management Systems (SMS) </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/sensitive-healthcare-products-tcgp97.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl18_lbCourseTitle">Time & Temperature Sensitive Healthcare Products </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/sensitive-healthcare-products-tcgp97.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl18_lbCourseTitle">Time & Temperature Sensitive Healthcare Products </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-supply-chain-tcgp80-zh.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl19_lbCourseTitle">供应链与运输方式 </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-supply-chain-tcgp80-zh.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_rptCourses_ctl19_lbCourseTitle">供应链与运输方式 </span></a></td>
 </tr>
 </table>
 <input type="hidden" name="ctl00$SPWebPartManager1$g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0$ctl00$rptBusiness$ctl03$panCoursesCollapsibleExtender_ClientState" id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl03_panCoursesCollapsibleExtender_ClientState" />
@@ -708,16 +708,16 @@ Shipping Fees
 </div>
 <table border="0" style="width:100%;font-size:8pt!important;" cellpadding="0" cellspacing="0">
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transport-fundamentals-tcvg27.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl04_rptCourses_ctl01_lbCourseTitle">Air Transport Fundamentals </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transport-fundamentals-tcvg27.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl04_rptCourses_ctl01_lbCourseTitle">Air Transport Fundamentals </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transport-fundamentals-tcvg27hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl04_rptCourses_ctl02_lbCourseTitle">Air Transport Fundamentals for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transport-fundamentals-tcvg27hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl04_rptCourses_ctl02_lbCourseTitle">Air Transport Fundamentals for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/sms-introduction-tcvg70.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl04_rptCourses_ctl03_lbCourseTitle">Introduction to Safety Management Systems (SMS) </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/sms-introduction-tcvg70.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl04_rptCourses_ctl03_lbCourseTitle">Introduction to Safety Management Systems (SMS) </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transportation-system-tcvg92.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl04_rptCourses_ctl04_lbCourseTitle">Overview of the Air Transportation System - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transportation-system-tcvg92.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl04_rptCourses_ctl04_lbCourseTitle">Overview of the Air Transportation System - E-Learning - English</span></a></td>
 </tr>
 </table>
 <input type="hidden" name="ctl00$SPWebPartManager1$g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0$ctl00$rptBusiness$ctl04$panCoursesCollapsibleExtender_ClientState" id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl04_panCoursesCollapsibleExtender_ClientState" />
@@ -738,16 +738,16 @@ Shipping Fees
 </div>
 <table border="0" style="width:100%;font-size:8pt!important;" cellpadding="0" cellspacing="0">
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/hmm-students-graduates-tcgp58.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl05_rptCourses_ctl01_lbCourseTitle">Harvard ManageMentor for IATA Students and Graduates </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/hmm-students-graduates-tcgp58.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl05_rptCourses_ctl01_lbCourseTitle">Harvard ManageMentor for IATA Students and Graduates </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/aviation-management-taph95.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl05_rptCourses_ctl02_lbCourseTitle">IATA - Embry-Riddle Aviation Management Certificate - E-learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/aviation-management-taph95.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl05_rptCourses_ctl02_lbCourseTitle">IATA - Embry-Riddle Aviation Management Certificate - E-learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/air-transportation-system-tcvg92.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl05_rptCourses_ctl03_lbCourseTitle">Overview of the Air Transportation System - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/air-transportation-system-tcvg92.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl05_rptCourses_ctl03_lbCourseTitle">Overview of the Air Transportation System - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/project-management-taph83.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl05_rptCourses_ctl04_lbCourseTitle">Project Management: Practice and Certification - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/project-management-taph83.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl05_rptCourses_ctl04_lbCourseTitle">Project Management: Practice and Certification - E-Learning - English</span></a></td>
 </tr>
 </table>
 <input type="hidden" name="ctl00$SPWebPartManager1$g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0$ctl00$rptBusiness$ctl05$panCoursesCollapsibleExtender_ClientState" id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl05_panCoursesCollapsibleExtender_ClientState" />
@@ -768,61 +768,61 @@ Shipping Fees
 </div>
 <table border="0" style="width:100%;font-size:8pt!important;" cellpadding="0" cellspacing="0">
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airport-ramp-services-tapp51.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl01_lbCourseTitle">Airport Ramp Services </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airport-ramp-services-tapp51.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl01_lbCourseTitle">Airport Ramp Services </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/airport-ramp-services-tapp51hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl02_lbCourseTitle">Airport Ramp Services for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/airport-ramp-services-tapp51hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl02_lbCourseTitle">Airport Ramp Services for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/basic-airside-safety-talp17.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl03_lbCourseTitle">Basic Airside Safety - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/basic-airside-safety-talp17.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl03_lbCourseTitle">Basic Airside Safety - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/cargo-security-awareness-tcgp79.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl04_lbCourseTitle">Cargo Security Awareness </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/cargo-security-awareness-tcgp79.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl04_lbCourseTitle">Cargo Security Awareness </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-cat3-tcgp13hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl05_lbCourseTitle">Dangerous Goods Regulations (DGR) Category 3 for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-cat3-tcgp13hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl05_lbCourseTitle">Dangerous Goods Regulations (DGR) Category 3 for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-cabin-security-tcgp42.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl06_lbCourseTitle">Dangerous Goods Regulations (DGR) for Cabin Crew, Passenger Handling and Security Personnel - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-cabin-security-tcgp42.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl06_lbCourseTitle">Dangerous Goods Regulations (DGR) for Cabin Crew, Passenger Handling and Security Personnel - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-flight-crew-load-tcgp39.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl07_lbCourseTitle">Dangerous Goods Regulations (DGR) for Flight Crew and Load Planners - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-flight-crew-load-tcgp39.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl07_lbCourseTitle">Dangerous Goods Regulations (DGR) for Flight Crew and Load Planners - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-ramp-warehouse-tcgp41.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl08_lbCourseTitle">Dangerous Goods Regulations (DGR) for Ramp and Warehouse Personnel - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-ramp-warehouse-tcgp41.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl08_lbCourseTitle">Dangerous Goods Regulations (DGR) for Ramp and Warehouse Personnel - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-initial-cat3-tcgp13.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl09_lbCourseTitle">Dangerous Goods Regulations (DGR) Initial Category 3 </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-initial-cat3-tcgp13.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl09_lbCourseTitle">Dangerous Goods Regulations (DGR) Initial Category 3 </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/dgr-recurrent-cat3-tcgp14.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl10_lbCourseTitle">Dangerous Goods Regulations (DGR) Recurrent Category 3 </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/dgr-recurrent-cat3-tcgp14.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl10_lbCourseTitle">Dangerous Goods Regulations (DGR) Recurrent Category 3 </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/ground-operations-management-talp52.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl11_lbCourseTitle">Ground Operations Management </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/ground-operations-management-talp52.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl11_lbCourseTitle">Ground Operations Management </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/ground-operations-talp52hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl12_lbCourseTitle">Ground Operations Management for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/ground-operations-talp52hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl12_lbCourseTitle">Ground Operations Management for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/infectious-substances-shipping-tcgp43.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl13_lbCourseTitle">Infectious Substances Shipping Guidelines </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/infectious-substances-shipping-tcgp43.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl13_lbCourseTitle">Infectious Substances Shipping Guidelines </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/sms-introduction-tcvg70.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl14_lbCourseTitle">Introduction to Safety Management Systems (SMS) </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/sms-introduction-tcvg70.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl14_lbCourseTitle">Introduction to Safety Management Systems (SMS) </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/passenger-ground-services-talp51.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl15_lbCourseTitle">Passenger Ground Services </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/passenger-ground-services-talp51.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl15_lbCourseTitle">Passenger Ground Services </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/passenger-ground-services-talp51hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl16_lbCourseTitle">Passenger Ground Services for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/passenger-ground-services-talp51hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl16_lbCourseTitle">Passenger Ground Services for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/passenger-ground-services-talp51ama.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl17_lbCourseTitle">Passenger Ground Services with Amadeus Altéa DCS </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/passenger-ground-services-talp51ama.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl17_lbCourseTitle">Passenger Ground Services with Amadeus Altéa DCS </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/sems-competency-test-tscs62.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl18_lbCourseTitle">Security Management System - SeMS Competency Test </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/sems-competency-test-tscs62.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl18_lbCourseTitle">Security Management System - SeMS Competency Test </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/sensitive-healthcare-products-tcgp97.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl19_lbCourseTitle">Time & Temperature Sensitive Healthcare Products </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/sensitive-healthcare-products-tcgp97.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_rptCourses_ctl19_lbCourseTitle">Time & Temperature Sensitive Healthcare Products </span></a></td>
 </tr>
 </table>
 <input type="hidden" name="ctl00$SPWebPartManager1$g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0$ctl00$rptBusiness$ctl06$panCoursesCollapsibleExtender_ClientState" id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl06_panCoursesCollapsibleExtender_ClientState" />
@@ -843,109 +843,109 @@ Shipping Fees
 </div>
 <table border="0" style="width:100%;font-size:8pt!important;" cellpadding="0" cellspacing="0">
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/accounting-financial-management-tttg93.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl01_lbCourseTitle">Accounting and Financial Management for Travel Agencies - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/accounting-financial-management-tttg93.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl01_lbCourseTitle">Accounting and Financial Management for Travel Agencies - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/journey-pricing-ticketing-tttg15.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl02_lbCourseTitle">Advanced Skills in Journey Pricing and Ticketing </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/journey-pricing-ticketing-tttg15.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl02_lbCourseTitle">Advanced Skills in Journey Pricing and Ticketing </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/travelers-special-needs-tttg98.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl03_lbCourseTitle">Assisting Travelers with Special Needs </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/travelers-special-needs-tttg98.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl03_lbCourseTitle">Assisting Travelers with Special Needs </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-billing-agent-tttg46.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl04_lbCourseTitle">BSP Agent Billing Reports and Procedures - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-billing-agent-tttg46.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl04_lbCourseTitle">BSP Agent Billing Reports and Procedures - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-agent-remittance-tttg47.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl05_lbCourseTitle">BSP Agent Remittance Procedures - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-agent-remittance-tttg47.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl05_lbCourseTitle">BSP Agent Remittance Procedures - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-essentials-tttg49.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl06_lbCourseTitle">BSP Essentials for Travel Agents - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-essentials-tttg49.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl06_lbCourseTitle">BSP Essentials for Travel Agents - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-essentials-exam-tttg50.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl07_lbCourseTitle">BSP Essentials for Travel Agents: Final Examination - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-essentials-exam-tttg50.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl07_lbCourseTitle">BSP Essentials for Travel Agents: Final Examination - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-documents-procedures-tttg45.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl08_lbCourseTitle">BSP Standard Documents and Procedures - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-documents-procedures-tttg45.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl08_lbCourseTitle">BSP Standard Documents and Procedures - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/destination-geography-tttg82.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl09_lbCourseTitle">Destination Geography - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/destination-geography-tttg82.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl09_lbCourseTitle">Destination Geography - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/distribution-retailing-ndc-tttg24.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl10_lbCourseTitle">Distribution and Airline Retailing with NDC - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/distribution-retailing-ndc-tttg24.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl10_lbCourseTitle">Distribution and Airline Retailing with NDC - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/travel-tourism-amadeus-tttg05.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl11_lbCourseTitle">Foundation in Travel and Tourism with Amadeus </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/travel-tourism-amadeus-tttg05.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl11_lbCourseTitle">Foundation in Travel and Tourism with Amadeus </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/travel-tourism-amadeus-tttg05hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl12_lbCourseTitle">Foundation in Travel and Tourism with Amadeus for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/travel-tourism-amadeus-tttg05hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl12_lbCourseTitle">Foundation in Travel and Tourism with Amadeus for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/travel-tourism-galileo-tttg06.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl13_lbCourseTitle">Foundation in Travel and Tourism with Galileo </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/travel-tourism-galileo-tttg06.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl13_lbCourseTitle">Foundation in Travel and Tourism with Galileo </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/travel-tourism-galileo-tttg06hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl14_lbCourseTitle">Foundation in Travel and Tourism with Galileo for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/travel-tourism-galileo-tttg06hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl14_lbCourseTitle">Foundation in Travel and Tourism with Galileo for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/travel-tourism-sabre-tttg07.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl15_lbCourseTitle">Foundation in Travel and Tourism with Sabre </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/travel-tourism-sabre-tttg07.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl15_lbCourseTitle">Foundation in Travel and Tourism with Sabre </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/travel-tourism-sabre-tttg07hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl16_lbCourseTitle">Foundation in Travel and Tourism with Sabre for the Leadership & Management Training Program </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/travel-tourism-sabre-tttg07hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl16_lbCourseTitle">Foundation in Travel and Tourism with Sabre for the Leadership & Management Training Program </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/journey-pricing-ticketing-tttg14.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl17_lbCourseTitle">Fundamental Skills in Journey Pricing and Ticketing </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/journey-pricing-ticketing-tttg14.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl17_lbCourseTitle">Fundamental Skills in Journey Pricing and Ticketing </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/geography-travel-planning-tttg53.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl18_lbCourseTitle">Geography in Travel Planning - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/geography-travel-planning-tttg53.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl18_lbCourseTitle">Geography in Travel Planning - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/fares-ticketing-amadeus-tttg26.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl19_lbCourseTitle">Global Distribution Systems Fares and Ticketing - AMADEUS </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/fares-ticketing-amadeus-tttg26.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl19_lbCourseTitle">Global Distribution Systems Fares and Ticketing - AMADEUS </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/fares-ticketing-galileo-tttg28.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl20_lbCourseTitle">Global Distribution Systems Fares and Ticketing - GALILEO </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/fares-ticketing-galileo-tttg28.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl20_lbCourseTitle">Global Distribution Systems Fares and Ticketing - GALILEO </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/fares-ticketing-sabre-tttg29.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl21_lbCourseTitle">Global Distribution Systems Fares and Ticketing - SABRE </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/fares-ticketing-sabre-tttg29.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl21_lbCourseTitle">Global Distribution Systems Fares and Ticketing - SABRE </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/introduction-bsplink-tttg44.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl22_lbCourseTitle">Introduction to BSPlink - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/introduction-bsplink-tttg44.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl22_lbCourseTitle">Introduction to BSPlink - E-Learning - English</span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/bsp-system-language-tttg43.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl23_lbCourseTitle">Introduction to the BSP System and Language - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/bsp-system-language-tttg43.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl23_lbCourseTitle">Introduction to the BSP System and Language - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/service-client-voyageur-tttg66-fr.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl24_lbCourseTitle">Le service au client voyageur </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/service-client-voyageur-tttg66-fr.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl24_lbCourseTitle">Le service au client voyageur </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/managing-travel-business-tttg10.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl25_lbCourseTitle">Managing the Travel Business </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/managing-travel-business-tttg10.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl25_lbCourseTitle">Managing the Travel Business </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/managing-travel-business-tttg10hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl26_lbCourseTitle">Managing the Travel Business for the Leadership & Management Diploma </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/managing-travel-business-tttg10hmm.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl26_lbCourseTitle">Managing the Travel Business for the Leadership & Management Diploma </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/notions-tarification-billeterie-tttg14-fr.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl27_lbCourseTitle">Notions essentielles en tarification et billetterie </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/notions-tarification-billeterie-tttg14-fr.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl27_lbCourseTitle">Notions essentielles en tarification et billetterie </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/smart-amadeus-tttg88.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl28_lbCourseTitle">Selling and Managing Airline Reservations and Travel in Amadeus (SMART Amadeus) </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/smart-amadeus-tttg88.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl28_lbCourseTitle">Selling and Managing Airline Reservations and Travel in Amadeus (SMART Amadeus) </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/smart-galileo-tttg30.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl29_lbCourseTitle">Selling and Managing Airline Reservations and Travel in Galileo (SMART Galileo) </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/smart-galileo-tttg30.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl29_lbCourseTitle">Selling and Managing Airline Reservations and Travel in Galileo (SMART Galileo) </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/smart-sabre-tttg31.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl30_lbCourseTitle">Selling and Managing Airline Reservations and Travel in Sabre (SMART Sabre) </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/smart-sabre-tttg31.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl30_lbCourseTitle">Selling and Managing Airline Reservations and Travel in Sabre (SMART Sabre) </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/international-rail-transportation-tttg68.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl31_lbCourseTitle">Selling International Rail Transportation </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/international-rail-transportation-tttg68.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl31_lbCourseTitle">Selling International Rail Transportation </span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/serving-travel-customer-tttg66.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl32_lbCourseTitle">Serving the Travel Customer </span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/serving-travel-customer-tttg66.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl32_lbCourseTitle">Serving the Travel Customer </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/social-media-travel-tttg69.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl33_lbCourseTitle">Social Media for Travel Industry - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/social-media-travel-tttg69.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl33_lbCourseTitle">Social Media for Travel Industry - E-Learning - English</span></a></td>
 </tr>
 <tr style="background-color:#F9F9F9;height:25px;">
- <td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/ticket-repricing-reissue-tttg91.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl34_lbCourseTitle">Ticket Repricing, Exchange and Reissue </span></a></td>
+ <td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/ticket-repricing-reissue-tttg91.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl34_lbCourseTitle">Ticket Repricing, Exchange and Reissue </span></a></td>
 </tr>
 <tr style="height:25px;">
-<td style="padding:4px 4px 6px 18px;"><a href="https://www.iata.org/training/courses/Pages/travel-agency-fees-tttg13.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl35_lbCourseTitle">Travel Agency Fees: A Professional Approach - E-Learning - English</span></a></td>
+<td style="padding:4px 4px 6px 18px;"><a href="/training/courses/Pages/travel-agency-fees-tttg13.aspx"><span id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_rptCourses_ctl35_lbCourseTitle">Travel Agency Fees: A Professional Approach - E-Learning - English</span></a></td>
 </tr>
 </table>
 <input type="hidden" name="ctl00$SPWebPartManager1$g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0$ctl00$rptBusiness$ctl07$panCoursesCollapsibleExtender_ClientState" id="ctl00_SPWebPartManager1_g_5ebe5d75_9126_43eb_a34a_1aabd8a6c2c0_ctl00_rptBusiness_ctl07_panCoursesCollapsibleExtender_ClientState" />
@@ -1126,14 +1126,14 @@ Exams
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

@@ -40,7 +40,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/events/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/events/Pages/allevents.aspx" />
+<link rel="canonical" href=":443/events/Pages/allevents.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -326,152 +326,152 @@ All Events
 <li>
 <ul class="eventsResultsUL">
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/airline-cost-conference.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl01_lblTitle">Airline Cost Conference</span></a> - <span class="eventsResultsDates">27 - 28 November</span> - <span>​Madrid, Spain</span>
+<div><a href="/events/Pages/airline-cost-conference.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl01_lblTitle">Airline Cost Conference</span></a> - <span class="eventsResultsDates">27 - 28 November</span> - <span>​Madrid, Spain</span>
 <br>
 <span class="eventsResultsTopic">Finance ＆ Accounting</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/iosa-workshop-airlines.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl02_lblTitle">IOSA Workshop for Airlines</span></a> - <span class="eventsResultsDates">4 - 5 December</span> - <span>Madrid, Spain</span>
+<div><a href="/events/Pages/iosa-workshop-airlines.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl02_lblTitle">IOSA Workshop for Airlines</span></a> - <span class="eventsResultsDates">4 - 5 December</span> - <span>Madrid, Spain</span>
 <br>
 <span class="eventsResultsTopic">Safety ＆ Flight Operations</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/legal-symposium.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl03_lblTitle">Legal Symposium</span></a> - <span class="eventsResultsDates">19 - 21 February</span> - <span>New York, USA</span>
+<div><a href="/events/Pages/legal-symposium.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl03_lblTitle">Legal Symposium</span></a> - <span class="eventsResultsDates">19 - 21 February</span> - <span>New York, USA</span>
 <br>
 <span class="eventsResultsTopic">Legal ＆ Regulatory</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/wcs/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl04_lblTitle">World Cargo Symposium</span></a> - <span class="eventsResultsDates">10 - 12 March</span> - <span>Istanbul, Turkey</span>
+<div><a href="/events/wcs/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl04_lblTitle">World Cargo Symposium</span></a> - <span class="eventsResultsDates">10 - 12 March</span> - <span>Istanbul, Turkey</span>
 <br>
 <span class="eventsResultsTopic">Cargo</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/ops-conference.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl05_lblTitle">Safety and Flight Ops Conference</span></a> - <span class="eventsResultsDates">31 March - 2 April</span> - <span>Baku, Azerbaijan</span>
+<div><a href="/events/Pages/ops-conference.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl05_lblTitle">Safety and Flight Ops Conference</span></a> - <span class="eventsResultsDates">31 March - 2 April</span> - <span>Baku, Azerbaijan</span>
 <br>
 <span class="eventsResultsTopic">Operations - Airport Infrastructure - Safety ＆ Flight Operations</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/cns-partnership-conference.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl06_lblTitle">CNS Partnership Conference</span></a> - <span class="eventsResultsDates">26 - 28 April</span> - <span>Dallas/Fort Worth, Texas</span>
+<div><a href="/events/Pages/cns-partnership-conference.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl06_lblTitle">CNS Partnership Conference</span></a> - <span class="eventsResultsDates">26 - 28 April</span> - <span>Dallas/Fort Worth, Texas</span>
 <br>
 <span class="eventsResultsTopic">Cargo</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/risk-insurance-management.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl07_lblTitle">Risk and Insurance Management Forum</span></a> - <span class="eventsResultsDates">13 - 14 May</span> - <span>London, England</span>
+<div><a href="/events/Pages/risk-insurance-management.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl07_lblTitle">Risk and Insurance Management Forum</span></a> - <span class="eventsResultsDates">13 - 14 May</span> - <span>London, England</span>
 <br>
 <span class="eventsResultsTopic">Finance ＆ Accounting</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/ighc/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl08_lblTitle">IGHC Conference</span></a> - <span class="eventsResultsDates">17 - 20 May</span> - <span>Mexico City, Mexico</span>
+<div><a href="/events/ighc/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl08_lblTitle">IGHC Conference</span></a> - <span class="eventsResultsDates">17 - 20 May</span> - <span>Mexico City, Mexico</span>
 <br>
 <span class="eventsResultsTopic">Operations</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/gtc.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl09_lblTitle">Global Training Conference</span></a> - <span class="eventsResultsDates">26 - 29 May</span> - <span>Paris, France</span>
+<div><a href="/events/Pages/gtc.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl09_lblTitle">Global Training Conference</span></a> - <span class="eventsResultsDates">26 - 29 May</span> - <span>Paris, France</span>
 <br>
 <span class="eventsResultsTopic">Other</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/aviation-data-symposium.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl10_lblTitle">Aviation Data Symposium</span></a> - <span class="eventsResultsDates">10 - 12 June</span> - <span>San Francisco, USA</span>
+<div><a href="/events/Pages/aviation-data-symposium.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl10_lblTitle">Aviation Data Symposium</span></a> - <span class="eventsResultsDates">10 - 12 June</span> - <span>San Francisco, USA</span>
 <br>
 <span class="eventsResultsTopic">Safety ＆ Flight Operations - Airline Distribution - Cargo - Digital Transformation</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/sc146/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl11_lblTitle">146th Slot Conference</span></a> - <span class="eventsResultsDates">16 - 18 June</span> - <span>Montreal, Canada</span>
+<div><a href="/events/sc146/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl11_lblTitle">146th Slot Conference</span></a> - <span class="eventsResultsDates">16 - 18 June</span> - <span>Montreal, Canada</span>
 <br>
 <span class="eventsResultsTopic">Airport Infrastructure - Slots</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/cabin-safety.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl12_lblTitle">Cabin Safety Conference</span></a> - <span class="eventsResultsDates">16 - 18 June</span> - <span>Macao</span>
+<div><a href="/events/Pages/cabin-safety.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl12_lblTitle">Cabin Safety Conference</span></a> - <span class="eventsResultsDates">16 - 18 June</span> - <span>Macao</span>
 <br>
 <span class="eventsResultsTopic">Safety ＆ Flight Operations</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/FFP-workshop.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl13_lblTitle">Frequent Flyer Fraud Prevention Workshop</span></a> - <span class="eventsResultsDates">23 - 25 June</span> - <span>Dallas, USA</span>
+<div><a href="/events/Pages/FFP-workshop.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl13_lblTitle">Frequent Flyer Fraud Prevention Workshop</span></a> - <span class="eventsResultsDates">23 - 25 June</span> - <span>Dallas, USA</span>
 <br>
 <span class="eventsResultsTopic">Security</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/airportis-forum.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl14_lblTitle">AirportIS Forum </span></a> - <span class="eventsResultsDates">9 September</span> - <span>Milan, Italy</span>
+<div><a href="/events/Pages/airportis-forum.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl14_lblTitle">AirportIS Forum </span></a> - <span class="eventsResultsDates">9 September</span> - <span>Milan, Italy</span>
 <br>
 <span class="eventsResultsTopic">Airport Infrastructure</span></div>
  <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/global-fraud-prevention-event.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl15_lblTitle">Global Fraud Prevention</span></a> - <span class="eventsResultsDates">28 - 29 September</span> - <span>Dubai, UAE</span>
+<div><a href="/events/Pages/global-fraud-prevention-event.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl15_lblTitle">Global Fraud Prevention</span></a> - <span class="eventsResultsDates">28 - 29 September</span> - <span>Dubai, UAE</span>
 <br>
 <span class="eventsResultsTopic">Finance ＆ Accounting</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/wfs/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl16_lblTitle">World Financial Symposium</span></a> - <span class="eventsResultsDates">28 September - 1 October</span> - <span>Dubai, UAE</span>
+<div><a href="/events/wfs/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl16_lblTitle">World Financial Symposium</span></a> - <span class="eventsResultsDates">28 September - 1 October</span> - <span>Dubai, UAE</span>
 <br>
 <span class="eventsResultsTopic">Finance ＆ Accounting</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/cargo-events/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl17_lblTitle">IATA Cargo Events</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester,&#160;United Kingdom</span>
+<div><a href="/events/cargo-events/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl17_lblTitle">IATA Cargo Events</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester,&#160;United Kingdom</span>
 <br>
 <span class="eventsResultsTopic">Cargo</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/cargo-events/Pages/cargo-security.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl18_lblTitle">Cargo Security & Facilitation Forum</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester, United Kingdom</span>
+<div><a href="/events/cargo-events/Pages/cargo-security.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl18_lblTitle">Cargo Security & Facilitation Forum</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester, United Kingdom</span>
 <br>
 <span class="eventsResultsTopic">Cargo - Security</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/cargo-events/Pages/cclp-conference.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl19_lblTitle">Cargo Claims & Loss Prevention Conference</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester, United Kingdom</span>
+<div><a href="/events/cargo-events/Pages/cclp-conference.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl19_lblTitle">Cargo Claims & Loss Prevention Conference</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester, United Kingdom</span>
 <br>
 <span class="eventsResultsTopic">Cargo</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/cargo-events/Pages/lb-workshop.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl20_lblTitle">Lithium Battery Workshop</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester, United Kingdom</span>
+<div><a href="/events/cargo-events/Pages/lb-workshop.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl20_lblTitle">Lithium Battery Workshop</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester, United Kingdom</span>
 <br>
 <span class="eventsResultsTopic">Cargo</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/cargo-events/Pages/airpharma-conference.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl21_lblTitle">IATA AirPharma Conference</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester,
+<div><a href="/events/cargo-events/Pages/airpharma-conference.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl21_lblTitle">IATA AirPharma Conference</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester,
 United Kingdom</span>
 <br>
 <span class="eventsResultsTopic">Cargo</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/cargo-events/Pages/air-cargo-operations.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl22_lblTitle">IATA Air Cargo Operations Conference</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester, United Kingdom</span>
+<div><a href="/events/cargo-events/Pages/air-cargo-operations.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl22_lblTitle">IATA Air Cargo Operations Conference</span></a> - <span class="eventsResultsDates">6 - 8 October</span> - <span>Manchester, United Kingdom</span>
 <br>
 <span class="eventsResultsTopic">Cargo</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/gaps/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl23_lblTitle">Global Airport & Passenger Symposium</span></a> - <span class="eventsResultsDates">13 - 15 October</span> - <span>Osaka, Japan</span>
+<div><a href="/events/gaps/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl23_lblTitle">Global Airport & Passenger Symposium</span></a> - <span class="eventsResultsDates">13 - 15 October</span> - <span>Osaka, Japan</span>
 <br>
 <span class="eventsResultsTopic">Passenger Experience - Airport Infrastructure</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/Pages/retail-symposium-air.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl24_lblTitle">Airline Industry Retailing Symposium</span></a> - <span class="eventsResultsDates">27 - 29 October</span> - <span>Vancouver, Canada</span>
+<div><a href="/events/Pages/retail-symposium-air.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl24_lblTitle">Airline Industry Retailing Symposium</span></a> - <span class="eventsResultsDates">27 - 29 October</span> - <span>Vancouver, Canada</span>
 <br>
 <span class="eventsResultsTopic">Airline Distribution - Digital Transformation</span></div>
 <br>
 </li>
 <li class="eventsResultsLiPaddingRemover">
-<div><a href="https://www.iata.org/events/sc147/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl25_lblTitle">147th Slot Conference</span></a> - <span class="eventsResultsDates">17 - 20 November</span> - <span>Barcelona, Spain</span>
+<div><a href="/events/sc147/Pages/index.aspx" class="eventsResultsLink"><span id="ctl00_SPWebPartManager1_g_8f21a0a0_7dc7_4fbf_9bd7_48a3e91fcda3_ctl00_rptEvents_ctl25_lblTitle">147th Slot Conference</span></a> - <span class="eventsResultsDates">17 - 20 November</span> - <span>Barcelona, Spain</span>
 <br>
 <span class="eventsResultsTopic">Airport Infrastructure - Slots</span></div>
 <br>
@@ -611,14 +611,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

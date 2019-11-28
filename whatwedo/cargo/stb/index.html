@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='StB Cargo is an industry transformation program to make air cargo easier, smarter and faster.'>
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/cargo/stb/Pages/index.aspx" /><meta name="keywords" content="stb-cargo, stb cargo, cargo, transformation; cargo transformation," /><meta name="description" content="StB Cargo, cargo transformation, transformation, innovation" />
+<link rel="canonical" href=":443/whatwedo/cargo/stb/Pages/index.aspx" /><meta name="keywords" content="stb-cargo, stb cargo, cargo, transformation; cargo transformation," /><meta name="description" content="StB Cargo, cargo transformation, transformation, innovation" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -351,7 +351,7 @@ StB Cargo
 <a href="https://www.iata.org/whatwedo/cargo/Documents/StB-Cargo-White-Paper-cargo-facility-future.pdf" target="_blank">The Cargo Facility of the Future</a></li></ul><p>
 <strong>Innovation events &amp; groups</strong>&#160;</p><ul><li>The&#160;<a href="/whatwedo/cargo/stb/Pages/cargo-innovation-awards.aspx" target="_blank">IATA Air Cargo Innovation Awards</a>&#160;</li><li>
 <a href="https://www.iata.org/events/wcs/Documents/wcs-2019/faces.pdf" target="_blank">FACES</a>, the Future Air Cargo Executives Summit</li><li>
-<a href="https://www.iata.org/events/wcs/Documents/wcs-2019/horizon.pdf" target="_blank">Horizon</a>, the IATA Air Cargo Innovation forum, organized with the annual&#160;<a href="/events/wcs/Pages/index.aspx" target="_blank">World Cargo Symposium</a>&#160;</li></ul>
+<a href="/events/wcs/Documents/wcs-2019/horizon.pdf" target="_blank">Horizon</a>, the IATA Air Cargo Innovation forum, organized with the annual&#160;<a href="/events/wcs/Pages/index.aspx" target="_blank">World Cargo Symposium</a>&#160;</li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -463,14 +463,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

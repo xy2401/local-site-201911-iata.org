@@ -45,7 +45,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='IATA&#39;s analysis showed that the competitiveness of Switzerland’s air transport sector could generate an additional 36,000 jobs and nearly CHF 13 billion in extra GDP'>
-<link rel="canonical" href="https://www.iata.org:443/pressroom/pr/Pages/2019-08-20-01.aspx" />
+<link rel="canonical" href=":443/pressroom/pr/Pages/2019-08-20-01.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -354,7 +354,7 @@ Competitiveness of Swiss aviation crucial for jobs and prosperity
 <strong>Notes for editors&#58;</strong></p><ul><li>IATA (International Air Transport Association) represents some 290 airlines comprising 82% of<br></li></ul>global air traffic.<p><br></p><ul><li>
 <span>You can follow us at
 <a href="https&#58;//twitter.com/iata" target="_blank">https&#58;//twitter.com/iata</a> for announcements, policy positions, and other</span></li></ul><p>useful industry information.</p><ul><li>More information on Air Transport in Switzerland can be found at&#58;<br></li></ul>
-<a href="https://www.iata.org/about/worldwide/europe/competitiveness/Pages/switzerland.aspx">Air Transport Competitiveness in Switzerland</a><a href="/publications/economics/Reports/voa-country-reports/2019/IATA_Switzerland_Report.pdf"><br></a><p><span><a href="/publications/economics/Reports/voa-country-reports/2019/IATA_Switzerland_Report.pdf">The air transport sector makes a major&#160;contribution to Switzerland’s economy</a></span></p>
+<a href="/about/worldwide/europe/competitiveness/Pages/switzerland.aspx">Air Transport Competitiveness in Switzerland</a><a href="/publications/economics/Reports/voa-country-reports/2019/IATA_Switzerland_Report.pdf"><br></a><p><span><a href="/publications/economics/Reports/voa-country-reports/2019/IATA_Switzerland_Report.pdf">The air transport sector makes a major&#160;contribution to Switzerland’s economy</a></span></p>
 <ul><li>IATA’s view on the effects of the proposed air passenger tax can be read here&#58;</li></ul><p><a href="https://www.iata.org/pressroom/Documents/swiss-proposal-for-a-carbon-tax.pdf">Swiss proposal for an aviation carbon tax – IATA view</a><br></p>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
@@ -430,7 +430,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p><br></p><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>
@@ -462,14 +462,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

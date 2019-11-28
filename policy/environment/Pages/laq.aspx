@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='Aviation make substantial investments in cleaner ground support equipment and vehicles to improve local air quality and responnsibly address local emissions.'>
-<link rel="canonical" href="https://www.iata.org:443/policy/environment/Pages/laq.aspx" />
+<link rel="canonical" href=":443/policy/environment/Pages/laq.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -344,7 +344,7 @@ Local Air Quality
 <p align="center"><img alt="Emissions from aircraft are relatively small compared to other sources" src="/policy/environment/PublishingImages/laq.png" border="0" />&#160;</p>
 <h3>More information</h3>
 <ul>
-<li><a href="https://www.iata.org/policy/Documents/local-air-quality-emissions-charges.pdf" target="_blank">IATA position paper on local air quality emissions-related charges (pdf)</a></li><li><a href="/whatwedo/environment/Pages/environmental-assessment.aspx">IATA Environmental Assessment (IEnvA)</a></li></ul>
+<li><a href="/policy/Documents/local-air-quality-emissions-charges.pdf" target="_blank">IATA position paper on local air quality emissions-related charges (pdf)</a></li><li><a href="/whatwedo/environment/Pages/environmental-assessment.aspx">IATA Environmental Assessment (IEnvA)</a></li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -434,7 +434,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p><strong>Fact sheets<br></strong><a href="https://www.iata.org/policy/Documents/environmental_tax_pdf.pdf" target="_blank">Green taxes</a>&#160;(pdf)​</p><p><strong>Training Courses</strong> </p><p><a href="/training/courses/Pages/aviation-environment-tcvg05.aspx">Aviation and the Environment</a></p></div>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p><strong>Fact sheets<br></strong><a href="/policy/Documents/environmental_tax_pdf.pdf" target="_blank">Green taxes</a>&#160;(pdf)​</p><p><strong>Training Courses</strong> </p><p><a href="/training/courses/Pages/aviation-environment-tcvg05.aspx">Aviation and the Environment</a></p></div>
 </div>
 <div class='hide_element_a346672b-a270-4d98-a2e6-43f2f48fea24'></div><script type='text/javascript'>CTP.IATA.HideChrome('a346672b-a270-4d98-a2e6-43f2f48fea24')</script>
 <div class='crossLinksExploreMore'>
@@ -464,14 +464,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

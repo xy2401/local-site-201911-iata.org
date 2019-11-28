@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='​​​IATA leads and drives the continuous improvement of civil aviation safety. Our consulting team provides a range of advisory and technical assistance services.'>
-<link rel="canonical" href="https://www.iata.org:443/services/consulting/safety-operations/Pages/index.aspx" />
+<link rel="canonical" href=":443/services/consulting/safety-operations/Pages/index.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -352,7 +352,7 @@ Safety and Civil Aviation Consulting
 <li>Certification of Airlines</li></ul></div>
 <h2 class="iataElement-Title2">Air Traffic Management&#160;/ CNS</h2><p>As navigational capabilities become more sophisticated, demand for airspace development expertise and advanced terminal/enroute procedure design becomes increasingly important. IATA Consulting can provide customized airspace design and evaluation services to effectively help meet these challenges.&#160;</p>
 <div><ul><li>Tactical operations support (Liaison Desks in ANS’s OCC)</li><li>Airspace redesign and capacity optimization</li><li>Implementation of performance-based navigation procedures<br></li></ul></div>
-<h2 class="iataElement-Title2">Downloads<br></h2><ul class="iataElement-Title2"><li><a href="https://www.iata.org/services/consulting/Documents/cons-sfo-caa-flyer.pdf" target="_blank">Civil Aviation Consulting​</a>&#160;(pdf)</li><li><a href="/services/consulting/Documents/cons-sfo-safety-flight-ops-consul-flyer.pdf" target="_blank">Safety and&#160;Flight Operations Consulting</a>&#160;(pdf)<br></li></ul><h2 class="iataElement-Title2">More&#160;Information<br></h2><ul class="iataElement-Title2"><li>For more information on this or any of our other Consulting services, please complete&#160;and submit our&#160;<a href="/services/consulting/Pages/index.aspx" target="_blank">contact form here​</a>.&#160;​<a href="/publications/optin/pages/profile.aspx">​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​</a></li><li><a href="/publications/Pages/signup.aspx" target="_blank">Opt in​</a>&#160;for more information on IATA services you're interested in.​​​<br></li></ul>
+<h2 class="iataElement-Title2">Downloads<br></h2><ul class="iataElement-Title2"><li><a href="/services/consulting/Documents/cons-sfo-caa-flyer.pdf" target="_blank">Civil Aviation Consulting​</a>&#160;(pdf)</li><li><a href="/services/consulting/Documents/cons-sfo-safety-flight-ops-consul-flyer.pdf" target="_blank">Safety and&#160;Flight Operations Consulting</a>&#160;(pdf)<br></li></ul><h2 class="iataElement-Title2">More&#160;Information<br></h2><ul class="iataElement-Title2"><li>For more information on this or any of our other Consulting services, please complete&#160;and submit our&#160;<a href="/services/consulting/Pages/index.aspx" target="_blank">contact form here​</a>.&#160;​<a href="/publications/optin/pages/profile.aspx">​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​</a></li><li><a href="/publications/Pages/signup.aspx" target="_blank">Opt in​</a>&#160;for more information on IATA services you're interested in.​​​<br></li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"><p align="left">&#160;​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​</p></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"><strong></strong></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -467,14 +467,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

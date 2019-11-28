@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='The International Air Transport Association (IATA) is the trade association for the world’s airlines, representing some 260 members. We support aviation activity and help formulate aviation policy.'>
-<link rel="canonical" href="https://www.iata.org:443/about/Pages/index.aspx" />
+<link rel="canonical" href=":443/about/Pages/index.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -358,7 +358,7 @@ About us
 <a href="/about/worldwide/Pages/index.aspx">IATA by Region</a></span></span></li><li>
 <a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-iata-1.pdf" target="_blank">Fact Sheet&#58;&#160;IATA Facts &amp; Figures</a>&#160;(pdf) </li><li>
 <a href="/publications/Pages/annual-review.aspx">IATA Annual Review</a>&#160;</li><li>
-<a href="https://www.iata.org/about/sp/Pages/index.aspx">Strategic Partners</a></li></ul><h2 class="iataElement-Title2">IATA's structure</h2><p>A guiding concept of IATA’s structure is “Global Development, Regional Delivery”, where the Head Office divisions drive the development of global standards, systems and advocacy positions, while the regional and country offices are responsible for implementation.&#160;See the high level&#160;<a href="/about/Documents/iata-organizational-structure.pdf" target="_blank">organization chart</a> (pdf)</p><p> IATA's senior management,&#160;formed of&#160;regional and subject matter experts, sets the strategic direction of IATA under the leadership of IATA's Director General &amp; CEO. See
+<a href="/about/sp/Pages/index.aspx">Strategic Partners</a></li></ul><h2 class="iataElement-Title2">IATA's structure</h2><p>A guiding concept of IATA’s structure is “Global Development, Regional Delivery”, where the Head Office divisions drive the development of global standards, systems and advocacy positions, while the regional and country offices are responsible for implementation.&#160;See the high level&#160;<a href="/about/Documents/iata-organizational-structure.pdf" target="_blank">organization chart</a> (pdf)</p><p> IATA's senior management,&#160;formed of&#160;regional and subject matter experts, sets the strategic direction of IATA under the leadership of IATA's Director General &amp; CEO. See
 <a href="/about/Pages/senior-management.aspx">who's who in IATA's senior management team</a>.</p><h3 class="iataElement-Title3">Office of the Director General</h3><p>People, Performance &amp; Development
 <br>Corporate Communications
 <br>Legal Services </p><h3>Regions </h3><p>
@@ -479,14 +479,14 @@ CEO blog
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

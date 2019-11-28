@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='A global database of air cargo stakeholders listing their digital connectivity information including identifications &amp; addresses such as PIMA, Teletype, TPR etc. It will facilitate digital connectivity.'>
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/cargo/e/Pages/epic.aspx" />
+<link rel="canonical" href=":443/whatwedo/cargo/e/Pages/epic.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -447,7 +447,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​<a href="https://www.iata.org/whatwedo/cargo/e/Documents/epic-cargo-connect-solution.pdf" target="_blank">EPIC, a&#160;Cargo Connect solution</a> (pdf)<br></p><p><a href="/whatwedo/cargo/e/Pages/cargo-connect.aspx">Cargo Connect</a>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​<a href="/whatwedo/cargo/e/Documents/epic-cargo-connect-solution.pdf" target="_blank">EPIC, a&#160;Cargo Connect solution</a> (pdf)<br></p><p><a href="/whatwedo/cargo/e/Pages/cargo-connect.aspx">Cargo Connect</a>
 <br><a href="/whatwedo/cargo/stb/Pages/index.aspx">StB Cargo</a><br></p></div>
 </div>
 <div class='hide_element_f1414ab1-649e-4ee1-9653-0ac78b516394'></div><script type='text/javascript'>CTP.IATA.HideChrome('f1414ab1-649e-4ee1-9653-0ac78b516394')</script>
@@ -475,14 +475,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

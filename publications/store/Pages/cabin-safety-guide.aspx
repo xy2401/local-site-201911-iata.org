@@ -40,7 +40,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/publications/store/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/publications/store/Pages/cabin-safety-guide.aspx" />
+<link rel="canonical" href=":443/publications/store/Pages/cabin-safety-guide.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script language="javascript">var ExpireDays = 90;qstr = document.location.search;qstr = qstr.substring(1,qstr.length);function SetCookie(cookieName,cookieValue,nDays){var today = new Date();var expire = new Date();if (nDays==null || nDays==0) nDays=1;expire.setTime(today.getTime() + 3600000*24*nDays);document.cookie = cookieName + " = " + escape(cookieValue) + "; expires=" + expire.toGMTString() + "; path=/;domain=iata.org";}thevars = qstr.split("&");for(i=0;i<thevars.length;i++){cookiecase = thevars[i].split("=");switch(cookiecase[0]){case "e":e = cookiecase[1];SetCookie("EmailAddr",e,ExpireDays);break;case "j":j = cookiecase[1];SetCookie("JobID",j,ExpireDays);break;case "l":l = cookiecase[1];SetCookie("ListID",l,ExpireDays);break;case "jb":jb = cookiecase[1];SetCookie("BatchID",jb,ExpireDays);break;case "u":u = cookiecase[1];SetCookie("UrlID",u,ExpireDays);break;case "mid":mid = cookiecase[1];SetCookie("MemberID",mid,ExpireDays);break;default:break;}}</script><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -324,7 +324,7 @@ Sys.Application._enableHistoryInScriptManager();
 Cabin Safety Guide
 </h1>
 <div class="introAndImage">
-<p>The IATA Cabin Operations Safety Best Practices Guide is intended to give airlines the tools they need to create and update safety procedures and policies, using a&#160;global range of references and expert opinions.</p><p>Written and updated annually by a global team of cabin safety professionals, this guide includes standards and recommended practices from the IATA Operational Safety Audit (<a href="https://www.iata.org/whatwedo/safety/audit/iosa/Pages/index.aspx">IOSA</a>), <a href="https&#58;//www.icao.int/Pages/default.aspx" target="_blank">ICAO </a>and other regulators, combined with extensive operational experience of member airlines.&#160;It suggests and gives guidance in the appropriate risk assessments to demonstrate the incorporation of <a href="/whatwedo/safety/pages/safety-management.aspx">Safety Management Systems </a>(SMS) within cabin operations.</p><p>This latest revision (edition 5) provides&#160;updates to existing procedures and new guidance for;</p><ul><li>Risk assessments relating to cabin layout and design;</li><li>Safety Performance Indicators and revised taxonomy;</li><li>Use of PEDs supplied by the operator;</li><li>Passenger awareness of lithium batteries;</li><li>Procedures to follow if trafficking in persons is suspected;</li><li>Crew protection during layover.</li></ul><p>Have an overview of all you can find in the 2019 guide&#58;&#160; <a href="/whatwedo/safety/Documents/Cabin_Operations_Safety_Best_Practices_Guide_Contents.pdf" target="_blank">Cabin operations safety guide – Table of Contents</a>.(pdf)<br></p><p>&#160;</p>
+<p>The IATA Cabin Operations Safety Best Practices Guide is intended to give airlines the tools they need to create and update safety procedures and policies, using a&#160;global range of references and expert opinions.</p><p>Written and updated annually by a global team of cabin safety professionals, this guide includes standards and recommended practices from the IATA Operational Safety Audit (<a href="/whatwedo/safety/audit/iosa/Pages/index.aspx">IOSA</a>), <a href="https&#58;//www.icao.int/Pages/default.aspx" target="_blank">ICAO </a>and other regulators, combined with extensive operational experience of member airlines.&#160;It suggests and gives guidance in the appropriate risk assessments to demonstrate the incorporation of <a href="/whatwedo/safety/pages/safety-management.aspx">Safety Management Systems </a>(SMS) within cabin operations.</p><p>This latest revision (edition 5) provides&#160;updates to existing procedures and new guidance for;</p><ul><li>Risk assessments relating to cabin layout and design;</li><li>Safety Performance Indicators and revised taxonomy;</li><li>Use of PEDs supplied by the operator;</li><li>Passenger awareness of lithium batteries;</li><li>Procedures to follow if trafficking in persons is suspected;</li><li>Crew protection during layover.</li></ul><p>Have an overview of all you can find in the 2019 guide&#58;&#160; <a href="/whatwedo/safety/Documents/Cabin_Operations_Safety_Best_Practices_Guide_Contents.pdf" target="_blank">Cabin operations safety guide – Table of Contents</a>.(pdf)<br></p><p>&#160;</p>
 </div>
 <div id="ctl00_PlaceHolderMain_g_B2882428_363C_4F7E_94A9_780B0C47E9E1" WebPart="true" __WebPartId="{B2882428-363C-4F7E-94A9-780B0C47E9E1}" __MarkupType="vsattributemarkup">
 <script type="text/javascript">
@@ -471,14 +471,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

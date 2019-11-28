@@ -47,7 +47,7 @@
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='The eCWG aims to facilitate the adoption of e-AWB and support the industry to achieve 100% e-AWB on trade-lanes governed by Montreal Protocol 4 or Montreal Convention 1999
 '>
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/workgroups/Pages/eawbag.aspx" />
+<link rel="canonical" href=":443/whatwedo/workgroups/Pages/eawbag.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -336,7 +336,7 @@ e-Cargo Working Group
 </menu>
 <div class="introAndImage">
 </div>
-<p>The e-Cargo Working Group (eCWG)&#160;aims to&#160;facilitate the adoption of <a href="https://www.iata.org/whatwedo/cargo/e/eawb/Pages/index.aspx">electronic Air Waybill (e-AWB</a>) and support the industry to&#160;achieve&#160;100% e-AWB on trade-lanes governed by MP4 (Montreal Protocol 4) or MC99 (Montreal Convention 1999).</p><h3>Background</h3><p>This group was first established in 2008 as a Task Force to work on the&#160;e-AWB&#160;and draft the <a href="/whatwedo/workgroups/Documents/rp1670.pdf" target="_blank">Recommended Practice 1670</a> (pdf) (RP1670) that allows the replacement of the paper Master Air Waybill by the e-AWB.</p><h3>Objectives</h3><p>The primary objectives of eCWG are as follows&#58;</p><p>Provide recommendations on enhancements to the e-AWB related IATA resolutions and recommended practices as well as e-AWB related Cargo electronic messages (Cargo-IMP and Cargo-XML);</p><p>Provide regular updates to the Cargo Committee as well as recommendations on revised e-AWB rollout approach and targets as needed.</p><h3>eCWG&#160;Actions</h3><ul><li>Act as expertise center for any question related to e-AWB</li><li>Support the industry to achieve 100% e-AWB<br></li><li>Follow-up on e-AWB adoption worldwide</li><li>Coordinate with the other working groups&#58; e-freight Central Action Group, Customs Advisory Group, Cargo Operations Advisory Group</li><li>Communicate regularly to the Cargo Committee the progress made in increasing e-AWB adoption worldwide</li><li>Develop&#160;recommendations and supporting materials as needed<br>&#160;</li></ul><h3>Membership</h3><p>The eCWG&#160;is composed by airlines' and freight forwarders' representatives. Other observers from industry e.g.&#160;ground handlers and IATA Strategic Partners may attend the eCWG&#160;meetings upon concurrence of the Secretary.</p><p>
+<p>The e-Cargo Working Group (eCWG)&#160;aims to&#160;facilitate the adoption of <a href="/whatwedo/cargo/e/eawb/Pages/index.aspx">electronic Air Waybill (e-AWB</a>) and support the industry to&#160;achieve&#160;100% e-AWB on trade-lanes governed by MP4 (Montreal Protocol 4) or MC99 (Montreal Convention 1999).</p><h3>Background</h3><p>This group was first established in 2008 as a Task Force to work on the&#160;e-AWB&#160;and draft the <a href="/whatwedo/workgroups/Documents/rp1670.pdf" target="_blank">Recommended Practice 1670</a> (pdf) (RP1670) that allows the replacement of the paper Master Air Waybill by the e-AWB.</p><h3>Objectives</h3><p>The primary objectives of eCWG are as follows&#58;</p><p>Provide recommendations on enhancements to the e-AWB related IATA resolutions and recommended practices as well as e-AWB related Cargo electronic messages (Cargo-IMP and Cargo-XML);</p><p>Provide regular updates to the Cargo Committee as well as recommendations on revised e-AWB rollout approach and targets as needed.</p><h3>eCWG&#160;Actions</h3><ul><li>Act as expertise center for any question related to e-AWB</li><li>Support the industry to achieve 100% e-AWB<br></li><li>Follow-up on e-AWB adoption worldwide</li><li>Coordinate with the other working groups&#58; e-freight Central Action Group, Customs Advisory Group, Cargo Operations Advisory Group</li><li>Communicate regularly to the Cargo Committee the progress made in increasing e-AWB adoption worldwide</li><li>Develop&#160;recommendations and supporting materials as needed<br>&#160;</li></ul><h3>Membership</h3><p>The eCWG&#160;is composed by airlines' and freight forwarders' representatives. Other observers from industry e.g.&#160;ground handlers and IATA Strategic Partners may attend the eCWG&#160;meetings upon concurrence of the Secretary.</p><p>
 <a href="https://www.iata.org/whatwedo/workgroups/Documents/COTB-e-Cargo-Working-Group-TOR.pdf" target="_blank">e-Cargo Working Group Terms of Reference v2.2</a> (pdf)<br></p><h3>Contact</h3>For more information, please contact <a href="mailto&#58;cargo@iata.org">cargo@iata.org</a>
 <p>&#160;</p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
@@ -458,14 +458,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

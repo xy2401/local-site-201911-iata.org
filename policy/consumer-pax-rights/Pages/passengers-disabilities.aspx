@@ -46,7 +46,7 @@
 <meta property='og:image' content='https://www.iata.org/policy/consumer-pax-rights/PublishingImages/pages/passengers-disabilities/GettyImages-817558612.jpg'>
 <meta property='og:image:secure_url' content='https://www.iata.org/policy/consumer-pax-rights/PublishingImages/pages/passengers-disabilities/GettyImages-817558612.jpg'>
 <meta property='og:description' content='For some passengers with physical or mental disabilities, flying may be an inconvenient, worrying or even painful experience. The airline industry is committed to ensuring that air travel is equally accessible to all passengers.'>
-<link rel="canonical" href="https://www.iata.org:443/policy/consumer-pax-rights/Pages/passengers-disabilities.aspx" />
+<link rel="canonical" href=":443/policy/consumer-pax-rights/Pages/passengers-disabilities.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -344,7 +344,7 @@ accommodating passengers with disabilities. <span>These principles aim to change
 accessibility and inclusion by bringing the travel sector together with
 governments to harmonize regulations and provide the clarity and global
 consistency that passengers expect.&#160;</span></span></p><p><span lang="EN-US"><span><span>Read full resolution text &#58;
-</span><a href="https://www.iata.org/pressroom/pr/Documents/resolution-disabled-pax-agm-2019.pdf" target="_blank">Resolution on Disabled Passengers</a><span> (pdf)</span></span></span></p></div></div></span><p><span>​​​​​​​​​​​​​</span><span>​​​​​​​​​​​​​</span></p><h3 class="iataElement-Title3">Need for harmonization of disability legislation<br></h3><p>But we recognize we can and should do more. One area of concern is the proliferation of differing disability legislation across the globe, which creates confusion for passengers with disabilities, difficulties for airlines, and raises potential safety implications. Critically, there is no common definition of a passenger with disabilities or agreement on the minimum service levels they can expect when traveling by air.<br><br>IATA advocates for a joint government and industry approach, that meets the needs of passengers with disabilities, while ensuring efficient and safe air transport. In particular, working with the International Civil Aviation Organization (<a href="https&#58;//www.icao.int/Pages/default.aspx" target="_blank">ICAO</a>), IATA is campaigning with states to closely involve the airline industry in the inclusion of the
+</span><a href="/pressroom/pr/Documents/resolution-disabled-pax-agm-2019.pdf" target="_blank">Resolution on Disabled Passengers</a><span> (pdf)</span></span></span></p></div></div></span><p><span>​​​​​​​​​​​​​</span><span>​​​​​​​​​​​​​</span></p><h3 class="iataElement-Title3">Need for harmonization of disability legislation<br></h3><p>But we recognize we can and should do more. One area of concern is the proliferation of differing disability legislation across the globe, which creates confusion for passengers with disabilities, difficulties for airlines, and raises potential safety implications. Critically, there is no common definition of a passenger with disabilities or agreement on the minimum service levels they can expect when traveling by air.<br><br>IATA advocates for a joint government and industry approach, that meets the needs of passengers with disabilities, while ensuring efficient and safe air transport. In particular, working with the International Civil Aviation Organization (<a href="https&#58;//www.icao.int/Pages/default.aspx" target="_blank">ICAO</a>), IATA is campaigning with states to closely involve the airline industry in the inclusion of the
 <a href="https&#58;//www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html" target="_blank">UN Convention on the Rights of People with Disabilities (UN CRPD)</a> into national aviation legislation and policies related to accessible air transport.<span><br></span></p><h3>IATA SSR Codes&#160; - Passengers with reduced mobility </h3><p>Special Service Request (SSR) codes are widely used in the airline industry to communicate disabled traveler preferences or needs to airlines. It is fundamental that the service requested and the associated Passenger with Reduced Mobility (PRM) code is used in the&#160; proper way to guarantee passengers the best assistance at the airport and on board. <span>​​​​​​​​​​​​​</span>
 </p><h3 class="iataElement-Title3">IATA Resolution and Recommended Practices</h3><p>Recommended practices for the carriage of passengers with reduced mobility were adopted by IATA airline members within the resolutions governing the processing of passengers and baggage in the international interline environment. They include a series of codes defining categories of passengers with disabilities, currently widely used in the aviation industry. The resolution and recommended practices are published in the IATA Passenger Services Conference Resolutions Manual (<a href="/publications/store/Pages/passenger-services-conference-resolutions-manual.aspx">PSCRM</a>).<br></p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
@@ -473,14 +473,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

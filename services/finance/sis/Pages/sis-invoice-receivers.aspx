@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='SIS for Invoice Receivers allows you to instantly connect to all airlines and suppliers already using the SIS platform to receive legally compliant electronic invoices from your suppliers, interline partners or IATA.'>
-<link rel="canonical" href="https://www.iata.org:443/services/finance/sis/Pages/sis-invoice-receivers.aspx" />
+<link rel="canonical" href=":443/services/finance/sis/Pages/sis-invoice-receivers.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -342,7 +342,7 @@ SIS for Invoice Receivers
 <ul><li>Invoice delivery within 24h (for non-Clearing House transactions)</li><li>Invoice availability for up to 10 years</li><li>Updates on payment status (for both billing and billed parties)</li><li>Email notification on invoice delivery<br></li><li>Integrated dispute management and audit trail</li><li>Integrated settlement via the Clearing House</li><li>Legally compliant electronic invoicing</li><li>Digital Signature to meet requirements in multiple countries<br><br></li></ul><h3 class="iataElement-Title3">Join SIS to receive electronic invoices now<br></h3><p>Any entity&#160;engaging in business with airlines can become a SIS participant&#160;under the &quot;SIS for Invoice Receivers&quot; program. <span>U</span><span>sing SIS under this program is free of charge.&#160;</span>This membership covers only the reception of&#160;invoices under the Miscellaneous/Non-Transportation submission class.&#160;</p><p>If your company wishes to send and/or receive invoices related to Passenger, Cargo or UATP transactions you must join SIS under one of the other programs&#58;
 <a href="/services/finance/sis/Pages/airlines.aspx">SIS for Airlines &amp; Intermodal</a> or
 <a href="/services/finance/sis/Pages/suppliers.aspx">SIS for Suppliers &amp; Air Operators</a>.<br></p><p>See this
-<a href="https://www.iata.org/services/finance/sis/Documents/Standard_Participation_Agreement_for_SIS_e-Invoicing_Services-Invoice_Receiver_TOU.pdf" target="_blank">Standard Agreement for SIS e-Invoicing Services – Invoice Receiver</a> (pdf)&#160; - for information purposes only, not for signature.&#160; To request your free SIS access, please submit an online application via in the<a href="/customer-portal/Pages/index.aspx"> IATA Customer Portal </a>under the &quot;My Services&quot; area (&quot;Join SIS e-Invoicing&quot;). If you do not see the service, please request it using the &quot;New Service Request&quot; option. Please refer to the<a href="/services/finance/sis/Documents/How%20to%20Join%20SIS%20-%20Online%20Application%20-.pdf" target="_blank">&#160;user guide</a>&#160;(pdf) on how to access the forms and submit an application.<br></p>
+<a href="/services/finance/sis/Documents/Standard_Participation_Agreement_for_SIS_e-Invoicing_Services-Invoice_Receiver_TOU.pdf" target="_blank">Standard Agreement for SIS e-Invoicing Services – Invoice Receiver</a> (pdf)&#160; - for information purposes only, not for signature.&#160; To request your free SIS access, please submit an online application via in the<a href="/customer-portal/Pages/index.aspx"> IATA Customer Portal </a>under the &quot;My Services&quot; area (&quot;Join SIS e-Invoicing&quot;). If you do not see the service, please request it using the &quot;New Service Request&quot; option. Please refer to the<a href="/services/finance/sis/Documents/How%20to%20Join%20SIS%20-%20Online%20Application%20-.pdf" target="_blank">&#160;user guide</a>&#160;(pdf) on how to access the forms and submit an application.<br></p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -458,14 +458,14 @@ IATA Financial Systems Certification
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

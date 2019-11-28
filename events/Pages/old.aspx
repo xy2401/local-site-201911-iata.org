@@ -44,7 +44,7 @@
 <script type="text/javascript">RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=Wzy1bSeygPIkuVShJwoI7g\u00253D\u00253D");</script>
 <script type="text/javascript">RegisterSod("mediaplayer.js", "\u002f_layouts\u002f15\u002fmediaplayer.js?rev=\u00252F4Sf1JHuWd4UkWQFWNd5oQ\u00253D\u00253D");RegisterSodDep("mediaplayer.js", "sp.publishing.resources.resx");</script>
 <link type="text/xml" rel="alternate" href="/events/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/events/Pages/old.aspx" />
+<link rel="canonical" href=":443/events/Pages/old.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -338,32 +338,32 @@ Events
 <div class="ms-webpart-zone ms-fullWidth">
 <div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
-<div WebPartID="f0c5f2b7-7726-47fc-a76a-8c5eee813fc7" HasPers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex " allowDelete="false" style=""><table class="custom datatable" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><thead><tr><td>Event</td><td>Date</td><td>Location</td><td>Attendance</td></tr></thead><tbody><tr><td><a href="https://www.iata.org/events/Pages/airline-cost-conference.aspx">Airline Cost Conference</a></td><td>27 November-
-28 November</td><td>​Madrid, Spain</td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/Pages/iosa-workshop-airlines.aspx">IOSA Workshop for Airlines</a></td><td>4 December-
-5 December</td><td>Madrid, Spain</td><td></td></tr><tr><td><a href="https://www.iata.org/events/Pages/legal-symposium.aspx">Legal Symposium</a></td><td>19 February-
-21 February</td><td>New York, USA<br></td><td>Open to All </td></tr><tr><td><a href="https://www.iata.org/events/wcs/Pages/index.aspx">World Cargo Symposium</a></td><td>10 March-
-12 March</td><td>Istanbul, Turkey<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/Pages/ops-conference.aspx">Safety and Flight Ops Conference</a></td><td>31 March-
-2 April</td><td>Baku, Azerbaijan<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/Pages/cns-partnership-conference.aspx">CNS Partnership Conference</a></td><td>26 April-
-28 April</td><td>Dallas/Fort Worth, Texas<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/Pages/risk-insurance-management.aspx">Risk and Insurance Management Forum</a></td><td>13 May-
-14 May</td><td>London, England</td><td>Open to All</td></tr><tr><td><a href="https://www.iata.org/events/ighc/Pages/index.aspx">IGHC Conference</a></td><td>17 May-
-20 May</td><td>Mexico City, Mexico<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/Pages/gtc.aspx">Global Training Conference</a></td><td>26 May-
-29 May</td><td>Paris, France<br></td><td>IATA Training Partners and Training Organizations</td></tr><tr><td><a href="https://www.iata.org/events/Pages/aviation-data-symposium.aspx">Aviation Data Symposium</a></td><td>10 June-
-12 June</td><td>San Francisco, USA</td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/Pages/cabin-safety.aspx">Cabin Safety Conference</a></td><td>16 June-
-18 June</td><td>Macao<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/sc146/Pages/index.aspx">146th Slot Conference</a></td><td>16 June-
-18 June</td><td>Montreal, Canada</td><td>Airlines & Level 2 & 3 Coordinators only</td></tr><tr><td><a href="https://www.iata.org/events/Pages/FFP-workshop.aspx">Frequent Flyer Fraud Prevention Workshop</a></td><td>23 June-
-25 June</td><td>Dallas, USA</td><td>Airlines</td></tr><tr><td><a href="https://www.iata.org/events/Pages/airportis-forum.aspx">AirportIS Forum </a></td><td>9 September-
-9 September</td><td>Milan, Italy<br></td><td>Airports only</td></tr><tr><td><a href="https://www.iata.org/events/Pages/global-fraud-prevention-event.aspx">Global Fraud Prevention</a></td><td>28 September-
-29 September</td><td><span class="iataStyle-Normal"></span>Dubai, UAE<br></td><td>Open to All</td></tr><tr><td><a href="https://www.iata.org/events/wfs/Pages/index.aspx">World Financial Symposium</a></td><td>28 September-
-1 October</td><td>Dubai, UAE<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/cargo-events/Pages/index.aspx">IATA Cargo Events</a></td><td>6 October-
-8 October</td><td>Manchester,&#160;<br>United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/cargo-events/Pages/cargo-security.aspx">Cargo Security & Facilitation Forum</a></td><td>6 October-
-8 October</td><td>Manchester, United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/cargo-events/Pages/cclp-conference.aspx">Cargo Claims & Loss Prevention Conference</a></td><td>6 October-
-8 October</td><td>Manchester, United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/cargo-events/Pages/lb-workshop.aspx">Lithium Battery Workshop</a></td><td>6 October-
-8 October</td><td>Manchester, United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/cargo-events/Pages/airpharma-conference.aspx">IATA AirPharma Conference</a></td><td>6 October-
+<div WebPartID="f0c5f2b7-7726-47fc-a76a-8c5eee813fc7" HasPers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex " allowDelete="false" style=""><table class="custom datatable" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><thead><tr><td>Event</td><td>Date</td><td>Location</td><td>Attendance</td></tr></thead><tbody><tr><td><a href="/events/Pages/airline-cost-conference.aspx">Airline Cost Conference</a></td><td>27 November-
+28 November</td><td>​Madrid, Spain</td><td>Open to all</td></tr><tr><td><a href="/events/Pages/iosa-workshop-airlines.aspx">IOSA Workshop for Airlines</a></td><td>4 December-
+5 December</td><td>Madrid, Spain</td><td></td></tr><tr><td><a href="/events/Pages/legal-symposium.aspx">Legal Symposium</a></td><td>19 February-
+21 February</td><td>New York, USA<br></td><td>Open to All </td></tr><tr><td><a href="/events/wcs/Pages/index.aspx">World Cargo Symposium</a></td><td>10 March-
+12 March</td><td>Istanbul, Turkey<br></td><td>Open to all</td></tr><tr><td><a href="/events/Pages/ops-conference.aspx">Safety and Flight Ops Conference</a></td><td>31 March-
+2 April</td><td>Baku, Azerbaijan<br></td><td>Open to all</td></tr><tr><td><a href="/events/Pages/cns-partnership-conference.aspx">CNS Partnership Conference</a></td><td>26 April-
+28 April</td><td>Dallas/Fort Worth, Texas<br></td><td>Open to all</td></tr><tr><td><a href="/events/Pages/risk-insurance-management.aspx">Risk and Insurance Management Forum</a></td><td>13 May-
+14 May</td><td>London, England</td><td>Open to All</td></tr><tr><td><a href="/events/ighc/Pages/index.aspx">IGHC Conference</a></td><td>17 May-
+20 May</td><td>Mexico City, Mexico<br></td><td>Open to all</td></tr><tr><td><a href="/events/Pages/gtc.aspx">Global Training Conference</a></td><td>26 May-
+29 May</td><td>Paris, France<br></td><td>IATA Training Partners and Training Organizations</td></tr><tr><td><a href="/events/Pages/aviation-data-symposium.aspx">Aviation Data Symposium</a></td><td>10 June-
+12 June</td><td>San Francisco, USA</td><td>Open to all</td></tr><tr><td><a href="/events/Pages/cabin-safety.aspx">Cabin Safety Conference</a></td><td>16 June-
+18 June</td><td>Macao<br></td><td>Open to all</td></tr><tr><td><a href="/events/sc146/Pages/index.aspx">146th Slot Conference</a></td><td>16 June-
+18 June</td><td>Montreal, Canada</td><td>Airlines & Level 2 & 3 Coordinators only</td></tr><tr><td><a href="/events/Pages/FFP-workshop.aspx">Frequent Flyer Fraud Prevention Workshop</a></td><td>23 June-
+25 June</td><td>Dallas, USA</td><td>Airlines</td></tr><tr><td><a href="/events/Pages/airportis-forum.aspx">AirportIS Forum </a></td><td>9 September-
+9 September</td><td>Milan, Italy<br></td><td>Airports only</td></tr><tr><td><a href="/events/Pages/global-fraud-prevention-event.aspx">Global Fraud Prevention</a></td><td>28 September-
+29 September</td><td><span class="iataStyle-Normal"></span>Dubai, UAE<br></td><td>Open to All</td></tr><tr><td><a href="/events/wfs/Pages/index.aspx">World Financial Symposium</a></td><td>28 September-
+1 October</td><td>Dubai, UAE<br></td><td>Open to all</td></tr><tr><td><a href="/events/cargo-events/Pages/index.aspx">IATA Cargo Events</a></td><td>6 October-
+8 October</td><td>Manchester,&#160;<br>United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="/events/cargo-events/Pages/cargo-security.aspx">Cargo Security & Facilitation Forum</a></td><td>6 October-
+8 October</td><td>Manchester, United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="/events/cargo-events/Pages/cclp-conference.aspx">Cargo Claims & Loss Prevention Conference</a></td><td>6 October-
+8 October</td><td>Manchester, United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="/events/cargo-events/Pages/lb-workshop.aspx">Lithium Battery Workshop</a></td><td>6 October-
+8 October</td><td>Manchester, United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="/events/cargo-events/Pages/airpharma-conference.aspx">IATA AirPharma Conference</a></td><td>6 October-
 8 October</td><td>Manchester,
-<br>United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/cargo-events/Pages/air-cargo-operations.aspx">IATA Air Cargo Operations Conference</a></td><td>6 October-
-8 October</td><td>Manchester, United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/gaps/Pages/index.aspx">Global Airport & Passenger Symposium</a></td><td>13 October-
-15 October</td><td>Osaka, Japan<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/Pages/retail-symposium-air.aspx">Airline Industry Retailing Symposium</a></td><td>27 October-
-29 October</td><td>Vancouver, Canada<br></td><td>Open to all</td></tr><tr><td><a href="https://www.iata.org/events/sc147/Pages/index.aspx">147th Slot Conference</a></td><td>17 November-
+<br>United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="/events/cargo-events/Pages/air-cargo-operations.aspx">IATA Air Cargo Operations Conference</a></td><td>6 October-
+8 October</td><td>Manchester, United Kingdom<br></td><td>Open to all</td></tr><tr><td><a href="/events/gaps/Pages/index.aspx">Global Airport & Passenger Symposium</a></td><td>13 October-
+15 October</td><td>Osaka, Japan<br></td><td>Open to all</td></tr><tr><td><a href="/events/Pages/retail-symposium-air.aspx">Airline Industry Retailing Symposium</a></td><td>27 October-
+29 October</td><td>Vancouver, Canada<br></td><td>Open to all</td></tr><tr><td><a href="/events/sc147/Pages/index.aspx">147th Slot Conference</a></td><td>17 November-
 20 November</td><td>Barcelona, Spain<br></td><td>Airlines & Level 2 & 3 Coordinators only</td></tr></tbody></table><div class="ms-clear"></div></div>
 </div>
 </div>
@@ -475,14 +475,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

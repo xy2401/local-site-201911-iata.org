@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='Information concerning the dangerous items that may be carried onboard the aircraft by passengers and crew.'>
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/cargo/dgr/Pages/dgr-guidance.aspx" />
+<link rel="canonical" href=":443/whatwedo/cargo/dgr/Pages/dgr-guidance.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -336,7 +336,7 @@ Passenger Dangerous Goods Corner
 </menu>
 <div class="introAndImage">
 </div>
-<p>Some dangerous goods can only be transported on an aircraft if a competent person or organization properly pack them. These items are listed in the <a href="https://www.iata.org/publications/dgr/Pages/index.aspx">IATA Dangerous Goods Regulations (DGR)</a> and must be prepared, labeled and declared in accordance with them.</p><p>However, some items listed in the regulations may be carried onboard the aircraft by passengers and crew if they fulfill the listed restrictions and limitations. Table 2.3.A of the DGR&#160;summarizes the&#160;information for items of dangerous goods&#160;that may be carried by passengers in checked and/or carry-on baggage.&#160;</p><table width="100%" class="iataTable-default" cellspacing="0"><tbody><tr class="iataTableEvenRow-default"><td class="iataTableEvenCol-default"><h3 class="iataElement-Title3">Table 2.3A - 61st&#160;Edition (Effective 1 January 2020)<br></h3></td></tr><tr class="iataTableOddRow-default"><td class="iataTableEvenCol-default"> <a href="/whatwedo/cargo/dgr/Documents/DGR-61-EN-2.3a.pdf" target="_blank">English </a>(pdf)<br></td></tr><tr class="iataTableEvenRow-default"><td class="iataTableEvenCol-default">
+<p>Some dangerous goods can only be transported on an aircraft if a competent person or organization properly pack them. These items are listed in the <a href="/publications/dgr/Pages/index.aspx">IATA Dangerous Goods Regulations (DGR)</a> and must be prepared, labeled and declared in accordance with them.</p><p>However, some items listed in the regulations may be carried onboard the aircraft by passengers and crew if they fulfill the listed restrictions and limitations. Table 2.3.A of the DGR&#160;summarizes the&#160;information for items of dangerous goods&#160;that may be carried by passengers in checked and/or carry-on baggage.&#160;</p><table width="100%" class="iataTable-default" cellspacing="0"><tbody><tr class="iataTableEvenRow-default"><td class="iataTableEvenCol-default"><h3 class="iataElement-Title3">Table 2.3A - 61st&#160;Edition (Effective 1 January 2020)<br></h3></td></tr><tr class="iataTableOddRow-default"><td class="iataTableEvenCol-default"> <a href="/whatwedo/cargo/dgr/Documents/DGR-61-EN-2.3a.pdf" target="_blank">English </a>(pdf)<br></td></tr><tr class="iataTableEvenRow-default"><td class="iataTableEvenCol-default">
 <a href="https://www.iata.org/whatwedo/cargo/dgr/Documents/DGR-61-FR-2.3a.pdf" target="_blank">French </a>(pdf)<br></td></tr><tr class="iataTableOddRow-default"><td class="iataTableEvenCol-default">
 <a href="https://www.iata.org/whatwedo/cargo/dgr/Documents/DGR-61-DE-2.3a.pdf" target="_blank">German </a>(pdf)<br></td></tr><tr class="iataTableEvenRow-default"><td class="iataTableEvenCol-default">
 <a href="https://www.iata.org/whatwedo/cargo/dgr/Documents/DGR-61-ES-2.3a.pdf" target="_blank">Spanish </a>(pdf)<br></td></tr><tr class="iataTableOddRow-default"><td class="iataTableEvenCol-default">
@@ -454,14 +454,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

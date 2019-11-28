@@ -46,7 +46,7 @@
 <meta property='og:image' content='https://www.iata.org/whatwedo/ops-infra/PublishingImages/paperless-ops-330.png'>
 <meta property='og:image:secure_url' content='https://www.iata.org/whatwedo/ops-infra/PublishingImages/paperless-ops-330.png'>
 <meta property='og:description' content='IATA Digital Aircraft Operations supports airlines in implementing solutions for a more efficient aircraft operations in all aspects that involve technical operations. '>
-<link rel="canonical" href="https://www.iata.org:443/whatwedo/ops-infra/Pages/digital-aircraft-operations.aspx" />
+<link rel="canonical" href=":443/whatwedo/ops-infra/Pages/digital-aircraft-operations.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -344,7 +344,7 @@ Digital Aircraft Operations
 <a href="https://www.iata.org/whatwedo/ops-infra/Documents/EMA%20(FINAL).pdf" target="_blank">IATA Master Engine Maintenance Agreement (main section, rev. 2016)</a>&#160;(pdf)</li><li>
 <a href="/whatwedo/Documents/EMA%20(FINAL)%20-%20Annexes%20(word).docx" target="_blank">IATA Master Engine Maintenance Agreement (fillable&#160;Annexes)</a>​&#160;(doc)
 </li><li><a href="https://www.iata.org/whatwedo/ops-infra/Documents/Master%20Airframe%20Maintenance%20Agreement%20FINAL.pdf" target="_blank">IATA Master Airframe Maintenance Agreement (main section, rev. 2014)</a>&#160;(pdf)</li><li><a href="/whatwedo/ops-infra/Documents/Master%20AMA_%20Annexes.docx" target="_blank">IATA Master Airframe Maintenance Agreement (fillable Annexes)</a> (doc)</li><li><a href="/whatwedo/ops-infra/Documents/IATA%20PAO_TO%20Regulatory%20AC%20Based%20Checklist%20Release_2.1%20Sep%2017.xlsm" target="_blank">Electronic signature &amp; recordkeeping Regulatory Checklist (FAA, TCCA and CASA)</a>​&#160;(xlsm)</li><li>
-<a href="https://www.iata.org/whatwedo/ops-infra/Documents/Aviation_Identification_%20Authorisation_System_-_White_Paper_-_v1_2015.pdf" target="_blank">Aviation Identification and&#160;Authorisation System - White Paper</a>&#160;(pdf)</li><li><a href="http&#58;//www.iata.org/events/Pages/paperless-aircraft-conference.aspx" target="_blank">IATA&#160;Paperless Aircraft Operations Conferences</a>&#160;(2016-2018)<br></li></ul>
+<a href="/whatwedo/ops-infra/Documents/Aviation_Identification_%20Authorisation_System_-_White_Paper_-_v1_2015.pdf" target="_blank">Aviation Identification and&#160;Authorisation System - White Paper</a>&#160;(pdf)</li><li><a href="http&#58;//www.iata.org/events/Pages/paperless-aircraft-conference.aspx" target="_blank">IATA&#160;Paperless Aircraft Operations Conferences</a>&#160;(2016-2018)<br></li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -461,14 +461,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

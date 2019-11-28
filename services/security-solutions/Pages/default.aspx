@@ -44,7 +44,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/services/security-solutions/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/services/security-solutions/Pages/default.aspx" />
+<link rel="canonical" href=":443/services/security-solutions/Pages/default.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -358,7 +358,7 @@ Events
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_body">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1" class="ajax__tab_panel">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1_label" style='display:none'>IATATabContent1</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1_label"><p>​Security Management System (SeMS)&#160;Manual<br>Security is everyone's business.&#160;The <a href="https://www.iata.org/services/security-solutions/Documents/Postcard-SeMS-Web-20171010.pdf" target="_blank">SeMS Manual</a>&#160;(pdf)&#160;focuses on essential aspects of security management, including accountabilities and responsibilities assignment, improving communication and security culture. It features a brand new form to harmonize security reporting supported by industry specialists.<br></p><p>
-<a href="https://www.iata.org/publications/store/Pages/guide-to-facilitation.aspx" target="_blank">IATA Guide to Facilitation</a> High level overview of facilitation standards through the use of Advanced Passenger Information (API) and Passenger Name Records (PNR).&#160;<a href="/services/security-solutions/Documents/IGF-postcard-20170918.pdf" target="_blank">More information on the IATA Guide to Facilitation</a>&#160;(pdf)<br></p></div>
+<a href="/publications/store/Pages/guide-to-facilitation.aspx" target="_blank">IATA Guide to Facilitation</a> High level overview of facilitation standards through the use of Advanced Passenger Information (API) and Passenger Name Records (PNR).&#160;<a href="/services/security-solutions/Documents/IGF-postcard-20170918.pdf" target="_blank">More information on the IATA Guide to Facilitation</a>&#160;(pdf)<br></p></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2" class="ajax__tab_panel" style="display:none;">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2_label" style='display:none'>IATATabContent2</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2_label"><a href="/training/subject-areas/pages/security-courses.aspx">Security courses</a> that provide timely information on legislation and strategies for addressing today's security challenges. <div>&#160;</div>
 <div>With courses ranging from operations to planning to management, you can find training for every step of your career.</div>
@@ -492,14 +492,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

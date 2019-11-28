@@ -40,7 +40,7 @@
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
 <link type="text/xml" rel="alternate" href="/events/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="https://www.iata.org:443/events/Pages/aviation-day-caribbean.aspx" />
+<link rel="canonical" href=":443/events/Pages/aviation-day-caribbean.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -328,7 +328,7 @@ Aviation Day Caribbean
 <br>
 </p><span><div class="pseudoTable">
 <div class="row">
-<div class="cell col1_2"><h3 class="iataElement-Title3">Program<br></h3><ul><li>For content information, please access the&#160;<a href="https&#58;//events.bizzabo.com/ADCaribbean2018/agenda" target="_blank">agenda</a>.&#160;​​​<br></li></ul><h3 class="iataElement-Title3">Newsletter<br></h3><ul><li><a href="https://www.iata.org/pressroom/pr/Pages/2018-06-29-01.aspx">Maximizing Aviation's Benefits in the Caribbean</a><br></li></ul><h3 class="iataElement-Title3">Presentations from Aviation Day Caribbean, 29 June 2018<br></h3><ul><li>Complete presentations are available&#160;<a href="/events/Documents/Aviation-Day-Caribbean-2018-Complete-Program.pdf" target="_blank">here</a><br></li></ul></div>
+<div class="cell col1_2"><h3 class="iataElement-Title3">Program<br></h3><ul><li>For content information, please access the&#160;<a href="https&#58;//events.bizzabo.com/ADCaribbean2018/agenda" target="_blank">agenda</a>.&#160;​​​<br></li></ul><h3 class="iataElement-Title3">Newsletter<br></h3><ul><li><a href="/pressroom/pr/Pages/2018-06-29-01.aspx">Maximizing Aviation's Benefits in the Caribbean</a><br></li></ul><h3 class="iataElement-Title3">Presentations from Aviation Day Caribbean, 29 June 2018<br></h3><ul><li>Complete presentations are available&#160;<a href="/events/Documents/Aviation-Day-Caribbean-2018-Complete-Program.pdf" target="_blank">here</a><br></li></ul></div>
 <div class="cell col1_2"><a href="https&#58;//www.flickr.com/photos/iataorg/sets/72157698869460345" target="_blank">View complete album here</a><br><a href="https&#58;//www.flickr.com/photos/iataorg/sets/72157698869460345" target="_blank"><img src="/events/Documents/Pages/aviation-day-caribbean/aviation-day-caribbean-preview-25.jpg" alt="" style="margin&#58;5px;width&#58;368px;font-family&#58;arial,sans-serif;font-size&#58;14px;font-style&#58;normal;font-weight&#58;400;" /></a><br></div>
 </div>
 </div>&#160;​​</span><br></div>
@@ -507,14 +507,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

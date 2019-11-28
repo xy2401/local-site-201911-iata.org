@@ -46,7 +46,7 @@
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='Training in your area of specialization: airline, airport, air navigation services, cargo, civil aviation, ground operations, management, safety, security, tourism, more...'>
-<link rel="canonical" href="https://www.iata.org:443/training/subject-areas/Pages/index.aspx" />
+<link rel="canonical" href=":443/training/subject-areas/Pages/index.aspx" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script language="javascript">var ExpireDays = 90;qstr = document.location.search;qstr = qstr.substring(1,qstr.length);function SetCookie(cookieName,cookieValue,nDays){var today = new Date();var expire = new Date();if (nDays==null || nDays==0) nDays=1;expire.setTime(today.getTime() + 3600000*24*nDays);document.cookie = cookieName + " = " + escape(cookieValue) + "; expires=" + expire.toGMTString() + "; path=/;domain=iata.org";}thevars = qstr.split("&");for(i=0;i<thevars.length;i++){cookiecase = thevars[i].split("=");switch(cookiecase[0]){case "e":e = cookiecase[1];SetCookie("EmailAddr",e,ExpireDays);break;case "j":j = cookiecase[1];SetCookie("JobID",j,ExpireDays);break;case "l":l = cookiecase[1];SetCookie("ListID",l,ExpireDays);break;case "jb":jb = cookiecase[1];SetCookie("BatchID",jb,ExpireDays);break;case "u":u = cookiecase[1];SetCookie("UrlID",u,ExpireDays);break;case "mid":mid = cookiecase[1];SetCookie("MemberID",mid,ExpireDays);break;default:break;}}</script><script>(function(){var g=function(e,h,f,g){this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};try{(new g(100,"r","QSI_S_ZN_02n9OLqgS1dv0qh","//zn02n9olqgs1dv0qh-singuserfd5583c7.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_02n9OLqgS1dv0qh&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();</script><div id='ZN_02n9OLqgS1dv0qh'></div><script src="https://sw.nohold.net/IATA/Uploads/iata_kplaunch.js" type="text/javascript"></script><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -490,14 +490,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="https://www.iata.org/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="https://www.iata.org/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="https://www.iata.org/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="https://www.iata.org/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>
