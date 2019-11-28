@@ -343,21 +343,21 @@ flexibility, certainty, consistency and sustainability.&#160;<br></p><p>Thanks t
 </div>
 <p>
 <span>A living document, WSG is reviewed on a regular basis to keep up with industry and regulatory changes.</span></p><h3>Worldwide Slot Guidelines - for download<br></h3><p>
-<a href="/policy/slots/Documents/calendar-coordination-activities.pdf" target="_blank"><strong>Latest Calendar of Coordination Activities</strong></a><strong> </strong>(pdf)<br></p><p><a href="http&#58;//www.iata.org/policy/slots/Documents/wsg-edition-10-english-version.pdf" target="_blank">WSG Edition 10 - English version</a> (pdf) Official version</p><p><a href="/policy/slots/Documents/wsg-edition-9-english-version.pdf" target="_blank">WSG Edition 9 - English version</a> (pdf) Official version</p><p><span>If inconsistencies arise with other translations this English version always takes precedence</span></p><p>
-<a href="/policy/slots/Documents/WSG%20Edition%208.1%20-%20Spanish%20version%20%28versi%c3%b3n%20espa%c3%b1ola%29.pdf" target="_blank">WSG Edition 8 - Spanish version (versión española)</a>&#160;(pdf)</p><p>
-<a href="/policy/slots/Documents/wsg_8_arabic.pdf" target="_blank">WSG Edition 8 - Arabic version ( إرشادات الخانات الزمنية العالمية)</a>&#160;(pdf)<br></p><p>
-<a href="/policy/slots/Documents/wsg_8_chinese.pdf" target="_blank">WSG Edition 8 - Chinese version (中国语言版本)</a> (pdf)</p><p>
-<a href="/policy/slots/Documents/wsg_8_portuguese.pdf" target="_blank">WSG Edition 8 - Brazilian Portuguese version (versão português brasileiro)</a>&#160;(pdf) &#160;&#160;</p><h3>Latest list of all level 2 and level 3 Airports</h3><div>
+<a href="https://www.iata.org/policy/slots/Documents/calendar-coordination-activities.pdf" target="_blank"><strong>Latest Calendar of Coordination Activities</strong></a><strong> </strong>(pdf)<br></p><p><a href="http&#58;//www.iata.org/policy/slots/Documents/wsg-edition-10-english-version.pdf" target="_blank">WSG Edition 10 - English version</a> (pdf) Official version</p><p><a href="/policy/slots/Documents/wsg-edition-9-english-version.pdf" target="_blank">WSG Edition 9 - English version</a> (pdf) Official version</p><p><span>If inconsistencies arise with other translations this English version always takes precedence</span></p><p>
+<a href="https://www.iata.org/policy/slots/Documents/WSG%20Edition%208.1%20-%20Spanish%20version%20%28versi%c3%b3n%20espa%c3%b1ola%29.pdf" target="_blank">WSG Edition 8 - Spanish version (versión española)</a>&#160;(pdf)</p><p>
+<a href="https://www.iata.org/policy/slots/Documents/wsg_8_arabic.pdf" target="_blank">WSG Edition 8 - Arabic version ( إرشادات الخانات الزمنية العالمية)</a>&#160;(pdf)<br></p><p>
+<a href="https://www.iata.org/policy/slots/Documents/wsg_8_chinese.pdf" target="_blank">WSG Edition 8 - Chinese version (中国语言版本)</a> (pdf)</p><p>
+<a href="https://www.iata.org/policy/slots/Documents/wsg_8_portuguese.pdf" target="_blank">WSG Edition 8 - Brazilian Portuguese version (versão português brasileiro)</a>&#160;(pdf) &#160;&#160;</p><h3>Latest list of all level 2 and level 3 Airports</h3><div>
 <a href="/policy/slots/Documents/wsg-annex-11.6.xlsx" target="_blank"> List for level 2 and level 3 airports </a>(xls) as officially declared to IATA</div><h3>WSG Annexes<br></h3>
 <ul><li>
-<a href="/policy/slots/Documents/wsg-annex-11.1.pdf" target="_blank">11.1 IATA Slot Conference – Standing Working Arrangements</a> (pdf)</li><li>
-<a href="/policy/slots/Documents/wsg-annex-11.2.pdf" target="_blank">11.2 IATA Standards for Airport Capacity Analysis</a> (pdf)</li><li>
-<a href="/policy/slots/Documents/wsg-annex-11.3.pdf" target="_blank">11.3 Recommended Minimum System Requirements for Airlines and Coordinators</a> (pdf)</li><li>
+<a href="https://www.iata.org/policy/slots/Documents/wsg-annex-11.1.pdf" target="_blank">11.1 IATA Slot Conference – Standing Working Arrangements</a> (pdf)</li><li>
+<a href="https://www.iata.org/policy/slots/Documents/wsg-annex-11.2.pdf" target="_blank">11.2 IATA Standards for Airport Capacity Analysis</a> (pdf)</li><li>
+<a href="https://www.iata.org/policy/slots/Documents/wsg-annex-11.3.pdf" target="_blank">11.3 Recommended Minimum System Requirements for Airlines and Coordinators</a> (pdf)</li><li>
 <a href="http&#58;//www.iata.org/policy/slots/Documents/wsg-annex-11.4.xls" target="_blank">11.4 Notification of Airport Level Change</a> (xls)</li><li>
-<a href="/policy/slots/Documents/wsg-annex-11.5.pdf" target="_blank">11.5 </a><a href="http&#58;//www.iata.org/policy/slots/Documents/wsg-annex-11.5.pdf" target="_blank">Independence of the Coordinator</a> (pdf)</li><li>
+<a href="https://www.iata.org/policy/slots/Documents/wsg-annex-11.5.pdf" target="_blank">11.5 </a><a href="http&#58;//www.iata.org/policy/slots/Documents/wsg-annex-11.5.pdf" target="_blank">Independence of the Coordinator</a> (pdf)</li><li>
 <a href="/policy/slots/Documents/wsg-annex-11.6.xlsx" target="_blank">11.6 Contact list for Level 2 and Level 3 Airports</a> (xls) Last updated&#58; <strong>10.11.2019</strong><br></li><li>
-<a href="/policy/slots/Documents/wsg-annex-11.7.pdf">11.7 Proposal for Revision of the WSG</a> (pdf)<br></li><li>
-<a href="/policy/slots/Documents/wsg-annex-11.8.pdf" target="_blank">11.8 Best practice guidelines for the use of data analysis&#160;</a> (pdf)<br></li></ul>
+<a href="https://www.iata.org/policy/slots/Documents/wsg-annex-11.7.pdf">11.7 Proposal for Revision of the WSG</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/policy/slots/Documents/wsg-annex-11.8.pdf" target="_blank">11.8 Best practice guidelines for the use of data analysis&#160;</a> (pdf)<br></li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -446,7 +446,7 @@ New Study
 </h2>
 <div class="hbContent">
 <p>
-<a href="/policy/Documents/ICAN_caribbeanreport.pdf" target="_blank">A blueprint for maximizing the social and economic value of aviation in the Caribbean</a></p>
+<a href="https://www.iata.org/policy/Documents/ICAN_caribbeanreport.pdf" target="_blank">A blueprint for maximizing the social and economic value of aviation in the Caribbean</a></p>
 </div>
 </div>
 </a>
@@ -457,10 +457,10 @@ New Study
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">
-<p><a href="/policy/slots/Documents/SC%20docs/competition-law-2015.pdf" target="_blank">​Competition Law Guidelines for IATA Commercial Events </a>(pdf)<br></p>
-<p><a href="/policy/slots/Documents/wsg-coord-process.pdf" target="_blank">Advice for Coordinators - Coordination&#160;Process </a>(pdf)</p>
-<p><a href="/policy/slots/Documents/wsg-al-coord-process.pdf" target="_blank">Advice for Airlines - Coordination Process </a>(pdf)</p>
-<p><a href="/policy/slots/Documents/pro-rev-cur-wsg.doc" target="_blank">Proposal for Revision of the WSG </a>(doc)</p><p><a href="/policy/slots/Documents/calendar-coordination-activities.pdf">Calendar of&#160;Coordination Activities</a>&#160;(pdf) </p>
+<p><a href="https://www.iata.org/policy/slots/Documents/SC%20docs/competition-law-2015.pdf" target="_blank">​Competition Law Guidelines for IATA Commercial Events </a>(pdf)<br></p>
+<p><a href="https://www.iata.org/policy/slots/Documents/wsg-coord-process.pdf" target="_blank">Advice for Coordinators - Coordination&#160;Process </a>(pdf)</p>
+<p><a href="https://www.iata.org/policy/slots/Documents/wsg-al-coord-process.pdf" target="_blank">Advice for Airlines - Coordination Process </a>(pdf)</p>
+<p><a href="https://www.iata.org/policy/slots/Documents/pro-rev-cur-wsg.doc" target="_blank">Proposal for Revision of the WSG </a>(doc)</p><p><a href="/policy/slots/Documents/calendar-coordination-activities.pdf">Calendar of&#160;Coordination Activities</a>&#160;(pdf) </p>
 <p><a href="http&#58;//www.wwacg.org/" target="_blank">World Airport Coordinators Group</a><br></p>
 </div>
 </div>

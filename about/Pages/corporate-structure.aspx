@@ -338,26 +338,26 @@ IATA&#39;s Corporate Governance Structure
 <p>This section contains the formal reference materials covering the IATA corporate governance structure. </p>
 <h3>Act of Incorporation </h3>
 <p>On December 18, 1945 assent was given to a special Act of the Canadian Parliament incorporating IATA.<br></p>
-<p><a href="/about/Documents/act-of-incorporation.pdf" target="_blank">Act of Incorporation</a> (pdf)<br></p>
+<p><a href="https://www.iata.org/about/Documents/act-of-incorporation.pdf" target="_blank">Act of Incorporation</a> (pdf)<br></p>
 <h3>Articles of Association</h3>
 <p>The Articles of Association regulate the activities and affairs of IATA. The Articles are amended from time-to-time by the Annual General Meeting. The most recent amendments were adopted by the 74th Annual General Meeting held in Sydney on 5 June 2018.<br></p>
-<p><a href="/about/Documents/articles-of-association.pdf" target="_blank">Articles of Association</a>&#160;(pdf) </p>
+<p><a href="https://www.iata.org/about/Documents/articles-of-association.pdf" target="_blank">Articles of Association</a>&#160;(pdf) </p>
 <h3>The Nominating Committee</h3>
 <p>The Nominating Committee is appointed to make recommendations to the Annual General Meeting for appointments of members to the Board of Governors. </p>
-<p><a href="/about/Documents/rules-nominating-committee.pdf" target="_blank">Rules of the Nominating Committee</a>&#160;(pdf) </p>
+<p><a href="https://www.iata.org/about/Documents/rules-nominating-committee.pdf" target="_blank">Rules of the Nominating Committee</a>&#160;(pdf) </p>
 <h3>Rules of Procedure of General Meetings</h3>
 <p>The Rules of Procedure of General Meetings sets the composition, agenda, conduct of business, etc. for IATA's Annual General Meetings. </p>
-<p><a href="/about/Documents/rules-of-procedure%20-agm.pdf" target="_blank">Rules of Procedure of General Meetings</a>&#160;(pdf) </p>
+<p><a href="https://www.iata.org/about/Documents/rules-of-procedure%20-agm.pdf" target="_blank">Rules of Procedure of General Meetings</a>&#160;(pdf) </p>
 <h3>Board of Governors</h3>
 <p>The IATA Board of Governors is IATA's government.&#160; Its members exercise an oversight and executive role on behalf of the membership as a whole in representing the interests of the Association. </p>
-<p><a href="/about/Documents/rules-regulations-bg.pdf" target="_blank">Rules and Regulations of the Board of Governors</a>&#160;(pdf) </p>
+<p><a href="https://www.iata.org/about/Documents/rules-regulations-bg.pdf" target="_blank">Rules and Regulations of the Board of Governors</a>&#160;(pdf) </p>
 <p><a href="/about/Pages/boardgovernors.aspx">Board of Governors Membership</a><br></p>
 <h3>Advisory Councils<br></h3>
 <p>Rules and Regulations of the nine Advisory Councils&#58; Cargo; Digital Transformation; Distribution; Industry Affairs; Industry Financial; Legal; Safety, Flight, and Ground Operations; Security; Sustainability and Environment. </p>
-<p><a href="/about/Documents/advisory-councils-rules-and-regulations.pdf" target="_blank">Rules and Regulations of the Advisory Councils</a> (pdf) </p>
-<p><a href="/about/Documents/advisory-councils-mandate-membership-consolidated-1.pdf" target="_blank">Advisory Councils Mandates and Membership</a>&#160;(pdf) <br></p>
+<p><a href="https://www.iata.org/about/Documents/advisory-councils-rules-and-regulations.pdf" target="_blank">Rules and Regulations of the Advisory Councils</a> (pdf) </p>
+<p><a href="https://www.iata.org/about/Documents/advisory-councils-mandate-membership-consolidated-1.pdf" target="_blank">Advisory Councils Mandates and Membership</a>&#160;(pdf) <br></p>
 <h3>Traffic Conferences</h3>
-<p><a href="/about/Documents/provisions-traffic-conferences.pdf" target="_blank">Provisions for the Conduct of the&#160;IATA Traffic Conferences</a> (pdf) </p>
+<p><a href="https://www.iata.org/about/Documents/provisions-traffic-conferences.pdf" target="_blank">Provisions for the Conduct of the&#160;IATA Traffic Conferences</a> (pdf) </p>
 <h2 class="iataElement-Title2">Questions?</h2>
 <p>For any questions or for further information regarding IATA's corporate governance, please <a href="mailto&#58;corpsec@iata.org" target="_blank">contact us</a>&#58; </p>
 <ul><li>Karen Clayton, Corporate Secretary</li>

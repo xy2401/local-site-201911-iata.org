@@ -422,8 +422,8 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations of this press release</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/german-pr-10-04-21.pdf" target="_blank">German</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish_PR_2010_04_21_2.pdf" target="_blank">Spanish</a> (pdf)</li></ul><br><br><p><a href="/pressroom/speeches/PublishingImages/mayrhuber-wowereit-bisignani.jpg" target="_blank"><img alt="From left to right&#58; Wolfgang Mayrhuber, Lufthansa, Klaus Wowereit, Mayor of Berlin, Giovanni Bisignani, IATA" src="/pressroom/speeches/PublishingImages/mayrhuber-wowerheit-bisignani-thumb.jpg" border="0" style="border-width&#58;0px;border-style&#58;solid;border-color&#58;initial;" /></a><br><a href="/pressroom/speeches/PublishingImages/mayrhuber-wowereit-bisignani.jpg" target="_blank">Download High Resolution&#160;</a>(jpg)</p>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/german-pr-10-04-21.pdf" target="_blank">German</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish_PR_2010_04_21_2.pdf" target="_blank">Spanish</a> (pdf)</li></ul><br><br><p><a href="/pressroom/speeches/PublishingImages/mayrhuber-wowereit-bisignani.jpg" target="_blank"><img alt="From left to right&#58; Wolfgang Mayrhuber, Lufthansa, Klaus Wowereit, Mayor of Berlin, Giovanni Bisignani, IATA" src="/pressroom/speeches/PublishingImages/mayrhuber-wowerheit-bisignani-thumb.jpg" border="0" style="border-width&#58;0px;border-style&#58;solid;border-color&#58;initial;" /></a><br><a href="/pressroom/speeches/PublishingImages/mayrhuber-wowereit-bisignani.jpg" target="_blank">Download High Resolution&#160;</a>(jpg)</p>
 <p><strong>From left to right&#58;</strong> </p>
 <ul>
 <li>Wolfgang Mayrhuber, Lufthansa</li>

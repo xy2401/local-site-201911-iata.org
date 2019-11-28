@@ -347,11 +347,11 @@ Training Needs Assessment (Classroom, 3 days)
 <p>In this three-day course, we will explore all aspects of Training Needs Assessment so that you will be better equipped to respond effectively to requests from your supervisors, colleagues or peers when asked for performance improvement interventions. You will be armed with the tools and knowledge that will ensure that you can ask the right questions, find the answers to performance problems and uncover opportunities for improvement. These skills will enable a more strategic approach to improving the overall performance at the individual, operational and organizational level.</p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 3 days (24 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>Participants should have experience with Instructional Design and/or
 Instructional techniques </li><li>Recommended level is Management and Professional</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

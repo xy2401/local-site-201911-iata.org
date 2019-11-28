@@ -343,7 +343,7 @@ IATA Members Reaffirm Support for NDC Initiative
 </div>
 <h3 class="iataElement-Title3">Better Comparison Shopping; Richer Content for Travel Agents</h3>
 <p>Cape Town - The International Air Transport Association (IATA) 69th Annual General Meeting (AGM) reaffirmed its support for the New Distribution Capability (NDC) initiative. This will develop an open, XML-based distribution standard for data exchange between airlines and travel agents. </p>
-<p>In a unanimously approved <a href="/pressroom/pr/Documents/agm69-resolution-ndc.pdf" target="_blank">AGM Resolution</a>&#160;(pdf), IATA members agreed that, “consumers will benefit from being able to make choices based on enriched content and the ability to compare and transact airline offers in a transparent fashion.”<br></p>
+<p>In a unanimously approved <a href="https://www.iata.org/pressroom/pr/Documents/agm69-resolution-ndc.pdf" target="_blank">AGM Resolution</a>&#160;(pdf), IATA members agreed that, “consumers will benefit from being able to make choices based on enriched content and the ability to compare and transact airline offers in a transparent fashion.”<br></p>
 <p>Consumers already have the ability to view rich content when they visit many airline websites, including bundled and no frills fare offers and personalization, as well as the ability to see graphic depictions of products and services available for sale. In most cases, however, travel agents do not have access to the same information and services through their systems. The XML-based NDC standard will close this merchandizing gap, providing consumers with the same shopping experience regardless of how and where they do their travel shopping. </p>
 <p>“Consumers want to be able to buy air travel products in the same way that they purchase other goods, with full access to product information, the ability to comparison-shop and to see the full value of the offer. And we want our travel agent partners to be able to offer it. NDC will enable this to happen,” said Tony Tyler, IATA’s Director General and CEO.</p>
 <p>The AGM Resolution affirmed that NDC will support current shopping methods, including the ability for consumers to compare base fares and to do so without identifying themselves (“anonymous shopping”). The AGM Resolution also noted that consumers will be protected by data privacy protection laws and regulations regardless of how and where they choose to purchase air travel.</p>
@@ -357,7 +357,7 @@ IATA Members Reaffirm Support for NDC Initiative
 <h3><br>Notes for editors&#58;</h3>
 <ul>
 <li>IATA (International Air Transport Association) represents some 240 airlines comprising 84% of global air traffic.</li>
-<li><a href="/pressroom/pr/Documents/agm69-resolution-ndc.pdf" target="_blank">AGM Resolution on NDC</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/agm69-resolution-ndc.pdf" target="_blank">AGM Resolution on NDC</a>&#160;(pdf)</li>
 <li>XML Schemas define vocabularies and a set of messages that allow computers to communicate using these messages. </li>
 <li>You can follow us at <a href="http&#58;//twitter.com/iata2press">http&#58;//twitter.com/iata2press</a>&#160;for news specially catered for the media.</li></ul>
 <p><br>&#160;​​</p>
@@ -432,11 +432,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation</h2></div></div>
 <ul>
-<li><a href="/pressroom/Documents/press-release-33-2013-arabic.pdf" target="_blank">Arabic </a>(pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-33-2013-chinese.pdf" target="_blank">Chinese</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-33-2013-french.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-33-2013-german.pdf" target="_blank">German</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-33-2013-spanish.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/Documents/press-release-33-2013-arabic.pdf" target="_blank">Arabic </a>(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-33-2013-chinese.pdf" target="_blank">Chinese</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-33-2013-french.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-33-2013-german.pdf" target="_blank">German</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-33-2013-spanish.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul>
 <div id="__publishingReusableFragmentIdSection"><a href="/ReusableContent/39_.000">a</a></div>
 </div>
 </div>

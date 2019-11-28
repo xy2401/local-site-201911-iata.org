@@ -349,7 +349,7 @@ Cargo Innovation Awards
 <strong> Gatechain</strong> - Redefining trade with blockchain</li><li>
 <strong>Jettainer</strong> - Innovative Decision Support System (DSS), ULD management</li><li>
 <strong>Openairlines</strong> - SkyBreathe Fuel Efficiency<br></li></ul><p>For more information on each submission, you can refer to our
-<a href="/events/wcs/Documents/Air-Cargo-Innovation-Awards-5-Finalists.pdf" target="_blank">finalist summaries</a> (pdf).<br></p><table width="100%" class="iataTable-default" cellspacing="0"><tbody></tbody></table><h2 class="iataElement-Title2">Winner in 2015</h2><p>IATA hosted the first edition of the Air Cargo Innovation Awards during the World Cargo Symposium 2015 in Shanghai.<br></p><p>
+<a href="https://www.iata.org/events/wcs/Documents/Air-Cargo-Innovation-Awards-5-Finalists.pdf" target="_blank">finalist summaries</a> (pdf).<br></p><table width="100%" class="iataTable-default" cellspacing="0"><tbody></tbody></table><h2 class="iataElement-Title2">Winner in 2015</h2><p>IATA hosted the first edition of the Air Cargo Innovation Awards during the World Cargo Symposium 2015 in Shanghai.<br></p><p>
 <strong>Winner</strong></p><ul><li>CHEP Aerospace Solutions for their CanTrack solution<br></li></ul><p>&#160;&#160;
 <br><strong>Runners-up</strong></p><ul><li>CLIVE for their &quot;Humanized Technology for the Air Cargo Industry&quot;</li><li>CARGOHUB Netherlands for their Cargo Claims solution<br></li></ul><h2>Contest Prizes</h2><table width="100%" class="iataTable-default" cellspacing="0"><tbody><tr><td class="iataTable-default">
 <strong> Winner </strong><strong>Prizes</strong>

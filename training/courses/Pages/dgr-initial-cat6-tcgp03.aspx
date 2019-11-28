@@ -347,10 +347,10 @@ Dangerous Goods Regulations (DGR) - Initial - Category 6 (Classroom, 5 days)
 Safety is paramount in the aviation industry&#58; Ensure that you know how to read and apply the regulations for the transport of dangerous goods by air. These regulations include legal requirements, operational restrictions, packaging instructions, marking, labeling, and documentation to ensure the safe transportation of these goods. Gain the competencies to accept, handle and process shipments containing dangerous goods according to the current edition of the IATA Dangerous Goods Regulations (DGR) manual.</p><iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/wfoKnngBRQw" frameborder="0"></iframe><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li><li>Recommended level is Entry-level and Intermediate</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>
@@ -454,7 +454,7 @@ Station managers responsible for the safe transport of dangerous goods</li>
 Shippers, cargo agents, consolidators, freight forwarders</li>
 <li>
 Instructional designers and instructors of DGR</li></ul><p>
-<strong>Note&#58;</strong> This course meets the training requirements for personnel listed in category 6 as per <a href="/whatwedo/cargo/dgr/Documents/DGR-Training-Requirements-15.pdf">Table 1.5.A</a> of the IATA DGR.</p>
+<strong>Note&#58;</strong> This course meets the training requirements for personnel listed in category 6 as per <a href="https://www.iata.org/whatwedo/cargo/dgr/Documents/DGR-Training-Requirements-15.pdf">Table 1.5.A</a> of the IATA DGR.</p>
 </span></span>
 <span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_ConditionalPanel2"><span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_ConditionalPanel2_ctl00_TitleCertificateAwarded_lbTitle">Certificate awarded</span></h3>

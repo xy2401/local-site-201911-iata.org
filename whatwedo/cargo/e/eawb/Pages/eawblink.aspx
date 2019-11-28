@@ -336,18 +336,18 @@ eAWBLink
 </menu>
 
 <div class="introAndImage">
-<p>eAWB<em>Link</em>&#160;is an entry-level&#160;industry tool designed for small and medium-sized freight forwarders to become e-AWB capable.&#160;<br></p><p>Download the<span>&#160;<a href="/whatwedo/cargo/e/eawb/Documents/eawblink_productsheet.pdf" target="_blank">eAWB<em>Link</em>&#160;Product&#160;sheet&#160;</a>(pdf)</span><span> for more information.</span></p>
+<p>eAWB<em>Link</em>&#160;is an entry-level&#160;industry tool designed for small and medium-sized freight forwarders to become e-AWB capable.&#160;<br></p><p>Download the<span>&#160;<a href="https://www.iata.org/whatwedo/cargo/e/eawb/Documents/eawblink_productsheet.pdf" target="_blank">eAWB<em>Link</em>&#160;Product&#160;sheet&#160;</a>(pdf)</span><span> for more information.</span></p>
 </div>
 <div class="video-container">​
 <iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/uImPciTsn3c?rel=0?wmode=transparent" frameborder="0"></iframe>&#160;</div>
 <h2 class="iataElement-Title2">Key features<br></h2><ul><li>Create, send, and manage&#160;e-AWB, e-HAWB, e-CSD</li><li>Track and trace shipments</li><li>Receive shipment status alerts</li><li>Manage AWB Stock&#160;<br></li><li>Use Templates for quick creation<br></li><li>Print AWB,&#160;HAWB, House Manifest on demand (if you must)<br></li><li>Print Bar coded labels and Cargo Pouch labels<br></li></ul><p>
 <span>Connected to over 120 Airlines, eAWB<em>Link</em>&#160;reduces&#160;processing costs, enhances&#160;data&#160;quality, improves&#160;efficiency, and facilitates regulatory compliance</span><span>.</span></p><h2 class="iataElement-Title2">Customer Testimonials</h2><h3 class="iataElement-Title3">Marken (France)</h3><p>“It is a very nice tool and simple to use even for debutants&#160;It’s a multi-purpose tool as we can cut AWBs, MAWBs for consolidation, track shipments, manage AWB stock etc.”&#160;<br></p><h3 class="iataElement-Title3">Carga Transistmica (Panama)</h3><p>&quot;eAWB<em>Link</em> is a powerful paperless eco-friendly&#160;tool, that reduces administrative processes and facilitates a lean logistical chain. For Carga Transistmica, the eAWB<em>Link</em> helps us improve all our operations as well as providing much more traceability and security over the traditional process with paper.&quot;<br></p><h3 class="iataElement-Title3">Intertrans Co. Ltd (Russia)</h3><p>&quot;System is very smooth, intuitive understandable with maximum usability. It takes 10 minutes for&#160;me to create full AWB!&quot;&#160;<br></p><h2 class="iataElement-Title2">Resources&#160;<br></h2><p>
 <span>For more information&#160;on eAWB<em>Link</em>,&#160;check out the following!&#160;</span></p><p>
-<span>&#160;<a href="/whatwedo/cargo/e/eawb/Documents/eawblink-intro.pdf" target="_blank">eAWB<em>Link&#160;</em>Introduction </a> <span>&#160;(pdf)</span></span></p><p>
-<span><span><a href="/whatwedo/cargo/e/eawb/Documents/eawblink_productsheet.pdf" target="_blank">eAWB<em>Link</em>&#160;Product&#160;sheet&#160;</a><span>&#160;(pdf)</span></span></span></p><p>
+<span>&#160;<a href="https://www.iata.org/whatwedo/cargo/e/eawb/Documents/eawblink-intro.pdf" target="_blank">eAWB<em>Link&#160;</em>Introduction </a> <span>&#160;(pdf)</span></span></p><p>
+<span><span><a href="https://www.iata.org/whatwedo/cargo/e/eawb/Documents/eawblink_productsheet.pdf" target="_blank">eAWB<em>Link</em>&#160;Product&#160;sheet&#160;</a><span>&#160;(pdf)</span></span></span></p><p>
 <a href="/whatwedo/cargo/e/eawb/Pages/FAQ.aspx">eAWB<em>Link</em> FAQs</a><span>&#160;</span></p><p>
 <a href="/whatwedo/cargo/e/eawb/Pages/eAWBLink-tutorial-videos.aspx">Tutorial videos</a><span>&#160;</span></p><p>
-<span><a href="/whatwedo/cargo/e/eawb/Documents/eawblink-connected-carriers.pdf" target="_blank">List of connected carriers</a> (pdf)</span></p><p>
+<span><a href="https://www.iata.org/whatwedo/cargo/e/eawb/Documents/eawblink-connected-carriers.pdf" target="_blank">List of connected carriers</a> (pdf)</span></p><p>
 <span>For any questions or further information, </span> <a href="mailto&#58;eawblink@iata.org">contact the eAWB<em>Link</em> team</a><span>.</span></p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
@@ -454,9 +454,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>
-<a href="/whatwedo/cargo/e/eawb/Documents/eawblink-intro.pdf" target="_blank">eAWB Link Introduction​</a>
+<a href="https://www.iata.org/whatwedo/cargo/e/eawb/Documents/eawblink-intro.pdf" target="_blank">eAWB Link Introduction​</a>
 </p><p>
-<a href="/whatwedo/cargo/e/eawb/Documents/eawblink_factsheet.pdf" target="_blank">eAWB Link Fact sheet</a>
+<a href="https://www.iata.org/whatwedo/cargo/e/eawb/Documents/eawblink_factsheet.pdf" target="_blank">eAWB Link Fact sheet</a>
 </p><p>
 <a href="/whatwedo/cargo/e/eawb/Pages/FAQ.aspx">eAWB Link FAQs</a>
 </p><p>

@@ -347,10 +347,10 @@ SGHA-SLA and Effective Negotiation Behaviors (Classroom, 5 days)
 <p>The 2018 version of the Standard Ground Handling Agreement (SGHA) has arrived! Learn about the latest updates and how to use the IATA SGHA as a commercial agreement and services description document.</p><p>This course covers the SGHA section by section, giving you the foundations to write the Annex B and Service Level Agreement (SLA) accurately and effectively. Learn how to enhance cooperation, efficiency and savings in your negotiations through technical training and exercises that replicate today’s global marketplace.<br></p><iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/ZToH1XGyhXI" frameborder="0"></iframe><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>Participants should have prior knowledge of Ground Handling Business and Operations</li><li>Recommended level is Management and Professional</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent level for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent level for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

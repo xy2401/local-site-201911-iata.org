@@ -432,9 +432,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/French-PR-2011-06-06-02.pdf" target="_blank">French</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/2011-06-06-02-sp.pdf" target="_blank">Spanish</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/2011-06-06-02.it.pdf" target="_blank">Italian</a> (pdf)</li></ul><a href="/events/agm/2011/gallery/Pages/video-gallery.aspx?vid=7"><img alt="Giovanni Bisignani" src="/events/agm/2011/gallery/PublishingImages/rhb-thumbnails/I-V-giovanni-bisignan-i2video-thumbnail-rhb.jpg" border="0" style="border&#58;0px solid currentcolor;" /></a>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2011-06-06-02.pdf" target="_blank">French</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/2011-06-06-02-sp.pdf" target="_blank">Spanish</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/2011-06-06-02.it.pdf" target="_blank">Italian</a> (pdf)</li></ul><a href="/events/agm/2011/gallery/Pages/video-gallery.aspx?vid=7"><img alt="Giovanni Bisignani" src="/events/agm/2011/gallery/PublishingImages/rhb-thumbnails/I-V-giovanni-bisignan-i2video-thumbnail-rhb.jpg" border="0" style="border&#58;0px solid currentcolor;" /></a>
 <div class="newst">
 <div>
 <h2>Video clips of Bisignani's speech</h2></div></div>

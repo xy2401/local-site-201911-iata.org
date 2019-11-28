@@ -346,7 +346,7 @@ Air Cargo Law and Convention (Classroom, 2 days)
 </div>
 <p>Examine the impact of air cargo law developments on the airline business, and understand the different approaches and solutions to the complex air cargo law issues. You will review the international conventions on air law in relation to cargo liability, gain an overview of the IATA cargo service conference and IATA cargo agency conference, and explore the difference between agent and forwarder liability.</p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-company training</a>. </p>
 <h3>Course format</h3><ul>
-<li>This classroom course provides 2 days (16 hours) of instruction delivered by an official IATA Instructor.</li><li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>This classroom course provides 2 days (16 hours) of instruction delivered by an official IATA Instructor.</li><li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>Participants should have prior knowledge of air cargo procedures</li>
 <li>Recommended level is Professional and Management</li>

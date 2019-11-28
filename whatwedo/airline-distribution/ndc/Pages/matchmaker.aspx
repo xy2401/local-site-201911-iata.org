@@ -325,7 +325,7 @@ NDC Matchmaker
 <strong>Search&#160; |&#160; Compare&#160; | Connect</strong> with your NDC Partners!</span></span><br></p><p>
 <a href="https&#58;//youtu.be/bjOjk6ACAkU" target="_blank">Watch this video</a> to learn how to use the NDC Matchmaker.</p><p>
 <strong>Please note</strong>&#58; IATA does not validate the content of the designated entities registered in the NDC Matchmaker and it does not entail any kind of certification, validation or endorsement of (i) any aspect of the entity, (ii) the quality or other aspects of its activities or products, (iii) any commercial products that may be derived from the usage of NDC messages, or (iv) compliance with NDC message schemas.
-<span>All users of the NDC Matchmaker tool agree to comply wit</span><span>h IATA’s competit</span><span>ion law guidelines.</span><br><a href="/whatwedo/airline-distribution/ndc/Documents/ndc-matchmaker-tc.pdf" target="_blank"> Disclaimer and Terms of Use</a> (pdf)<br></p>
+<span>All users of the NDC Matchmaker tool agree to comply wit</span><span>h IATA’s competit</span><span>ion law guidelines.</span><br><a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/ndc-matchmaker-tc.pdf" target="_blank"> Disclaimer and Terms of Use</a> (pdf)<br></p>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
 </ie:menuitem>
@@ -653,7 +653,7 @@ Already have an account?
 </div><div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
 <div WebPartID="bbb2efbf-0245-4ea0-96c4-874f4e9b7b59" HasPers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex " allowDelete="false" style=""><div class="ms-rtestate-field"><p>
-<a href="/whatwedo/airline-distribution/ndc/Documents/ndcmm-userguide-airlines.pdf" target="_blank">User guide for Airlines</a><br /><a href="/whatwedo/airline-distribution/ndc/Documents/ndcmm-userguide-sellers.pdf" target="_blank">User guide for Sellers</a><br /><a href="/whatwedo/airline-distribution/ndc/Documents/ndcmm-userguide-aggregators.pdf" target="_blank">User guide for Aggregators<br /></a></p></div><div class="ms-clear"></div></div>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/ndcmm-userguide-airlines.pdf" target="_blank">User guide for Airlines</a><br /><a href="/whatwedo/airline-distribution/ndc/Documents/ndcmm-userguide-sellers.pdf" target="_blank">User guide for Sellers</a><br /><a href="/whatwedo/airline-distribution/ndc/Documents/ndcmm-userguide-aggregators.pdf" target="_blank">User guide for Aggregators<br /></a></p></div><div class="ms-clear"></div></div>
 </div><div class="ms-PartSpacingVertical"></div>
 </div><div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_f75f5147_8c43_46d5_94eb_e588d3049ecc" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">

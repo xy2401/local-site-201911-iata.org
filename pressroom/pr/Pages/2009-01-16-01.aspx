@@ -431,12 +431,12 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations of this Press Release</h2></div></div>
 <ul>
-<li><a href="/pressroom/Documents/Chinese%20Release%20-%202009-01-16-01.pdf" target="_blank">Chinese</a> (pdf) </li>
-<li><a href="/pressroom/Documents/French-PR-2009-01-16-01.pdf" target="_blank">French</a> (pdf) </li>
-<li><a href="/pressroom/Documents/German%20Release%20-%202009-01-16-01.pdf" target="_blank">German</a> (pdf) </li>
-<li><a href="/pressroom/Documents/Italian%20Release%20-%202009-01-16-01.pdf" target="_blank">Italian</a> (pdf) </li>
-<li><a href="/pressroom/Documents/Malay%20Release_2009-01-16-01.pdf" target="_blank">Malay</a> (pdf) </li>
-<li><a href="/pressroom/Documents/Spanish%20Release-2009-01-16-01.pdf" target="_blank">Spanish</a> (pdf) </li></ul>
+<li><a href="https://www.iata.org/pressroom/Documents/Chinese%20Release%20-%202009-01-16-01.pdf" target="_blank">Chinese</a> (pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/French-PR-2009-01-16-01.pdf" target="_blank">French</a> (pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/German%20Release%20-%202009-01-16-01.pdf" target="_blank">German</a> (pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/Italian%20Release%20-%202009-01-16-01.pdf" target="_blank">Italian</a> (pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/Malay%20Release_2009-01-16-01.pdf" target="_blank">Malay</a> (pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/Spanish%20Release-2009-01-16-01.pdf" target="_blank">Spanish</a> (pdf) </li></ul>
 <div class="newst">
 <div>
 <h2>Rome press conference images</h2></div></div>

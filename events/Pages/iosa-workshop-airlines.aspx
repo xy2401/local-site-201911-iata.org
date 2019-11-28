@@ -339,7 +339,7 @@ Madrid, Spain
 </span></span>
 </span>
 <br>
-<div id="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12_label" style='display:none'>IATAContentBox4</div><div id="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12_label">​<a href="/events/Documents/iosa-workshop-airlines-agenda.pdf" target="_blank"><img src="/events/Images1/buttons/program-button.png" alt="" style="margin&#58;5px;" /></a><a href="/events/Documents/hotels-madrid-iosa.pdf" target="_blank"><img src="/events/Images1/buttons/hotel-button.png" alt="" style="margin&#58;5px;" /></a><br></div>
+<div id="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12_label" style='display:none'>IATAContentBox4</div><div id="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12_label">​<a href="https://www.iata.org/events/Documents/iosa-workshop-airlines-agenda.pdf" target="_blank"><img src="/events/Images1/buttons/program-button.png" alt="" style="margin&#58;5px;" /></a><a href="/events/Documents/hotels-madrid-iosa.pdf" target="_blank"><img src="/events/Images1/buttons/hotel-button.png" alt="" style="margin&#58;5px;" /></a><br></div>
 <br />
 </span>
 </div>

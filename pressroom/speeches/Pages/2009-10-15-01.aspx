@@ -408,7 +408,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <ul>
 <li>
-<a href="/pressroom/Documents/ALTA_speech_spanish_version.pdf" target="_blank">Spanish</a> (.pdf)
+<a href="https://www.iata.org/pressroom/Documents/ALTA_speech_spanish_version.pdf" target="_blank">Spanish</a> (.pdf)
 </li>
 </ul></div>
 </div>

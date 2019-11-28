@@ -366,8 +366,8 @@ Vision for Intelligent Aviation Security - Coordinated Response on Cargo Securit
 <p><strong>Notes for Editors</strong>&#58;</p>
 <ul>
 <li>IATA (International Air Transport Association) represents some 230 airlines comprising 93% of scheduled international air traffic. </li>
-<li><a href="/pressroom/pr/Documents/TSA-Administrator-John-Pistole-remarks.pdf" target="_blank">John Pistole's remarks </a>(pdf)</li>
-<li><a href="/pressroom/pr/Documents/Cargo-traffic-fact-sheet-Nov-2010.pdf" target="_blank">Cargo traffic fact sheet</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/TSA-Administrator-John-Pistole-remarks.pdf" target="_blank">John Pistole's remarks </a>(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Cargo-traffic-fact-sheet-Nov-2010.pdf" target="_blank">Cargo traffic fact sheet</a> (pdf)</li>
 <li>You can follow us at <a href="http&#58;//twitter.com/iata2press">http&#58;//twitter.com/iata2press</a>&#160;for news specially catered for the media.&#160;&#160;</li></ul>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
@@ -437,17 +437,17 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newstg">
-<div><a href="/pressroom/pr/Documents/TSA-Administrator-John-Pistole-remarks.pdf" target="_blank">John Pistole's remarks</a>&#160;(pdf) </div></div>
+<div><a href="https://www.iata.org/pressroom/pr/Documents/TSA-Administrator-John-Pistole-remarks.pdf" target="_blank">John Pistole's remarks</a>&#160;(pdf) </div></div>
 <div class="newstg">
-<div><a href="/pressroom/pr/Documents/Cargo-traffic-fact-sheet-Nov-2010.pdf" target="_blank">Cargo traffic fact sheet</a>&#160;(pdf) </div></div>
+<div><a href="https://www.iata.org/pressroom/pr/Documents/Cargo-traffic-fact-sheet-Nov-2010.pdf" target="_blank">Cargo traffic fact sheet</a>&#160;(pdf) </div></div>
 <div class="newst">
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Arabic-PR-2010-11-02-01.pdf" target="_blank">Arabic</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/French-PR-2010-11-02-01.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Italian-PR-2010-11-02-01.pdf" target="_blank">Italian</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2010-11-02-01.pdf" target="_blank">Spanish</a> (pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Arabic-PR-2010-11-02-01.pdf" target="_blank">Arabic</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2010-11-02-01.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Italian-PR-2010-11-02-01.pdf" target="_blank">Italian</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2010-11-02-01.pdf" target="_blank">Spanish</a> (pdf)</li></ul>
 <p>&#160;</p></div>
 </div>
 <div class='hide_element_0d29bb75-377f-4b1c-afd6-3c216c02ecdb'></div><script type='text/javascript'>CTP.IATA.HideChrome('0d29bb75-377f-4b1c-afd6-3c216c02ecdb')</script>

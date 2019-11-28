@@ -434,7 +434,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">​<span><div class="newst"><div><h2>Translations</h2></div></div>
-<ul><li><a href="/pressroom/pr/Documents/Spanish-PR-2015-11-16-01.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul></span>​</div>
+<ul><li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2015-11-16-01.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul></span>​</div>
 </div>
 <div class='hide_element_79fd8767-336d-4d31-ac84-5402d136ffe1'></div><script type='text/javascript'>CTP.IATA.HideChrome('79fd8767-336d-4d31-ac84-5402d136ffe1')</script>
 <div class='hide_element_a613aa0b-ae2a-4806-a1a5-6ccd3e44ce1d'></div><script type='text/javascript'>CTP.IATA.HideChrome('a613aa0b-ae2a-4806-a1a5-6ccd3e44ce1d')</script>

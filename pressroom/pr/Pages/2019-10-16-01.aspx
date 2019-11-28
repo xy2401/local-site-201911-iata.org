@@ -342,11 +342,11 @@ More Control, Less Waiting - Top Priorities for Passengers
 <div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label" style='display:none'>Home Image</div><div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label"><div class="ms-rtestate-field"><img alt="" src="/pressroom/pr/PublishingImages/image-passengers-survey.jpg" style="BORDER&#58;0px solid;" /></div></div>
 </div>
 <strong>​Translations&#58;</strong><br>
-<a href="/pressroom/pr/Documents/2019-10-16-01-fr.pdf" target="_blank">Plus de contrôle, moins d’attente &#58; les principales priorités des passagers</a> (pdf)<br>
-<a href="/pressroom/pr/Documents/2019-10-16-01-ar.pdf" target="_blank">التحكم الإضافي وتقليص أوقات الانتظار تجسد أهم الأولويات بالنسبة للمسافرين</a> (pdf)
+<a href="https://www.iata.org/pressroom/pr/Documents/2019-10-16-01-fr.pdf" target="_blank">Plus de contrôle, moins d’attente &#58; les principales priorités des passagers</a> (pdf)<br>
+<a href="https://www.iata.org/pressroom/pr/Documents/2019-10-16-01-ar.pdf" target="_blank">التحكم الإضافي وتقليص أوقات الانتظار تجسد أهم الأولويات بالنسبة للمسافرين</a> (pdf)
 <p>
-<a href="/pressroom/pr/Documents/2019-10-16-01-cn.pdf" target="_blank">国际航协：旅客冀望更多掌控 更少等待</a> (pdf)<br>
-<a href="/pressroom/pr/Documents/2019-10-16-01-pt.pdf" target="_blank">Mais controle, menos espera – principais demandas dos passageiros</a> (pdf)<br>
+<a href="https://www.iata.org/pressroom/pr/Documents/2019-10-16-01-cn.pdf" target="_blank">国际航协：旅客冀望更多掌控 更少等待</a> (pdf)<br>
+<a href="https://www.iata.org/pressroom/pr/Documents/2019-10-16-01-pt.pdf" target="_blank">Mais controle, menos espera – principais demandas dos passageiros</a> (pdf)<br>
 </p><p>
 <strong></strong>
 <span>
@@ -365,10 +365,10 @@ More Control, Less Waiting - Top Priorities for Passengers
 <br></li></ul><p>To improve the connection experience, the top three desires from travelers are not having to go through security at the transfer airport (60%), not having to pick up and reclaim their bag at the transfer airport (59%) and not having to pass immigration at the transfer airport (55%).&#160; </p><h3 class="iataElement-Title3">NEXTT<br></h3><p>Many of the identified demands of passengers are covered by the
 <a href="https&#58;//nextt.iata.org/">NEXTT</a> (New Experience in Travel and Technologies) initiative. This is a joint IATA and ACI (Airports Council International) effort to develop a common vision to enhance the on-ground transport experience, guide industry investments and help governments improve the regulatory framework. The goal of NEXTT is finding ways to integrate systems and improve operations in the most secure, effective and sustainable manner for the benefit of passengers and the industry.
 <br></p><p>&quot;Passengers have told us that they are looking to technology to improve their travel experience. That is what we are trying to deliver in cooperation with airports. Through our NEXTT initiative with ACI we aim to deliver a seamless curb-to-gate experience for passengers. But industry can't achieve this alone. Government support is essential to create the correct regulatory environment so the industry can fully transform,&quot; said Nick Careen, IATA Senior Vice President Airport Passenger Cargo &amp; Security<br></p><p>The 2019 survey results were based on 10,877 responses from passengers across 166 countries.</p><p>Download&#160;the
-<a href="/publications/store/Documents/IATA-2019-GPS-Highlights.pdf" target="_blank">highlights of the GPS 2019</a>&#160;(pdf). Get information on
+<a href="https://www.iata.org/publications/store/Documents/IATA-2019-GPS-Highlights.pdf" target="_blank">highlights of the GPS 2019</a>&#160;(pdf). Get information on
 <a href="/publications/store/pages/global-passenger-survey.aspx">how to purchase the GPS 2019 full report</a>.</p><p>Get a quick overview of the key findings from the 2019 Global Passenger Survey results in our
 <a href="https&#58;//www.youtube.com/watch?v=1O4bb37fmFM&amp;feature=youtu.be" target="_blank">video</a> and
-<a href="/publications/store/Documents/GPS-2019-Highlights-infographic.pdf" target="_blank">infographic</a> (pdf).<br></p><p>
+<a href="https://www.iata.org/publications/store/Documents/GPS-2019-Highlights-infographic.pdf" target="_blank">infographic</a> (pdf).<br></p><p>
 <strong>For more information, please contact&#58;</strong> </p><p>Corporate Communications<br> Tel&#58; +41 22 770 2967<br> Email&#58;
 <a href="mailto&#58;corpcomms@iata.org" target="_blank">corpcomms@iata.org</a><br></p><p>
 <strong>Notes for Editors&#58;</strong></p><ul><li>The 2019 survey results have been prepared on the feedback from 10,877 passengers across 166 countries across the world. </li><li>IATA (International Air Transport Association) represents some 290 airlines comprising 82% of global air traffic. </li><li>You can follow us at
@@ -447,7 +447,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​</p><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

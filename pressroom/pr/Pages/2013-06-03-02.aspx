@@ -468,10 +468,10 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/press-release-31-2013-chinese.pdf" target="_blank">Chinese</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-31-2013-german.pdf" target="_blank">German</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-31-2013-french.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-31-2013-spanish.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-31-2013-chinese.pdf" target="_blank">Chinese</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-31-2013-german.pdf" target="_blank">German</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-31-2013-french.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-31-2013-spanish.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div></div>
 <div id="__publishingReusableFragmentIdSection"><a href="/ReusableContent/39_.000">a</a></div>
 </div>
 <menu class="ms-hide">

@@ -346,7 +346,7 @@ Europe-Accredited Agent (EAA)
 <h3>More information and application procedure</h3>
 <ul dir="ltr" style="margin-right&#58;0px;">
 <li>The full scope and conditions for Europe-Accredited Agent status are described in Resolution 818a </li>
-<li>To apply, please complete&#160;this&#160; <a href="/services/accreditation/accreditation-travel/Documents/europe-agent-application.pdf" target="_blank">Europe Accredited Agent - Application Form</a> (pdf) and send it, with supporting documentation, to&#58; </li>
+<li>To apply, please complete&#160;this&#160; <a href="https://www.iata.org/services/accreditation/accreditation-travel/Documents/europe-agent-application.pdf" target="_blank">Europe Accredited Agent - Application Form</a> (pdf) and send it, with supporting documentation, to&#58; </li>
 <ul dir="ltr" style="margin-right&#58;0px;">
 <ul dir="ltr" style="margin-right&#58;0px;">
 <li dir="ltr">IATA Service Centre Europe<br>Torre Europa, planta 5<br>Paseo de la Castellana 95<br>ES-28046 Madrid<br>Spain</li></ul></ul></ul>

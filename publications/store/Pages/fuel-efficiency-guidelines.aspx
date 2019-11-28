@@ -331,7 +331,7 @@ Fuel Servicing Guidelines
 <li><strong>Aviation Turbine Fuels Specifications&#58;&#160;</strong> description of&#160;characteristics of&#160; Jet A-1, Jet A, TS-1 turbine fuels, providing a&#160;basis for&#160;purchasing specifications. In addition to&#160;composition, physical and chemical properties,&#160;also addressed are&#160;the issues of additives and&#160;cleanliness in&#160;fuel handling.</li>
 <li><strong>Investigating &amp; Categorizing of Engine Fuel Filter Blockages</strong>&#58;&#160;standard for&#160;<span id="ctl00_PlaceHolderMain_DisplayMainContent_ContentHandler"><span>the removal and analysis of the composition&#160;of&#160;engine fuel filters debris and their subsenquent categorization. Results allow to&#160;identify&#160;the sources of problems affecting aircraft&#160;fuel systems. </span></span></li>
 <li><span><span><strong>Microbiological Contamination in Aircraft Fuel Tanks</strong>&#58;&#160;preventive and curative practical guide for&#160;airline maintenance&#160;and oil companies personnel desiring to keep the problem of microbiological growth in check upstream of the aircraft fuel tanks.&#160;</span></span></li>
-<li><span><span><strong>Biojet Fuel Management&#58;&#160;</strong>requirements and best practices for&#160;biojet fuel purchase, handling, and regulations -&#160;<a href="/publications/Documents/guidance-biojet-management.pdf" target="_blank">free download</a>&#160;(pdf)</span></span></li></ul>
+<li><span><span><strong>Biojet Fuel Management&#58;&#160;</strong>requirements and best practices for&#160;biojet fuel purchase, handling, and regulations -&#160;<a href="https://www.iata.org/publications/Documents/guidance-biojet-management.pdf" target="_blank">free download</a>&#160;(pdf)</span></span></li></ul>
 <h3 class="iataElement-Title3">Rationalization &amp; enhanced fuel safety</h3>
 <p>The IATA fuel guidelines provide&#160;an essential set of standards&#160;designed to ensure safe and efficient&#160;aircraft fuel handling and contribute to training of&#160;&#160;fuelling operatives for&#160;oil companies or into-plane service providers.&#160;&#160;</p>
 <p><strong>Designed for&#58;</strong></p>
@@ -339,7 +339,7 @@ Fuel Servicing Guidelines
 <li>Technical/Staff </li>
 <li>Middle Managers </li>
 <li>Managers/Supervisors</li></ul>
-<p>All guidelines can be bought online following the Buy online links below. This publication is free&#58;&#160;download the <a href="/publications/Documents/guidance-biojet-management.pdf" target="_blank">guidance material for biojet fuel management</a>&#160;(pdf)</p>
+<p>All guidelines can be bought online following the Buy online links below. This publication is free&#58;&#160;download the <a href="https://www.iata.org/publications/Documents/guidance-biojet-management.pdf" target="_blank">guidance material for biojet fuel management</a>&#160;(pdf)</p>
 <h3 class="iataElement-Title3">Buy online</h3>
 <div id="ctl00_PlaceHolderMain_g_B2882428_363C_4F7E_94A9_780B0C47E9E1" WebPart="true" __WebPartId="{B2882428-363C-4F7E-94A9-780B0C47E9E1}" __MarkupType="vsattributemarkup">
 <script type="text/javascript">

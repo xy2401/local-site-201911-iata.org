@@ -349,7 +349,7 @@ Enterprise Risk Management for Aviation (Classroom, 4 days)
 <li>Student performance will be based on an <a href="http&#58;//www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>Participants should have already taken the IATA <a href="/training-taph05" target="_blank">Project Management Essentials</a> course and recommended to have taken the IATA <a href="/training-taph38" target="_blank">Project Management Advanced</a> course</li><li>Recommended level is Professional</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

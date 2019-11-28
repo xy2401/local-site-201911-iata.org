@@ -348,10 +348,10 @@ Network, Fleet and Schedule Planning (Classroom, 5 days)
 Contribute to your company’s success by developing a profitable network fleet plan and an effective flight schedule. Improve your planning and management skills and understand scheduling process and tactics.</p><iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/g3lN5oukp0E" frameborder="0"></iframe><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li><li>Recommended level is Entry-level and Intermediate</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

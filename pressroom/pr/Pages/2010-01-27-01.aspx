@@ -450,10 +450,10 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations of this Press Release</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Chinese_PR_2010_01_27_01.pdf" target="_blank">Chinese</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/French_PR_2010_01_27_01.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/German_PR_2010_01_27_01.pdf" target="_blank">German</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish_PR_2010_01_27_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Chinese_PR_2010_01_27_01.pdf" target="_blank">Chinese</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French_PR_2010_01_27_01.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/German_PR_2010_01_27_01.pdf" target="_blank">German</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish_PR_2010_01_27_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_f69b5057-1f84-4601-bab0-6d102eabae3b'></div><script type='text/javascript'>CTP.IATA.HideChrome('f69b5057-1f84-4601-bab0-6d102eabae3b')</script>
 <div class='hide_element_20be2995-da2b-4629-bc23-dd9436fcee06'></div><script type='text/javascript'>CTP.IATA.HideChrome('20be2995-da2b-4629-bc23-dd9436fcee06')</script>

@@ -512,16 +512,16 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">
 <p>​<strong>Translations</strong></p>
 <p>
-<a href="/pressroom/pr/Documents/French-PR-2015-12-10-01.pdf" target="_blank">French</a>&#160;(pdf)
-<a href="/pressroom/pr/Documents/Portuguese-PR-2015-12-10-01.pdf" target="_blank">Portuguese</a>&#160;(pdf)
-<a href="/pressroom/pr/Documents/Spanish-PR-2015-12-10-01.pdf" target="_blank">Spanish</a> (pdf)
+<a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2015-12-10-01.pdf" target="_blank">French</a>&#160;(pdf)
+<a href="https://www.iata.org/pressroom/pr/Documents/Portuguese-PR-2015-12-10-01.pdf" target="_blank">Portuguese</a>&#160;(pdf)
+<a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2015-12-10-01.pdf" target="_blank">Spanish</a> (pdf)
 </p>
 <p>&#160;</p>
 <p><strong>Flickr album</strong></p>
 <p><a title="Brian Pearce, IATA Chief Economist" href="https&#58;//www.flickr.com/photos/iataorg/23648790325/in/album-72157662174680355/" data-flickr-embed="true"><img width="150" height="150" alt="Brian Pearce, IATA Chief Economist" src="https&#58;//farm6.staticflickr.com/5801/23648790325_2a95edbbf5_q.jpg" /></a>&#160;</p>
 <p><a href="/pressroom/speeches/Pages/2015-12-10-01.aspx">Read Tony Tyler's speech</a></p>
 <span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

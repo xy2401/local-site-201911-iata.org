@@ -341,8 +341,8 @@ Cargo Tracker: May 2019
 <a href="http&#58;//www.iata.org/events/Pages/e-cargo.aspx">Digital Cargo Conference</a>, 24-25 September 2019, Geneva, Switzerland</li><ul><li dir="ltr">Registration is open, so don't miss the early bird special to
 <b>save $100!</b> Register before 10 June 2019.<br></li></ul></ul><ul><li>
 <a href="/events/cargo-events/Pages/index.aspx">IATA Cargo Events</a>, 29-31 October, 2019, Amsterdam, The Netherlands&#160;</li><ul><li>Registration is open!&#160;The IATA Cargo Events combine five conferences in key areas of the cargo business&#58; the AirPharma Conference, the Cargo Claims &amp; Loss Prevention Conference, the Cargo Security &amp; Facilitation Forum, the Lithium Battery Workshop and the Air Cargo Operations Conference. Gain tremendous insights from industry experts in civil aviation, airport management, regulators, lawyers, technology and innovation!&#160;</li></ul></ul><h3 class="iataElement-Title3">e-AWB global penetration&#58;<br></h3><p>Find out the latest
-<a href="/whatwedo/cargo/e/eawb/Documents/e-awb-monthly-report-r17.pdf" target="_blank">e-AWB global penetration in the full monthly </a> (pdf) report for April&#160;2019.</p><p>For insight on the e-AWB performance at airport level, check out the
-<a href="/whatwedo/cargo/e/eawb/Documents/IATA_eAWB_AirportOverview.pdf" target="_blank">Top 100 Airports monthly report</a> (pdf)&#160;<br></p>
+<a href="https://www.iata.org/whatwedo/cargo/e/eawb/Documents/e-awb-monthly-report-r17.pdf" target="_blank">e-AWB global penetration in the full monthly </a> (pdf) report for April&#160;2019.</p><p>For insight on the e-AWB performance at airport level, check out the
+<a href="https://www.iata.org/whatwedo/cargo/e/eawb/Documents/IATA_eAWB_AirportOverview.pdf" target="_blank">Top 100 Airports monthly report</a> (pdf)&#160;<br></p>
 <br>
 <br><br><br><br><br>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>

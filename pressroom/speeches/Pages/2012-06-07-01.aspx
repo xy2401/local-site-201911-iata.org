@@ -451,7 +451,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newstg">
 <div><a href="/pressroom/pr/Pages/2012-06-07-01.aspx">Read&#160;press release</a> </div></div>
 <div class="newstg">
-<div><a href="/pressroom/speeches/Documents/chinese-speech-2012-06-07-01.pdf" target="_blank">Chinese version</a> (pdf)</div></div><br><br><br></div>
+<div><a href="https://www.iata.org/pressroom/speeches/Documents/chinese-speech-2012-06-07-01.pdf" target="_blank">Chinese version</a> (pdf)</div></div><br><br><br></div>
 </div>
 <div class='hide_element_360cc7af-74b8-4c84-bb46-9a09fdf2bb19'></div><script type='text/javascript'>CTP.IATA.HideChrome('360cc7af-74b8-4c84-bb46-9a09fdf2bb19')</script>
 <div class='hide_element_4019d6a9-d7a9-4f9d-bc09-dad0184421f7'></div><script type='text/javascript'>CTP.IATA.HideChrome('4019d6a9-d7a9-4f9d-bc09-dad0184421f7')</script>

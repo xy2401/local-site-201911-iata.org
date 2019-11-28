@@ -433,7 +433,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​<a href="/whatwedo/workgroups/Documents/FinDev-WorkPlan.pdf" target="_blank">FinDev Work Plan</a></p></div>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​<a href="https://www.iata.org/whatwedo/workgroups/Documents/FinDev-WorkPlan.pdf" target="_blank">FinDev Work Plan</a></p></div>
 </div>
 <div class='hide_element_352c76b7-daa3-4266-ad6e-fd93ad24ce47'></div><script type='text/javascript'>CTP.IATA.HideChrome('352c76b7-daa3-4266-ad6e-fd93ad24ce47')</script>
 <div class='hide_element_a0d321cb-a867-40dd-9f0b-a9ee3253f7e3'></div><script type='text/javascript'>CTP.IATA.HideChrome('a0d321cb-a867-40dd-9f0b-a9ee3253f7e3')</script>

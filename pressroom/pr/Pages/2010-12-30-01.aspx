@@ -453,12 +453,12 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Arabic-PR-2010-12-30-01.pdf" target="_blank">Arabic</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Chinese-PR-2010-12-30-01.pdf" target="_blank">Chinese</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/French-PR-2010-12-30-01.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/German-PR-2010-12-30-01.pdf" target="_blank">German</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Italian-PR-2010-12-30-01.pdf" target="_blank">Italian</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2010-12-30-01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Arabic-PR-2010-12-30-01.pdf" target="_blank">Arabic</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Chinese-PR-2010-12-30-01.pdf" target="_blank">Chinese</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2010-12-30-01.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/German-PR-2010-12-30-01.pdf" target="_blank">German</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Italian-PR-2010-12-30-01.pdf" target="_blank">Italian</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2010-12-30-01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_793352f1-53bf-41fc-9a90-73873e7fc38a'></div><script type='text/javascript'>CTP.IATA.HideChrome('793352f1-53bf-41fc-9a90-73873e7fc38a')</script>
 <div class='hide_element_b57b1b7e-ef0f-49a3-b0e9-1d45d0c89f58'></div><script type='text/javascript'>CTP.IATA.HideChrome('b57b1b7e-ef0f-49a3-b0e9-1d45d0c89f58')</script>

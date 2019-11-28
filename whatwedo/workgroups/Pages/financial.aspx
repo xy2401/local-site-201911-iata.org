@@ -430,7 +430,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p><a href="/whatwedo/workgroups/Documents/iata-financial-committee-white-paper.pdf">Financial Committee White Paper</a></p></div>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p><a href="https://www.iata.org/whatwedo/workgroups/Documents/iata-financial-committee-white-paper.pdf">Financial Committee White Paper</a></p></div>
 </div>
 <div class='hide_element_daafc9a2-02a4-44c2-8f63-d18175f552c9'></div><script type='text/javascript'>CTP.IATA.HideChrome('daafc9a2-02a4-44c2-8f63-d18175f552c9')</script>
 <div class='hide_element_64018d18-f213-470b-bad5-4ba38782e6f3'></div><script type='text/javascript'>CTP.IATA.HideChrome('64018d18-f213-470b-bad5-4ba38782e6f3')</script>

@@ -351,7 +351,7 @@ IATA Applauds AENA Reform Plan - High Labor Costs Must Be Addressed
 <p><strong>Notes for Editors&#58;</strong></p>
 <ul>
 <li>IATA (International Air Transport Association) represents some 230 airlines comprising 93% of scheduled international air traffic. </li>
-<li><a href="/pressroom/pr/Documents/Aena-2008-preliminaryACEdata.pdf" target="_blank">Independent analysis of European ANSPs</a>&#160;(pdf)<br></li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Aena-2008-preliminaryACEdata.pdf" target="_blank">Independent analysis of European ANSPs</a>&#160;(pdf)<br></li></ul>
 <p>For more information, please contact&#58;<br>Corporate Communications<br>Tel&#58; <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1">+41 22 770 2967<a title="Call&#58; +41 22 770 2967" href="#"><img title="Call&#58; +41 22 770 2967" alt="" style="margin&#58;0px;border&#58;currentcolor;left&#58;0px;top&#58;0px;width&#58;16px;height&#58;16px;right&#58;0px;bottom&#58;0px;overflow&#58;hidden;vertical-align&#58;middle;float&#58;none;display&#58;inline;white-space&#58;nowrap;position&#58;static !important;" /></a></span><br>Email&#58; <a href="mailto&#58;corpcomms@iata.org">corpcomms@iata.org</a> <br><br></p>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
@@ -424,7 +424,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations of this Press Release</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Spanish_PR_2010_01_26_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish_PR_2010_01_26_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_9c916e47-3b36-4960-817e-e219e56a8833'></div><script type='text/javascript'>CTP.IATA.HideChrome('9c916e47-3b36-4960-817e-e219e56a8833')</script>
 <div class='hide_element_09e13f35-157e-42f9-b1cf-c43ce54a3915'></div><script type='text/javascript'>CTP.IATA.HideChrome('09e13f35-157e-42f9-b1cf-c43ce54a3915')</script>

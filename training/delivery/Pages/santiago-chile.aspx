@@ -448,9 +448,9 @@ Sys.Application._enableHistoryInScriptManager();
 <a href="/training/Pages/latam-promotion.aspx" target="_blank">
    regional course discount (up to 10% discount) </a>is available for classroom courses at IATA Training Centers in the Americas (excluding Canada). 
 <ul><li>To be eligible, all the following conditions must be met&#58; Payment may be made by credit card or ICH; You must be        
-      <a title="Please click to see a list of countries" href="/training/Documents/training-latamtraining-promo-countries.pdf" target="_blank">
+      <a title="Please click to see a list of countries" href="https://www.iata.org/training/Documents/training-latamtraining-promo-countries.pdf" target="_blank">
          resident in Latin America or the Caribbean Islands</a>(pdf); If billing a company, the company must be based in the Americas (excluding US and Canada).</li><li>Exclusions&#58; Any course on the        
-      <a title="LatAmTraining Promotion exclusion list " href="/training/Documents/training-latamtraining-promo-exclusions.pdf" target="_blank">
+      <a title="LatAmTraining Promotion exclusion list " href="https://www.iata.org/training/Documents/training-latamtraining-promo-exclusions.pdf" target="_blank">
          LatAmTraining Promotion exclusion list </a>(pdf).</li></ul><p>To claim the discount, enter <strong>'LatAmTraining</strong>' in the promotional code field during your registration. The discount will be deducted automatically from the course price. This discount will be applied in addition to any qualifying     
    <a href="/training/Pages/pricing.aspx?tab=2" target="_blank">
       early bird promotion</a>. </p><p>Find out more about the     

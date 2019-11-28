@@ -346,7 +346,7 @@ Date:
 <p><br><strong>Notes to editors&#58;</strong> </p>
 <ul>
 <li>Currently only 30% of Chinese airspace is available for civil aviation.&#160; This has resulted in a shortage of international air routes over China, as well as a restrictive flight planning policy when airlines plan their flight path.&#160; The insufficient airspace allocated for civil aviation has also resulted in air traffic delays at cities in the golden triangle, which is bounded by Beijing, Shanghai and Guangzhou.</li>
-<li>View the <a href="/pressroom/Documents/IATA-1%20Route%20Map.pdf" target="_blank">IATA-1 Route Map</a> (PDF) </li>
+<li>View the <a href="https://www.iata.org/pressroom/Documents/IATA-1%20Route%20Map.pdf" target="_blank">IATA-1 Route Map</a> (PDF) </li>
 <li>IATA-1 is an alternative to L888 which is currently comprised of a few flights between Asia and Europe.&#160; As L888 is just north of the Himalaya Mountains, airlines using this route need to be specially retrofitted for the high terrain with additional oxygen equipment.&#160; Y2 together with Y1 (IATA-1) do not require similar special equipment.</li>
 <li>IATA, Airports Council International (ACI) and the Air Transport Action Group (ATAG) and others will host the second annual Aviation and the Environment Summit in Geneva on 25-26 April. The Summit brings together all stakeholders in the air transport industry—including governments—to ensure a common and effective approach to aviation and environment issues. More information on the Summit can be obtained at <a href="http&#58;//www.enviro.aero/" target="_blank">www.enviro.aero</a>.<br>&#160;</li></ul>
 <p>&#160;</p>

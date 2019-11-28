@@ -369,7 +369,7 @@ Historic Agreement on Carbon-Neutral Growth
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"><p><a href="https&#58;//s3-eu-west-1.amazonaws.com/agm2013-videos/interview-tyler-environment/interview-tyler-environment-HD.zip" target="_blank">Download video</a> (MP4)</p>
-<p>Cape Town - The International Air Transport Association (IATA) 69th Annual General Meeting (AGM) overwhelmingly endorsed a resolution on <a href="/pressroom/pr/Documents/agm69-resolution-cng2020.pdf" target="_blank">“Implementation of the Aviation Carbon-Neutral Growth (CNG2020) Strategy</a>&quot;&#160;(pdf).</p>
+<p>Cape Town - The International Air Transport Association (IATA) 69th Annual General Meeting (AGM) overwhelmingly endorsed a resolution on <a href="https://www.iata.org/pressroom/pr/Documents/agm69-resolution-cng2020.pdf" target="_blank">“Implementation of the Aviation Carbon-Neutral Growth (CNG2020) Strategy</a>&quot;&#160;(pdf).</p>
 <p>The resolution provides governments with a set of principles on how governments could&#58;</p>
 <ul>
 <li>Establish procedures for a single market-based measure (MBM)</li>
@@ -392,7 +392,7 @@ Historic Agreement on Carbon-Neutral Growth
 <h3>Notes for Editors&#58;</h3>
 <ul>
 <li>IATA (International Air Transport Association) represents some 240 airlines comprising 84% of global air traffic.&#160;</li>
-<li><a href="/pressroom/pr/Documents/agm69-resolution-cng2020.pdf" target="_blank">Resolution on&#160;Implementation of&#160;the Aviation Carbon-Neutral Growth (CNG2020) Strategy</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/agm69-resolution-cng2020.pdf" target="_blank">Resolution on&#160;Implementation of&#160;the Aviation Carbon-Neutral Growth (CNG2020) Strategy</a>&#160;(pdf)</li>
 <li>You can follow us at&#160;<a href="http&#58;//twitter.com/iata" target="_blank">http&#58;//twitter.com/iata</a> for news specially catered for the media.&#160;</li></ul></div>
 </div>
 <div id="col-xtra" class="grid1_3 extendContainer">
@@ -460,10 +460,10 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/Documents/press-release-34-2013-arabic.pdf" target="_blank">Arabic</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-34-2013-chinese.pdf" target="_blank">Chinese</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-34-2013-french.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-34-2013-spanish.pdf" target="_blank">Spanish</a> (pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/Documents/press-release-34-2013-arabic.pdf" target="_blank">Arabic</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-34-2013-chinese.pdf" target="_blank">Chinese</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-34-2013-french.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-34-2013-spanish.pdf" target="_blank">Spanish</a> (pdf)</li></ul>
 <div id="__publishingReusableFragmentIdSection"><a href="/ReusableContent/39_.000">a</a></div>
 </div>
 <menu class="ms-hide">

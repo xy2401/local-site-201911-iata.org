@@ -451,9 +451,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li style="width&#58;146px;height&#58;16px;"><a href="/pressroom/pr/Documents/press-release-36-2013-french.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-36-2013-german.pdf" target="_blank">German</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-36-2013-spanish.pdf" target="_blank">Spanish</a> (pdf)</li></ul>
+<li style="width&#58;146px;height&#58;16px;"><a href="https://www.iata.org/pressroom/pr/Documents/press-release-36-2013-french.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-36-2013-german.pdf" target="_blank">German</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-36-2013-spanish.pdf" target="_blank">Spanish</a> (pdf)</li></ul>
 <a title="Richard Anderson, New IATA Board Chairman by International Air Transport Association (IATA), on Flickr" href="http&#58;//www.flickr.com/photos/iataorg/8957159506/"><img alt="Richard Anderson, New IATA Board Chairman" src="http&#58;//farm3.staticflickr.com/2807/8957159506_d20c505c99_q.jpg" width="150" height="150" /></a>
 <p>
 &#160;</p>

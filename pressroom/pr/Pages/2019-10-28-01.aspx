@@ -343,7 +343,7 @@ IATA Update on Regional Developments in Latin America
 </div>
 <strong>Translations&#58;</strong>&#160;
 <p>
-<a href="/pressroom/pr/Documents/2019-10-28-01-pt.pdf" target="_blank">Atualização da IATA sobre Desenvolvimentos Regionais na América Latina</a> (pdf)<br><a href="/pressroom/pr/Documents/2019-10-28-01-sp.pdf" target="_blank">IATA Hace una Actualización Sobre la Aviación en América Latina</a> (pdf)</p><p><span><strong>B</strong></span><span><strong>rasília -</strong> </span><span>
+<a href="https://www.iata.org/pressroom/pr/Documents/2019-10-28-01-pt.pdf" target="_blank">Atualização da IATA sobre Desenvolvimentos Regionais na América Latina</a> (pdf)<br><a href="/pressroom/pr/Documents/2019-10-28-01-sp.pdf" target="_blank">IATA Hace una Actualización Sobre la Aviación en América Latina</a> (pdf)</p><p><span><strong>B</strong></span><span><strong>rasília -</strong> </span><span>
 </span><span>On the occasion of the </span><span>
 </span><span>Latin American</span><span>&#160;and Caribbean Air Transport Association </span><span>
 </span><a href="http&#58;//www.altaairlineleaders.com/events/alta-airline-leaders-forum-2019/event-summary-e54b51fe446e4caebbe0573e3a4c4bed.aspx" target="_blank">(ALTA) 2019 Leader's Forum</a><span>, the International Air Transport Association's (IATA) Regional Vice-President for the Americas, Peter Cerdá, provided an update on the latest regional developments.</span></p><p>Aviation in this region contributes USD 156 billion in GDP and supports 7.2 million jobs. &#160;As the
@@ -433,7 +433,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​</p><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

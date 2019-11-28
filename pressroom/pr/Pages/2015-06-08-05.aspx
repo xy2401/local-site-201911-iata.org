@@ -431,7 +431,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>Translation</p>
 <ul>
-<li><a href="/pressroom/pr/Documents/French-PR-2015-06-08-05.pdf" target="_blank">French</a>&#160;(pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2015-06-08-05.pdf" target="_blank">French</a>&#160;(pdf)</li></ul>
 </div>
 <div class="ms-webpart-zone ms-fullWidth"> 
 <div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">

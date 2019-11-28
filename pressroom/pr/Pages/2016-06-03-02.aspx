@@ -341,7 +341,7 @@ IATA Announces Leadership Changes
 <div class="homeImageLeft">
 <div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label" style='display:none'>Home Image</div><div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label"><div class="ms-rtestate-field"></div></div>
 </div>
-<strong>Translation&#58;</strong> <a href="/pressroom/pr/Documents/2016-06-03-02-french.pdf" target="_blank">French​</a>&#160;(pdf), <a href="/pressroom/pr/Documents/leadership-changes-release.pdf" target="_blank">Portuguese</a> (pdf), <a href="/pressroom/pr/Documents/leadership-change-agm2016-cn.pdf" target="_blank">Chinese</a> (pdf)<h2 class="iataElement-Title2">Walsh to chair Board of Governors; de Juniac confirmed as DG and CEO </h2>
+<strong>Translation&#58;</strong> <a href="https://www.iata.org/pressroom/pr/Documents/2016-06-03-02-french.pdf" target="_blank">French​</a>&#160;(pdf), <a href="/pressroom/pr/Documents/leadership-changes-release.pdf" target="_blank">Portuguese</a> (pdf), <a href="/pressroom/pr/Documents/leadership-change-agm2016-cn.pdf" target="_blank">Chinese</a> (pdf)<h2 class="iataElement-Title2">Walsh to chair Board of Governors; de Juniac confirmed as DG and CEO </h2>
 <div>Dublin - The International Air Transport Association (IATA) announced leadership changes at the conclusion of the Association’s 72nd Annual General Meeting (AGM) in Dublin, Ireland. </div>
 <div>&#160;</div>
 <ul><li><strong>Willie Walsh, CEO of International Airlines Group (IAG)</strong> succeeds Andres Conesa, CEO of Aeromexico, as Chairman of the IATA Board of Governors (BoG). Walsh, who represents British Airways (BA) on the IATA BoG, takes up his duties immediately for a one-year term until the conclusion of IATA’s 73rd AGM.&#160;</li>
@@ -435,7 +435,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">​<span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

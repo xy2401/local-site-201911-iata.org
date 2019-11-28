@@ -436,11 +436,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newst"><div><h2>Translations</h2></div></div><ul><li>
-<a href="/pressroom/Documents/Chinese%20release_2009-09-15-01.pdf" target="_blank">Chinese </a>(pdf) </li><li>
-<a href="/pressroom/Documents/German%20release_2009-09-15-01.pdf" target="_blank">German </a>(pdf) </li><li>
-<a href="/pressroom/Documents/Spanish%20release_2009-09-15-01.pdf" target="_blank">Spanish </a>(pdf) </li></ul>
+<a href="https://www.iata.org/pressroom/Documents/Chinese%20release_2009-09-15-01.pdf" target="_blank">Chinese </a>(pdf) </li><li>
+<a href="https://www.iata.org/pressroom/Documents/German%20release_2009-09-15-01.pdf" target="_blank">German </a>(pdf) </li><li>
+<a href="https://www.iata.org/pressroom/Documents/Spanish%20release_2009-09-15-01.pdf" target="_blank">Spanish </a>(pdf) </li></ul>
 <strong>Press Conference Q&amp;A</strong>
-<a href="/pressroom/Documents/QA%20Session.pdf" target="_blank">Recap of the Q&amp;A Session</a> (pdf)</div>
+<a href="https://www.iata.org/pressroom/Documents/QA%20Session.pdf" target="_blank">Recap of the Q&amp;A Session</a> (pdf)</div>
 </div>
 <div class='hide_element_96bac7d8-cd77-4e32-8015-5714773e63d1'></div><script type='text/javascript'>CTP.IATA.HideChrome('96bac7d8-cd77-4e32-8015-5714773e63d1')</script>
 <div class='hide_element_af6c0ad7-2480-4b42-83f1-a92762c66a9c'></div><script type='text/javascript'>CTP.IATA.HideChrome('af6c0ad7-2480-4b42-83f1-a92762c66a9c')</script>

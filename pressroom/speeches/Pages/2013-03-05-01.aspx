@@ -491,7 +491,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>&#160;</div></div>
 <ul>
 <li><a href="/pressroom/pr/Pages/2013-03-05-02.aspx">Read press release</a></li>
-<li><a href="/pressroom/speeches/Documents/DG-AVSEC-Media-Remarks-2013-03-05-01.pdf" target="_blank">Read Tony Tyler's media remarks</a>&#160;(pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/speeches/Documents/DG-AVSEC-Media-Remarks-2013-03-05-01.pdf" target="_blank">Read Tony Tyler's media remarks</a>&#160;(pdf)</li></ul></div>
 </div>
 <div class='hide_element_28f6cf60-a9c3-4d8b-8e43-cf37c67ff33f'></div><script type='text/javascript'>CTP.IATA.HideChrome('28f6cf60-a9c3-4d8b-8e43-cf37c67ff33f')</script>
 <div class='hide_element_db61351e-9f43-4f24-a000-f4180c861434'></div><script type='text/javascript'>CTP.IATA.HideChrome('db61351e-9f43-4f24-a000-f4180c861434')</script>

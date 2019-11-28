@@ -337,10 +337,10 @@ Facts &amp; Figures
 <div class="introAndImage">
 </div>
 <h3 class="ms-rteElement-H3">Most popular fact sheets</h3><ul><li>
-<a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-industry-facts.pdf" target="_blank">Industry Facts &amp; Statistics</a> (pdf)&#160;</li><li>
-<a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-iata-1.pdf" target="_blank">IATA</a>&#160;(pdf)</li><li>
-<a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-economic-and-social-benefits-of-air-transport.pdf" target="_blank">Economic &amp; Social Benefits of Air Transport</a>&#160;(pdf)</li><li>
-<a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-charges-fuel-fees-taxes.pdf" target="_blank">Aviation Charges, Fuel Fees and&#160;Taxes</a>&#160;(pdf)</li></ul>
+<a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-industry-facts.pdf" target="_blank">Industry Facts &amp; Statistics</a> (pdf)&#160;</li><li>
+<a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-iata-1.pdf" target="_blank">IATA</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-economic-and-social-benefits-of-air-transport.pdf" target="_blank">Economic &amp; Social Benefits of Air Transport</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-charges-fuel-fees-taxes.pdf" target="_blank">Aviation Charges, Fuel Fees and&#160;Taxes</a>&#160;(pdf)</li></ul>
 <a href="/pressroom/facts_figures/fact_sheets/Pages/index.aspx"><strong>​All fact sheets</strong></a>
 <h3>More data, facts &amp; figures</h3><ul><li><a href="/publications/economics/Pages/index.aspx">Latest economic analysis &amp; reports</a>&#160;(IATA Economics)</li><li>
 <a href="/pressroom/facts_figures/Pages/watsrankings.aspx">World Air Transport Statistics (WATS) ranking tables</a></li><li>
@@ -424,7 +424,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

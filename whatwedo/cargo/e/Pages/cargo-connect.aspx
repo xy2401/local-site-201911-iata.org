@@ -411,11 +411,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p><a href="/whatwedo/cargo/e/Pages/epic.aspx">EPIC solution</a><br></p><p><a href="/whatwedo/workgroups/Pages/cdcwg.aspx" style="font-style&#58;normal;font-weight&#58;400;font-size&#58;14px;font-family&#58;aktivgrotesk_w_rg;">Cargo Digital Connectivity Working Group (CDCWG)</a><br></p><p>
-<a href="/whatwedo/cargo/e/Documents/air-cargo-digital-connectivity.pdf" target="_blank">White Paper on Air Cargo Digital Connectivity and Data Exchange Methodologies</a><br>
+<a href="https://www.iata.org/whatwedo/cargo/e/Documents/air-cargo-digital-connectivity.pdf" target="_blank">White Paper on Air Cargo Digital Connectivity and Data Exchange Methodologies</a><br>
 <br>
 <a href="/publications/store/Pages/cargo-services-conference-resolution.aspx">Recommended Practice 1687&#58; Digital Connectivity and Data Exchange Practice</a><br>
 <br>
-<a href="/whatwedo/workgroups/Documents/standard-procedure-for-partner-registration.pdf" target="_blank">Standard Procedures for Partner Registration and Distribution</a> (pdf)<br></p></div>
+<a href="https://www.iata.org/whatwedo/workgroups/Documents/standard-procedure-for-partner-registration.pdf" target="_blank">Standard Procedures for Partner Registration and Distribution</a> (pdf)<br></p></div>
 </div>
 <div class='hide_element_8f549559-8970-43e6-9c2b-78316eea721b'></div><script type='text/javascript'>CTP.IATA.HideChrome('8f549559-8970-43e6-9c2b-78316eea721b')</script>
 <div class='hide_element_2c5584c6-9287-4242-adbf-6fe8e3cad75e'></div><script type='text/javascript'>CTP.IATA.HideChrome('2c5584c6-9287-4242-adbf-6fe8e3cad75e')</script>

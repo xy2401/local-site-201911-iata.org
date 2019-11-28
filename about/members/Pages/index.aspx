@@ -351,7 +351,7 @@ IATA Members
 <p><a href="/about/members/Pages/benefits.aspx">View the detailed benefits</a></p>
 <h2>Apply for IATA membership</h2>
 <ul><li><a href="/about/members/Pages/fees.aspx">Costs</a> </li>
-<li><a href="/about/members/Documents/iata-membership-application-procedure.pdf" target="_blank">Application procedure</a>&#160;(pdf)&#160;</li></ul>
+<li><a href="https://www.iata.org/about/members/Documents/iata-membership-application-procedure.pdf" target="_blank">Application procedure</a>&#160;(pdf)&#160;</li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>

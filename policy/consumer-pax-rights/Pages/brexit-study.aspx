@@ -338,7 +338,7 @@ Report on Brexit &amp; Air Transport Issues
 <p>The UK’s exit from the EU -
 <strong>Brexit </strong>-&#160;should be effective in March 2019.&#160;Negotiations are&#160;ongoing but&#160;the future relationships after the UK’s exit remain unclear. The UK has the largest aviation industry in Europe, and its geographical position in the network is key, with around 80% of all North Atlantic traffic passing through the UK or Irish controlled airspace. Changes to the relationship between the UK and the EU could potentially have considerable implications for all players in this important aviation market.
 <br></p><p>Numerous stakeholders in the aviation sector continue to call for greater political certainty to enable contingency plans to be developed. In response to this, IATA&#160;commissioned a report from&#160;<a href="http&#58;//www.taylorairey.com/about-us.html" target="_blank">Taylor Airey</a>, a consultant specializd in transport. </p><span><div class="zHighlight"><div class="zHighlightBox"><h2>Download the full study<br></h2>
-<p><a href="/policy/consumer-pax-rights/Documents/iata-brexit-study.pdf" target="_blank">Report on Brexit &amp; Air Transport Issues</a> (pdf)<br></p></div></div>
+<p><a href="https://www.iata.org/policy/consumer-pax-rights/Documents/iata-brexit-study.pdf" target="_blank">Report on Brexit &amp; Air Transport Issues</a> (pdf)<br></p></div></div>
 ​​​​​​​​​​​​​</span><h3 class="iataElement-Title3">Looking at the main areas of Brexit's impact on UK aviation</h3><p>The paper considers a number of topics that are critical to airlines successfully ‘doing business’&#58; </p><ul><li>
 <strong>Flight operations and safety</strong> – safety and security framework - the future role of
 <a href="https&#58;//www.easa.europa.eu/" target="_blank">EASA</a>, Air Traffic Management and the<a href="https&#58;//ec.europa.eu/transport/home_en" target="_blank"> Single European Sky</a> (SES); </li><li>
@@ -351,7 +351,7 @@ Report on Brexit &amp; Air Transport Issues
 <strong>Environment</strong> and the
 <a href="https&#58;//ec.europa.eu/clima/policies/ets_en" target="_blank">EU Emissions Trading Scheme</a> (EU-ETS); </li><li>
 <strong>Labor Market</strong> – cross-border movement of aviation skills. </li></ul><p>Download&#160;the
-<a href="/policy/consumer-pax-rights/Documents/iata-brexit-study.pdf" target="_blank">
+<a href="https://www.iata.org/policy/consumer-pax-rights/Documents/iata-brexit-study.pdf" target="_blank">
 <strong>full study - Brexit &amp;&#160;aviation</strong></a> (pdf)<br></p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>

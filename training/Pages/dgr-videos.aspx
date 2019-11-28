@@ -349,7 +349,7 @@ The Importance of Dangerous Goods Training
 <span>
 <div class="video-container">​<iframe width="540" height="304" src="http&#58;//www.youtube.com/embed/Yrl6QfoO16Q?wmode=transparent" frameborder="0"></iframe>&#160;</div></span>
 <h3 class="iataElement-Title3">Training requirements</h3><p>​The training principles of the IATA Dangerous Goods Regulations are as described in the videos below, and should be elaborated for each of the individuals, specified for different categories of training in accordance to
-<a href="/training/Documents/dgr-training-requirements.pdf" target="_blank">
+<a href="https://www.iata.org/training/Documents/dgr-training-requirements.pdf" target="_blank">
 <span>Table 1.5 A of the IATA DGR</span></a>.<br></p><h3 class="iataElement-Title3">Your resources for dangerous goods training&#160;</h3><table class="datatable"><thead><tr><th colspan="1"></th><th colspan="1"></th><th colspan="1"></th></tr></thead><tbody><tr><td colspan="1"></td><td colspan="1"></td><td colspan="1"></td></tr><tr><td colspan="1"><p>
 <img src="/training/PublishingImages/dgr1v.png" alt="" style="margin&#58;5px;" /><a title="Click to watch the video" href="https&#58;//youtu.be/MEUst705-dU" target="_blank"><span>​1 | Dangerous Goods Regulations |
 <strong> Applicability</strong></span></a></p></td><td colspan="1"><p>

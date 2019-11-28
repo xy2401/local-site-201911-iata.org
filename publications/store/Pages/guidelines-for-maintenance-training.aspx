@@ -458,7 +458,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">​<p><a href="/publications/Documents/gmbp_icbtm_1st-ed_nov-2011_toc.pdf" target="_blank">Table of Contents</a></p>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">​<p><a href="https://www.iata.org/publications/Documents/gmbp_icbtm_1st-ed_nov-2011_toc.pdf" target="_blank">Table of Contents</a></p>
 <p><a href="/whatwedo/ops-infra/training-licensing/Pages/index.aspx">IATA Training &amp; Qualification Initiative (ITQI)</a></p>
 </div>
 </div>

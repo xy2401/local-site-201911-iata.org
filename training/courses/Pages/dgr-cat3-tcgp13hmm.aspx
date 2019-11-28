@@ -357,7 +357,7 @@ This unique program can give you a competitive advantage in the cargo industry. 
 <li>After the enrollment validity expires, you will not have access to the course content and will not be able to take the exam. </li>
 <li>Student performance will be based on an examination. Please refer to the <a href="#ExamInfo">Exam Information</a> below for more details.</li>
 </ul><p><strong>10 HMM</strong>©<strong> courses</strong></p><ul>
-<li>Additional time will be required for the <a href="/training/courses/Documents/training-hmm-module-content.pdf" target="_blank">10 HMM© modules</a>. Each HMM© self-study module requires approximately 2-4 hours of study. Access to the HMM© platform is valid for 6 months (enrollment validity) from the date access is provided, with exams administered online.</li>
+<li>Additional time will be required for the <a href="https://www.iata.org/training/courses/Documents/training-hmm-module-content.pdf" target="_blank">10 HMM© modules</a>. Each HMM© self-study module requires approximately 2-4 hours of study. Access to the HMM© platform is valid for 6 months (enrollment validity) from the date access is provided, with exams administered online.</li>
 <li>You will have access to 24 HMM© modules and may choose to complete more than 10 of these modules to enhance your knowledge and skills.</li>
 </ul>
 </span></span>
@@ -387,7 +387,7 @@ This unique program can give you a competitive advantage in the cargo industry. 
 <div id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_cpCourseDesignFor_ctl00_TitleAudience_panTitle">
 </div>
 <p>
-This course is recommended for&#58;</p><ul><li>All Category 3 personnel as per <a href="/whatwedo/cargo/dgr/Documents/DGR-Training-Requirements-15.pdf" target="_blank">Table 1.5.A</a> of the IATA DGR</li>
+This course is recommended for&#58;</p><ul><li>All Category 3 personnel as per <a href="https://www.iata.org/whatwedo/cargo/dgr/Documents/DGR-Training-Requirements-15.pdf" target="_blank">Table 1.5.A</a> of the IATA DGR</li>
 <li>Freight Forwarder staff preparing DG / HAZMAT shipments</li><li>IATA Accredited Cargo Agents</li><li>Personnel acting on behalf the operator in processing dangerous goods</li></ul>
 </span></span>
 <span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_ConditionalPanel2"><span>

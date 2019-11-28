@@ -350,7 +350,7 @@ Airline Financial Risk Management (Classroom, 4 days)
 </ul><h3>Prerequisites </h3><ul>
 <li>Participants should have at least 1 to 3 years of experience in the aviation industry</li>
 <li>Recommended level is Management and Professional</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

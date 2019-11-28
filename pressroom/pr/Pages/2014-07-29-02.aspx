@@ -342,7 +342,7 @@ Joint Statement on Risks to Civil Aviation Arising from Conflict Zones
 <div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label" style='display:none'>Home Image</div><div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label"><div class="ms-rtestate-field">&#160;</div></div>
 </div>
 <p>Click below to see the joint statement by ICAO and industry trade associations on risks to civil aviation arising from conflict zones.</p>
-<p>&#160;<a title="" href="/pressroom/pr/Documents/ICAO-IATA-ACI-CANSO_Joint-Statement_2014-07-29.pdf" target="_blank">Read joint statement</a>&#160;(pdf)</p>
+<p>&#160;<a title="" href="https://www.iata.org/pressroom/pr/Documents/ICAO-IATA-ACI-CANSO_Joint-Statement_2014-07-29.pdf" target="_blank">Read joint statement</a>&#160;(pdf)</p>
 <p>&#160;</p>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
@@ -418,7 +418,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

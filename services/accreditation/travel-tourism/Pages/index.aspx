@@ -445,7 +445,7 @@ Comply with PCI-DSS
 <strong>Other resources for Agents</strong>
 <p>
 <a href="http&#58;//www.iatatravelcentre.com/tickets" target="_blank">Conditions of Contract and Other Important Notices</a><br>
-<a href="/sites/fmc/Files/accredited-agent-logo-guide.pdf" target="_blank">IATA logo - usage for Agents&#160;(pdf)</a> </p><p>
+<a href="https://www.iata.org/sites/fmc/Files/accredited-agent-logo-guide.pdf" target="_blank">IATA logo - usage for Agents&#160;(pdf)</a> </p><p>
 <strong>BSP</strong><a href="/Pages/contact.aspx">Customer Services - support for&#160;BSP &amp; Accreditation</a><br><a href="/services/finance/bsp/Pages/index.aspx">Participation in Billing &amp; Settlement Plan (BSP)</a><br><a href="/services/finance/bsp/Pages/bsplink.aspx">BSPlink</a> </p></div>
 </div>
 <div class='hide_element_e2af04db-a1d8-4c18-aab5-8d3ee6b4a0d8'></div><script type='text/javascript'>CTP.IATA.HideChrome('e2af04db-a1d8-4c18-aab5-8d3ee6b4a0d8')</script>

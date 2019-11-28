@@ -349,10 +349,10 @@ As your pharmaceutical handling operations expand to new markets, you will be su
 Through daily course exercises, you will have the opportunity to use the IATA Time and Temperature Sensitive Audit Checklist and develop corrective actions based on your findings.</p><iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/ZYTb1ZnXaMY" frameborder="0"></iframe><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers and Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>It is recommended that participants complete the <a href="/training-tcgp63">Temperature-Controlled Cargo Operations</a> course prior to attending this course.</li><li>Recommended level is Management and Professional</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

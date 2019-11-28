@@ -346,10 +346,10 @@ Revenue Management and Pricing with simulation (Classroom, 4 days)
 <p>Explore the fundamentals and principles of airline revenue management (RM) through a combination of theory and hands-on practice, and validate your learning using our sophisticated airline revenue management simulator. Over 4 days, you will learn how to optimize airline revenue through pricing strategies, controls and forecasting.</p><p>The simulation exercises will immerse you into a realistic, risk-free environment where you will make decisions based on variables such as customer demand patterns (leisure vs. business travellers), individual RM system booking class hierarchy, and restricted and unrestricted fare structures. Your challenge is to optimize your revenue by analyzing KPIs generated in the simulator and take actions based on their evaluation.</p><iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/47gRGlx-b18" frameborder="0"></iframe><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>.</p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 4 days (32 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li><li>Recommended level is Entry-level</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

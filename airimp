@@ -326,7 +326,7 @@ A4A-IATA Reservations Interline Procedures (AIRIMP)
 <div class="introAndImage">
 </div>
 <p>The sole reference source of universally agreed upon communications standards for the handling of Passenger Reservations Interline Messages. The AIRIMP standards are used in millions of transactions between Travel Agency and Airline systems and by Airline to Airline systems. </p><p>See the&#160;43rd edition's
-<a href="/publications/store/Documents/Passenger%20Standards/airimp-table-of-contents.pdf">table of contents </a>(pdf)
+<a href="https://www.iata.org/publications/store/Documents/Passenger%20Standards/airimp-table-of-contents.pdf">table of contents </a>(pdf)
 <br>
 <br>
 <span lang="EN-CA">The AIRIMP is also&#160;offered in electronic format (for Windows computers). The electronic AIRIMP offers advantages over the printed version, such as key word search, content links, annotations and bookmarks</span><br></p><h3>Designed for</h3><ul><li>Airlines<br></li><li>Airports</li><li>Global Distribution Systems (GDS)</li><li>Computer Reservation Systems (CRS)</li><li>System Providers</li><li>Government Agencies</li><li>Travel Agents</li></ul>

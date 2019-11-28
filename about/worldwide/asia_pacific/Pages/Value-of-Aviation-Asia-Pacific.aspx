@@ -339,7 +339,7 @@ Value of Aviation Study for Asia Pacific
 <p>The Asia Pacific region is expected to achieve unprecedented long term growth in aviation. By 2030 it is estimated that air travel in Asia would be greater than the&#160; next two markets North America and Europe combined. Given that aviation is a catalyst for economic growth, this spells good news for the region.&#160;</p>
 <div>However there is concern that the aviation infrastructure in the Asia Pacific region is not keeping pace with the anticipated traffic growth. The region could lose up to 20% of the expected growth in jobs and GDP if these&#160; bottlenecks are not addressed.</div>
 <div>&#160;</div>
-<div><a href="/policy/business-freedom/Documents/intervistas-report-aspac-dec2015.pdf" target="_blank">Download full study on the benefits of air transport in Asia Pacific </a>(pdf).</div>
+<div><a href="https://www.iata.org/policy/business-freedom/Documents/intervistas-report-aspac-dec2015.pdf" target="_blank">Download full study on the benefits of air transport in Asia Pacific </a>(pdf).</div>
 <div>&#160;</div>
 <h3 class="iataElement-Title3">Asia Pacific study highlights</h3>
 <div>In&#160;this&#160;video, Conrad Clifford, IATA's Regional Vice President, Asia Pacific, and James Wiltshire, Head of Policy Analysis, explain why the region needs to get its infrastructure development and aviation policies right.&#160;</div>

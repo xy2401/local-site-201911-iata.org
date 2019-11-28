@@ -394,66 +394,66 @@ Past AVSEC
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel5_DisplayIATATabContent5_label" style='display:none'>IATATabContent5</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel5_DisplayIATATabContent5__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel5_DisplayIATATabContent5_label"><h2 class="iataElement-Title2">Sponsorship Opportunities<br></h2><p>AVSEC&#160;is an excellent opportunity to showcase your products and solutions to the aviation community. Find out what kind of privileges we can offer to our sponsors and exhibitors!</p><p>Join IATA's&#160;<a href="/about/sp/Pages/index.aspx" target="_blank">Strategic Partnership Program</a>&#160;and benefit from discounts on sponsorship and exhibition rates.&#160;<a href="/about/sp/Pages/getonboard3.aspx" target="_blank">Get on Board!</a></p><h3 class="iataElement-Title3 breath">Sponsorship/Exhibition Contact&#58;</h3><p class="h3header">Mike Huntington<br>Director Sponsorships &amp; Exhibitions<br>Tel.&#58;&#160;<span class="baec5a81-e4d6-4674-97f3-e9220f0136c1">+1-203-563-8170&#160;</span><br>Mobile&#58;&#160;<span class="baec5a81-e4d6-4674-97f3-e9220f0136c1">+1-514-240-2844</span></p><br></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel7" class="ajax__tab_panel" style="display:none;">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel7_DisplayIATATabContent7_label" style='display:none'>IATATabContent7</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel7_DisplayIATATabContent7__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel7_DisplayIATATabContent7_label"><p>The AVSEC World 2019 took place in Miami, 26th -28th of February 2019.<br></p><h3>Photos<br></h3><p>
-<a href="https&#58;//www.flickr.com/photos/iataorg/albums/72157706817220225" target="_blank">Have a look at the photos&#160;</a>taken during the AVSEC World<span> 2019.</span><br></p><h2 class="iataElement-Title2">AVSEC World 2019&#160;Program<br></h2><p>Have a look at&#160;the AVSEC World&#160;2019&#160;<a href="/events/avsec/Documents/avsec-2019/AVSEC2019-Program.pdf" target="_blank">Program</a>&#160;(pdf)<br></p><h2 class="iataElement-Title2">RoadMap 2019<br></h2><ul><li>Check the
-<a href="/events/avsec/Documents/avsec-2019/avsec-2019-roadmap.pdf" target="_blank">AVSEC 2019 RoadMap</a><br></li></ul><h2 class="iataElement-Title2">Exhibition Floor Plan 2019<br></h2><ul><li>Check the
+<a href="https&#58;//www.flickr.com/photos/iataorg/albums/72157706817220225" target="_blank">Have a look at the photos&#160;</a>taken during the AVSEC World<span> 2019.</span><br></p><h2 class="iataElement-Title2">AVSEC World 2019&#160;Program<br></h2><p>Have a look at&#160;the AVSEC World&#160;2019&#160;<a href="https://www.iata.org/events/avsec/Documents/avsec-2019/AVSEC2019-Program.pdf" target="_blank">Program</a>&#160;(pdf)<br></p><h2 class="iataElement-Title2">RoadMap 2019<br></h2><ul><li>Check the
+<a href="https://www.iata.org/events/avsec/Documents/avsec-2019/avsec-2019-roadmap.pdf" target="_blank">AVSEC 2019 RoadMap</a><br></li></ul><h2 class="iataElement-Title2">Exhibition Floor Plan 2019<br></h2><ul><li>Check the
 <a href="http&#58;//www.map-dynamics.com/avsec2019" target="_blank">AVSEC 2019&#160;Exhibition Floor Plan&#160;</a><br></li></ul>
 <br>
 <h2>Tuesday Presentations<br></h2><p>
-<a href="/events/avsec/avsec2019ppts/BRUNO-WONG-Beyond%20Preclearance%20-%20Day%201.pdf" target="_blank">Facilitation Meets Security</a> - Bruno Wong&#160;<span>(PDF)</span><br></p><h2 class="iataElement-Title2">Wednesday Presentations<br></h2><p>
-<a href="/events/avsec/avsec2019ppts/Gloria%20Guevara-%20Keynote%20-%20Day%202.pdf" target="_blank">Keynote Welcome</a> - Gloria Guevara (PDF)<br></p><p>
-<a href="/events/avsec/avsec2019ppts/Jose%20Freig%20-%20Taken%20Hostage%20Duty%20of%20Care%20-%20Day%202.pdf" target="_blank">Taken Hostage&#58; Duty of Care and Human Dynamics of Kidnapping</a> - Jose Freig&#160;<span>(PDF)</span><br></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/BRUNO-WONG-Beyond%20Preclearance%20-%20Day%201.pdf" target="_blank">Facilitation Meets Security</a> - Bruno Wong&#160;<span>(PDF)</span><br></p><h2 class="iataElement-Title2">Wednesday Presentations<br></h2><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Gloria%20Guevara-%20Keynote%20-%20Day%202.pdf" target="_blank">Keynote Welcome</a> - Gloria Guevara (PDF)<br></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Jose%20Freig%20-%20Taken%20Hostage%20Duty%20of%20Care%20-%20Day%202.pdf" target="_blank">Taken Hostage&#58; Duty of Care and Human Dynamics of Kidnapping</a> - Jose Freig&#160;<span>(PDF)</span><br></p><p>
 <span>
-<a href="/events/avsec/avsec2019ppts/Rachel%20Briggs%20Day%202.pdf" target="_blank">Taken Hostage&#58; Duty of Care and Human Dynamics of Kidnapping</a> - Rachel Briggs&#160;<span>(PDF)</span></span><br></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Rachel%20Briggs%20Day%202.pdf" target="_blank">Taken Hostage&#58; Duty of Care and Human Dynamics of Kidnapping</a> - Rachel Briggs&#160;<span>(PDF)</span></span><br></p><p>
 <span>
-<a href="/events/avsec/avsec2019ppts/Bart%20Biggers%20-%20Biometrics%20-%20Day%202.pdf" target="_blank">Balancing Biometrics, Facilitation and Security</a> - Bart Biggers&#160;<span>(PDF)</span></span></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Bart%20Biggers%20-%20Biometrics%20-%20Day%202.pdf" target="_blank">Balancing Biometrics, Facilitation and Security</a> - Bart Biggers&#160;<span>(PDF)</span></span></p><p>
 <span>
-<a href="/events/avsec/avsec2019ppts/Cameron%20Mann%20-%20Biometrics%20-%20Day%202.pdf" target="_blank">
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Cameron%20Mann%20-%20Biometrics%20-%20Day%202.pdf" target="_blank">
 <span>Balancing Biometrics, Facilitation and Security</span></a><span> - Cameron Mann&#160;<span>(PDF)</span></span><br></span></p><p>
 <span>
 <span>
-<a href="/events/avsec/avsec2019ppts/Wendy%20NixovBalancing%20Bio%20-%20Day%202.pdf" target="_blank">
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Wendy%20NixovBalancing%20Bio%20-%20Day%202.pdf" target="_blank">
 <span>Balancing Biometrics, Facilitation and Security</span></a><span> - Wendy Nixon&#160;<span>(PDF)</span></span><br></span></span></p><p>
-<a href="/events/avsec/avsec2019ppts/Philip%20Baum%20%20-%20Behavior%20DetectionBAUM%20-%20Day%202.pdf" target="_blank">Behavior&#160;Detection &amp; Insider Threat</a>&#160;- Philip Baum (PDF)<br></p><p>
-<a href="/events/avsec/avsec2019ppts/AvSec%20World%20Presentation%20MC%20LAURENT.PDF" target="_blank">Behavior&#160;Detection &amp; Insider Threat</a>&#160;- Marie-Caroline Laurent (PDF)<br></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Philip%20Baum%20%20-%20Behavior%20DetectionBAUM%20-%20Day%202.pdf" target="_blank">Behavior&#160;Detection &amp; Insider Threat</a>&#160;- Philip Baum (PDF)<br></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/AvSec%20World%20Presentation%20MC%20LAURENT.pdf" target="_blank">Behavior&#160;Detection &amp; Insider Threat</a>&#160;- Marie-Caroline Laurent (PDF)<br></p><p>
 <span>
 <span>
 <span>
-<a href="/events/avsec/avsec2019ppts/1530-1700%20-Onur%20Zeyrek%20-%20Comparative%20Time%20Effectiveness%20Analysis%20of%20Air%20Cargo%20Screening%20Methods%20-%20Day%202.pdf" target="_blank">Screening Challenges&#160;&amp; Solutions</a> - Onur Zeyrek&#160;<span>(PDF)</span></span></span></span></p><p>
-<span>
-<span>
-<span>
-<span>
-<a href="/events/avsec/avsec2019ppts/Brad%20Levy%20-%20Screening%20Challenge%20Solution%20-%20Day%202.pdf" target="_blank">Screening Challenges&#160;&amp; Solutions</a> - Brad Levy&#160;<span>(PDF)</span></span><br></span></span></span></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/1530-1700%20-Onur%20Zeyrek%20-%20Comparative%20Time%20Effectiveness%20Analysis%20of%20Air%20Cargo%20Screening%20Methods%20-%20Day%202.pdf" target="_blank">Screening Challenges&#160;&amp; Solutions</a> - Onur Zeyrek&#160;<span>(PDF)</span></span></span></span></p><p>
 <span>
 <span>
 <span>
 <span>
-<span>
-<a href="/events/avsec/avsec2019ppts/Sara%20Merks%20-%20Screening%20Challenge%20Solutions%20-%20Day%202.pdf" target="_blank">Screening Challenges&#160;&amp; Solutions</a> - Sarah Merks&#160;<span>(PDF)</span></span><br></span></span></span></span></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Brad%20Levy%20-%20Screening%20Challenge%20Solution%20-%20Day%202.pdf" target="_blank">Screening Challenges&#160;&amp; Solutions</a> - Brad Levy&#160;<span>(PDF)</span></span><br></span></span></span></p><p>
 <span>
 <span>
 <span>
 <span>
 <span>
-<a href="/events/avsec/avsec2019ppts/Luiz%20Gustavo%20Silva%20Cavallari%20GASeP%20-%20ANAC%20(w)%20-%20Day%202.pdf" target="_blank">Regional ICAO GASeP Roadmap Implication for Airlines</a> - Luiz Cavallari&#160;<span>(PDF)</span></span></span></span></span></span></p><p>
-<a href="/events/avsec/avsec2019ppts/Sergio%20Naranjo%20Narcotics%20Reality%20in%20Aviation%20-%20Day%202.pdf" target="_blank">Narcotics Reality in Aviation</a> - Sergio Naranjo&#160;<span>(PDF)</span><br></p><p>
-<span>
-<a href="/events/avsec/avsec2019ppts/Victor%20Chin%20-%20Future%20Security%20Training%20for%20Highly%20Regulated%20Operators%20-%20Day%202.pdf" target="_blank">Future Security Training for Highly Regulated Operators</a> - Victor Chin&#160;<span>(PDF)</span></span><br></p><p>
-<a href="/events/avsec/avsec2019ppts/Bohdan%20Paszukow%20-%20Future%20Security%20Training%20for%20Highly%20Regulated%20Operators%20-%20Day%202.pdf" target="_blank">Future Security Training for Highly Regulated Operators</a><span>&#160; - Bohdan Paszukow (PDF)</span><br></p><p>
-<a href="/events/avsec/avsec2019ppts/Jonathan%20and%20Brian%20-%20Inflight%20Security%20-%20Day%202.pdf" target="_blank">In-Flight Security &amp; Safety</a> -&#160;Jonathan Jasper &amp;&#160;Brian Kinane&#160;<span>(PDF)</span><br></p><p>
-<a href="/events/avsec/avsec2019ppts/Henry%20Wilkinson%20-%20OpenSource%20%20Intelligence%20and%20Risk%20Management%20-%20Day%202.pdf" target="_blank">Open Source Intelligence &amp; Risk Management</a> - Henry Wilkinson&#160;<span>(PDF)</span><br></p><p>
-<span>
-<a href="/events/avsec/avsec2019ppts/John%20Cauthen%20-%20Open%20Source%20Intelligence%20and%20Risk%20Management%20-%20Day%202.pdf" target="_blank">Open Source Intelligence &amp; Risk Management</a> - John Cauthen&#160;<span>(PDF)</span></span><br></p><h2 class="iataElement-Title2">Thursday Presentations<br></h2><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Sara%20Merks%20-%20Screening%20Challenge%20Solutions%20-%20Day%202.pdf" target="_blank">Screening Challenges&#160;&amp; Solutions</a> - Sarah Merks&#160;<span>(PDF)</span></span><br></span></span></span></span></p><p>
 <span>
 <span>
-<a href="/events/avsec/avsec2019ppts/Innovation%202%20-%20Bruno%20Feviero%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a> - Bruno Faviero&#160;<span>(PDF)</span></span></span></p><p>
-<span><span><a href="/events/avsec/avsec2019ppts/Innovation%201-%20Richard%20Nelson%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a> - Richard Nelson&#160;<span>(PDF)</span></span></span></p><p>
-<span><span><span><a href="/events/avsec/avsec2019ppts/Innovation%201%20%20-%20Andrew%20Wert%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a><span>&#160;-&#160;Andrew Wert (PDF)&#160;</span><br></span></span></span></p><p>
-<span><span><span><span><a href="/events/avsec/avsec2019ppts/Innovation%201%20-%20Wil%20Ruijsbroek%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a><span>&#160;-&#160;Wil Ruijsbroek (PDF)</span><br></span></span></span></span></p><p>
-<span><span><span><span><span><a href="/events/avsec/avsec2019ppts/Innovation%202%20-%20Lewis%20Griffin%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a><span>&#160;-&#160;Lewis Griffin (PDF)</span><br></span></span></span></span></span></p><p>
-<span><span><span><span><span><span><a href="/events/avsec/avsec2019ppts/Innovation%202%20-%20Tim%20Brown%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a><span>&#160;-&#160;Tim Brown (PDF)</span><br></span></span></span></span></span></span></p><p>
-<a href="/events/avsec/avsec2019ppts/Trafficking%20-%20Does%20it%20Threaten%20Aviation%20Security%20-%20Day%203.pdf" target="_blank">Trafficking - Does it Threaten Aviation Security?</a> - Tim Colehan (PDF)<br></p><p>
-<a href="/events/avsec/avsec2019ppts/Security%20Performance,%20SeMS%20Experience%20-%20Day%203.pdf" target="_blank">Security Performance, SeMS Experience </a>-&#160;David Clark,&#160;Yannick Lachapelle,&#160;Philippe Berthe &amp;&#160;Yves Mabbe (PDF)<br></p><h2 class="iataElement-Title2">Video<br></h2><h3 class="iataElement-Title3">AVSEC World Highlights</h3><div class="video-container">​<iframe width="540" height="304" src="https&#58;//www.youtube.com/embed/Bty8b40BbIQ" frameborder="0"></iframe>&#160;<br></div><h3 class="iataElement-Title3">
+<span>
+<span>
+<span>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Luiz%20Gustavo%20Silva%20Cavallari%20GASeP%20-%20ANAC%20(w)%20-%20Day%202.pdf" target="_blank">Regional ICAO GASeP Roadmap Implication for Airlines</a> - Luiz Cavallari&#160;<span>(PDF)</span></span></span></span></span></span></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Sergio%20Naranjo%20Narcotics%20Reality%20in%20Aviation%20-%20Day%202.pdf" target="_blank">Narcotics Reality in Aviation</a> - Sergio Naranjo&#160;<span>(PDF)</span><br></p><p>
+<span>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Victor%20Chin%20-%20Future%20Security%20Training%20for%20Highly%20Regulated%20Operators%20-%20Day%202.pdf" target="_blank">Future Security Training for Highly Regulated Operators</a> - Victor Chin&#160;<span>(PDF)</span></span><br></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Bohdan%20Paszukow%20-%20Future%20Security%20Training%20for%20Highly%20Regulated%20Operators%20-%20Day%202.pdf" target="_blank">Future Security Training for Highly Regulated Operators</a><span>&#160; - Bohdan Paszukow (PDF)</span><br></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Jonathan%20and%20Brian%20-%20Inflight%20Security%20-%20Day%202.pdf" target="_blank">In-Flight Security &amp; Safety</a> -&#160;Jonathan Jasper &amp;&#160;Brian Kinane&#160;<span>(PDF)</span><br></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Henry%20Wilkinson%20-%20OpenSource%20%20Intelligence%20and%20Risk%20Management%20-%20Day%202.pdf" target="_blank">Open Source Intelligence &amp; Risk Management</a> - Henry Wilkinson&#160;<span>(PDF)</span><br></p><p>
+<span>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/John%20Cauthen%20-%20Open%20Source%20Intelligence%20and%20Risk%20Management%20-%20Day%202.pdf" target="_blank">Open Source Intelligence &amp; Risk Management</a> - John Cauthen&#160;<span>(PDF)</span></span><br></p><h2 class="iataElement-Title2">Thursday Presentations<br></h2><p>
+<span>
+<span>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Innovation%202%20-%20Bruno%20Feviero%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a> - Bruno Faviero&#160;<span>(PDF)</span></span></span></p><p>
+<span><span><a href="https://www.iata.org/events/avsec/avsec2019ppts/Innovation%201-%20Richard%20Nelson%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a> - Richard Nelson&#160;<span>(PDF)</span></span></span></p><p>
+<span><span><span><a href="https://www.iata.org/events/avsec/avsec2019ppts/Innovation%201%20%20-%20Andrew%20Wert%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a><span>&#160;-&#160;Andrew Wert (PDF)&#160;</span><br></span></span></span></p><p>
+<span><span><span><span><a href="https://www.iata.org/events/avsec/avsec2019ppts/Innovation%201%20-%20Wil%20Ruijsbroek%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a><span>&#160;-&#160;Wil Ruijsbroek (PDF)</span><br></span></span></span></span></p><p>
+<span><span><span><span><span><a href="https://www.iata.org/events/avsec/avsec2019ppts/Innovation%202%20-%20Lewis%20Griffin%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a><span>&#160;-&#160;Lewis Griffin (PDF)</span><br></span></span></span></span></span></p><p>
+<span><span><span><span><span><span><a href="https://www.iata.org/events/avsec/avsec2019ppts/Innovation%202%20-%20Tim%20Brown%20-%20Day%203.pdf" target="_blank">Innovation Workshop</a><span>&#160;-&#160;Tim Brown (PDF)</span><br></span></span></span></span></span></span></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Trafficking%20-%20Does%20it%20Threaten%20Aviation%20Security%20-%20Day%203.pdf" target="_blank">Trafficking - Does it Threaten Aviation Security?</a> - Tim Colehan (PDF)<br></p><p>
+<a href="https://www.iata.org/events/avsec/avsec2019ppts/Security%20Performance,%20SeMS%20Experience%20-%20Day%203.pdf" target="_blank">Security Performance, SeMS Experience </a>-&#160;David Clark,&#160;Yannick Lachapelle,&#160;Philippe Berthe &amp;&#160;Yves Mabbe (PDF)<br></p><h2 class="iataElement-Title2">Video<br></h2><h3 class="iataElement-Title3">AVSEC World Highlights</h3><div class="video-container">​<iframe width="540" height="304" src="https&#58;//www.youtube.com/embed/Bty8b40BbIQ" frameborder="0"></iframe>&#160;<br></div><h3 class="iataElement-Title3">
 <br>
 </h3>
 <br>

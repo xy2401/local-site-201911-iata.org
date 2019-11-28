@@ -426,7 +426,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p><a href="/whatwedo/security/Pages/index.aspx">More on IATA Security &amp; Facilitation&#160;activities</a></p>
-<p><a href="/whatwedo/workgroups/Documents/single-token-pax-facilitation.pdf" target="_blank">Single Token Concept​</a> (pdf)</p></div>
+<p><a href="https://www.iata.org/whatwedo/workgroups/Documents/single-token-pax-facilitation.pdf" target="_blank">Single Token Concept​</a> (pdf)</p></div>
 </div>
 <div class='hide_element_1f7a58ab-158a-45ba-91db-4bbc9fc5d6a0'></div><script type='text/javascript'>CTP.IATA.HideChrome('1f7a58ab-158a-45ba-91db-4bbc9fc5d6a0')</script>
 <div class='hide_element_0a8e851f-9276-4ed8-94a2-e36225747c04'></div><script type='text/javascript'>CTP.IATA.HideChrome('0a8e851f-9276-4ed8-94a2-e36225747c04')</script>

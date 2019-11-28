@@ -343,10 +343,10 @@ Passenger Demand Stays Solid but the Trend has Slowed
 </div>
 <p>
 <strong>Translations&#58;</strong></p><p>
-<a href="/pressroom/pr/Documents/2019-07-04-01-fr.pdf" target="_blank">Le trafic passagers demeure fort, mais la tendance s’est atténuée</a> (pdf)<br><span><a href="/pressroom/pr/Documents/2019-07-04-01-pt.pdf" target="_blank">Demanda de passageiros continua sólida, mas com tendência à desaceleração</a> (pdf)</span><br><span>
-<a href="/pressroom/pr/Documents/2019-07-04-01-sp.pdf" target="_blank">Continúa la demanda sólida de pasajeros aéreos, pero con una tendencia de crecimiento más lenta</a> (pdf)</span><br>
+<a href="https://www.iata.org/pressroom/pr/Documents/2019-07-04-01-fr.pdf" target="_blank">Le trafic passagers demeure fort, mais la tendance s’est atténuée</a> (pdf)<br><span><a href="/pressroom/pr/Documents/2019-07-04-01-pt.pdf" target="_blank">Demanda de passageiros continua sólida, mas com tendência à desaceleração</a> (pdf)</span><br><span>
+<a href="https://www.iata.org/pressroom/pr/Documents/2019-07-04-01-sp.pdf" target="_blank">Continúa la demanda sólida de pasajeros aéreos, pero con una tendencia de crecimiento más lenta</a> (pdf)</span><br>
 <span>
-<a href="/pressroom/pr/Documents/2019-07-04-01-cn.pdf" target="_blank">国际航协：全球航空客运需求增势放缓</a>&#160;(pdf)</span><br>
+<a href="https://www.iata.org/pressroom/pr/Documents/2019-07-04-01-cn.pdf" target="_blank">国际航协：全球航空客运需求增势放缓</a>&#160;(pdf)</span><br>
 </p><p>
 <strong>(Geneva) -</strong> The International Air Transport Association (IATA) announced global passenger traffic results for May showing that demand (measured in revenue passenger kilometers, or RPKs) rose 4.5% compared to the same month in 2018. This was in line with the revised April traffic growth of 4.4% and above the recent trough of 3.1% year-on-year growth recorded in March. However, it remains below the 20-year average growth rate of around 5.5%. Capacity (available seat kilometers or ASKs) climbed by a modest 2.7% and load factor rose 1.4 percentage points to 81.5%, surpassing last year’s record load factor of 80.1%.
 <br></p><p>“Passenger demand growth has slowed compared to the past two years. This is in line with slumping global trade, rising trade tensions and weakening business confidence. In this challenging environment, airlines are managing capacity carefully in order to optimize efficiency,” said Alexandre de Juniac, IATA’s Director General and CEO.&#160;</p>
@@ -463,7 +463,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​</p><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

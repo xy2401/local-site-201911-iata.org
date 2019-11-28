@@ -447,13 +447,13 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <ul>
 <li>
-<a href="/pressroom/Documents/Arabic_PR_2008_12_30_01.pdf" target="_blank">Arabic</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/Arabic_PR_2008_12_30_01.pdf" target="_blank">Arabic</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Chinese_PR_2008_12_30_01.pdf" target="_blank">Chinese</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/Chinese_PR_2008_12_30_01.pdf" target="_blank">Chinese</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/French_Press%20Release_2008-12-30-01.pdf" target="_blank">French</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/French_Press%20Release_2008-12-30-01.pdf" target="_blank">French</a> (pdf)
 </li>
 </ul></div>
 </div>

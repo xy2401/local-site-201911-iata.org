@@ -431,7 +431,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newstg">
 <div><a href="/pressroom/pr/Pages/2010-11-02-01.aspx">Read press release</a> </div></div><br><div class="newstg">
-<div><a href="/pressroom/pr/Documents/TSA-Administrator-John-Pistole-remarks.pdf" target="_blank">John Pistole's remarks</a>&#160;(pdf)</div></div><br></div>
+<div><a href="https://www.iata.org/pressroom/pr/Documents/TSA-Administrator-John-Pistole-remarks.pdf" target="_blank">John Pistole's remarks</a>&#160;(pdf)</div></div><br></div>
 </div>
 <div class='hide_element_2e84091a-561b-4857-b27e-ca98e7deb04f'></div><script type='text/javascript'>CTP.IATA.HideChrome('2e84091a-561b-4857-b27e-ca98e7deb04f')</script>
 <div class='hide_element_00852169-2980-457b-b71f-01baef6db2a7'></div><script type='text/javascript'>CTP.IATA.HideChrome('00852169-2980-457b-b71f-01baef6db2a7')</script>

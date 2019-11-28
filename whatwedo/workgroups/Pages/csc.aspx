@@ -449,7 +449,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <a href="http&#58;//extranet2.iata.org/sites/Cargo-Services-Conference/default.aspx" target="_blank">Login (external users)</a> </p><p>
 <a href="http&#58;//www2.iata.org/registration/getemailpage.aspx?siteurl=Cargo-Services-Conference" target="_blank">Registration (external users)</a> </p><p>
 <strong>Downloads</strong></p><p>
-<a href="/whatwedo/workgroups/Documents/cargo-services-conference-governance.pdf" target="_blank">CSC Organisational Chart</a>(pdf)<br></p></div>
+<a href="https://www.iata.org/whatwedo/workgroups/Documents/cargo-services-conference-governance.pdf" target="_blank">CSC Organisational Chart</a>(pdf)<br></p></div>
 </div>
 <div class='hide_element_2e652cfc-70e2-4801-8bf8-d6ee5eb890f5'></div><script type='text/javascript'>CTP.IATA.HideChrome('2e652cfc-70e2-4801-8bf8-d6ee5eb890f5')</script>
 <div class='hide_element_4510772d-76f5-492b-a79b-42b2b2822069'></div><script type='text/javascript'>CTP.IATA.HideChrome('4510772d-76f5-492b-a79b-42b2b2822069')</script>

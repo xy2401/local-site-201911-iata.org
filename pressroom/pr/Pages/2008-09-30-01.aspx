@@ -449,13 +449,13 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <ul>
 <li>
-<a href="/pressroom/Documents/pr_traffic_release_0808_chinese.pdf" target="_blank">Chinese</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/pr_traffic_release_0808_chinese.pdf" target="_blank">Chinese</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/FRENCH-PR-2008-09-30-01.pdf" target="_blank">French</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/FRENCH-PR-2008-09-30-01.pdf" target="_blank">French</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/GERMAN-PR-2008-09-30-01.pdf" target="_blank">German</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/GERMAN-PR-2008-09-30-01.pdf" target="_blank">German</a> (pdf)
 </li>
 </ul></div>
 </div>

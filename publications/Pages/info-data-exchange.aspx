@@ -342,8 +342,8 @@ Aviation Info. Data Exchange (AIDX)
 <img align="left" src="/publications/PublishingImages/AIDX_visual_180x150_transparent.png" border="0" alt="" style="padding-right&#58;16px;" />&#160;</p><p>The current release of AIDX is also the standard for SESAR A-CDM (Airport Collaborative Decision Making) information exchange, as well as the ACI ACRIS A-CDM Web Services.​<br></p><h2 class="iataElement-Title2">Future Developments</h2><div>AIDX is continuously developed to ensure it stays fit for purpose and it meets the evolving needs of the industry. Future activities include&#58;</div><ul><li>Incorporating change request to meet changing and new business requirements.</li><li>Migrating&#160;AIDX into the
 <a href="/whatwedo/passenger/pages/industry-data-model.aspx">IATA Industry Data Model</a>&#160;by modeling all&#160;AIDX data elements and attributes&#160;into the&#160;model.</li><li>Cross-domain alignment&#160;and harmonization&#160;with other information exchange data models (e.g.
 <a href="http&#58;//www.eurocontrol.int/articles/airm-atm-information-reference-model" target="_blank">AIRM</a>).</li></ul><h2 class="iataElement-Title2">Download AIDX schema and&#160;documentation</h2><ul><li>
-<a href="/whatwedo/ops-infra/Documents/aidx_factsheet.pdf" target="_blank">AIDX Factsheet​</a>&#160;(pdf)</li><li>
-<a href="/publications/Documents/AIDX%20XML%20Imp%20Guide%20v16.1.pdf" target="_blank">AIDX Imp Guide v16.1</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/Documents/aidx_factsheet.pdf" target="_blank">AIDX Factsheet​</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/publications/Documents/AIDX%20XML%20Imp%20Guide%20v16.1.pdf" target="_blank">AIDX Imp Guide v16.1</a>&#160;(pdf)</li><li>
 <a href="/publications/Documents/16_1%20schemas.zip" target="_blank">AIDX Schema v16.1</a></li><li>
 <a href="/whatwedo/ops-infra/Documents/15_2%20schemas.zip" target="_blank">AIDX Schema v15.2​</a></li><li>
 <a href="/whatwedo/ops-infra/Documents/15_1%20schema.zip" target="_blank">AIDX Schema v15.1​</a></li><li>

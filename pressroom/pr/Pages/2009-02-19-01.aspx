@@ -444,12 +444,12 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><li><a href="/pressroom/Documents/Chinese%20release_2009-02-19-01.pdf" target="_blank">Chinese </a>(pdf) </li>
-<li><a href="/pressroom/Documents/French%20release_2009-02-19-01.pdf" target="_blank">French </a>(pdf) </li>
-<li><a href="/pressroom/Documents/German%20release_2009-02-19-01.pdf" target="_blank">German </a>(pdf) </li>
-<li><a href="/pressroom/Documents/Italian%20release_2009-02-19-01.pdf" target="_blank">Italian </a>(pdf) </li>
-<li><a href="/pressroom/Documents/Malay%20release_2009-02-19-01.pdf" target="_blank">Malay </a>(pdf) </li>
-<li><a href="/pressroom/Documents/Spanish%20release_2009-02-19-01.pdf" target="_blank">Spanish </a>(pdf) </li></div>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><li><a href="https://www.iata.org/pressroom/Documents/Chinese%20release_2009-02-19-01.pdf" target="_blank">Chinese </a>(pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/French%20release_2009-02-19-01.pdf" target="_blank">French </a>(pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/German%20release_2009-02-19-01.pdf" target="_blank">German </a>(pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/Italian%20release_2009-02-19-01.pdf" target="_blank">Italian </a>(pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/Malay%20release_2009-02-19-01.pdf" target="_blank">Malay </a>(pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/Spanish%20release_2009-02-19-01.pdf" target="_blank">Spanish </a>(pdf) </li></div>
 </div>
 <div class='hide_element_68139466-dc69-41dd-b9e1-ebcc55d3d310'></div><script type='text/javascript'>CTP.IATA.HideChrome('68139466-dc69-41dd-b9e1-ebcc55d3d310')</script>
 <div class='hide_element_f4fe34a8-c566-4b08-b5f5-05ec1dfd9c0e'></div><script type='text/javascript'>CTP.IATA.HideChrome('f4fe34a8-c566-4b08-b5f5-05ec1dfd9c0e')</script>

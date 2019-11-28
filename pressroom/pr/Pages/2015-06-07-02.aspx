@@ -428,7 +428,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <p><a title="MoU with Mexico by IATA International Air Transport Association, on Flickr" href="https&#58;//www.flickr.com/photos/iataorg/18627082416"><img width="150" height="150" alt="MoU with Mexico" src="https&#58;//c1.staticflickr.com/9/8851/18627082416_d783ea1e39_q.jpg" /></a> </p>
 <p>Translation</p>
 <ul>
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2015-06-07-02.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2015-06-07-02.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul>
 </div>
 </div>
 <div class='hide_element_cff4755e-b770-444b-9746-dc5a9165f369'></div><script type='text/javascript'>CTP.IATA.HideChrome('cff4755e-b770-444b-9746-dc5a9165f369')</script>

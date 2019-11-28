@@ -355,7 +355,7 @@ Industry Addressing Aircraft Tracking Options
 <h3>Notes for Editors&#58;</h3>
 <ul>
 <li>IATA (International Air Transport Association) represents some 240 airlines comprising 84% of global air traffic.&#160;</li>
-<li>More information on the <a href="/pressroom/Documents/aircraft-tracking-task-force-faqs.pdf" target="_blank">Aircraft Tracking Task Force faqs</a>&#160;(pdf)</li>
+<li>More information on the <a href="https://www.iata.org/pressroom/Documents/aircraft-tracking-task-force-faqs.pdf" target="_blank">Aircraft Tracking Task Force faqs</a>&#160;(pdf)</li>
 <li>You can follow us at&#160;<a href="http&#58;//twitter.com/iata" target="_blank">http&#58;//twitter.com/iata</a> for news specially catered for the media. You can follow news on the AGM at #IATAAGM<br></li></ul>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
@@ -428,7 +428,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/press-release-no-34-2014-06-03-sp.pdf" target="_blank">Spanish</a>&#160;(pdf)<br><a href="/pressroom/pr/Documents/French-PR-2014-06-03-01.pdf" target="_blank">French</a> (pdf)<br><a href="/pressroom/pr/Documents/Arabic-PR-2014-06-03-01.pdf" target="_blank">Arabic </a>(pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-no-34-2014-06-03-sp.pdf" target="_blank">Spanish</a>&#160;(pdf)<br><a href="/pressroom/pr/Documents/French-PR-2014-06-03-01.pdf" target="_blank">French</a> (pdf)<br><a href="/pressroom/pr/Documents/Arabic-PR-2014-06-03-01.pdf" target="_blank">Arabic </a>(pdf)</li></ul></div>
 <div class="ms-webpart-zone ms-fullWidth">
 <div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">

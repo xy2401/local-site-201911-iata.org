@@ -344,8 +344,8 @@ Enhancement &amp; Financing
 <span>
 <div class="zHighlight"><div class="zHighlightBox"><h2>If you need more information<br></h2><p>
 <a href="/services/finance/Pages/apps-contact-form.aspx">Contact us to learn more</a><br></p><p>
-<a href="/services/finance/Documents/APPS_BCAA_Story_July_2019.pdf" target="_blank">Read a customer's success story</a> (pdf)<br></p><p>
-<a href="/services/finance/Documents/EF-Brochure.pdf" target="_blank">See the full APPS brochure</a> (pdf)<br></p></div></div> </span><br></div></div></div></span><br>
+<a href="https://www.iata.org/services/finance/Documents/APPS_BCAA_Story_July_2019.pdf" target="_blank">Read a customer's success story</a> (pdf)<br></p><p>
+<a href="https://www.iata.org/services/finance/Documents/EF-Brochure.pdf" target="_blank">See the full APPS brochure</a> (pdf)<br></p></div></div> </span><br></div></div></div></span><br>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>

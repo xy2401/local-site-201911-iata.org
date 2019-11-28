@@ -348,7 +348,7 @@ IATA Accredited Training Schools (ATS)
 <a href="http&#58;//www2.iata.org/registration/getemailpage.aspx?siteurl=ats" target="_blank"> Register</a> (new users)</li></ul>
 <br>
 <h2>How to become an ATS </h2><p>Criteria for training courses endorsement are based on the current edition of the specified IATA manual, standards and guidelines. The school must undergo a rigorous review of teaching materials, tests and instructors' credentials. </p><p>To maintain endorsement, the school must pass an annual re-assessment and can be audited at any time.<br></p><ul><li>
-<a href="/training/Documents/ats-handbook.pdf" target="_blank"></a> <a href="/training/Documents/iata-ats-application-accreditation-process.pdf" target="_blank">IATA ATS Application and Accreditation Process </a>(pdf) </li><li>
+<a href="https://www.iata.org/training/Documents/ats-handbook.pdf" target="_blank"></a> <a href="/training/Documents/iata-ats-application-accreditation-process.pdf" target="_blank">IATA ATS Application and Accreditation Process </a>(pdf) </li><li>
 <a href="/training/Pages/ats-application-form.aspx">ATS Application Form for DGR Training</a></li></ul><p>For more information, please contact us at <a href="mailto&#58;trainingpartners@iata.org">trainingpartners@iata.org</a></p><h2>ATS certificate validator</h2><ul><li>
 <a href="/training/Pages/validate-ats-certificate.aspx">Validate your IATA ATS certificate</a> issued by an IATA Accredited Training School.<br></li></ul><h2 class="iataElement-Title2">Our ATS network<br></h2><p>Our network of more than 170 ATSs can be found on our <a href="/training/Pages/partner-network.aspx">Partners network</a> page, which includes&#58;</p><table class="datatable ms-rteTable-0 iataTable-0"><thead></thead><tbody><tr class="ms-rteTableEvenRow-0 iataTableEvenRow-0"><td class="ms-rteTableEvenCol-0 iataTableEvenCol-0"></td><td class="ms-rteTableOddCol-0 iataTableOddCol-0" colspan="1"></td></tr><tr class="ms-rteTableEvenRow-0 iataTableEvenRow-0"><td class="ms-rteTableEvenCol-0 iataTableEvenCol-0"><p>
 <a href="http&#58;//www.ecoledesescalesaf.fr/" target="_blank">Air France Formation</a></p><p>
@@ -456,7 +456,7 @@ Global Training Conference 2020
 <a href="/training/Pages/ats-recognition-program.aspx">Top Performing ATSs</a></p><p>
 <a href="/training/Pages/validate-certificate.aspx">Validate an IATA Training Certificate</a></p><p>
 <a href="/training/Pages/validate-ats-certificate.aspx">Validate an IATA Accredited Training School (ATS) certificate​</a></p><p>
-<a href="/training/Documents/exams-on-demand.pdf" target="_blank">Exams On-Demand </a> (pdf) </p><p>
+<a href="https://www.iata.org/training/Documents/exams-on-demand.pdf" target="_blank">Exams On-Demand </a> (pdf) </p><p>
 <a href="https&#58;//www.linkedin.com/company/iata-training-and-development-institute"><img alt="Follow us on LinkedIn" src="/PublishingImages/linkedin.png" border="0" /></a><br><a href="https&#58;//www.facebook.com/Training.IATA"><img alt="Follow us on FaceBook" src="/PublishingImages/facebook.png" border="0" /></a> </p></div>
 </div>
 <div class='hide_element_1bb37938-3227-481c-b97f-ff060e4f3b17'></div><script type='text/javascript'>CTP.IATA.HideChrome('1bb37938-3227-481c-b97f-ff060e4f3b17')</script>

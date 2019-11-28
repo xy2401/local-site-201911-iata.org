@@ -443,7 +443,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><ul style="width&#58;150px;height&#58;54px;">
 <ul>
 <li><a href="/pressroom/pr/Pages/2013-02-12-01.aspx">Read press release</a></li>
-<li><a href="/pressroom/pr/Documents/blueprint-single-european-sky.pdf" target="_blank">‘A Blueprint for the Single European Sky’ report</a> (pdf)</li></ul><a href="/events/Pages/old.aspx#"></a></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/blueprint-single-european-sky.pdf" target="_blank">‘A Blueprint for the Single European Sky’ report</a> (pdf)</li></ul><a href="/events/Pages/old.aspx#"></a></ul></div>
 </div>
 <div class='hide_element_1e46e990-6573-4e4a-8dfb-7ff921777a47'></div><script type='text/javascript'>CTP.IATA.HideChrome('1e46e990-6573-4e4a-8dfb-7ff921777a47')</script>
 <div class='hide_element_087f056e-d8b0-4b1d-824f-f4ae5e014a37'></div><script type='text/javascript'>CTP.IATA.HideChrome('087f056e-d8b0-4b1d-824f-f4ae5e014a37')</script>

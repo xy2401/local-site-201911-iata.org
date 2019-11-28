@@ -372,7 +372,7 @@ Aircraft Accident Rate is Lowest in History - Still Room for Improvement, Region
 <p>“Safety is a constant challenge. Industry and governments need to accelerate their efforts on data sharing.&#160; In 2010, IATA launched GSIC providing its members with unprecedented access to safety information. More than 430 different organizations are already submitting safety data into the GSIC, and over 50% of IATA member carriers are participating. Substantial GSIC expansion is planned over the next few years and the industry will reap the benefits,” said Bisignani. </p>
 <p>In September 2010, IATA signed an historic agreement with the International Civil Aviation Organization, the US Department of Transportation and the Commission of the European Union to launch the Global Safety Information Exchange. This first global private/public partnership will exchange safety information aimed at improving safety by reducing risk.</p>
 <p>“Safety is not a competitive issue—among carriers or governments. Improvement is in everybody’s interest. By sharing data and best practices we will continue to drive improvements to make a safe industry even safer,” said Bisignani.</p>
-<p><a href="/pressroom/pr/Documents/2010AviationSafetyPerformance.pdf" target="_blank">View 2010 Aviation Safety Performance </a>(pdf)<br></p>
+<p><a href="https://www.iata.org/pressroom/pr/Documents/2010AviationSafetyPerformance.pdf" target="_blank">View 2010 Aviation Safety Performance </a>(pdf)<br></p>
 <p><strong>For more information, please contact</strong>&#58;<br>Corporate Communications<br>Tel&#58; +41 22 770 2967<br>Email&#58; <a href="mailto&#58;corpcomms@iata.org">corpcomms@iata.org</a><br></p>
 <p><strong>Notes for Editors</strong>&#58;</p>
 <ul>
@@ -453,11 +453,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Arabic-PR-2011-02-23-01.pdf" target="_blank">Arabic</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/French-PR-2011-02-23-01.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/German-PR-2011-02-23-01.pdf" target="_blank">German</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Italian-PR-2011-02-23-01.pdf" target="_blank">Italian</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2011-02-23-01.pdf" target="_blank">Spanish</a> (pdf)<br></li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Arabic-PR-2011-02-23-01.pdf" target="_blank">Arabic</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2011-02-23-01.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/German-PR-2011-02-23-01.pdf" target="_blank">German</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Italian-PR-2011-02-23-01.pdf" target="_blank">Italian</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2011-02-23-01.pdf" target="_blank">Spanish</a> (pdf)<br></li></ul></div>
 </div>
 <div class='hide_element_ae15f66b-11db-4200-99d5-44563df5eb1f'></div><script type='text/javascript'>CTP.IATA.HideChrome('ae15f66b-11db-4200-99d5-44563df5eb1f')</script>
 <div class='hide_element_e44e5d94-54c2-455b-8420-620c0503fc78'></div><script type='text/javascript'>CTP.IATA.HideChrome('e44e5d94-54c2-455b-8420-620c0503fc78')</script>

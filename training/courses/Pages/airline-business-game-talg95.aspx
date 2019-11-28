@@ -346,11 +346,11 @@ Airline Management Business Game (Classroom, 2 days)
 <p>Leveraging the online serious game Airline Manager Business Edition developed for IATA Training by Playrion Game Studio, this innovative, highly customizable collaborative workshop allows airline employees, in small groups to large cohorts of over 100 participants, to gather, play and learn in a unique way.</p><p>Through interaction with the game environment and instructor-facilitated activities, participants will develop or deepen their awareness of airline operations strategy, airline business management and the correlations between the various facets of the airline business.</p><p>On top of the already rich, deep-learning possibilities, the game app and workshop can both be customized for your organization and add unique value to the learning experience. Indeed, your organization’s stakeholders can collaborate with IATA to tailor both the workshop objectives, activities and game metrics to create unique scenarios that drive your specific business and learning objectives.</p>. <iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/CoXn-hHUvO0" frameborder="0"></iframe><p> This course is only available on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a></p>
 <h3>Course format</h3><ul>
 <li>This in-house classroom course provides 2 days (16 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li>
 <li>Recommended level is Entry-level, Management, Professional and Academic students</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

@@ -348,7 +348,7 @@ Air Cargo Security (Classroom, 5 days)
 <strong>Prepare your business to meet the latest cargo security regulations.</strong></p><p>
 Recent air freight terror plots have triggered authorities to address vulnerabilities in the cargo chain and tighten regulations around the world. Emphasizing threat assessment and planning techniques, this course helps air cargo businesses face the new challenges of regulatory compliance. Learn common industry practices and how to apply them in your operations using hands-on simulations and exercises.</p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
-<li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li><li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li><li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li>
 <li>Recommended level is Professional</li>

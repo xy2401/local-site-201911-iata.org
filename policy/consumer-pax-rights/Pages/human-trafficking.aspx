@@ -342,10 +342,10 @@ Human Trafficking (HT)
 <span>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <a href="https&#58;//www.facebook.com/login.php?next=https&#58;//www.facebook.com/profilepicframes/?selected_overlay%3D2163466533683283%26query%3Deyes%2Bopen%2Bon%2Bhuman%26selected_overlay_id%3D254698731999343" target="_blank"><img src="/events/Images1/ht-day-2019-iata-aci.jpg" alt="" style="margin&#58;5px;" /></a><br></span></p><h3 class="iataElement-Title3">The role of aviation&#160;in the fight against human trafficking</h3><p>A resolution denouncing human trafficking&#160;was passed at the last IATA Annual General Meeting. The resolution also reaffirms airlines' commitment to a number of actions to fight human trafficking&#58; sharing of best practices, staff training and reporting.</p><p>Once trained, airline, airport, ground handling, security screening and customs staff can provide an important source of intelligence to prevent human trafficking. They can recognize signs of potential trafficking situations and report their observations to the authorities both at airports and during flights.&#160;See press release and resolution text&#58;
 <a href="/pressroom/pr/Pages/2018-06-05-03.aspx">Airlines Denounce Human Trafficking and Commit to Action</a></p><p>
 <strong>NEW -&#160;Resources for airline staff training</strong></p><ul><li><a href="/iata/Human_Trafficking/index.html" target="_blank">Free online tutorial for airline staff</a></li><li>
-<a href="/policy/consumer-pax-rights/Documents/human-trafficking-cheatsheet.pdf">Cheat sheet</a> (pdf) &#160;-&#160;one pager&#160;summary</li><li>
-<a href="/policy/consumer-pax-rights/Documents/human-trafficking-guidelines-v1.pdf" target="_blank">Guidance on Human Trafficking&#160;</a>(pdf)&#160;complete guidelines for airlines</li><li><a href="/training/courses/Pages/human-trafficking-awareness-talg49.aspx">Human Trafficking 2-day classroom training</a></li></ul><p>
+<a href="https://www.iata.org/policy/consumer-pax-rights/Documents/human-trafficking-cheatsheet.pdf">Cheat sheet</a> (pdf) &#160;-&#160;one pager&#160;summary</li><li>
+<a href="https://www.iata.org/policy/consumer-pax-rights/Documents/human-trafficking-guidelines-v1.pdf" target="_blank">Guidance on Human Trafficking&#160;</a>(pdf)&#160;complete guidelines for airlines</li><li><a href="/training/courses/Pages/human-trafficking-awareness-talg49.aspx">Human Trafficking 2-day classroom training</a></li></ul><p>
 <strong>Campaign materials</strong></p><ul><li>
-<a href="/policy/consumer-pax-rights/Documents/human-trafficking-infographic.pdf" target="_blank">Infographic&#160;</a>(pdf)</li><li>Video - can be shared on any media<br>- English&#58; view&#58;
+<a href="https://www.iata.org/policy/consumer-pax-rights/Documents/human-trafficking-infographic.pdf" target="_blank">Infographic&#160;</a>(pdf)</li><li>Video - can be shared on any media<br>- English&#58; view&#58;
 <a href="https&#58;//youtu.be/QWTNYRaPXnc">Eyes open against human trafficking</a>&#160; -
 <a href="https&#58;//d1e96d1y8u941z.cloudfront.net/human-trafficking-campaign-video-english.zip" target="_blank">download high resolution</a> (zip)<br>- Spanish&#58; view&#58; &#160;
 <a href="https&#58;//youtu.be/1JBUnEo0ask" target="_blank"><span> Ojos abiertos contra la trata de personas</span></a>&#160; -
@@ -356,7 +356,7 @@ Human Trafficking (HT)
 <h3 class="iataElement-Title3">IATA's role </h3><p> In addition to working&#160;with our&#160;member airlines to increase staff and passenger awareness, w<span>e are calling on governments and their enforcement agencies to provide clear, practical and anonymous mechanisms for airline staff so they can report potential trafficking situations.&#160;<span>A good example of best practice is&#160;the US
 <a href="https&#58;//www.dhs.gov/topic/human-trafficking" target="_blank"> Department of Homeland Security</a>'s national toll (cost) free &quot;tip line&quot; and web form where airline staff can report their observations anonymously.</span></span></p><p>
 <span>IATA is also working with airports and other stakeholders within the air transport sector to raise awareness on human trafficking and share our&#160;guidance material, including ‘recognize and report' practice.</span></p><p>
-<a href="/policy/consumer-pax-rights/Documents/human-trafficking-policy.pdf" target="_blank"> IATA position paper on Human Trafficking</a><span>&#160;(pdf)&#160;</span></p><h3 class="iataElement-Title3">Human trafficking&#58;&#160;a highlight on the 2018 IATA AGM agenda&#160;&#160;</h3><p>View Mira Sorvino, UNODC Goodwill Ambassador's address&#58;</p>
+<a href="https://www.iata.org/policy/consumer-pax-rights/Documents/human-trafficking-policy.pdf" target="_blank"> IATA position paper on Human Trafficking</a><span>&#160;(pdf)&#160;</span></p><h3 class="iataElement-Title3">Human trafficking&#58;&#160;a highlight on the 2018 IATA AGM agenda&#160;&#160;</h3><p>View Mira Sorvino, UNODC Goodwill Ambassador's address&#58;</p>
 <div class="video-container">​<iframe width="540" height="304" src="https&#58;//www.youtube.com/embed/0Afr5FOl9LY?wmode=transparent" frameborder="0"></iframe>&#160;</div> 
 <p> &#160;&#160;
 <br>Address of Jean-Luc Lemahieu, UNODC's Director, Policy Analysis and Public Affairs </p>
@@ -455,7 +455,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <p>
 <strong>In the media</strong>&#58;
 <a href="http&#58;//airlines.iata.org/analysis/human-trafficking-keeping-your-eyes-open" target="_blank">Keeping your eyes open</a>Airlines. Magazine<br>
-<a href="/policy/consumer-pax-rights/Documents/human-trafficking-aviation-security.pdf">Human Trafficking&#58; the industry response</a> (Aviation Security Magazine)</p></div>
+<a href="https://www.iata.org/policy/consumer-pax-rights/Documents/human-trafficking-aviation-security.pdf">Human Trafficking&#58; the industry response</a> (Aviation Security Magazine)</p></div>
 </div>
 <div class='hide_element_5c338013-9156-4848-9a22-ec9413254d1a'></div><script type='text/javascript'>CTP.IATA.HideChrome('5c338013-9156-4848-9a22-ec9413254d1a')</script>
 <div class='crossLinksExploreMore'>

@@ -346,19 +346,19 @@ AGM Newsroom #IATAAGM
 <a href="/pressroom/pr/Pages/2015-06-08-02.aspx">IATA Calls for Deeper Partnership with Governments</a> </li><li>
 <a href="/pressroom/speeches/Pages/2015-06-08-01.aspx">Tony Tyler's Report on State of Industry</a>&#160;</li><li>
 <a href="/pressroom/pr/Pages/2015-06-08-03.aspx">Airline Profitability Strengthens Further</a></li><li>
-<a href="/events/agm/2015/Documents/icao-president-speech-iata-agm2015.pdf" target="_blank">Address of Dr. O. Benard Aliu, President, ICAO Council</a>&#160;(pdf)<br></li><li>
+<a href="https://www.iata.org/events/agm/2015/Documents/icao-president-speech-iata-agm2015.pdf" target="_blank">Address of Dr. O. Benard Aliu, President, ICAO Council</a>&#160;(pdf)<br></li><li>
 <a href="/pressroom/pr/Pages/2015-06-08-01.aspx">AGM opens in Miami</a></li><li>
 <a href="/pressroom/pr/Pages/2015-06-07-02.aspx">News Brief&#58; IATA Signs MOU to Support Future Mexico City Airport</a></li><li>
 <a href="/pressroom/pr/Pages/2015-06-07-01.aspx">Newsbrief&#58; Latam Aviation Delivers Economic and Social Benefits</a></li><li><div>
 <a href="/pressroom/pr/Pages/2015-06-04-03.aspx">Aviation Leaders Gather in Miami for IATA’s 71st AGM</a>&#160;</div></li></ul><h2>Other publications</h2><ul><li>Aviation Week executive report
-<a href="/events/agm/2015/Documents/Aviation_Week_Executive_Report-day1.pdf" target="_blank">Day1</a>&#160;<a href="/events/agm/2015/Documents/Aviation_Week_Executive_Report-day2.pdf" target="_blank">Day 2</a>&#160;(pdf)</li><li>Airline Business Daily&#58;
-<a href="/events/agm/2015/Documents/Airline-Business-Daily-7June.pdf" target="_blank">7 June</a>,
-<a href="/events/agm/2015/Documents/Airline-business-daily-8June.pdf" target="_blank">8 June</a>,
-<a href="/events/agm/2015/Documents/Airline-business-daily-9June.pdf" target="_blank">9 June</a>&#160;(pdf)</li></ul><h2>Multimedia </h2><ul><li>
+<a href="https://www.iata.org/events/agm/2015/Documents/Aviation_Week_Executive_Report-day1.pdf" target="_blank">Day1</a>&#160;<a href="/events/agm/2015/Documents/Aviation_Week_Executive_Report-day2.pdf" target="_blank">Day 2</a>&#160;(pdf)</li><li>Airline Business Daily&#58;
+<a href="https://www.iata.org/events/agm/2015/Documents/Airline-Business-Daily-7June.pdf" target="_blank">7 June</a>,
+<a href="https://www.iata.org/events/agm/2015/Documents/Airline-business-daily-8June.pdf" target="_blank">8 June</a>,
+<a href="https://www.iata.org/events/agm/2015/Documents/Airline-business-daily-9June.pdf" target="_blank">9 June</a>&#160;(pdf)</li></ul><h2>Multimedia </h2><ul><li>
 <a href="https&#58;//www.flickr.com/photos/iataorg/sets/72157651691946074" target="_blank">www.iata.org/photos</a></li></ul><h2>Other material </h2><ul><li>
-<a href="/events/agm/2015/Documents/agm2015-media-agenda.pdf" target="_blank">Media Agenda</a> (pdf) </li><li>
+<a href="https://www.iata.org/events/agm/2015/Documents/agm2015-media-agenda.pdf" target="_blank">Media Agenda</a> (pdf) </li><li>
 <a href="/pressroom/facts_figures/fact_sheets/Pages/index.aspx">Fact sheets</a></li><li>
-<a href="/events/agm/2015/Documents/air-pax-forecasts-executive-summary.pdf" target="_blank">Air passenger Forecasts Executive Summary</a> (pdf)<br></li></ul><h2>Need help?</h2><p>Contact&#58;
+<a href="https://www.iata.org/events/agm/2015/Documents/air-pax-forecasts-executive-summary.pdf" target="_blank">Air passenger Forecasts Executive Summary</a> (pdf)<br></li></ul><h2>Need help?</h2><p>Contact&#58;
 <a href="mailto&#58;corpcomms@iata.org">corpcomms@iata.org</a></p><p>&#160;</p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>

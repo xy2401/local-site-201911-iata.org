@@ -371,7 +371,7 @@ Newsroom
 <li><a href="/events/agm/2011/gallery/Pages/index.aspx#">Photo gallery</a></li></ul>
 <h3>Facts &amp; Figures</h3>
 <ul>
-<li><a href="/about/Documents/annual-report-2011.pdf" target="_blank">Annual report 2011</a> (pdf)</li>
+<li><a href="https://www.iata.org/about/Documents/annual-report-2011.pdf" target="_blank">Annual report 2011</a> (pdf)</li>
 <li><a href="/pressroom/Pages/ceo-biography.aspx">CEO biography and photos</a></li>
 <li><a href="/pressroom/facts_figures/fact_sheets/Pages/index.aspx">Fact sheets</a></li>
 </ul><ul>

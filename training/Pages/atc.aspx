@@ -347,8 +347,8 @@ IATA Authorized Training Centers (ATC)
 <h2 class="iataElement-Title2">
 <a href="/training/Pages/partner-network.aspx"> </a> Be part of an international training network</h2><div>
 <span>Authorization to become an ATC is granted based on demonstrated instructional expertise as well as the institution’s overall ability to provide quality training. ATCs recruit and train students, while examinations are organized and supervised by the IATA coordinator located in your country or region.&#160;</span></div><h2 class="iataElement-Title2">How to become an ATC</h2><ul><li>
-<a title="Click to open the ATC Application Authorization Process" href="/training/Documents/Annex-01-ATC-Application-Authorization-Process.pdf" target="_blank">IATA ATC Application and Authorization Process </a> (pdf)</li><li>
-<a title="Click to open the ATC Application Form" href="/training/Documents/Annex-02-ATC-Application-Form.pdf" target="_blank"> IATA ATC Application Form </a>(pdf)</li></ul><h3 class="iataElement-Title3">​The aviation industry is a great place to work! </h3>
+<a title="Click to open the ATC Application Authorization Process" href="https://www.iata.org/training/Documents/Annex-01-ATC-Application-Authorization-Process.pdf" target="_blank">IATA ATC Application and Authorization Process </a> (pdf)</li><li>
+<a title="Click to open the ATC Application Form" href="https://www.iata.org/training/Documents/Annex-02-ATC-Application-Form.pdf" target="_blank"> IATA ATC Application Form </a>(pdf)</li></ul><h3 class="iataElement-Title3">​The aviation industry is a great place to work! </h3>
 <span>
 <div class="video-container">​<iframe width="540" height="304" src="http&#58;//www.youtube.com/embed/DMQPyYVl8WQ?wmode=transparent" frameborder="0"></iframe>&#160;</div></span>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
@@ -453,7 +453,7 @@ Global Training Conference 2020
 <a href="/training/Pages/ats-recognition-program.aspx">Top Performing ATSs</a></p><p>
 <a href="/training/Pages/validate-certificate.aspx">Validate an IATA Training Certificate</a></p><p>
 <a href="/training/Pages/validate-ats-certificate.aspx">Validate an IATA Accredited Training School (ATS) certificate​</a></p><p>
-<a href="/training/Documents/exams-on-demand.pdf" target="_blank">Exams On-Demand </a> (pdf) </p><p>
+<a href="https://www.iata.org/training/Documents/exams-on-demand.pdf" target="_blank">Exams On-Demand </a> (pdf) </p><p>
 <a href="https&#58;//www.linkedin.com/company/iata-training-and-development-institute"><img alt="Follow us on LinkedIn" src="/PublishingImages/linkedin.png" border="0" /></a><br><a href="https&#58;//www.facebook.com/Training.IATA">
 <img alt="Follow us on FaceBook" src="/PublishingImages/facebook.png" border="0" /></a></p></div>
 </div>

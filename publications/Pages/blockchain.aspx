@@ -334,7 +334,7 @@ Blockchain in Aviation White Paper
 </menu>
 <div class="introAndImage">
 <img alt="" src="/publications/PublishingImages/blockchain-330.png" style="BORDER: 0px solid; ">
-<p>The Blockchain in Aviation white paper outlines the results of IATA research and development activities on Blockchain in collaboration with airlines and the wider value chain. The paper covers the fundamentals, areas of application, challenges, and opportunities of the Blockchain technology across the aviation industry. </p><p>Download the <a href="/publications/Documents/blockchain-in-aviation-white-paper.pdf" target="_blank">White Paper</a> (pdf)​</p>
+<p>The Blockchain in Aviation white paper outlines the results of IATA research and development activities on Blockchain in collaboration with airlines and the wider value chain. The paper covers the fundamentals, areas of application, challenges, and opportunities of the Blockchain technology across the aviation industry. </p><p>Download the <a href="https://www.iata.org/publications/Documents/blockchain-in-aviation-white-paper.pdf" target="_blank">White Paper</a> (pdf)​</p>
 </div>
 </div>
 <div id="col-mn-tabs">

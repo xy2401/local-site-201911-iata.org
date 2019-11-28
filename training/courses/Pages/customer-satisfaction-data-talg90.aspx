@@ -346,11 +346,11 @@ Enhancing Customer Experience Through Data and Insights (Classroom, 2 days)
 <p>In this 2-day course you will learn how to leverage customer insights to provide cost savings, continuous improvement, and enhanced and targeted marketing through the design of seamless, efficient and personalized passenger experiences. You will learn why, what and how to measure your performance so that you can provide meaningful, actionable insights to your organization to&#58; improve customer satisfaction and loyalty, streamline your resources and identify key improvement areas. You will learn about building a strong Voice of the Customer program in your customer experience strategy and be exposed to customer experience metrics such as Net Promoter Score (NPS), Customer Satisfaction (CSAT) or Customer Effort Score (CES). Get a closer look at the methodology used in the <a href="/services/statistics/intelligence/Pages/passenger-satisfaction-survey.aspx">IATA Airs@t Passenger Satisfaction Benchmark</a> being an industry standard for airlines’ customer experience measurement. These practical tools and measures will set you up for success towards becoming a customer-centric organization.<br></p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 2 days (16 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li>
 <li>Recommended level is Entry-level and Management</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

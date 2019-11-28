@@ -367,13 +367,13 @@ January Demand Shows Further Improvement - Industry to Remain in the Red For 201
 <h3>Notes for Editors&#58; </h3>
 <p><strong>New Data Collection</strong></p>
 <ul>
-<li>Starting from January 2010, the traffic statistics now include low cost carriers and estimates for non-reporting airlines.&#160; As IATA member airlines carry 93% of international traffic measured by RPKs, this change does not make a large difference in the statistics.&#160;<a href="/pressroom/facts_figures/traffic_results/Documents/FY2009vsFY2008.pdf" target="_blank">View FY 2009 vs. FY 2008 table</a>&#160;(pdf)
+<li>Starting from January 2010, the traffic statistics now include low cost carriers and estimates for non-reporting airlines.&#160; As IATA member airlines carry 93% of international traffic measured by RPKs, this change does not make a large difference in the statistics.&#160;<a href="https://www.iata.org/pressroom/facts_figures/traffic_results/Documents/FY2009vsFY2008.pdf" target="_blank">View FY 2009 vs. FY 2008 table</a>&#160;(pdf)
 </li><li>There is very little impact on air freight but the total market in international air travel shows a slightly smaller decline in 2009 than for RPKs carried by IATA member airlines (-2.5% vs -3.5%), mostly because of the growth of LCCs in Europe
 </li><li>Other regional differences
 <ul>
 <li>African airlines now show a smaller decline because of the inclusion of North African airlines who did better in 2009 that the Sub-Saharan African airlines
 </li><li>Inclusion of relatively faster-growing recent entrant airlines in Asia Pacific has reduced the passenger traffic decline in this region by a relatively modest amount.</li></ul>
-</li><li><a href="/pressroom/facts_figures/traffic_results/Documents/TotalInternationalTrafficGrowthbymonth2009.pdf" target="_blank">Adjusted monthly growth rates for total international traffic for 2009</a>&#160;(pdf)&#160; based on the new data collection methodology.
+</li><li><a href="https://www.iata.org/pressroom/facts_figures/traffic_results/Documents/TotalInternationalTrafficGrowthbymonth2009.pdf" target="_blank">Adjusted monthly growth rates for total international traffic for 2009</a>&#160;(pdf)&#160; based on the new data collection methodology.
 </li><li>IATA (International Air Transport Association) represents some 230 airlines comprising 93% of scheduled international air traffic.
 </li><li>Explanation of measurement terms&#58;
 <ul>
@@ -459,10 +459,10 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations of this Press Release</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Chinese_PR_2010_03_02_01.pdf" target="_blank">Chinese</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/French_PR_2010_03_02_01.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/German_PR_2010_03_02_01.pdf" target="_blank">German</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish_PR_2010_03_02_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Chinese_PR_2010_03_02_01.pdf" target="_blank">Chinese</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French_PR_2010_03_02_01.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/German_PR_2010_03_02_01.pdf" target="_blank">German</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish_PR_2010_03_02_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_fbb50217-5bf9-414b-960c-1f4f47edb0d8'></div><script type='text/javascript'>CTP.IATA.HideChrome('fbb50217-5bf9-414b-960c-1f4f47edb0d8')</script>
 <div class='hide_element_bf9dcf3c-71fe-4300-9c56-830c763b32cb'></div><script type='text/javascript'>CTP.IATA.HideChrome('bf9dcf3c-71fe-4300-9c56-830c763b32cb')</script>

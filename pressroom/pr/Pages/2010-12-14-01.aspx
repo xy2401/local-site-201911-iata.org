@@ -457,10 +457,10 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Arabic-PR-2010-12-14-01.pdf" target="_blank">Arabic</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/French-PR-2010-12-14-01.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/German-PR-2010-12-14-01.pdf" target="_blank">German</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2010-12-14-01.pdf" target="_blank">Spanish </a>(pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Arabic-PR-2010-12-14-01.pdf" target="_blank">Arabic</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2010-12-14-01.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/German-PR-2010-12-14-01.pdf" target="_blank">German</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2010-12-14-01.pdf" target="_blank">Spanish </a>(pdf)</li></ul>
 <div class="newst">
 <div>
 <h2>Multimedia</h2></div></div>

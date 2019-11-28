@@ -367,8 +367,8 @@ Contact
 <a href="http&#58;//www.iata.org/whatwedo/environment/Documents/fred+acces-guide-mobile-phone.pdf" target="_blank">FRED+ Access Guide with Mobile Phone Authentication</a> (pdf)<br></li><li>
 <a href="http&#58;//www.iata.org/whatwedo/environment/Documents/fred+access-guide-internet-browser.pdf" target="_blank">FRED+ Access Guide with Internet Browser Authentication</a> (pdf)<br></li></ul><h3>More information</h3><ul><li>
 <a href="/whatwedo/environment/Pages/FRED+release-subscription.aspx" target="_blank">Sign-up</a> to stay informed about the latest developments.<a href="/whatwedo/environment/Pages/FRED+release-subscription.aspx" target="_blank"><br></a></li><li>
-<a href="/whatwedo/environment/Documents/fredplus-flyer.pdf" target="_blank">Information brochure</a> (pdf)<br></li><li>
-<a href="/whatwedo/environment/Documents/fred+_general_presentation.pdf" target="_blank">FRED+ General Presentation</a> (pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/environment/Documents/fredplus-flyer.pdf" target="_blank">Information brochure</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/whatwedo/environment/Documents/fred+_general_presentation.pdf" target="_blank">FRED+ General Presentation</a> (pdf)</li><li>
 <a href="https&#58;//www.youtube.com/watch?v=PUPyMZSZfu4" target="_blank">Video</a></li></ul>
 <br></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2" class="ajax__tab_panel" style="display:none;">

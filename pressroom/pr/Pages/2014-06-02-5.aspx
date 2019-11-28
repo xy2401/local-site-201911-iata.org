@@ -362,7 +362,7 @@ IATA Members Set Out Steps Needed to Tackle Problem of Unruly Passengers
 <h3>Notes for Editors&#58;</h3>
 <ul>
 <li>IATA (International Air Transport Association) represents some 240 airlines comprising 84% of global air traffic. </li>
-<li>See the <a href="/policy/Documents/agm-resolution-unruly-passengers.pdf" target="_blank">resolution related to Untuly Passengers</a>&#160;(pdf) adopted during IATA's 2014 AGM in Doha</li>
+<li>See the <a href="https://www.iata.org/policy/Documents/agm-resolution-unruly-passengers.pdf" target="_blank">resolution related to Untuly Passengers</a>&#160;(pdf) adopted during IATA's 2014 AGM in Doha</li>
 <li>You can follow us at&#160;<a href="http&#58;//twitter.com/iata" target="_blank">http&#58;//twitter.com/iata</a> for news specially catered for the media. You can follow news on the AGM at #IATAAGM</li>
 </ul>
 <menu class="ms-hide">
@@ -436,8 +436,8 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Press-Release-no-33-2014-06-02-sp.pdf" target="_blank">Spanish</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/French-PR-2014-06-02-05.pdf" target="_blank">French</a> (pdf)<br><a href="/pressroom/pr/Documents/Arabic-PR-2014-06-02-05.pdf" target="_blank">Arabic</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Press-Release-no-33-2014-06-02-sp.pdf" target="_blank">Spanish</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2014-06-02-05.pdf" target="_blank">French</a> (pdf)<br><a href="/pressroom/pr/Documents/Arabic-PR-2014-06-02-05.pdf" target="_blank">Arabic</a> (pdf)</li></ul></div>
 <div class="ms-webpart-zone ms-fullWidth">
 <div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">

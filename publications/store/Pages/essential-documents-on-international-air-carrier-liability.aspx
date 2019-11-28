@@ -329,7 +329,7 @@ Essential Documents on International Air Carrier Liability
 <h2>Own a&#160;legal reference book&#160;now!</h2>
 <p>The Essential Documents on International Air Carrier Liability is the ‘must-have’ desktop reference companion for airline counsel, private practitioners, regulators and academics worldwide.</p>
 <p>This 3rd edition (effective October 2012)&#160;has been comprehensively revised in structure and content to reflect the latest developments in international air carrier liability law. </p>
-<p>View the <a href="/publications/Documents/toc-essentials-liability-3rdEd-20121031.pdf" target="_blank">table of contents</a> (pdf).</p>
+<p>View the <a href="https://www.iata.org/publications/Documents/toc-essentials-liability-3rdEd-20121031.pdf" target="_blank">table of contents</a> (pdf).</p>
 <h3>Key Benefits</h3>
 <p>A reference publication that consolidates the following instruments on carrier liability in one easy-to-use publication&#58;</p>
 <ul>

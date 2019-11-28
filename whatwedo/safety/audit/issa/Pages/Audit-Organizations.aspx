@@ -336,7 +336,7 @@ ISSA Audit Organizations
 </menu>
 <div class="introAndImage">
 </div>
-<div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"><p>ISSA&#160;Audit Organizations are formally accredited by IATA to conduct&#160;IOSA and ISSA audits. Each organization must use approved IOSA Auditors that have all met stringent <a href="/whatwedo/safety/audit/issa/Documents/IOSA_Standards_Manual(ISM)_Edition_12.pdf" target="_blank">IOSA training and qualification</a> standards. AOs that are currently accredited are&#58; </p>
+<div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"><p>ISSA&#160;Audit Organizations are formally accredited by IATA to conduct&#160;IOSA and ISSA audits. Each organization must use approved IOSA Auditors that have all met stringent <a href="https://www.iata.org/whatwedo/safety/audit/issa/Documents/IOSA_Standards_Manual(ISM)_Edition_12.pdf" target="_blank">IOSA training and qualification</a> standards. AOs that are currently accredited are&#58; </p>
 <ul>
 <li><a href="http&#58;//www.acsgroup.aero/" target="_blank">Aviation Compliance Solutions Pty Ltd</a>
 </li><li><a href="http&#58;//www.aviation-quality-services.com/" target="_blank">Aviation Quality Services GmbH</a>

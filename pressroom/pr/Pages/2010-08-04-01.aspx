@@ -432,7 +432,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation of this Press Release</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Indonesian-PR-2010-08-04-01.pdf" target="_blank">Indonesian</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Indonesian-PR-2010-08-04-01.pdf" target="_blank">Indonesian</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_892f156f-ede8-4d48-abd2-dd110afb6ecf'></div><script type='text/javascript'>CTP.IATA.HideChrome('892f156f-ede8-4d48-abd2-dd110afb6ecf')</script>
 <div class='hide_element_ee7bcbc5-4e69-4b4d-ac85-aef47c88bd0a'></div><script type='text/javascript'>CTP.IATA.HideChrome('ee7bcbc5-4e69-4b4d-ac85-aef47c88bd0a')</script>

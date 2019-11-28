@@ -432,7 +432,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><strong>Translation</strong>
-<p>&#160;<a href="/pressroom/pr/Documents/Spanish-PR-2014-04-29-01.pdf" target="_blank">Spanish</a> (pdf)</p></div>
+<p>&#160;<a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2014-04-29-01.pdf" target="_blank">Spanish</a> (pdf)</p></div>
 </div>
 <div class='hide_element_5b976fb2-0fc0-4805-9cee-d0eab738ae4d'></div><script type='text/javascript'>CTP.IATA.HideChrome('5b976fb2-0fc0-4805-9cee-d0eab738ae4d')</script>
 <div class='hide_element_527aa61f-ec8a-45ae-b3a5-4bd4a1506ea5'></div><script type='text/javascript'>CTP.IATA.HideChrome('527aa61f-ec8a-45ae-b3a5-4bd4a1506ea5')</script>

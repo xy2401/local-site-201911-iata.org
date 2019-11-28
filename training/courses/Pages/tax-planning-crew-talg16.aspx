@@ -346,7 +346,7 @@ Tax Planning and Compliance for International Airline Professionals (Classroom, 
 <p>This introductory course will provide you with insight and knowledge into indirect and direct taxation as it relates to the aviation sector, as well as the tax treatment of flight and cabin crew members. You will learn about the different tax systems, the various tax treaty conventions, and the related database and software relevant to taxation in the aviation industry. Develop the necessary skills to identify key issues in order to mitigate the possible tax risks faced by your business.</p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers and Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 3 days (24 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li><li>Recommended level is Management and Professional</li>
 <li>The recommended level of language proficiency is <a href="http&#58;//www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>

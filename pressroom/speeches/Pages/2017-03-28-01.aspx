@@ -332,7 +332,7 @@ Remarks of Alexandre de Juniac at the Montreal Council on Foreign Relations
 <div class="homeImageLeft">
 <div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label" style='display:none'>Home Image</div><div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label"><div class="ms-rtestate-field"><img alt="" src="/pressroom/speeches/PublishingImages/adj-280317.png" style="BORDER&#58;0px solid;" /></div></div>
 </div>
-<p><strong>Translations</strong>&#58;<a href="/pressroom/speeches/Documents/2017-03-28-01-FR.pdf" target="_blank"> Remarques de Alexandre de Juniac au Conseil des relations internationales de Montréal</a>&#160;(pdf)</p>
+<p><strong>Translations</strong>&#58;<a href="https://www.iata.org/pressroom/speeches/Documents/2017-03-28-01-FR.pdf" target="_blank"> Remarques de Alexandre de Juniac au Conseil des relations internationales de Montréal</a>&#160;(pdf)</p>
 <p>Thank you for the very warm introduction and the invitation to address you today. It is always a pleasure to be here in Montreal. Aside from being a unique and energetic city celebrating its 375th anniversary, it is home to IATA’s global headquarters.</p><p>
 <span>And let me begin today with some thoughts on IATA’s role.</span></p><p>
 <span>First and foremost,
@@ -462,7 +462,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​</p><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

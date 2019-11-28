@@ -328,7 +328,7 @@ Improving Gender Balance by 2025
 <br>
 </div></div>
 <br>
-<h2 class="iataElement-Title2">Why is&#160;the change&#160;needed?<br></h2><p>Diversity &amp; inclusion metrics for the <a href="/publications/economics/Reports/chart-of-the-week/chart-of-the-week-09-mar-2018.pdf" target="_blank">aviation industry</a>&#160;(pdf) are no surprise. They&#160;clearly show there is room for&#160;improvement to drive diversity &amp; inclusion within an industry that is growing to meet the expanding global demand for connectivity.<br></p>
+<h2 class="iataElement-Title2">Why is&#160;the change&#160;needed?<br></h2><p>Diversity &amp; inclusion metrics for the <a href="https://www.iata.org/publications/economics/Reports/chart-of-the-week/chart-of-the-week-09-mar-2018.pdf" target="_blank">aviation industry</a>&#160;(pdf) are no surprise. They&#160;clearly show there is room for&#160;improvement to drive diversity &amp; inclusion within an industry that is growing to meet the expanding global demand for connectivity.<br></p>
 <span><span class="wrappedImageRight"><br></span><span class="wrappedImageRight"><a href="/policy/PublishingImages/mosaic-gender-balance.jpg" target="_blank"><img src="/policy/PublishingImages/mosaic-gender-balance.jpg" alt="" style="width&#58;195px;height&#58;216px;" /></a><br></span></span>
 <p>
 <span><span>During IATA's&#160;2019 World&#160;Air Transport Summit, Air New Zealand's former&#160;CEO Christopher Luxon challenged the industry to do more to advance gender diversity, He urged</span><span>&#160;airlines to do more to address issues facing women.</span><br></span></p><p>

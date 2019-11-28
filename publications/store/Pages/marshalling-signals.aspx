@@ -338,7 +338,7 @@ Marshalling Signals
 <li>25</li>
 <li>50</li>
 <li>100</li></ul>
-<p><a href="/publications/Documents/marshalling-signals-pricing-2014-2015-20141008.pdf" target="_blank">Get the&#160;pricing information</a>&#160;(pdf) and see how you can save. The more you purchase the cheaper it gets.</p>
+<p><a href="https://www.iata.org/publications/Documents/marshalling-signals-pricing-2014-2015-20141008.pdf" target="_blank">Get the&#160;pricing information</a>&#160;(pdf) and see how you can save. The more you purchase the cheaper it gets.</p>
 <h3 class="iataElement-Title3">Buy online</h3>
 <div id="ctl00_PlaceHolderMain_g_B2882428_363C_4F7E_94A9_780B0C47E9E1" WebPart="true" __WebPartId="{B2882428-363C-4F7E-94A9-780B0C47E9E1}" __MarkupType="vsattributemarkup">
 <script type="text/javascript">

@@ -344,7 +344,7 @@ Airlines and Airports are requested to<a href="/whatwedo/passenger/fast-travel/P
 <span>
 <div class="zHighlight"><div class="zHighlightBox"><h2>Fast Travel&#160;Global Implementation&#160;<br></h2><ul><li>
 <strong>Current&#58;</strong>&#160;48.33%&#160; (July 2019)<br></li></ul></div></div></span></div><div class="cell col1_2"><h3 class="iataElement-Title3">Project materials</h3><ul><li>
-<a href="/whatwedo/passenger/fast-travel/Documents/Fast-Travel-Bulletin-Q1-2018.pdf" target="_blank">
+<a href="https://www.iata.org/whatwedo/passenger/fast-travel/Documents/Fast-Travel-Bulletin-Q1-2018.pdf" target="_blank">
 Fast Travel 2018 Q1 Bulletin</a>
 (pdf)<br></li></ul><p>&#160;<br></p></div></div></div> ​​​​</span>​<h3 class="iataElement-Title3">IATA Fast Travel Awards</h3><p>IATA recognizes carriers that offer four or more Fast Travel compliant solutions to
 <strong>at least 80% of their passengers</strong> with a Fast Travel Platinum Award&#160;(3 mandatory IATA projects&#160;plus one additional project - see below).</p><h3 class="iataElement-Title3">​​Top Fast Travel Platinum Airlines (March 2019)<br></h3><div><div><table class="datatable "><thead><tr><th>Al code</th><th>Airline</th><th>% of passengers offered with fast travel&#160;</th></tr></thead><tbody><tr><td>TF<br></td><td>

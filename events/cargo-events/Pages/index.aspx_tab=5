@@ -343,7 +343,7 @@ Manchester,&#160;<br>United Kingdom<br>
 <span id="ctl00_PlaceHolderMain_DisplayContent_cpIATAVenue"><span></span></span>
 </span>
 <br>
-<div id="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12_label" style='display:none'>IATAContentBox4</div><div id="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12_label">&#160;&#160;<a href="/events/cargo-events/Documents/cargo-events-2019/IATA-2019.pdf" target="_blank"></a><br></div>
+<div id="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12_label" style='display:none'>IATAContentBox4</div><div id="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayContent_RichHtmlField12_label">&#160;&#160;<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/IATA-2019.pdf" target="_blank"></a><br></div>
 <br />
 </span>
 </div>
@@ -397,19 +397,19 @@ Previous Events
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel7_DisplayIATATabContent7_label" style='display:none'>IATATabContent7</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel7_DisplayIATATabContent7__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel7_DisplayIATATabContent7_label"><h2 class="iataElement-Title2">​IATA Cargo Events 2019&#160;<br></h2><h3 class="iataElement-Title3">Photos<br></h3><ul><li>
 <a href="https&#58;//www.flickr.com/photos/iataorg/albums/72157711562916293" target="_blank">IATA Cargo Events 2019 Photos Gallery</a><br></li></ul><h3 class="iataElement-Title3">Air Cargo Operations Conference<br>
 <ul><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/AirCargoOps_MasterDay1.pdf" target="_blank">Day 1 Presentations</a> (pdf)<br></li><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/AirCargoOps_Master_Day2.pdf" target="_blank">Day 2 Presentations</a> (pdf)<br></li><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/AirCargoOps_Master_Day3.pdf" target="_blank">Day 3 Presentations </a>(pdf)<br></li></ul></h3><h3 class="iataElement-Title3">AirPharma<br></h3><ul><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/AirPharma_Master_Day1.pdf" target="_blank">Day 1 Presentations</a>&#160;(pdf)<br></li><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/AirPharma_Master_Day_2.pdf" target="_blank">Day 2 Presentations</a>&#160;(pdf)<br></li><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/AirPharma_Master_Day3.pdf" target="_blank">Day 3 Presentations</a>&#160;(pdf)<br></li></ul><h3 class="iataElement-Title3">Cargo Claims &amp; Loss Prevention Conference<br></h3><ul><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/CCLP_Master_Day1.pdf" target="_blank">Day 1 Presentations</a> (pdf)<br></li><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/CCLP_Master_Day2.pdf" target="_blank">Day 2 Presentations</a> (pdf)<br></li><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/CCLP_Master_Day3.pdf" target="_blank">Day 3 Presentations</a> (pdf)<br></li></ul><h3 class="iataElement-Title3">Cargo Security &amp; Facilitation Forum<br></h3><ul><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/CSFF_MasterDay1.pdf" target="_blank">Day 1 Presentations</a> (pdf)<br></li><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/CSFF_Master_Day2.pdf" target="_blank">Day 2 Presentations</a> (pdf)<br></li></ul><h3 class="iataElement-Title3">Lithium Battery Workshop<br></h3><ul><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/LBW_Master_Day1.pdf" target="_blank">Day 1 Presentations</a> (pdf)</li><li>
-<a href="/events/cargo-events/Documents/cargo-events-2019/LBW_Master_Day2.pdf" target="_blank">Day 2 Presentations</a> (pdf)<br></li></ul>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/AirCargoOps_MasterDay1.pdf" target="_blank">Day 1 Presentations</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/AirCargoOps_Master_Day2.pdf" target="_blank">Day 2 Presentations</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/AirCargoOps_Master_Day3.pdf" target="_blank">Day 3 Presentations </a>(pdf)<br></li></ul></h3><h3 class="iataElement-Title3">AirPharma<br></h3><ul><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/AirPharma_Master_Day1.pdf" target="_blank">Day 1 Presentations</a>&#160;(pdf)<br></li><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/AirPharma_Master_Day_2.pdf" target="_blank">Day 2 Presentations</a>&#160;(pdf)<br></li><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/AirPharma_Master_Day3.pdf" target="_blank">Day 3 Presentations</a>&#160;(pdf)<br></li></ul><h3 class="iataElement-Title3">Cargo Claims &amp; Loss Prevention Conference<br></h3><ul><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/CCLP_Master_Day1.pdf" target="_blank">Day 1 Presentations</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/CCLP_Master_Day2.pdf" target="_blank">Day 2 Presentations</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/CCLP_Master_Day3.pdf" target="_blank">Day 3 Presentations</a> (pdf)<br></li></ul><h3 class="iataElement-Title3">Cargo Security &amp; Facilitation Forum<br></h3><ul><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/CSFF_MasterDay1.pdf" target="_blank">Day 1 Presentations</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/CSFF_Master_Day2.pdf" target="_blank">Day 2 Presentations</a> (pdf)<br></li></ul><h3 class="iataElement-Title3">Lithium Battery Workshop<br></h3><ul><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/LBW_Master_Day1.pdf" target="_blank">Day 1 Presentations</a> (pdf)</li><li>
+<a href="https://www.iata.org/events/cargo-events/Documents/cargo-events-2019/LBW_Master_Day2.pdf" target="_blank">Day 2 Presentations</a> (pdf)<br></li></ul>
 <div><div><h3 class="iataElement-Title3"><br></h3><h3 class="iataElement-Title3">Thank you to our Sponsors<br></h3><div>
 <span>
 <div><div class="sponsorsContent"><h3>

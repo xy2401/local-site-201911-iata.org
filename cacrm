@@ -336,10 +336,10 @@ Cargo Agency Conference Resolution Manual
 <div>The relationship between member airlines and their registered cargo agents is administered under a set of IATA resolutions. These government-approved rules establish the rights and obligations of the parties, as well as the procedures and requirements for agents who wish to obtain and to maintain industry accreditation, thus becoming part of the airlines global cargo distribution network. </div>
 <div>&#160;</div>
 <h3 class="iataElement-Title3">CACRM Downloadable Resources</h3>
-<ul><li><a href="/whatwedo/workgroups/Pages/cac.aspx"></a><a href="/whatwedo/workgroups/Pages/cac.aspx"></a><a href="/publications/Documents/cargo-standards/ToC/TOC%20CACRM.pdf" target="_blank">CACRM Table of Contents</a>&#160;(pdf)</li>
-<li><a href="/publications/Documents/cargo-standards/activation-user-guide-20140917.pdf" target="_blank">Product Key Activation User Guide</a> (pdf)</li>
-<li><a href="/publications/Documents/cargo-standards/EULA/IATA-EULA-CACRM.pdf" target="_blank">CACRM End User License Agereement&#160;</a>(pdf)</li>
-<li><a href="/publications/Documents/cargo-standards/Specifications_V2b.pdf" target="_blank">Features of the CACRM</a> (pdf)</li></ul>
+<ul><li><a href="https://www.iata.org/whatwedo/workgroups/Pages/cac.aspx"></a><a href="/whatwedo/workgroups/Pages/cac.aspx"></a><a href="/publications/Documents/cargo-standards/ToC/TOC%20CACRM.pdf" target="_blank">CACRM Table of Contents</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/publications/Documents/cargo-standards/activation-user-guide-20140917.pdf" target="_blank">Product Key Activation User Guide</a> (pdf)</li>
+<li><a href="https://www.iata.org/publications/Documents/cargo-standards/EULA/IATA-EULA-CACRM.pdf" target="_blank">CACRM End User License Agereement&#160;</a>(pdf)</li>
+<li><a href="https://www.iata.org/publications/Documents/cargo-standards/Specifications_V2b.pdf" target="_blank">Features of the CACRM</a> (pdf)</li></ul>
 </div>
 <div id="col-mn-tabs">
 <div class="ajax__tab_xp" id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1">

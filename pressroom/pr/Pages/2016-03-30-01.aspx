@@ -341,7 +341,7 @@ Strong Partnerships to Boost Economies in Latin America
 <div class="homeImageLeft">
 <div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label" style='display:none'>Home Image</div><div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label"><div class="ms-rtestate-field"><img alt="Wings of Change event banner" src="/pressroom/pr/PublishingImages/Wings-3.jpg" style="BORDER&#58;0px solid;" /></div></div>
 </div>
-<p><a href="/pressroom/pr/Documents/Spanish-PR-2016-03-30-01.pdf" target="_blank">​Spanish translation</a> (pdf)</p>
+<p><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2016-03-30-01.pdf" target="_blank">​Spanish translation</a> (pdf)</p>
 <p>Santiago, Chile&#160;-&#160;&#160;The International Air Transport Association (IATA) called on governments and aviation stakeholders in Latin America and the Caribbean to work together to harness the power of aviation connectivity to drive economic growth and job creation in the region. </p>
 <p>“Air transport in Latin America and the Caribbean supports more than 4.9 million jobs and $153 billion in GDP. It could create even more value but airlines struggle with high taxes, onerous regulation and infrastructure deficiencies. Strong partnerships across the value chain and with governments can unlock untapped value and drive economic growth by tackling these issues. And this is particularly important given the difficult economic situation in several of the region’s top economies,” said Tony Tyler, IATA’s Director General and CEO.</p>
 <p>“We’ve achieved great things as a united industry in places where we work with governments as partners in pursuit of common goals. Chile and Panama are creating value with an enlightened strategic approach to aviation. Spreading this more broadly across the region will help build a brighter future for the people of Latin America and the Caribbean with prosperity, jobs and opportunities,” Tyler said.</p>
@@ -433,7 +433,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">​<span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

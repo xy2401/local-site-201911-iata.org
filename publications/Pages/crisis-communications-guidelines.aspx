@@ -340,7 +340,7 @@ Guidelines - Crisis Communications in the Digital Age
 <p>Delay or hesitation in response may seriously damage an organization's&#160;reputation and business. That's why companies must be prepared to engage proactively with the news media and with other audiences on social media to show they&#160;handle the accident in the right way.</p>
 <h3 class="iataElement-Title3">Effective crisis communication to protect reputation</h3>
 <p>These&#160;guidelines are intended to help airlines, manufacturers, airports, investigating bodies and other involved parties to communicate effectively after an aircraft accident or major incident, to protect their own reputation and the reputation of the industry itself.</p>
-<p>Download <a href="/publications/Documents/social-media-crisis-communications-guidelines.pdf" target="_blank">the&#160;Crisis Communications&#160;in the Digital Age&#160;guidelines</a>&#160;(pdf) </p>
+<p>Download <a href="https://www.iata.org/publications/Documents/social-media-crisis-communications-guidelines.pdf" target="_blank">the&#160;Crisis Communications&#160;in the Digital Age&#160;guidelines</a>&#160;(pdf) </p>
 <h3 class="iataElement-Title3">Emergency response planning</h3>
 <p>These guidelines cover communication processes only. The actual accident preparedness should be an operational procedure exercised on a routine basis, usually incorporated in an organization's&#160;Emergency Response Planning (ERP).</p><p>Learn about <a href="/publications/store/Pages/emergency-response-handbook.aspx">IATA's Emergency Response Handbook</a>.</p>
 <p>&#160;</p>

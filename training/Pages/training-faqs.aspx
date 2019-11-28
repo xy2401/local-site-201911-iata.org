@@ -372,7 +372,7 @@ Classroom Training | Frequently Asked Questions
 <br></p><div class="answer offs"><p>Select bank transfer as your payment method at the time of registration. </p><p>Start the bank transfer once you have confirmation of your registration or at least 3 weeks prior to the first day of the course. Your bank transfer should be made payable to&#58;<br></p><p> IATA Account No&#58; 400-749-8 </p><p>Bank Number&#58; 003 Branch Number&#58; 00001 </p><p>Royal Bank of Canada </p><p>1 Place Ville Marie </p><p>Montreal, Quebec </p><p>H3C 3B5 Canada</p><p> Swift Code&#58; ROYCCAT2 </p><p>ABA No.&#58; 021000021 </p><p>Prefer to pay by credit card? You may choose to pay by credit card at any time after your registration.
 <a href="/training/courses/pages/order-number.aspx">Full details and payment form. </a></p><p>For session at the IATA Training Center in Mainland China the bank transfer should be made out to&#58; </p><p>北京爱雅塔信息技术有限公司 </p><p>BEIJING IATA INFORMATION TECHNOLOGY CO, LTD. </p><p>开户行：中国工商银行国航大厦支行 tel&#58; 8447 5239 </p><p>Bank&#58; INDUSTRIAL AND COMMERCIAL BANK OF CHINA </p><p>Air China Plaza Sub-branch Beijing Municipal Branch </p><p>地址：朝阳区霄云路36号（国航大厦首层
 <br></p><p>Address&#58; No36. Xiaoyun Road, Chaoyang District (First floor, Air China Plaza)</p><p> 账号 Account Number&#58; 0200 2279 0902 0117 967 </p><p>Swift Code&#58; ICBKCNBJBJM </p><p>How do I pay by IATA Clearing House?<br></p><p> ​Please find your details on the
-<a href="/services/finance/clearinghouse/Documents/ich-members-list.pdf" target="_blank">IATA Clearing House Members List</a> (pdf) </p><p>Note&#58; IATA does not accept payments for courses held at a Regional Training Partner (RTP) location. Please contact the partner for payment details.<br></p></div><p class="question"><a name="faq" id="faq" href="/Pages/hbp-program-faq.aspx"><strong>Where do I send payment for a course held at a Regional Training Partner (RTP) location? </strong></a>
+<a href="https://www.iata.org/services/finance/clearinghouse/Documents/ich-members-list.pdf" target="_blank">IATA Clearing House Members List</a> (pdf) </p><p>Note&#58; IATA does not accept payments for courses held at a Regional Training Partner (RTP) location. Please contact the partner for payment details.<br></p></div><p class="question"><a name="faq" id="faq" href="/Pages/hbp-program-faq.aspx"><strong>Where do I send payment for a course held at a Regional Training Partner (RTP) location? </strong></a>
 <br></p><div class="answer offs"><p>Payment for courses held at a Regional Training Partner (RTP) locations must be made directly to the partner. You can find RTP contact information
 <a href="/training/Pages/regional_training_centres.aspx">on our website</a> or in the Prices &amp; Registration information located on course pages.
 <br></p>
@@ -453,13 +453,13 @@ Classroom Training | Frequently Asked Questions
 <a name="faq" id="faq" href="/Pages/hbp-program-faq.aspx">
 <strong>Do IATA courses have pre-requisites? How will I know if I am prepared to register? </strong></a>
 <br></p><div class="answer offs"><p>All IATA courses require participants to read, write and communicate in the language of instruction. The recommended level of language proficiency is
-<a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf" target="_blank">ICAO Operational Level 4</a> for courses in English or equivalent for other languages. Additional pre-requisites are listed within individual course descriptions on our website. </p>
+<a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf" target="_blank">ICAO Operational Level 4</a> for courses in English or equivalent for other languages. Additional pre-requisites are listed within individual course descriptions on our website. </p>
 <br>
 </div><p class="question">
 <a name="faq" id="faq" href="/Pages/hbp-program-faq.aspx">
 <strong>How will my grade be calculated? </strong></a>
 <br></p><div class="answer offs"><p>IATA has a
-<a href="/training/Documents/IATA-Training-Grading-Policy.pdf" target="_blank">Grading Policy</a> that describes the grading elements, grading scales, attendance, participation and grading criteria for student work.
+<a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf" target="_blank">Grading Policy</a> that describes the grading elements, grading scales, attendance, participation and grading criteria for student work.
 <br></p>
 <br>
 </div><p class="question">
@@ -477,7 +477,7 @@ Classroom Training | Frequently Asked Questions
 <a name="faq" id="faq" href="/Pages/hbp-program-faq.aspx">
 <strong>Does IATA have a moral code or ethical policy? </strong></a>
 <br></p><div class="answer offs"><p>Yes, the
-<a href="/training/Documents/IATA-Training-Academic-Integrity-Policy.pdf" target="_blank">IATA Academic Integrity policy</a> defines the principles of academic integrity, the behaviors that are contrary to these principles and the procedures for dealing with violations. </p>
+<a href="https://www.iata.org/training/Documents/IATA-Training-Academic-Integrity-Policy.pdf" target="_blank">IATA Academic Integrity policy</a> defines the principles of academic integrity, the behaviors that are contrary to these principles and the procedures for dealing with violations. </p>
 <br>
 </div><p class="question">
 <a name="faq" id="faq" href="/Pages/hbp-program-faq.aspx">

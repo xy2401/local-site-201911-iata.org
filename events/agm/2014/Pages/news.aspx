@@ -369,7 +369,7 @@ AGM News Room
 <h2><a href="https&#58;//www.flickr.com/photos/iataorg/sets/72157644543090978/" target="_blank"><img alt="IATA AGM 2014 Doha" src="https&#58;//farm3.staticflickr.com/2914/14339691463_66e149b907_q.jpg" border="0" style="border&#58;0px solid currentcolor;" /></a></h2>
 <h2>Other material</h2>
 <ul>
-<li><a href="/events/agm/2014/Documents/agm-2014-media-program.pdf" target="_blank">AGM media program</a> (pdf)</li>
+<li><a href="https://www.iata.org/events/agm/2014/Documents/agm-2014-media-program.pdf" target="_blank">AGM media program</a> (pdf)</li>
 <li><a href="/publications/Pages/annual-review.aspx">Annual Review 2014</a></li>
 <li><a href="/pressroom/facts_figures/fact_sheets/Pages/index.aspx">Fact sheets</a></li>
 </ul><p>&#160;</p></td></tr></tbody></table><p>&#160;</p>

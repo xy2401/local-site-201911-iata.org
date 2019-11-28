@@ -354,7 +354,7 @@ Newsroom
 <a href="/pressroom/facts_figures/fact_sheets/Pages/index.aspx">Fact sheets</a></li><li>
 <a href="/pressroom/Pages/ceo-biography.aspx">CEO biography</a></li><li>
 <a href="/events/agm/2012/Pages/videos.aspx">Videos -&#160;HD quality</a></li><li>
-<a href="/about/Documents/annual-review-2012.pdf" target="_blank">2012 Annual Review</a> (pdf)&#160;</li></ul><h3>High resolution photos</h3>
+<a href="https://www.iata.org/about/Documents/annual-review-2012.pdf" target="_blank">2012 Annual Review</a> (pdf)&#160;</li></ul><h3>High resolution photos</h3>
 <a href="http&#58;//www.flickr.com/photos/iataorg/sets/72157630023143269/" target="_blank"> Photo gallery </a>
 <h3>
 <a href="http&#58;//www.flickr.com/photos/iataorg/sets/72157630023143269/" target="_blank"></a>Twitter&#58;

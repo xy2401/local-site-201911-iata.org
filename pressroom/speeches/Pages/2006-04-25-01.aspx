@@ -429,7 +429,7 @@ Environment Summit
 <p>I wish you a productive two days of discussion.</p>
 <p>
 <br>View Event Literature -
-<a href="/pressroom/Documents/Debunking-Myths.pdf">Debunking Some Persistent Myths about Air Transport and the Environment</a></p>Environment Summit - Remarks by Giovanni Bisignani
+<a href="https://www.iata.org/pressroom/Documents/Debunking-Myths.pdf">Debunking Some Persistent Myths about Air Transport and the Environment</a></p>Environment Summit - Remarks by Giovanni Bisignani
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
 </ie:menuitem>

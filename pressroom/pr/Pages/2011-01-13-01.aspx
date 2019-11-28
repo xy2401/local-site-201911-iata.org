@@ -424,7 +424,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/French-PR-2011-01-13-01.pdf" target="_blank">French</a> (pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2011-01-13-01.pdf" target="_blank">French</a> (pdf)</li></ul>
 <p><a href="/pressroom/pr/PublishingImages/IATA-Stanford-University-Launch2.jpg" target="_blank"><img alt="IATA-Stanford-University-Launch" src="/pressroom/pr/PublishingImages/IATA-Stanford-University-Launch-thumb1.jpg" border="0" style="border-width&#58;0px;border-style&#58;solid;border-color&#58;initial;" /></a> Left to right&#160;- Dr. Andy Di Paolo (Stanford University), Guido Gianasso (IATA) <br><br><a href="/pressroom/pr/PublishingImages/IATA-Stanford-University-Launch1.jpg" target="_blank"><img alt="IATA-Stanford-University-Launch" src="/pressroom/pr/PublishingImages/IATA-Stanford-University-Launch-thumb2.jpg" border="0" style="border-width&#58;0px;border-style&#58;solid;border-color&#58;initial;" /></a> Left to right - Constantine Hatzigeorgiou (IATA), Paul Marca (Stanford), Carissa Little (Stanford), Mitch Fox (ICAO), Dr. Andy Di Paolo (Stanford), Guido Gianasso (IATA), Ismail Albaidhani (IATA)</p>
 <p>&#160;</p></div>
 </div>

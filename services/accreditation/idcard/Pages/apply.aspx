@@ -347,9 +347,9 @@ Steps to become a cardholder
 <strong>2. Proof of Employment (provide one of the following accepted documents)</strong>
 <ul><li>Official letter of employment with your full name, company name, hours of work per week, dated &amp; signed by your reporting manager.</li><li>Official pay slip (payment/commission record) with your full name, company name, and date.<br></li></ul><p>Documents must be in PDF format and dated <span>no longer than 3-month from the date of application</span>.</p><div>For a change of name on the existing card, please also provide one of the following accepted documents</div><ul><li>Marriage certificate</li><li>Passport<br></li><li>Driver's license</li><li>National Identify Card</li></ul><p>
 <strong>Warning</strong>&#58; False declaration will lead to the cancellation and blacklisting of the ID Card.</p><h2 class="iataElement-Title2">Accepted methods of payment<br></h2><p>The price of the ID Card may range between USD 30.00 and USD 70.00 depending on the class of Agency you work for (additional courier fees may apply). All fees, as listed in the application, are non-refundable. Payment must be made in ID Card Platform using either&#58;</p><ul><li>Visa</li><li>Mastercard</li><li>American Express</li></ul><h2 class="iataElement-Title2">ID Card Holder Agreement<br></h2><ul><li>
-<a href="/services/accreditation/idcard/Documents/2016-05-IATA-IATAN-IDC-Cardholder-Agreement-EN.pdf" target="_blank">IATA/IATAN Card Holder Agreement- English</a> (pdf)</li><li>
-<a href="/services/accreditation/idcard/Documents/2016-05-IATA-IATAN-IDC-Cardholder-Agreement-FR.pdf" target="_blank">IATA/IATAN Card Holder Agreement - French</a> (pdf)</li><li>
-<a href="/services/accreditation/idcard/Documents/2016-05-IATA-IATAN-IDC-Cardholder-Agreement-SP.pdf" target="_blank">IATA/IATAN Card Holder Agreement - Spanish </a> (pdf)<br></li></ul>
+<a href="https://www.iata.org/services/accreditation/idcard/Documents/2016-05-IATA-IATAN-IDC-Cardholder-Agreement-EN.pdf" target="_blank">IATA/IATAN Card Holder Agreement- English</a> (pdf)</li><li>
+<a href="https://www.iata.org/services/accreditation/idcard/Documents/2016-05-IATA-IATAN-IDC-Cardholder-Agreement-FR.pdf" target="_blank">IATA/IATAN Card Holder Agreement - French</a> (pdf)</li><li>
+<a href="https://www.iata.org/services/accreditation/idcard/Documents/2016-05-IATA-IATAN-IDC-Cardholder-Agreement-SP.pdf" target="_blank">IATA/IATAN Card Holder Agreement - Spanish </a> (pdf)<br></li></ul>
 <br>
 <div class="ms-webpart-zone ms-fullWidth">
 <div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
@@ -453,7 +453,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <a href="/services/accreditation/idcard/Pages/faq.aspx" target="_blank">Frequently Asked Questions​</a></p><p>
 <a title="AgentExperience" href="http&#58;//iata.konnect.travel/NAE/Home/Index" target="_blank">AgentExperience</a></p><p>
 <a href="https&#58;//www.checkacode.com/" target="_blank">CheckACode&#58; Validate your ID Card</a></p><p><a href="/publications/travel-tourism-times/Pages/index.aspx" target="_blank">Travel &amp; Tourism Times (blog)</a><br></p><p>
-<a href="https&#58;//www.facebook.com/iata.idcard/" target="_blank"><img alt="Facebook" src="/PublishingImages/facebook.png" /></a><a href="https&#58;//www.facebook.com/iata.idcard/" target="_blank"> </a><br></p><a href="/services/accreditation/idcard/Documents/2019-07-IDC-AEX-Info-Flash.pdf" target="_blank"></a></span><p><br></p></div>
+<a href="https&#58;//www.facebook.com/iata.idcard/" target="_blank"><img alt="Facebook" src="/PublishingImages/facebook.png" /></a><a href="https&#58;//www.facebook.com/iata.idcard/" target="_blank"> </a><br></p><a href="https://www.iata.org/services/accreditation/idcard/Documents/2019-07-IDC-AEX-Info-Flash.pdf" target="_blank"></a></span><p><br></p></div>
 </div>
 <div class='hide_element_86841924-8b6c-4cff-820d-d9df5bd76317'></div><script type='text/javascript'>CTP.IATA.HideChrome('86841924-8b6c-4cff-820d-d9df5bd76317')</script>
 <div class='crossLinksExploreMore'>

@@ -356,7 +356,7 @@ Cargo Customs Working Group
 <p>The CCWG&#160;consists of a maximum of&#160;12&#160;members appointed by the Cargo Services Conference for a two-year term. There can&#160;be a maximum of 10 airline representatives and 2&#160;representatives from other associations.</p>
 <p>The current CCWG Chair is Mr. Axel Klein (Lufthansa) and the Vice-Chair is Ms. Elizabeth Merritt (Airlines for America, A4A).</p>
 <ul>
-<li><a href="/whatwedo/workgroups/Documents/ccwg-terms-of-reference.pdf" target="_blank">CCWG&#160;Terms of Reference</a> (pdf)</li></ul>
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/ccwg-terms-of-reference.pdf" target="_blank">CCWG&#160;Terms of Reference</a> (pdf)</li></ul>
 <h3 class="iataElement-Title3">Meetings</h3>
 <p>The group has at least one&#160;scheduled face-to-face meeting in a year. Interim meetings are held mostly&#160;by teleconference.</p>
 <h3 class="iataElement-Title3">Contact</h3>

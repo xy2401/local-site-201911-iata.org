@@ -364,11 +364,11 @@ Ground Handling and Cargo Consulting
 <li>Tender Procedures</li></ul><p>Learn more about <a href="http&#58;//iata.org/services/consulting/ground-and-cargo/Pages/cargo-air-service-development.aspx">Cargo Air Service Development</a></p>
 <h2 class="iataElement-Title2">
 Downloads and Related Services</h2>
-<ul><li><a href="/services/consulting/Documents/cons-apcs-ground-cargo-presentation.pdf" target="_blank">Overview of Ground Handling and Cargo Services</a>&#160;(pdf)</li>
-<li><a href="/services/consulting/Documents/cons-apcs-cargo-solutions-brochure.pdf" target="_blank">IATA Cargo Solutions</a>&#160;(pdf)</li>
+<ul><li><a href="https://www.iata.org/services/consulting/Documents/cons-apcs-ground-cargo-presentation.pdf" target="_blank">Overview of Ground Handling and Cargo Services</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/services/consulting/Documents/cons-apcs-cargo-solutions-brochure.pdf" target="_blank">IATA Cargo Solutions</a>&#160;(pdf)</li>
 <li><a href="http&#58;//go.updates.iata.org/cargo-air-serv-devpt" target="_blank">Cargo Air Service Development​ </a>(pdf)</li>
-<li><a href="/services/consulting/Documents/cons-apcs-gh-safety-flyer.pdf" target="_blank">Ground Handling Safety</a> (pdf)</li>
-<li><a href="/services/consulting/Documents/cons-apcs-gh-productivity-flyer.pdf" target="_blank">Ground Handling&#160;Productivity&#160;​</a>(pdf)</li>
+<li><a href="https://www.iata.org/services/consulting/Documents/cons-apcs-gh-safety-flyer.pdf" target="_blank">Ground Handling Safety</a> (pdf)</li>
+<li><a href="https://www.iata.org/services/consulting/Documents/cons-apcs-gh-productivity-flyer.pdf" target="_blank">Ground Handling&#160;Productivity&#160;​</a>(pdf)</li>
 <li><a href="/whatwedo/cargo/pharma/Pages/ceiv-pharma.aspx" target="_blank">CEIV Pharma</a></li>
 <li><a href="/whatwedo/ops-infra/baggage/Pages/index.aspx">Baggage Services</a>&#160;</li></ul>
 <h2 class="iataElement-Title2">More Information</h2>

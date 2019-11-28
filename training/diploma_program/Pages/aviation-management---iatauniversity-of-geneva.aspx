@@ -551,7 +551,7 @@ What will you learn
 <p>
 <p>The Advanced Studies in Aviation Management program will meet four times per year in Geneva. The total cost for the program (12 modules) is USD18,000. You can also validate previously taken IATA courses toward this University of Geneva certified diploma. <a href="/training/courses/Pages/unige-program-conditions.aspx">Conditions apply</a>. </p>
 <p>The Advanced Studies in Aviation Management diploma can be validated as the second year of the <a href="http&#58;//www.emba.unige.ch/index.php/en/">University of Geneva Executive MBA</a></p>
-<p>All candidates must <a href="/training/diploma_program/Documents/iata-unige-aviation-management-registration-form.pdf">complete a formal application</a>
+<p>All candidates must <a href="https://www.iata.org/training/diploma_program/Documents/iata-unige-aviation-management-registration-form.pdf">complete a formal application</a>
 <p>Requirements for this program&#58;</p>
 <ul><li>Three (3) years of relevant professional experience</li>
 <li>Strong command of both written and spoken English</li>

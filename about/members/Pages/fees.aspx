@@ -427,7 +427,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 Membership Benefits
 </h2>
 <div class="hbContent">
-<p>​<a href="/about/members/Documents/IATA-membership-benefits.pdf" target="_blank">View more details on IATA membership benefits</a> (pdf)<br></p>
+<p>​<a href="https://www.iata.org/about/members/Documents/IATA-membership-benefits.pdf" target="_blank">View more details on IATA membership benefits</a> (pdf)<br></p>
 </div>
 </div>
 </a>

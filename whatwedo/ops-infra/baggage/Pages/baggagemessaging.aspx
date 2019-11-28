@@ -454,7 +454,7 @@ IATA will use this information to contact you about IATA events, workshops, and 
 <br>
 </p></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4" class="ajax__tab_panel" style="display:none;"> 
-<div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4_DisplayIATATabContent4_label" style='display:none'>IATATabContent4</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4_DisplayIATATabContent4__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4_DisplayIATATabContent4_label"><p><a href="/whatwedo/ops-infra/baggage/Documents/modern-baggage-messaging-road-map.pdf" target="_blank"><img src="/whatwedo/ops-infra/baggage/PublishingImages/ROADMAP.jpg" alt="" style="margin&#58;5px;width&#58;654px;" /></a><br></p></div>
+<div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4_DisplayIATATabContent4_label" style='display:none'>IATATabContent4</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4_DisplayIATATabContent4__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4_DisplayIATATabContent4_label"><p><a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/modern-baggage-messaging-road-map.pdf" target="_blank"><img src="/whatwedo/ops-infra/baggage/PublishingImages/ROADMAP.jpg" alt="" style="margin&#58;5px;width&#58;654px;" /></a><br></p></div>
 </div>
 </div>
 </div>
@@ -540,7 +540,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>
-<a href="/whatwedo/ops-infra/baggage/Documents/RFID_XML_infographic_June2019.pdf" target="_blank">The 2 essentials for baggage tracking</a> (pdf)<br></p><p>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/RFID_XML_infographic_June2019.pdf" target="_blank">The 2 essentials for baggage tracking</a> (pdf)<br></p><p>
 <a href="/whatwedo/workgroups/Pages/bwg.aspx">Baggage Working Group</a><br></p><p>
 <a href="/whatwedo/workgroups/Pages/calendar.aspx">IATA Working Groups Calendar</a></p><p>
 <a href="https&#58;//www.linkedin.com/groups/1773390" target="_blank">Airport Operations LinkedIn Group</a></p><div class="newst"><div><h2>Private Site</h2></div></div>

@@ -349,11 +349,11 @@ exitosas de Servicio al Cliente de Aerolíneas, y la importancia de estos elemen
 valor estratégico más amplia en el negocio de las aerolíneas</p><p> Este curso está disponible en <a> Centros de Formación IATA y Ubicaciones de Formación Regional de Socios</a>, y por encargo como <a> formación en empresa</a> </p>
 <h3>Formato de curso</h3><ul>
 <li>Este curso presencial proporciona 3 días (24 horas) de instrucción por un Instructor oficial de IATA</li>
-<li> El rendimiento del estudiante se basará en una <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">evaluación</a></li>
+<li> El rendimiento del estudiante se basará en una <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">evaluación</a></li>
 </ul> <h3>Prerequisitos</h3><ul>
 <li>No hay prerequisitos para este curso</li>
 <li> El nivel recomendado es Principiante y Intermedio</li>
-<li> El nivel recomendado de competencia lingüística es <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf"> ICAO Nivel 4 operativo</a> para cursos en inglés o equivalente para otros idiomas.</li>
+<li> El nivel recomendado de competencia lingüística es <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf"> ICAO Nivel 4 operativo</a> para cursos en inglés o equivalente para otros idiomas.</li>
 </ul>
 </span></span>
 <h3></h3>

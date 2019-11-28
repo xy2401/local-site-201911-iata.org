@@ -428,8 +428,8 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/press-release-29-2013-french.pdf" target="_blank">French</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/press-release-29-2013-spanish.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-29-2013-french.pdf" target="_blank">French</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-29-2013-spanish.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul>
 <div id="__publishingReusableFragmentIdSection"><a href="/ReusableContent/39_.000">a</a></div>
 </div>
 </div>

@@ -340,7 +340,7 @@ ISAGO Airlines
 <span>ISAGO Audit Reports are shared with airlines that pay an annual subscription or purchase &#160;an individual report. The airlines receive the audit reports in the knowledge that the ground service provider has been audited at its headquarters and specified stations by CoPA members and against the most detailed and stringent industry developed standards. The subscribing airlines and their payments contribute to the development of the ISAGO program and the ISAGO Standards and Recommended Practices to ensure that they remain relevant and up to date.</span></p><p align="left">
 <span>The ISAGO Audit Reports provide the airlines with valuable information to supplement their oversight and safety management initiatives, and also serve to reduce the number of duplicating audits performed by the airline. ISAGO Audit Reports provide airlines with safety as well as cost benefits.</span></p><p>If your airline is interested in ISAGO, contact us at
 <a href="mailto&#58;isago@iata.org">isago@iata.org</a> and see our
-<a href="/whatwedo/safety/audit/isago/Documents/isago-for-airlines.pdf">brochure</a>&#160;for more information.</p><p>The following airlines are recognized for their contribution to the ISAGO program.<br></p>
+<a href="https://www.iata.org/whatwedo/safety/audit/isago/Documents/isago-for-airlines.pdf">brochure</a>&#160;for more information.</p><p>The following airlines are recognized for their contribution to the ISAGO program.<br></p>
 <span><span>
 <div class="sponsorsContent">
 <br>

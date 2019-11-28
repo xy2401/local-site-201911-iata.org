@@ -347,11 +347,11 @@ Cargo Skills and Procedures (Classroom, 5 days)
 <p>Do you want to become an air cargo expert and understand the operational framework and processes to ship cargo by air? Air cargo transportation is all about ensuring critical supply chains are not disrupted, meanwhile guaranteeing the transportation is conducted in a safe and profitable way. At the same time the applicable laws and regulations need to be respected.Over five days you will greatly enhance your knowledge on the complex methods and procedures applied in the global air cargo industry. You will acquire solid cargo knowledge, helping you and your company to face the challenges of your highly competitive working environment.</p><iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/XQVQV7fverc" frameborder="0"></iframe><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li>
 <li>Recommended level is Entry-level and Intermediate</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

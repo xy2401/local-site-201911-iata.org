@@ -339,7 +339,7 @@ Future of the Airline Industry 2035
 </div>
 <span>
 <div class="zHighlight"><div class="zHighlightBox"><h2>Download the full report<br></h2><p>Read the full report for free&#58;
-<a href="/policy/Documents/iata-future-airline-industry-pdf.pdf" target="_blank">Future of the Airline Industry 2035</a> (pdf)</p></div></div>
+<a href="https://www.iata.org/policy/Documents/iata-future-airline-industry-pdf.pdf" target="_blank">Future of the Airline Industry 2035</a> (pdf)</p></div></div>
 <p> ​​​​​​​​​</p></span><h3>Starting conversations today about the needs of tomorrow</h3><p>A&#160;<a href="/policy/smarter-regulation/pages/index.aspx">smarter regulation</a>&#160;framework for aviation won’t happen overnight and this&#160;study will help us to start&#160;conversations today about what we will need in 10 and 20 years’ time.</p><p>
 <span>The study is&#160;especially relevant to the following aviation stakeholders&#58;</span></p><ul><li>
 <strong>Airlines<span>&#160;</span></strong><span>in planning for future technological, product and&#160;market development</span></li><li>

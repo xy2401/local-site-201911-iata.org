@@ -343,8 +343,8 @@ Healthy Passenger Demand Continues in 2018 with Another Record Load Factor
 </div>
 <p>
 <strong>Translations&#58;</strong></p><p>
-<b><a href="/pressroom/pr/Documents/2019-01-07-01-sp.pdf" target="_blank">Otro año más de crecimiento saludable en el sector aéreo de pasajeros para 2018. Niveles récord del factor de ocupación</a> (pdf)</b></p><p>
-<a href="/pressroom/pr/Documents/2019-01-07-01-fr.pdf" target="_blank">Le fort trafic de passagers se maintient en 2018. Nouveau record du coefficient d’occupation des sièges</a> (pdf)</p><p><a href="/pressroom/pr/Documents/2019-02-07-01-cn.pdf" target="_blank">国际航协：2018 年全球航空客运需求同比增长 6.5%</a> (pdf)<br></p><p>
+<b><a href="https://www.iata.org/pressroom/pr/Documents/2019-01-07-01-sp.pdf" target="_blank">Otro año más de crecimiento saludable en el sector aéreo de pasajeros para 2018. Niveles récord del factor de ocupación</a> (pdf)</b></p><p>
+<a href="https://www.iata.org/pressroom/pr/Documents/2019-01-07-01-fr.pdf" target="_blank">Le fort trafic de passagers se maintient en 2018. Nouveau record du coefficient d’occupation des sièges</a> (pdf)</p><p><a href="/pressroom/pr/Documents/2019-02-07-01-cn.pdf" target="_blank">国际航协：2018 年全球航空客运需求同比增长 6.5%</a> (pdf)<br></p><p>
 <strong>Geneva</strong> – The International Air Transport Association (IATA) announced global passenger traffic results for 2018 showing that demand (revenue passenger kilometers or RPKs) rose by a healthy 6.5% compared to full-year 2017. Although this represented a slowdown compared to the 2017 annual growth of 8.0%, it was another year of above-trend growth. Full year 2018 capacity climbed 6.1%, and load factor edged up 0.3 percentage point to a record 81.9%, exceeding the previous high set in 2017.
 <br></p><p>December RPKs rose 5.3% against the same month in 2017, the slowest year-over-year pace since January 2018 and a continuation of the trend that saw demand growth decelerate to an annualized rate of 5% over the course of the 2018 second half compared to a 9% pace in the first half. </p><p>“2018 was another year of strong passenger demand, as aviation continued to support the global economy. We expect similar, if somewhat moderating performance in 2019. Nevertheless, slowing growth in the second half of 2018, coupled with concerns over issues including Brexit and US-China trade tensions, are creating some uncertainty to this positive outlook,” said Alexandre de Juniac, IATA’s Director General and CEO. &#160;</p>
 <span>
@@ -374,7 +374,7 @@ Healthy Passenger Demand Continues in 2018 with Another Record Load Factor
 <p>
 <br>
 </p><ul><li>India’s domestic market posted the fastest full-year domestic growth rate for the fourth consecutive year, with an 18.6% annual demand increase. Domestic demand is underpinned by robust economic expansion and increasing numbers of city pairs.<br></li><li>Australia represented the opposite picture, as annual traffic rose just 1.4%, although this was a slight increase over the rate of 2017.</li></ul><h3 class="iataElement-Title3">The Bottom Line&#58; </h3><p>&#160;</p><p>“Aviation continued to demonstrate why it is the Business of Freedom in 2018. We safely transported more than 4.3 billion passengers. These people used air connectivity to conduct trade and business, reunite with friends and loved ones, explore the world, and, in some cases even to begin new lives. Aviation makes the modern world possible, but we depend on borders that are open to people and trade to be effective. In 2019, we will be strong advocates against a rising tide of protectionism and trade conflict, so that the Business of Freedom can continue to do its part to make the world a more prosperous and happier place,” said de Juniac.<br></p><p>View
-<a href="/publications/economics/Reports/pax-monthly-analysis/passenger-analysis-dec-2018.pdf" target="_blank">December passenger traffic results</a> (pdf)</p>
+<a href="https://www.iata.org/publications/economics/Reports/pax-monthly-analysis/passenger-analysis-dec-2018.pdf" target="_blank">December passenger traffic results</a> (pdf)</p>
 <span>
 <div class="video-container">​<iframe width="540" height="304" src="https&#58;//www.youtube.com/embed/Sr2sbckSaXI?wmode=transparent" frameborder="0"></iframe>&#160;</div></span>
 <p>
@@ -459,7 +459,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

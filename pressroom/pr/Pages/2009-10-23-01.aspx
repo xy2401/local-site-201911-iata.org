@@ -413,7 +413,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/Documents/Chinese_PR_2009_10_23_01.pdf" target="_blank">Chinese </a>(pdf) </li></ul>
+<li><a href="https://www.iata.org/pressroom/Documents/Chinese_PR_2009_10_23_01.pdf" target="_blank">Chinese </a>(pdf) </li></ul>
 </div>
 </div>
 <div class='hide_element_aa7560bc-2cbe-4eb8-acb5-da7c5c79dd85'></div><script type='text/javascript'>CTP.IATA.HideChrome('aa7560bc-2cbe-4eb8-acb5-da7c5c79dd85')</script>

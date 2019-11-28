@@ -357,7 +357,7 @@ News Brief: IATA Launches iFlex Program to Shorten Routes
 <li>Improving average annual fuel efficiency by 1.5% to 2020 </li>
 <li>Stabilizing emissions with carbon-neutral growth from 2020 </li>
 <li>An aspirational goal to cut net emissions in half by 2050, compared to 2005 </li></ul>
-<li><a href="/pressroom/pr/Documents/iFlex-Program-Executive-Summary.pdf" target="_blank">More information on iFlex Program</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/iFlex-Program-Executive-Summary.pdf" target="_blank">More information on iFlex Program</a> (pdf)</li>
 <li>We have launched a Twitter account specially catered for the media. Follow us now at <a href="http&#58;//twitter.com/iata2press">http&#58;//twitter.com/iata2press</a>&#160;for the latest industry updates.&#160;</li></ul>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
@@ -427,7 +427,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newstg">
-<div><a href="/pressroom/pr/Documents/iFlex-Program-Executive-Summary.pdf" target="_blank">More information on iFlex Program</a> (pdf)</div></div><br></div>
+<div><a href="https://www.iata.org/pressroom/pr/Documents/iFlex-Program-Executive-Summary.pdf" target="_blank">More information on iFlex Program</a> (pdf)</div></div><br></div>
 </div>
 <div class='hide_element_d0a6270d-30d5-4c6f-bac6-dde4fccdb126'></div><script type='text/javascript'>CTP.IATA.HideChrome('d0a6270d-30d5-4c6f-bac6-dde4fccdb126')</script>
 <div class='hide_element_4b416b9e-7b95-4e54-96f5-b6c93d0ab3fd'></div><script type='text/javascript'>CTP.IATA.HideChrome('4b416b9e-7b95-4e54-96f5-b6c93d0ab3fd')</script>

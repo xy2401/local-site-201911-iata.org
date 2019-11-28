@@ -346,11 +346,11 @@ Cost Reduction Strategies for Air Navigation Service Providers (ANSPs) (Classroo
 </div>
 <p>Profit from the best practices of international leaders in Air Navigation Service (ANS) Provision to reduce your costs and improve your operating results without comprising your safety performance. Find the right balance between meeting customer expectations, regulatory obligations, charging for services and improving service quality and cost-effectiveness.</p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
-<li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li><li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li><li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>Participants should have prior knowledge of the general functions and financial structure of an ANSP</li>
 <li>Recommended level is Management and Professional</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li></ul>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li></ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>
 <div id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_panTitle">

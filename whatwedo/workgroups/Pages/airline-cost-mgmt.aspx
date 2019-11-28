@@ -346,16 +346,16 @@ Airline Cost Management Group (ACMG)
 <strong>52 Participant airlines</strong>, who provided their complete cost and operational data.</li><li>Subsequently, several Specialized Benchmark Reports were prepared exclusively upon airlines' requests. Please
 <a href="mailto&#58;acmg@iata.org">contact us</a>&#160;for more information.</li></ul><p>
 <a href="/whatwedo/workgroups/Documents/ACMG/acmg-data-toolset.xlsm" target="_blank">ACMG Data Toolset FY2018</a>&#160;(xlsm)</p><p>
-<a href="/whatwedo/workgroups/Documents/ACMG/acmg-instructions-manual.pdf" target="_blank">ACMG Instructions Manual FY2018</a>&#160;(pdf)</p><p>
-<a href="/whatwedo/workgroups/Documents/ACMG/acmg-vision-brochure.pdf" target="_blank">ACMG New Vision Brochure</a> (pdf)<br></p><div class="video-container">
+<a href="https://www.iata.org/whatwedo/workgroups/Documents/ACMG/acmg-instructions-manual.pdf" target="_blank">ACMG Instructions Manual FY2018</a>&#160;(pdf)</p><p>
+<a href="https://www.iata.org/whatwedo/workgroups/Documents/ACMG/acmg-vision-brochure.pdf" target="_blank">ACMG New Vision Brochure</a> (pdf)<br></p><div class="video-container">
 <iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/zj87tlAfrHM" frameborder="0"></iframe>160;</div><h3 class="iataElement-Title3">Activities</h3><div class="pseudoTable"><div class="row"><div class="cell col1_2"><ul><li>
 <span aria-hidden="true"></span>Share best practices for effective cost management to achieve profitability and foster sustainable airlines</li><li>Provide&#160;ACMG Members with an annual report analyzing major cost drivers and identifying&#160;industry trends for all aircraft&#160;operation areas&#160;(flight,&#160;ground, maintenance, system)</li><li>Support industry efforts to better&#160;understand cost drivers &amp; trends, manage&#160;operational costs, and achieve operational efficiencies</li></ul></div><div class="cell col1_2"><ul><li>
 <span aria-hidden="true">Refine and standardize definitions and methods from a management accounting perspective</span></li><li>Build a unique global airline costs database</li><li>Increase&#160;the number of participating airlines to ensure greater data diversity and accurate&#160;analysis/benchmarking</li><li>Collaborate with members to define and implement operational cost management strategies&#160;</li></ul></div></div></div> ​​​​
 <h3 class="iataElement-Title3">Membership</h3><ul><li>Membership to the&#160;ACMG is open to all airlines, including cargo, charter and low cost carriers&#160;</li></ul><h3 class="iataElement-Title3">Benefits for the airlines</h3><ul><li>ACMG&#160;is a unique opportunity for the airlines to exchange cost related industry experience, relevant trend information, new developments, and best practices, as well as an opportunity to network with their cost management counterparts in all airline operations areas</li><li>Participants will receive&#160;an annual&#160;ACMG Report (free of charge) highlighting industry trends, providing benchmark cost information, and enabling airlines to compare their performances with the industry and peer group airlines</li><li>Maintaining the confidentiality of all the data is guaranteed. All the data submitted to IATA is de-identified or published as aggregated information</li><li>
 <strong>Specialized regional reports available upon request</strong>&#160;</li></ul><h3 class="iataElement-Title3">Steering Committee (SC)</h3><ul><li>ACMG is run by its SC (airlines and&#160;IATA)</li><li>Up to 15 airlines can have seats on the SC, including Chairman and Vice Chairman</li></ul><p>
-<a href="/whatwedo/workgroups/Documents/ACMG/ACMG_SC_NominationForm.pdf" target="_blank">Sign up to become&#160;a Steering Committee Member</a>&#160;(pdf) or contact
+<a href="https://www.iata.org/whatwedo/workgroups/Documents/ACMG/ACMG_SC_NominationForm.pdf" target="_blank">Sign up to become&#160;a Steering Committee Member</a>&#160;(pdf) or contact
 <a href="mailto&#58;acmg@iata.org">acmg@iata.org</a>&#160;</p><p>Get more information about
-<a href="/whatwedo/workgroups/Documents/ACMG/ACMG_Flyer_FY2014_2015.pdf" target="_blank">ACMG</a>&#160;(pdf). </p>
+<a href="https://www.iata.org/whatwedo/workgroups/Documents/ACMG/ACMG_Flyer_FY2014_2015.pdf" target="_blank">ACMG</a>&#160;(pdf). </p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"><p><strong></strong>&#160;</p>
 <p><a href="https&#58;//www.linkedin.com/grp/home?gid=8347911" target="_blank"></a>&#160;</p></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
@@ -460,11 +460,11 @@ Follow us
 <a href="http&#58;//extranet2.iata.org/sites/acmg/default.aspx" target="_blank">Login (External Users)</a><br>
 <a href="http&#58;//www2.iata.org/registration/getemailpage.aspx?siteurl=acmg" target="_blank">Registration (External Users only)</a><br>
 <a title="Reset Password" href="https&#58;//extranet.iata.org/registration/pages/forgotpassword.aspx">Reset Password</a></p><p>
-<strong>More on ACMG</strong> <br><a href="/whatwedo/workgroups/Documents/ACMG/acmg-vision-brochure.pdf" target="_blank">ACMG New Vision Brochure</a> (pdf)<br>
-<a title="ACMG Highlights" href="/whatwedo/workgroups/Documents/ACMG/ACMG_Highlights.pdf" target="_blank">ACMG Highlights </a>(pdf)&#160;<br>
-<a title="ACMG Terms of Reference" href="/whatwedo/workgroups/Documents/ACMG/ToR_ACMG_2015.pdf" target="_blank">Terms of Reference </a>(pdf)<br>
-<a title="Steering Committee Nomination Form" href="/whatwedo/workgroups/Documents/ACMG/ACMG_SC_NominationForm.pdf" target="_blank">Steering Committee Nomination Form </a>(pdf)<br>
-<a title="ACMG Flyer" href="/whatwedo/workgroups/Documents/ACMG/ACMG_Flyer_FY2014_2015.pdf" target="_blank">ACMG Flyer </a>(pdf)</p><p>
+<strong>More on ACMG</strong> <br><a href="https://www.iata.org/whatwedo/workgroups/Documents/ACMG/acmg-vision-brochure.pdf" target="_blank">ACMG New Vision Brochure</a> (pdf)<br>
+<a title="ACMG Highlights" href="https://www.iata.org/whatwedo/workgroups/Documents/ACMG/ACMG_Highlights.pdf" target="_blank">ACMG Highlights </a>(pdf)&#160;<br>
+<a title="ACMG Terms of Reference" href="https://www.iata.org/whatwedo/workgroups/Documents/ACMG/ToR_ACMG_2015.pdf" target="_blank">Terms of Reference </a>(pdf)<br>
+<a title="Steering Committee Nomination Form" href="https://www.iata.org/whatwedo/workgroups/Documents/ACMG/ACMG_SC_NominationForm.pdf" target="_blank">Steering Committee Nomination Form </a>(pdf)<br>
+<a title="ACMG Flyer" href="https://www.iata.org/whatwedo/workgroups/Documents/ACMG/ACMG_Flyer_FY2014_2015.pdf" target="_blank">ACMG Flyer </a>(pdf)</p><p>
 <strong>Related Groups</strong><br>
 <a href="/whatwedo/workgroups/Pages/mctg.aspx">Maintenance Cost Technical Group</a><br>
 <a href="/whatwedo/workgroups/Pages/aircraft-leasing.aspx">Aircraft Leasing Technical Group</a></p></div>

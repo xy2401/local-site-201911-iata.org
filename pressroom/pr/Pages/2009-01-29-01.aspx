@@ -458,25 +458,25 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <ul>
 <li>
-<a href="/pressroom/Documents/Arabic_PR%204_2009-01-29-01.pdf" target="_blank">Arabic</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/Arabic_PR%204_2009-01-29-01.pdf" target="_blank">Arabic</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Chinese_PR%204_2009-01-29-01.pdf" target="_blank">Chinese</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/Chinese_PR%204_2009-01-29-01.pdf" target="_blank">Chinese</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/French_PR%204_2009-01-29-01.pdf" target="_blank">French</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/French_PR%204_2009-01-29-01.pdf" target="_blank">French</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/German_PR%204_2009-01-29-01.pdf" target="_blank">German</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/German_PR%204_2009-01-29-01.pdf" target="_blank">German</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Italian_PR%204_2009-01-29-01.pdf" target="_blank">Italian</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/Italian_PR%204_2009-01-29-01.pdf" target="_blank">Italian</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Malay_PR%204_2009-01-29-01.pdf" target="_blank">Malay</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/Malay_PR%204_2009-01-29-01.pdf" target="_blank">Malay</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Spanish_PR%204-2009-01-29-01.pdf" target="_blank">Spanish</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/Spanish_PR%204-2009-01-29-01.pdf" target="_blank">Spanish</a> (pdf)
 </li>
 </ul></div>
 </div>

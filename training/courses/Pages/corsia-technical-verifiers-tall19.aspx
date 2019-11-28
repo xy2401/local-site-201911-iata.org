@@ -346,11 +346,11 @@ CORSIA - Technical Aviation Knowledge for Verifiers (Classroom, 4 days)
 <p>Learn the aviation-specific knowledge that you will need to become an accredited verifier for ICAO’s Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA). For CORSIA, verifiers must be accredited to ISO 14065&#58;2013 and demonstrate additional CORSIA-specific technical competencies.</p><p>Over 4 days you will gain aviation-specific competencies that you will need to verify emissions reports under CORSIA to identify potential misstatements and non-conformities, as well as learn the requirements under Annex 16, volume IV, of the Chicago Convention; general technical processes in the field of civil aviation; aviation fuels and related processes; fuel use monitoring and measurement devices and procedures; and data management systems and controls.</p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 4 days (32 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>No prerequisites are needed, but experience in verification is preferable</li>
 <li>Recommended level is Entry-level and Management</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

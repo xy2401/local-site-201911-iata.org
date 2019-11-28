@@ -358,7 +358,7 @@ Airlines
 <p>See the <a href="/whatwedo/cargo/e/eawb/Pages/multilateral-faq.aspx#activation">FAQ</a> on the Activation&#160;Notice&#160;</p>
 <h3>Implementing e-AWB&#160;</h3>
 <ul>
-<li>Download&#160;the <a href="/whatwedo/cargo/e/eawb/Documents/e-awb-quick-reference-guide-airline.pdf" target="_blank">Airline e-AWB quick reference guide</a> (pdf)<br></li></ul>
+<li>Download&#160;the <a href="https://www.iata.org/whatwedo/cargo/e/eawb/Documents/e-awb-quick-reference-guide-airline.pdf" target="_blank">Airline e-AWB quick reference guide</a> (pdf)<br></li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>

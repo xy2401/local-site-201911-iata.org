@@ -439,9 +439,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newst"><div><h2>Translations</h2></div></div><ul><li>
-<a href="/pressroom/pr/Documents/eagle-awards-fr.pdf" target="_blank">French</a> (pdf)</li><li>
-<a href="/pressroom/pr/Documents/eagle-awards-it.pdf" target="_blank">Italian</a> (pdf)</li><li>
-<a href="/pressroom/pr/Documents/Spanish-PR-2011-06-06-03.pdf" target="_blank">Spanish</a> (pdf)<br></li></ul><div class="newst"><div><h2>Video&#58; Eagle Awards ceremony &amp; winners</h2></div></div>
+<a href="https://www.iata.org/pressroom/pr/Documents/eagle-awards-fr.pdf" target="_blank">French</a> (pdf)</li><li>
+<a href="https://www.iata.org/pressroom/pr/Documents/eagle-awards-it.pdf" target="_blank">Italian</a> (pdf)</li><li>
+<a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2011-06-06-03.pdf" target="_blank">Spanish</a> (pdf)<br></li></ul><div class="newst"><div><h2>Video&#58; Eagle Awards ceremony &amp; winners</h2></div></div>
 <a href="/events/agm/2011/gallery/Pages/video-gallery.aspx?vid=18"><img alt="IATA Eagle Awards" src="/events/agm/2011/gallery/PublishingImages/rhb-thumbnails/eagleawards-thumbnail-rhb.jpg" border="0" style="border&#58;0px solid;" /></a>
 <br></div>
 </div>

@@ -337,7 +337,7 @@ ONE Order Registry
 <div class="introAndImage">
 </div>
 <p>This registry&#160;&#160;lists the companies having gone through the&#160; <a href="/whatwedo/airline-distribution/one-order/Pages/index.aspx">ONE Order</a>&#160;certification program.<br></p><ul><li>
-<strong>Airlines</strong> – Any airline that deploys&#160; and support ONE Order communication messaging and capability</li><li><strong>Vendors and IT providers</strong> – any vendor that offers ONE Order solutions and services (OMS, Delivery Provider, Accounting) can become ONE Order capable</li></ul>Please see the<a href="/whatwedo/airline-distribution/one-order/Documents/oneorder-registry-disclaimer-terms-of-use-december2018.pdf" target="_blank"> ONE Order Registry Disclaimer and Terms of Use </a>(pdf).&#160;<br>
+<strong>Airlines</strong> – Any airline that deploys&#160; and support ONE Order communication messaging and capability</li><li><strong>Vendors and IT providers</strong> – any vendor that offers ONE Order solutions and services (OMS, Delivery Provider, Accounting) can become ONE Order capable</li></ul>Please see the<a href="https://www.iata.org/whatwedo/airline-distribution/one-order/Documents/oneorder-registry-disclaimer-terms-of-use-december2018.pdf" target="_blank"> ONE Order Registry Disclaimer and Terms of Use </a>(pdf).&#160;<br>
 <div class="ms-webpart-zone ms-fullWidth">
 <div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_71326919_0a33_4528_ad90_819f753b3ca9" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">

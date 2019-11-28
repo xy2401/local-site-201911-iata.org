@@ -346,11 +346,11 @@ CEIV Pharma Refresher course for Key Personnel (Classroom, 2 days)
 <p>This 2-day course is aimed at key personnel in the Pharma industry and air cargo industry stakeholders engaged in defining quality and risk management systems around the transport, handling and manipulation of Pharma time and temperature sensitive shipments in the air freight industry.</p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers and Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 2 days (16 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li><strong>Please note that this Certificate is only valid for 36 months, and must cover the entire period of this session.</strong></li><li>Participants must hold an <a href="/training/courses/Pages/temperature-audit-quality-tcgt03.aspx">Audit, Quality and Risk Management for Temperature Controlled Cargo</a> course certificate. If your certificate is older than 3 years, please repeat the course</li>
 <li>Recommended level is Management</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

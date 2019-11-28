@@ -346,14 +346,14 @@ AGM 2013 News Room
 <a href="/pressroom/pr/Pages/2013-05-30-02.aspx">Aviation Leaders Gather in Cape Town </a>&#160;(30 May)</li></ul><h2>Speeches</h2><ul><li>
 <a href="/pressroom/speeches/Pages/2013-06-04-01.aspx">Tony Tyler's AGM 69 Closing Remarks</a> </li><li>
 <a href="/pressroom/speeches/Pages/2013-06-03-04.aspx">Tony Tyler's State of IATA</a></li><li>
-<a href="/events/agm/2013/Documents/Deputy-President-Kgalema-Motlanthe-Address.pdf" target="_blank">South Africa Deputy President Kgalema Motlanthe</a></li><li>
-<a href="/events/agm/2013/Documents/Minister-Malusi-Gigaba-Address.pdf" target="_blank">South Africa Minister of Public Enterprises, Mr. Malusi Gigaba</a></li><li>
+<a href="https://www.iata.org/events/agm/2013/Documents/Deputy-President-Kgalema-Motlanthe-Address.pdf" target="_blank">South Africa Deputy President Kgalema Motlanthe</a></li><li>
+<a href="https://www.iata.org/events/agm/2013/Documents/Minister-Malusi-Gigaba-Address.pdf" target="_blank">South Africa Minister of Public Enterprises, Mr. Malusi Gigaba</a></li><li>
 <a href="/pressroom/speeches/Pages/2013-06-03-03.aspx">Opening Press Conference Notes</a></li><li>
 <a href="/pressroom/speeches/Pages/2013-06-03-02.aspx">Tony Tyler's State of the Industry</a>&#160;</li><li>
 <a href="/pressroom/speeches/Pages/2013-06-03-01.aspx">Tony Tyler Opens IATA Annual General Meeting - Cape Town</a>&#160;(3 June)</li><li>
 <a href="/pressroom/speeches/Pages/2013-05-30-01.aspx">Tony Tyler's Curtain Raiser Press Conference</a>&#160;(30 May)&#160;</li></ul></td><td>&#160; </td><td><h2>Twitter </h2><p>See what was talked about&#58;
 <a href="https&#58;//twitter.com/search?q=%23iataagm" target="_blank">#IATAAGM</a></p><h2>Other media resources</h2><ul><li>
-<a href="/events/agm/2013/Documents/agm-2013-media-program.pdf" target="_blank">AGM media program</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/events/agm/2013/Documents/agm-2013-media-program.pdf" target="_blank">AGM media program</a>&#160;(pdf)</li><li>
 <a href="/publications/Pages/annual-review.aspx">2013 annual review</a></li><li>
 <a href="/pressroom/facts_figures/fact_sheets/Pages/index.aspx">Fact sheets</a></li></ul><ul><li>
 <a href="/pressroom/Pages/ceo-biography.aspx">Tony Tyler's biography</a></li><li>

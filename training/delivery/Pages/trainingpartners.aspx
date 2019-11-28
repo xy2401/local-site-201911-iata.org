@@ -452,7 +452,7 @@ Global Training Conference 2020
 <a href="/training/Pages/premier-circle.aspx">Premier Circle Members</a> </p><p>
 <a href="/training/Pages/atc-recognition-program.aspx">Top Performing ATCs</a></p><p>
 <a href="/training/Pages/ats-recognition-program.aspx">Top Performing ATSs</a></p><p>
-<a href="/training/Documents/exams-on-demand.pdf" target="_blank">Exams On-Demand </a> (pdf) </p><p>
+<a href="https://www.iata.org/training/Documents/exams-on-demand.pdf" target="_blank">Exams On-Demand </a> (pdf) </p><p>
 <a href="https&#58;//www.linkedin.com/school/iata-training/">
 <img alt="Follow us on LinkedIn" src="/PublishingImages/linkedin.png" border="0" /></a>
 <br>

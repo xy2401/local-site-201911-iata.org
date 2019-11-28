@@ -413,14 +413,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <ul>
 <li><a href="/pressroom/speeches/Pages/2009-11-15-01.aspx">Giovanni Bisignani's Opening Remarks</a> </li>
 <li><a href="/pressroom/pr/Pages/2009-11-16-01.aspx">Press Release</a> </li>
-<li><a href="/pressroom/speeches/Documents/Agenda_freedom_statement_policy_principles.pdf" target="_blank">Statement of Policy Principles</a> (pdf) </li>
-<li><a href="/pressroom/Documents/agenda_freedom_qa.pdf" target="_blank">Questions &amp; Answers</a> (pdf) </li>
+<li><a href="https://www.iata.org/pressroom/speeches/Documents/Agenda_freedom_statement_policy_principles.pdf" target="_blank">Statement of Policy Principles</a> (pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/agenda_freedom_qa.pdf" target="_blank">Questions &amp; Answers</a> (pdf) </li>
 <li><a href="/iata/video/pressreleases/affsummit_16nov09_jeffshane.asx">Jeff Shane* Remarks and Q&amp;A Session with the Press</a> (wma) </li></ul>
 <div class="newst">
 <div>
 <h2>Presentations</h2></div></div>
 <ul>
-<li><a href="/pressroom/Documents/Dr.%20Michael%20Tretheway_%20InterVISTAS_%20Liberalization%20Studies.pdf" target="_blank">Dr. Michael Tretheway, InterVISTAS, Liberalization Studies</a> (pdf) </li></ul></div>
+<li><a href="https://www.iata.org/pressroom/Documents/Dr.%20Michael%20Tretheway_%20InterVISTAS_%20Liberalization%20Studies.pdf" target="_blank">Dr. Michael Tretheway, InterVISTAS, Liberalization Studies</a> (pdf) </li></ul></div>
 </div>
 <div class='hide_element_73c44762-fc7d-4d15-b9aa-40f67d645afd'></div><script type='text/javascript'>CTP.IATA.HideChrome('73c44762-fc7d-4d15-b9aa-40f67d645afd')</script>
 <div class='hide_element_39dcae5e-77e1-499d-98ff-a62998ec2adc'></div><script type='text/javascript'>CTP.IATA.HideChrome('39dcae5e-77e1-499d-98ff-a62998ec2adc')</script>

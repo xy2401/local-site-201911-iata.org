@@ -428,7 +428,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newst">
 <h2>Translation</h2>
 <ul>
-<li><a href="/pressroom/pr/Documents/Italian-PR-2011-02-09-01.pdf" target="_blank">Italian</a> (pdf)</li></ul></div></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Italian-PR-2011-02-09-01.pdf" target="_blank">Italian</a> (pdf)</li></ul></div></div>
 </div>
 <div class='hide_element_2166c42f-1a38-4a72-a2b9-6f4299a425c2'></div><script type='text/javascript'>CTP.IATA.HideChrome('2166c42f-1a38-4a72-a2b9-6f4299a425c2')</script>
 <div class='hide_element_86a72db0-6f01-4c8d-9b6b-bcca47d67504'></div><script type='text/javascript'>CTP.IATA.HideChrome('86a72db0-6f01-4c8d-9b6b-bcca47d67504')</script>

@@ -368,11 +368,11 @@ Director General’s Report on the Global Air Transport Industry
 <a href="https&#58;//www.icao.int/environmental-protection/Pages/market-based-measures.aspx" target="_blank">ICAO </a>
 <br>6.&#160; Source&#58;
 <a href="/whatwedo/cargo/e/eawb/Pages/index.aspx">IATA e-AWB</a>. E-AWB penetration calculated on eligible trade lanes only.<br>7.&#160; See
-<a href="https&#58;//www.un.org/press/en/2016/sc12529.doc.htm" target="_blank">UN press release</a>&#160;<br>8.&#160; The Five Eyes is an intelligence gathering and sharing alliance between the countries of Australia, Canada, Great Britain, New Zealand and the United States.<br>9.&#160; For more information see this<a href="/publications/economic-briefings/PED-Ban-impact.pdf" target="_blank"> document from IATA Economics</a><br>10.&#160; Such as Computer Tomography X-ray (CTX) which uses CAT scans and image processing software to screen for explosives.
+<a href="https&#58;//www.un.org/press/en/2016/sc12529.doc.htm" target="_blank">UN press release</a>&#160;<br>8.&#160; The Five Eyes is an intelligence gathering and sharing alliance between the countries of Australia, Canada, Great Britain, New Zealand and the United States.<br>9.&#160; For more information see this<a href="https://www.iata.org/publications/economic-briefings/PED-Ban-impact.pdf" target="_blank"> document from IATA Economics</a><br>10.&#160; Such as Computer Tomography X-ray (CTX) which uses CAT scans and image processing software to screen for explosives.
 <a href="http&#58;//breckon.eu/toby/publications/papers/megherbi10baggage.pdf" target="_blank">See this research document </a>(pdf) from Cranfield University<br>11.&#160; Source&#58; EUROCONTROL
 <a href="http&#58;//www.eurocontrol.int/articles/challenges-growth" target="_blank">Challenges of Growth report 2013 </a>
 <br>12.&#160;More information see
-<a href="/policy/business-freedom/Documents/european-airspace-modernization.pdf" target="_blank">Benefits of European Airspace Modernization</a>&#160;(pdf)<br>13.&#160; Estimated cost of Heathrow North West runway option endorsed by the Airports Commission is 16.8 billion, including surface access costs. See page 44 of
+<a href="https://www.iata.org/policy/business-freedom/Documents/european-airspace-modernization.pdf" target="_blank">Benefits of European Airspace Modernization</a>&#160;(pdf)<br>13.&#160; Estimated cost of Heathrow North West runway option endorsed by the Airports Commission is 16.8 billion, including surface access costs. See page 44 of
 <a href="http&#58;//www.heathrow.com/file_source/Company/Static/PDF/Companynewsandinformation/taking_britain_further.pdf" target="_blank">Heathrow's plan for connecting the UK to growth </a>​</p></div>
 
 </div>
@@ -440,7 +440,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><h3> Photos </h3>
 <p>​<a title="AGM Opening Session" href="https&#58;//www.flickr.com/photos/iataorg/34952219392/in/album-72157682022301331/" data-flickr-embed="true"><img width="150" height="150" alt="AGM Opening Session" src="https&#58;//c1.staticflickr.com/5/4268/34952219392_f4d0d44aa6_q.jpg" /></a></p>
 <span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

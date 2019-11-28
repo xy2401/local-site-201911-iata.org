@@ -366,7 +366,7 @@ Aircraft Accident Rate Drops In 2009 - Renewed Focus on Training, Data
 <li><strong>&#160;While runway excursions and ground damage were the main categories of accidents, pilot handling was noted as a contributing factor in 30% of all accidents</strong>. IATA’s Training &amp; Qualification Initiative (ITQI) is pushing for harmonizing a competency-based approach focused on training real skills while addressing threats presented by accident/incident reports and flight data collection and reporting. IATA will also work through ICAO to develop a Fatigue Risk Management System as part of the Safety Management System. This will be a new process to systematically manage crew fatigue taking into account changes in aircraft capabilities and airline operations.</li></ul>
 <p>These initiatives are consistent with IATA’s comprehensive Six-point Safety Program which focuses on infrastructure safety, safety data management and analysis, operations, Safety Management Systems, maintenance and auditing.</p>
 <p>“Safety is a constant challenge. Having made aviation the safest way to travel, further improvements will come only with careful data analysis. We must understand the underlying safety risk trends, not just from the handful of accidents each year, but by bringing together and analyzing data from millions of safe flights. The IATA Global Safety Information Center was launched in December 2009 for just that purpose. Going forward our goal is to work with other organizations and governments involved in aviation safety to add to the database and drive even more improvements,” Said Bisignani.</p>
-<p><a href="/pressroom/pr/Documents/2009AviationSafetyPerformance.pdf" target="_blank">View 2009 Aviation Safety Performance</a>&#160;(pdf)<br><br><br></p>
+<p><a href="https://www.iata.org/pressroom/pr/Documents/2009AviationSafetyPerformance.pdf" target="_blank">View 2009 Aviation Safety Performance</a>&#160;(pdf)<br><br><br></p>
 <p><strong>Notes for Editors</strong>&#58;</p>
 <ul>
 <li>IATA (International Air Transport Association) represents some 230 airlines comprising 93% of scheduled international air traffic. </li>
@@ -453,11 +453,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations of this Press Release</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Chinese_PR_2010_02_18_01.pdf" target="_blank">Chinese</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/French_PR_2010_02_18_01.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/German_PR_2010_02_18_01.pdf" target="_blank">German</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Italian_PR_2010_02_18_01.pdf" target="_blank">Italian</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish_PR_2010_02_18_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Chinese_PR_2010_02_18_01.pdf" target="_blank">Chinese</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French_PR_2010_02_18_01.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/German_PR_2010_02_18_01.pdf" target="_blank">German</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Italian_PR_2010_02_18_01.pdf" target="_blank">Italian</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish_PR_2010_02_18_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_cb4909eb-231f-49d4-87ce-4de5f84f116f'></div><script type='text/javascript'>CTP.IATA.HideChrome('cb4909eb-231f-49d4-87ce-4de5f84f116f')</script>
 <div class='hide_element_094c9d32-f8b5-4299-9386-393b7c77b5b3'></div><script type='text/javascript'>CTP.IATA.HideChrome('094c9d32-f8b5-4299-9386-393b7c77b5b3')</script>

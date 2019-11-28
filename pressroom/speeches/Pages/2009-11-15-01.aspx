@@ -411,13 +411,13 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>More information</h2></div></div>
 <ul>
 <li><a href="/pressroom/pr/Pages/2009-11-16-01.aspx">Press Release</a> </li>
-<li><a href="/pressroom/Documents/agenda_freedom_qa.pdf" target="_blank">Questions &amp; Answers</a> (pdf)<br></li>
+<li><a href="https://www.iata.org/pressroom/Documents/agenda_freedom_qa.pdf" target="_blank">Questions &amp; Answers</a> (pdf)<br></li>
 <li><a href="/pressroom/speeches/Pages/2009-11-16-01.aspx">Giovanni Bisignani's Closing Remarks</a> </li></ul>
 <div class="newst">
 <div>
 <h2>Presentations</h2></div></div>
 <ul>
-<li><a href="/pressroom/Documents/Dr.%20Michael%20Tretheway_%20InterVISTAS_%20Liberalization%20Studies.pdf" target="_blank">Dr. Michael Tretheway, InterVISTAS, Liberalization Studies</a> (pdf) </li></ul></div>
+<li><a href="https://www.iata.org/pressroom/Documents/Dr.%20Michael%20Tretheway_%20InterVISTAS_%20Liberalization%20Studies.pdf" target="_blank">Dr. Michael Tretheway, InterVISTAS, Liberalization Studies</a> (pdf) </li></ul></div>
 </div>
 <div class='hide_element_e9d49b86-5dc3-46d6-a5e6-4756b3e749b9'></div><script type='text/javascript'>CTP.IATA.HideChrome('e9d49b86-5dc3-46d6-a5e6-4756b3e749b9')</script>
 <div class='hide_element_7b4d2df7-08c3-4628-ba15-018f94db341b'></div><script type='text/javascript'>CTP.IATA.HideChrome('7b4d2df7-08c3-4628-ba15-018f94db341b')</script>

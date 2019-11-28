@@ -495,7 +495,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <a href="/services/accreditation/idcard/Pages/faq.aspx" target="_blank">Frequently Asked Questions​</a></p><p>
 <a title="AgentExperience" href="http&#58;//iata.konnect.travel/NAE/Home/Index" target="_blank">AgentExperience</a></p><p>
 <a href="https&#58;//www.checkacode.com/" target="_blank">CheckACode&#58; Validate your ID Card</a></p><p><a href="/publications/travel-tourism-times/Pages/index.aspx" target="_blank">Travel &amp; Tourism Times (blog)</a><br></p><p>
-<a href="https&#58;//www.facebook.com/iata.idcard/" target="_blank"><img alt="Facebook" src="/PublishingImages/facebook.png" /></a><a href="https&#58;//www.facebook.com/iata.idcard/" target="_blank"> </a><br></p><a href="/services/accreditation/idcard/Documents/2019-07-IDC-AEX-Info-Flash.pdf" target="_blank"></a></span><br></div>
+<a href="https&#58;//www.facebook.com/iata.idcard/" target="_blank"><img alt="Facebook" src="/PublishingImages/facebook.png" /></a><a href="https&#58;//www.facebook.com/iata.idcard/" target="_blank"> </a><br></p><a href="https://www.iata.org/services/accreditation/idcard/Documents/2019-07-IDC-AEX-Info-Flash.pdf" target="_blank"></a></span><br></div>
 </div>
 <div class='hide_element_520cdb75-3c26-4652-8a97-c2cfb949dd6e'></div><script type='text/javascript'>CTP.IATA.HideChrome('520cdb75-3c26-4652-8a97-c2cfb949dd6e')</script>
 <div class='crossLinksExploreMore'>

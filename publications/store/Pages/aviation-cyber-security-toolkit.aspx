@@ -328,15 +328,15 @@ Aviation Cyber Security Toolkit
 <h2 class="iataElement-Title2">Your toolkit to counter the threats of cyber security</h2><p><span aria-hidden="true"></span><span aria-hidden="true"></span>The aviation industry relies heavily on computer systems in its ground and flight operations. The security of the airline systems can directly impact the operational safety and efficiency of the industry, and indirectly impact its service, reputation and financial health.<br></p><p><span>The application is available as a web download or a floating license and offers&#58;</span></p><ul><li>Structured analysis tool to help identify,&#160;assess &amp; mitigate risk</li><li>Practical guidance material</li><li>Complementary access to 17 training videos (2-5 minutes each) covering all aspects of IT Security</li><li>Information reviewed by industry experts</li></ul>
 </div>
 <h3>Cyber security table of contents</h3>
-<ol><li><a href="/publications/Documents/toc-acst-02-ed-situational-analysis-20150709.pdf" target="_blank">Part 1 - Covers an overview of the current situation</a>&#160;(pdf)
+<ol><li><a href="https://www.iata.org/publications/Documents/toc-acst-02-ed-situational-analysis-20150709.pdf" target="_blank">Part 1 - Covers an overview of the current situation</a>&#160;(pdf)
 </li>
-<li><a href="/publications/Documents/toc-acst-02-ed-intro-threats-20150709.pdf" target="_blank">Part 2 - Introduces cyber security threats</a>&#160; (pdf)
+<li><a href="https://www.iata.org/publications/Documents/toc-acst-02-ed-intro-threats-20150709.pdf" target="_blank">Part 2 - Introduces cyber security threats</a>&#160; (pdf)
 </li>
-<li><a href="/publications/Documents/toc-acst-02-ed-risk-mitigation-20150709.pdf" target="_blank">Part 3 - Outlines cyber security risk mitigation practices</a>&#160;(pdf)
+<li><a href="https://www.iata.org/publications/Documents/toc-acst-02-ed-risk-mitigation-20150709.pdf" target="_blank">Part 3 - Outlines cyber security risk mitigation practices</a>&#160;(pdf)
 </li>
-<li><a href="/publications/Documents/toc-acst-02-ed-setting-up-mgmt-system-20150709.pdf" target="_blank">Part&#160;4 - Provides guidance for the implementation of a cyber security management system </a>&#160;(pdf)
+<li><a href="https://www.iata.org/publications/Documents/toc-acst-02-ed-setting-up-mgmt-system-20150709.pdf" target="_blank">Part&#160;4 - Provides guidance for the implementation of a cyber security management system </a>&#160;(pdf)
 </li>
-<li><a href="/publications/Documents/toc-acst-02-ed-risk-assessment-20150709.pdf" target="_blank">Part 5 - Gives access to a workbook for organizations to make their own robust risk assessments as well as prioritization instructions</a>&#160;(pdf)<br></li></ol>
+<li><a href="https://www.iata.org/publications/Documents/toc-acst-02-ed-risk-assessment-20150709.pdf" target="_blank">Part 5 - Gives access to a workbook for organizations to make their own robust risk assessments as well as prioritization instructions</a>&#160;(pdf)<br></li></ol>
 <div>
 &#160;</div>
 <h3>What's new</h3>
@@ -498,7 +498,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>
-<a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-cyber-security.pdf" target="_blank">Cyber Security Fact Sheet</a> (pdf) </p><p>&#160;<a href="/training/subject-areas/Pages/security-courses.aspx">Aviation Security Training Courses</a><br></p><p><a href="http&#58;//airlines.iata.org/news/proactive-approach-key-to-mitigating-cyber-risk-0?_ga=2.235963973.596828550.1507533498-526295612.1503323166" target="_blank">Proactive approach key to mitigating cyber risk</a><br></p></div>
+<a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-cyber-security.pdf" target="_blank">Cyber Security Fact Sheet</a> (pdf) </p><p>&#160;<a href="/training/subject-areas/Pages/security-courses.aspx">Aviation Security Training Courses</a><br></p><p><a href="http&#58;//airlines.iata.org/news/proactive-approach-key-to-mitigating-cyber-risk-0?_ga=2.235963973.596828550.1507533498-526295612.1503323166" target="_blank">Proactive approach key to mitigating cyber risk</a><br></p></div>
 </div>
 <div class='crossLinksUpcomingEvents'>
 <div class='crossLinksTitle'>

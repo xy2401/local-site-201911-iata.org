@@ -346,9 +346,9 @@ Workgroups
 <a href="/whatwedo/workgroups/Pages/iaac.aspx">Industry Affairs Advisory Council</a><br></li><li> <a href="/whatwedo/workgroups/Pages/lac.aspx"> Legal​ Advisory Council</a></li><li>
 <a href="/whatwedo/workgroups/Pages/industry-workgroups.aspx">Other Workgroups</a></li></ul></div></div></div> ​​​</span>
 <h3 class="iataElement-Title3">&#160;Governance documentation &#160;&#160; </h3><ul><li>
-<a href="/about/Documents/rules-and-regulations-of-industry-committees.pdf" target="_blank">Rules &amp; Regulations of Industry Committees</a>&#160;(pdf)</li><li>
-<a href="/about/Documents/industry-committees-mandates-membership.pdf" target="_blank">Mandates &amp; Membership of Industry Committees</a>&#160;(pdf)&#160;</li><li>
-<a href="/whatwedo/workgroups/Documents/ip-working-groups.pdf" target="_blank">Intellectual Property principles for IATA Working Groups</a> (pdf)&#160;&#160;&#160; </li></ul>
+<a href="https://www.iata.org/about/Documents/rules-and-regulations-of-industry-committees.pdf" target="_blank">Rules &amp; Regulations of Industry Committees</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/about/Documents/industry-committees-mandates-membership.pdf" target="_blank">Mandates &amp; Membership of Industry Committees</a>&#160;(pdf)&#160;</li><li>
+<a href="https://www.iata.org/whatwedo/workgroups/Documents/ip-working-groups.pdf" target="_blank">Intellectual Property principles for IATA Working Groups</a> (pdf)&#160;&#160;&#160; </li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>

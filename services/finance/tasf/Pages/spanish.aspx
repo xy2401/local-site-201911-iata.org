@@ -360,7 +360,7 @@ Travel Agency Service Fee (TASF)
 <p><strong>¿Qué documentación debemos enviar para darnos de alta en el servicio? </strong></p>
 <ul>
 <li>
-<div>Deben enviar la carta cumplimentada <a href="/services/finance/tasf/Documents/tasf_carta_de_intenciones.pdf" target="_blank">TASF Carta de Intenciones</a> (pdf)<br>por fax al&#160;nº&#58; (00) <span lang="EN">1 514 874 9200 </span>y por correo a&#58; </div></li><span lang="EN">
+<div>Deben enviar la carta cumplimentada <a href="https://www.iata.org/services/finance/tasf/Documents/tasf_carta_de_intenciones.pdf" target="_blank">TASF Carta de Intenciones</a> (pdf)<br>por fax al&#160;nº&#58; (00) <span lang="EN">1 514 874 9200 </span>y por correo a&#58; </div></li><span lang="EN">
 <ul>
 <ul>
 <li>Departamento TASF<br>International Air Transport Association<br>800, Square Victoria<br>Montreal, QC H4Z 1M1<br>Canada</li></ul></ul></span></ul>

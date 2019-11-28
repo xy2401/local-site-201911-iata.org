@@ -356,9 +356,9 @@ About us
 <span>
 <span>
 <a href="/about/worldwide/Pages/index.aspx">IATA by Region</a></span></span></li><li>
-<a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-iata-1.pdf" target="_blank">Fact Sheet&#58;&#160;IATA Facts &amp; Figures</a>&#160;(pdf) </li><li>
+<a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-iata-1.pdf" target="_blank">Fact Sheet&#58;&#160;IATA Facts &amp; Figures</a>&#160;(pdf) </li><li>
 <a href="/publications/Pages/annual-review.aspx">IATA Annual Review</a>&#160;</li><li>
-<a href="/about/sp/Pages/index.aspx">Strategic Partners</a></li></ul><h2 class="iataElement-Title2">IATA's structure</h2><p>A guiding concept of IATA’s structure is “Global Development, Regional Delivery”, where the Head Office divisions drive the development of global standards, systems and advocacy positions, while the regional and country offices are responsible for implementation.&#160;See the high level&#160;<a href="/about/Documents/iata-organizational-structure.pdf" target="_blank">organization chart</a> (pdf)</p><p> IATA's senior management,&#160;formed of&#160;regional and subject matter experts, sets the strategic direction of IATA under the leadership of IATA's Director General &amp; CEO. See
+<a href="https://www.iata.org/about/sp/Pages/index.aspx">Strategic Partners</a></li></ul><h2 class="iataElement-Title2">IATA's structure</h2><p>A guiding concept of IATA’s structure is “Global Development, Regional Delivery”, where the Head Office divisions drive the development of global standards, systems and advocacy positions, while the regional and country offices are responsible for implementation.&#160;See the high level&#160;<a href="/about/Documents/iata-organizational-structure.pdf" target="_blank">organization chart</a> (pdf)</p><p> IATA's senior management,&#160;formed of&#160;regional and subject matter experts, sets the strategic direction of IATA under the leadership of IATA's Director General &amp; CEO. See
 <a href="/about/Pages/senior-management.aspx">who's who in IATA's senior management team</a>.</p><h3 class="iataElement-Title3">Office of the Director General</h3><p>People, Performance &amp; Development
 <br>Corporate Communications
 <br>Legal Services </p><h3>Regions </h3><p>

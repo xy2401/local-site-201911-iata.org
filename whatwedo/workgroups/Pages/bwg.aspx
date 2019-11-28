@@ -450,7 +450,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <a href="http&#58;//www2.iata.org/registration/getemailpage.aspx?siteurl=baggage" target="_blank">Registration (external users only)</a> </li></ul><div class="newst"><div><h2>Publications</h2></div></div><p>
 <a href="/publications/store/Pages/baggage-reference-manual.aspx">Baggage Reference Manual</a></p><p>
 <a href="/publications/store/Pages/passenger-services-conference-resolutions-manual.aspx">PSCRM</a></p><p>
-<a href="/whatwedo/ops-infra/baggage/Documents/Baggage%20Disruption_Handling%20guidelines.pdf" target="_blank">Baggage Disruption Handling Guidelines Manual </a>(pdf)</p></div>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/Baggage%20Disruption_Handling%20guidelines.pdf" target="_blank">Baggage Disruption Handling Guidelines Manual </a>(pdf)</p></div>
 </div>
 <div class='hide_element_d8d676ff-c4b4-40eb-b5b1-8a201fae0744'></div><script type='text/javascript'>CTP.IATA.HideChrome('d8d676ff-c4b4-40eb-b5b1-8a201fae0744')</script>
 <div class='hide_element_6213d3e6-8515-45bc-827a-fda0a82d6109'></div><script type='text/javascript'>CTP.IATA.HideChrome('6213d3e6-8515-45bc-827a-fda0a82d6109')</script>

@@ -330,25 +330,25 @@ Global Passenger Survey
 <span class="iataStyle-Normal">Main objectives</span></h2><p> Discover the latest findings on behaviors and preferences of passengers&#160;linked to&#160;their travel&#160;journey and experiences; from&#160;preparing&#160;their&#160;luggage for the journey, moving through the airport or using Wi-Fi on board. Learn how IATA works&#160;with the industry&#160;to address the changing needs of travelers through various initiatives including&#58;&#160;<a href="/whatwedo/ops-infra/baggage/Pages/check-bag.aspx" target="_blank">Baggage</a>,
 <a href="/whatwedo/passenger/fast-travel/Pages/index.aspx" target="_blank">Fast Travel</a>&#160;and&#160;<a href="/whatwedo/passenger/Pages/passenger-facilitation.aspx" target="_blank">One ID</a>.<br></p><p>
 <span>In 2019, more than 10,800&#160;respondents across 166 countries shared their travel preferences with us. Get a sneak peak of what passengers truly want by viewing our
-<a href="/publications/store/Documents/IATA-2019-GPS-Highlights.pdf" target="_blank">2019 Highlights</a> and explore more by&#160;purchasing the 2019 Global Passenger Survey Report and 2019&#160;Global Passenger Survey Combo.</span><br></p><p>
+<a href="https://www.iata.org/publications/store/Documents/IATA-2019-GPS-Highlights.pdf" target="_blank">2019 Highlights</a> and explore more by&#160;purchasing the 2019 Global Passenger Survey Report and 2019&#160;Global Passenger Survey Combo.</span><br></p><p>
 <strong><span>The PDF Report </span></strong>
 <span>outlines the results on global level. You will find there also chosen more detailed characteristics eg. business vs economy class traveler or trend analysis.</span><br></p><p>
 <span><span><strong>The Combo</strong>&#160;will provide you&#160;with a more detailed overview of the passenger preferences, based&#160;on their socio-demographic profile (gender, age, annual income, region) and behavioral pattern (frequency of travelling, business/leisure purpose of travel, domestic/international flights, short-/long-haul flights, first/business/premium economy/economy class taken, other).&#160; &#160;</span><br></span></p>
 <span> </span><span>
 <div class="video-container">​<iframe width="540" height="304" src="http&#58;//www.youtube.com/embed/1O4bb37fmFM?wmode=transparent" frameborder="0"></iframe>&#160;</div></span><br>
 <h3 class="iataElement-Title3">&#160;Survey highlights</h3><ul><li>
-<a href="/publications/store/Documents/IATA-2019-GPS-Highlights.pdf" target="_blank">2019 Survey Highlights</a> (pdf) Get&#160;a quick preview of the results in our<a href="/publications/store/Documents/GPS-2019-Highlights-infographic.pdf" target="_blank"> infographic</a> (pdf)</li><li>
-<a href="/publications/store/Documents/GPS-2018%20Highlights.pdf" target="_blank">2018 Survey Highlights</a>&#160;<span>(pdf)&#160;</span></li><li>
-<a href="/publications/store/Documents/GPS-2017-Highlights-report.pdf" target="_blank">20<span>17 Survey</span><span> Hig</span><span>hlights </span></a>
+<a href="https://www.iata.org/publications/store/Documents/IATA-2019-GPS-Highlights.pdf" target="_blank">2019 Survey Highlights</a> (pdf) Get&#160;a quick preview of the results in our<a href="/publications/store/Documents/GPS-2019-Highlights-infographic.pdf" target="_blank"> infographic</a> (pdf)</li><li>
+<a href="https://www.iata.org/publications/store/Documents/GPS-2018%20Highlights.pdf" target="_blank">2018 Survey Highlights</a>&#160;<span>(pdf)&#160;</span></li><li>
+<a href="https://www.iata.org/publications/store/Documents/GPS-2017-Highlights-report.pdf" target="_blank">20<span>17 Survey</span><span> Hig</span><span>hlights </span></a>
 <span>(pdf)&#160;<span>Get a quick preview of the results in our
-<a href="/publications/store/Documents/GPS-2017-highlights-infographic.pdf" target="_blank">Infographic </a>(pdf)</span></span></li><li>
-<a href="/publications/store/Documents/GPS-2016-Highlights-Final.pdf" target="_blank">2016 Survey Highlights</a> (pdf) </li><li>
-<a href="/publications/Documents/Highlights%202015-Global-Passenger-Survey-Final.pdf" target="_blank">2015 Survey Highlights</a> (pdf) </li><li>
-<a href="/publications/Documents/2014%20IATA%20Global%20Passenger%20Survey%20Highlights.pdf" target="_blank">2014 Survey Highlights</a> (pdf)<br></li><li>
-<a href="/publications/Documents/global-passenger-survey-2013-highlights.pdf" target="_blank">2013 Survey Highlights</a> (pdf)</li><li>
-<a href="/publications/Documents/global-passenger-survey-2013-content.pdf" target="_blank">2013 Survey - Table of Contents</a> (pdf)</li><li>
-<a href="/publications/Documents/2012-iata-global-passenger-survey-highlights.pdf" target="_blank">2012 Survey Highlights</a> (pdf)</li><li>
-<a href="/publications/Documents/global-passenger-survey-2012-contents.pdf" target="_blank">2012 Survey -&#160;Table of Contents</a> (pdf)&#160;</li><li>Watch the 2016
+<a href="https://www.iata.org/publications/store/Documents/GPS-2017-highlights-infographic.pdf" target="_blank">Infographic </a>(pdf)</span></span></li><li>
+<a href="https://www.iata.org/publications/store/Documents/GPS-2016-Highlights-Final.pdf" target="_blank">2016 Survey Highlights</a> (pdf) </li><li>
+<a href="https://www.iata.org/publications/Documents/Highlights%202015-Global-Passenger-Survey-Final.pdf" target="_blank">2015 Survey Highlights</a> (pdf) </li><li>
+<a href="https://www.iata.org/publications/Documents/2014%20IATA%20Global%20Passenger%20Survey%20Highlights.pdf" target="_blank">2014 Survey Highlights</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/publications/Documents/global-passenger-survey-2013-highlights.pdf" target="_blank">2013 Survey Highlights</a> (pdf)</li><li>
+<a href="https://www.iata.org/publications/Documents/global-passenger-survey-2013-content.pdf" target="_blank">2013 Survey - Table of Contents</a> (pdf)</li><li>
+<a href="https://www.iata.org/publications/Documents/2012-iata-global-passenger-survey-highlights.pdf" target="_blank">2012 Survey Highlights</a> (pdf)</li><li>
+<a href="https://www.iata.org/publications/Documents/global-passenger-survey-2012-contents.pdf" target="_blank">2012 Survey -&#160;Table of Contents</a> (pdf)&#160;</li><li>Watch the 2016
 <a href="https&#58;//www.youtube.com/embed/9Pz_1NJmcIM" target="_blank">Global Passenger Survey&#160;Webinar</a>&#160;<br></li></ul><p>
 <br>
 </p><h2 class="iataElement-Title2">Buy the survey report online<br><br></h2>

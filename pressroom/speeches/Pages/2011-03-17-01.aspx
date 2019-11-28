@@ -442,7 +442,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/speeches/Documents/colombia-spanish.pdf" target="_blank">Spanish </a>(pdf)<br><br></li></ul></div>
+<li><a href="https://www.iata.org/pressroom/speeches/Documents/colombia-spanish.pdf" target="_blank">Spanish </a>(pdf)<br><br></li></ul></div>
 </div>
 <div class='hide_element_61f16bd4-4864-48c7-9948-1d621510b9bf'></div><script type='text/javascript'>CTP.IATA.HideChrome('61f16bd4-4864-48c7-9948-1d621510b9bf')</script>
 <div class='hide_element_6fe07892-2b64-47ef-86ba-f2c5e2cf658e'></div><script type='text/javascript'>CTP.IATA.HideChrome('6fe07892-2b64-47ef-86ba-f2c5e2cf658e')</script>

@@ -421,7 +421,7 @@ Study
 </h2>
 <div class="hbContent">
 <p>
-<a href="/policy/Documents/ICAN_caribbeanreport.pdf" target="_blank">A blueprint for maximizing the social and economic value of aviation in the Caribbean</a> (pdf)</p>
+<a href="https://www.iata.org/policy/Documents/ICAN_caribbeanreport.pdf" target="_blank">A blueprint for maximizing the social and economic value of aviation in the Caribbean</a> (pdf)</p>
 </div>
 </div>
 </a>

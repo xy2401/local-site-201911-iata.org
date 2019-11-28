@@ -448,7 +448,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newst">
 <div>&#160;</div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Speech-CIE-IATA-Africa-Aviation-Day.pdf" target="_blank">Statement by Dr Elham M.A. Ibrahim,&#160;Commissioner for Infrastructure and Energy</a>&#160;(pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Speech-CIE-IATA-Africa-Aviation-Day.pdf" target="_blank">Statement by Dr Elham M.A. Ibrahim,&#160;Commissioner for Infrastructure and Energy</a>&#160;(pdf)</li></ul></div>
 </div>
 <div class='hide_element_6702ff3c-e6d9-401e-8d42-799a843bab31'></div><script type='text/javascript'>CTP.IATA.HideChrome('6702ff3c-e6d9-401e-8d42-799a843bab31')</script>
 <div class='hide_element_c32a98c9-d7dc-4c82-a46c-f33159b85124'></div><script type='text/javascript'>CTP.IATA.HideChrome('c32a98c9-d7dc-4c82-a46c-f33159b85124')</script>

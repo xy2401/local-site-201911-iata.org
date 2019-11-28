@@ -426,9 +426,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/French-PR-2010-06-07-04.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Italian-PR-2010-06-07-04.pdf" target="_blank">Italian</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2010-06-07-04.pdf" target="_blank">Spanish</a> (pdf)<br></li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2010-06-07-04.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Italian-PR-2010-06-07-04.pdf" target="_blank">Italian</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2010-06-07-04.pdf" target="_blank">Spanish</a> (pdf)<br></li></ul>
 <div class="newstg">
 <div><a href="/pressroom/pr/Pages/armstrong-speech.aspx">Neil Armstrong's &#160;Speech</a> </div></div></div>
 </div>

@@ -895,7 +895,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 Download
 </h2>
 <div class="hbContent">
-<p>See the&#160;<a title="IATA FL Product &amp; Specs Overview" href="/publications/Documents/IATA-FL-Overview.pdf" target="_blank">product &amp;&#160;specs overview (pdf)</a>for more information</p>
+<p>See the&#160;<a title="IATA FL Product &amp; Specs Overview" href="https://www.iata.org/publications/Documents/IATA-FL-Overview.pdf" target="_blank">product &amp;&#160;specs overview (pdf)</a>for more information</p>
 </div>
 </div>
 </a>

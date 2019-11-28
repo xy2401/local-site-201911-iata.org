@@ -480,9 +480,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/French-PR-2010-06-07-03.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Italian-PR-2010-06-07-03.pdf" target="_blank">Italian</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2010-06-07-03.pdf" target="_blank">Spanish</a> (pdf)<br></li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2010-06-07-03.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Italian-PR-2010-06-07-03.pdf" target="_blank">Italian</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2010-06-07-03.pdf" target="_blank">Spanish</a> (pdf)<br></li></ul></div>
 </div>
 <div class='hide_element_b94ee1ea-077e-42cb-894c-bdbfce4181f0'></div><script type='text/javascript'>CTP.IATA.HideChrome('b94ee1ea-077e-42cb-894c-bdbfce4181f0')</script>
 <div class='hide_element_72c86b94-0548-4ff5-85cc-7260ff070a94'></div><script type='text/javascript'>CTP.IATA.HideChrome('72c86b94-0548-4ff5-85cc-7260ff070a94')</script>

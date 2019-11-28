@@ -350,7 +350,7 @@ IATA Diversity &amp; Inclusion Awards
 <strong>Young High Flyer</strong>&#58; Designed to recognize one of aviation’s women under 40 who has started to develop her career, and thought leadership in the industry through her inspirational work. Open to all under 40 female participants in the aviation industry.</li><li>
 <strong>Diversity &amp; Inclusion Team Award</strong>&#58; Designed to recognize an airline that has seen a tangible change in their diversity as a result of the work it has been doing in diversity and inclusion. Open to all IATA member airlines.<br></li></ul><h3 class="iataElement-Title3"></h3><h3 class="iataElement-Title3">Prizes</h3><p>
 <b>Each award category comes with US$25,000 in prize money, generously funded by Qatar Airways.&#160;</b></p><p>
-<a href="/about/Documents/diversity-awards-terms.pdf" target="_blank">Terms &amp; conditions</a><span> </span>
+<a href="https://www.iata.org/about/Documents/diversity-awards-terms.pdf" target="_blank">Terms &amp; conditions</a><span> </span>
 <span>(pdf)</span><br></p><p>Any question? Please contact us&#160; at
 <a href="mailto&#58;corpcomms@iata.org">corpcomms@iata.org</a><br></p><p>
 <br>

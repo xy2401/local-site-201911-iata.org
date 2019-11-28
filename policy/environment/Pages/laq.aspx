@@ -344,7 +344,7 @@ Local Air Quality
 <p align="center"><img alt="Emissions from aircraft are relatively small compared to other sources" src="/policy/environment/PublishingImages/laq.png" border="0" />&#160;</p>
 <h3>More information</h3>
 <ul>
-<li><a href="/policy/Documents/local-air-quality-emissions-charges.pdf" target="_blank">IATA position paper on local air quality emissions-related charges (pdf)</a></li><li><a href="/whatwedo/environment/Pages/environmental-assessment.aspx">IATA Environmental Assessment (IEnvA)</a></li></ul>
+<li><a href="https://www.iata.org/policy/Documents/local-air-quality-emissions-charges.pdf" target="_blank">IATA position paper on local air quality emissions-related charges (pdf)</a></li><li><a href="/whatwedo/environment/Pages/environmental-assessment.aspx">IATA Environmental Assessment (IEnvA)</a></li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -434,7 +434,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p><strong>Fact sheets<br></strong><a href="/policy/Documents/environmental_tax_pdf.pdf" target="_blank">Green taxes</a>&#160;(pdf)​</p><p><strong>Training Courses</strong> </p><p><a href="/training/courses/Pages/aviation-environment-tcvg05.aspx">Aviation and the Environment</a></p></div>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p><strong>Fact sheets<br></strong><a href="https://www.iata.org/policy/Documents/environmental_tax_pdf.pdf" target="_blank">Green taxes</a>&#160;(pdf)​</p><p><strong>Training Courses</strong> </p><p><a href="/training/courses/Pages/aviation-environment-tcvg05.aspx">Aviation and the Environment</a></p></div>
 </div>
 <div class='hide_element_a346672b-a270-4d98-a2e6-43f2f48fea24'></div><script type='text/javascript'>CTP.IATA.HideChrome('a346672b-a270-4d98-a2e6-43f2f48fea24')</script>
 <div class='crossLinksExploreMore'>

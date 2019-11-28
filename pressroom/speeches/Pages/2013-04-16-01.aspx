@@ -492,7 +492,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class="newst">
 <div>&#160;</div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Speech-CIE-IATA-Africa-Aviation-Day.pdf" target="_blank">Statement by Dr Elham M.A. Ibrahim, Commissioner for Infrastructure and Energy</a> (pdf)</li></ul></div></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Speech-CIE-IATA-Africa-Aviation-Day.pdf" target="_blank">Statement by Dr Elham M.A. Ibrahim, Commissioner for Infrastructure and Energy</a> (pdf)</li></ul></div></div>
 <ul>
 <li><a href="/pressroom/pr/Pages/2013-04-16-01.aspx">Read press release</a></li></ul></div>
 </div>

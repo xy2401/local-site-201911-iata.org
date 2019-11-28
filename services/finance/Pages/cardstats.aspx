@@ -336,7 +336,7 @@ IATA CardStats
 <div class="introAndImage">
 </div>
 <h3 class="iataElement-Title3">Unique dashboard with drill-down capability</h3><p>BSP accounts for one third of all airline ticket sales paid by card worldwide.</p><p>The IATA CardStats report helps airlines to keep tabs on their activity by providing comprehensive information about their BSP card sales. </p><h3 class="iataElement-Title3">CardStats in short</h3><ul><li>A summary of an airline BSP card sales, split by card brand </li><li>A breakdown of those BSP card sales by region, BSP and country </li><li>A full list of individual records</li></ul><p>Download the
-<a href="/services/finance/Documents/CardStats_productsheet.pdf" target="_blank">CardStat brochure </a>(pdf).</p><h3 class="iataElement-Title3">See what IATA Card services can do for you</h3>
+<a href="https://www.iata.org/services/finance/Documents/CardStats_productsheet.pdf" target="_blank">CardStat brochure </a>(pdf).</p><h3 class="iataElement-Title3">See what IATA Card services can do for you</h3>
 <span>
 <div class="video-container">​<iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/eUx1SmVMNHM?wmode=transparent" frameborder="0"></iframe>&#160;</div></span> ​
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>

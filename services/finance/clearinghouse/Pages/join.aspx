@@ -337,16 +337,16 @@ How to join the IATA Clearing House
 </div>
 <h2>Who can join? </h2><p>All airlines&#160;are able to join the Clearing House. An airline is also able to join as a sponsored airline, subject to having an IATA&#160;member airline sponsor it. </p><p>Companies associated with the airline industry are also able to join the Clearing House as associate members, and as such are able to bill airlines for whom they provide a service subject to their being&#160;a consent form with the&#160;member airline. Associate membership terms vary depending on whether the applicant is an
 <a title="Link to IATA Strategic Partnership information" href="/about/sp/Pages/index.aspx">IATA Strategic Partner</a> or not. </p><p>Once the various documents are completed and signed&#160;you can send them by either e-mail or fax for review. There is an online training session as part of the application process.</p><h2>Application documents </h2><ul><li class="MsoNormal">
-<a href="/services/finance/clearinghouse/Documents/ich-iata-member-airline-application-Aug2015.pdf" target="_blank">IATA Member Airline</a> (pdf) </li><li class="MsoNormal">
-<a href="/services/finance/clearinghouse/Documents/ich-non-iata-member-airline-application-Aug2015.pdf" target="_blank">
+<a href="https://www.iata.org/services/finance/clearinghouse/Documents/ich-iata-member-airline-application-Aug2015.pdf" target="_blank">IATA Member Airline</a> (pdf) </li><li class="MsoNormal">
+<a href="https://www.iata.org/services/finance/clearinghouse/Documents/ich-non-iata-member-airline-application-Aug2015.pdf" target="_blank">
 <span lang="FR">Non-IATA Member Airline</span></a><span lang="FR"> (pdf) </span></li><li class="MsoNormal">
-<a href="/services/finance/clearinghouse/Documents/ich-sponsored-AIRLINE-Aug2015.pdf" target="_blank">Sponsored&#160;Airline</a> (pdf)</li><li class="MsoNormal">
-<a href="/services/finance/clearinghouse/Documents/ich-sponsored-ASSOCIATE-member-application-Aug2015.pdf" target="_blank">Sponsored&#160;Associate</a> (pdf)</li><li class="MsoNormal">
-<a href="/services/finance/clearinghouse/Documents/ich-associate-member-application-Aug2015.pdf" target="_blank">Associate Member - Strategic and Non-Strategic Partners</a> (pdf) </li><li class="MsoNormal">
-<a href="/services/finance/clearinghouse/Documents/ich-subsidiary-application-Aug2015.pdf" target="_blank">Associate Member - IATA Subsidiary</a> (pdf) </li><li class="MsoNormal">
-<a href="/services/finance/clearinghouse/Documents/ich-associate-aggregator-member-application-Aug2015.pdf" target="_blank">Associate Member - Aggregator and Affiliates</a> (pdf)</li></ul><p>
+<a href="https://www.iata.org/services/finance/clearinghouse/Documents/ich-sponsored-AIRLINE-Aug2015.pdf" target="_blank">Sponsored&#160;Airline</a> (pdf)</li><li class="MsoNormal">
+<a href="https://www.iata.org/services/finance/clearinghouse/Documents/ich-sponsored-ASSOCIATE-member-application-Aug2015.pdf" target="_blank">Sponsored&#160;Associate</a> (pdf)</li><li class="MsoNormal">
+<a href="https://www.iata.org/services/finance/clearinghouse/Documents/ich-associate-member-application-Aug2015.pdf" target="_blank">Associate Member - Strategic and Non-Strategic Partners</a> (pdf) </li><li class="MsoNormal">
+<a href="https://www.iata.org/services/finance/clearinghouse/Documents/ich-subsidiary-application-Aug2015.pdf" target="_blank">Associate Member - IATA Subsidiary</a> (pdf) </li><li class="MsoNormal">
+<a href="https://www.iata.org/services/finance/clearinghouse/Documents/ich-associate-aggregator-member-application-Aug2015.pdf" target="_blank">Associate Member - Aggregator and Affiliates</a> (pdf)</li></ul><p>
 <strong>How long is the application process?</strong></p><p>Once necessary documents and other requirements have been met, approval occurs within 30 days.&#160; </p><p>For more information on becoming an ICH Member, please contact our <a href="/customer-portal/Pages/index.aspx">Customer Service team</a>.<br></p><ul><li>
-<a href="/services/finance/clearinghouse/Documents/ich-members-list.pdf" target="_blank">ICH Member List</a>&#160;(pdf)
+<a href="https://www.iata.org/services/finance/clearinghouse/Documents/ich-members-list.pdf" target="_blank">ICH Member List</a>&#160;(pdf)
 </li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>

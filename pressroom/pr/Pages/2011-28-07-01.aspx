@@ -523,7 +523,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/German-PR-2011-07-28-01.pdf" target="_blank">German</a> (pdf)<br></li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/German-PR-2011-07-28-01.pdf" target="_blank">German</a> (pdf)<br></li></ul></div>
 </div>
 <div class='hide_element_948c91b4-5f85-40ff-b0d0-2d7224624f3e'></div><script type='text/javascript'>CTP.IATA.HideChrome('948c91b4-5f85-40ff-b0d0-2d7224624f3e')</script>
 <div class='hide_element_378bb811-d16a-4527-ad45-68e528c0c0bd'></div><script type='text/javascript'>CTP.IATA.HideChrome('378bb811-d16a-4527-ad45-68e528c0c0bd')</script>

@@ -341,7 +341,7 @@ Drones Innovation Weekend Outcomes
 <div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify"><iframe width="500" height="300" src="https&#58;//www.youtube.com/embed/oimgyps8nEI" frameborder="0"></iframe>&#160;</div><p>
 <br>
 </p>
-<ul><li>&#160;<a href="/whatwedo/cargo/stb/Documents/StB-Cargo-White-Paper-e-commerce.pdf">E-commerce whitepaper</a><br></li></ul>
+<ul><li>&#160;<a href="https://www.iata.org/whatwedo/cargo/stb/Documents/StB-Cargo-White-Paper-e-commerce.pdf">E-commerce whitepaper</a><br></li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>

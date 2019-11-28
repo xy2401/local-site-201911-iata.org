@@ -349,7 +349,7 @@ Desarrollar la capacidad técnica (el conocimiento de la industria de la Aviaci�
 <h3>Formato de curso</h3><ul>
 <li>Este curso presencial proporciona 5 días (40 horas) de instrucción por un Instructor oficial de IATA</li>
 <li> El rendimiento del estudiante se basará en un examen</li>
-</ul> <p> Este curso está disponible en <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank"> Centros de Formación IATA </a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank"> ubicaciones de formación regional de socios</a>, y por encargo como <a href="/training/delivery/Pages/in-company.aspx" target="_blank"> formación en empresa</a> </p><h3>Prerequisitos </h3><li>El nivel recomendado de competencia lingüística es <a href="http&#58;//www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf"> ICAO Nivel 4 operativo</a> para cursos en inglés o equivalente para otros idiomas.</li>
+</ul> <p> Este curso está disponible en <a href="https://www.iata.org/training/delivery/Pages/classroom-training-centers.aspx" target="_blank"> Centros de Formación IATA </a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank"> ubicaciones de formación regional de socios</a>, y por encargo como <a href="/training/delivery/Pages/in-company.aspx" target="_blank"> formación en empresa</a> </p><h3>Prerequisitos </h3><li>El nivel recomendado de competencia lingüística es <a href="http&#58;//www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf"> ICAO Nivel 4 operativo</a> para cursos en inglés o equivalente para otros idiomas.</li>
 </span></span>
 <h3></h3>
 <div id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_panTitle">

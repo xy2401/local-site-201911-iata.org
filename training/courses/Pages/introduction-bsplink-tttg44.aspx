@@ -395,7 +395,7 @@ Back-office personnel</li></ul>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_ConditionalPanel2_ctl00_TitleCertificateAwarded_lbTitle">Certificate awarded</span></h3>
 <div id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_ConditionalPanel2_ctl00_TitleCertificateAwarded_panTitle">
 </div>
-<p>An IATA Certificate is awarded upon successful completion of the final examination.</p><h3>Exam information</h3><a name="ExamInfo"></a> <p>Please read the <a href="/training/Pages/exam-information.aspx">General Information</a> on Partner-taught / Self-study exams, and check the <a href="/training/Documents/training-exam-course-edition-list.pdf">Course edition list for exams</a> when booking your exam.</p><ul>
+<p>An IATA Certificate is awarded upon successful completion of the final examination.</p><h3>Exam information</h3><a name="ExamInfo"></a> <p>Please read the <a href="https://www.iata.org/training/Pages/exam-information.aspx">General Information</a> on Partner-taught / Self-study exams, and check the <a href="/training/Documents/training-exam-course-edition-list.pdf">Course edition list for exams</a> when booking your exam.</p><ul>
 <li>Exam Delivery Method&#58; Non-supervised online-based exam. Exam can be taken any time at your convenience. </li>
 <li>Exam Format&#58; Multiple Choice questions</li>
 <li>Number of questions&#58; 25</li>

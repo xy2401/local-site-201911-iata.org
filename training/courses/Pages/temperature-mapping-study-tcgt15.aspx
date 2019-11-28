@@ -346,10 +346,10 @@ Temperature Mapping Study (Classroom, 3 days)
 <p>Temperature mapping is a process of identifying the differences and changes in temperature that occur within a designated storage area. A temperature mapping exercise for any new temperature-controlled storage area shall be carried out before its use, according to the international regulations such as WHO, EU Good Distribution Practices Guidelines (GDP) and International Society for Pharmacoepidemiology (ISPE).</p><p>During this course you will gain theoretical and practical knowledge on how to conduct a temperature mapping study related to storage areas designated for temperature-controlled healthcare products. </p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers and Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 3 days (24 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>Participants are recommended to have prior knowledge of GDP for pharma and healthcare products.</li><li>Recommended level is Management and Professional</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

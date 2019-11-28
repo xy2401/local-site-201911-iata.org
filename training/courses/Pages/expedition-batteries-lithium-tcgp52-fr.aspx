@@ -360,11 +360,11 @@ transport aérien de marchandises dangereuses. Ce cours est recommandé pour les
 et 3, conformément au tableau 1.5.A du DGR IATA.</p><p> Ce cours est disponible dans <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">les centres de formation IATA</a>, sur les sites des <a href="/training/Pages/regional_training_centres.aspx" target="_blank">partenaires de formation régionaux</a> et sur demande dans <a href="/training/delivery/Pages/in-company.aspx" target="_blank">le cadre de la formation intra-entreprise.</a></p>
 <h3>Format du cours</h3><ul>
 <li>Ce cours en salle fournit 2 jours (16 heures) d'instruction assurée par un instructeur officiel d'IATA</li>
-<li> Les performances des élèves seront évaluées lors d'un <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">évaluation</a> </li>
+<li> Les performances des élèves seront évaluées lors d'un <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">évaluation</a> </li>
 </ul><h3>Conditions préalables</h3><ul>
 <li>Il n'y a pas de pré-requis pour ce cours</li>
 <li> Le niveau recommandé est Débutant et Intermédiare</li>
-<li>Le niveau de compétence linguistique recommandé est <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">Niveau opérationnel ICAO 4 </a>pour les cours en anglais ou équivalent dans le cas des autres langues.</li>
+<li>Le niveau de compétence linguistique recommandé est <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">Niveau opérationnel ICAO 4 </a>pour les cours en anglais ou équivalent dans le cas des autres langues.</li>
 </ul>
 </span></span>
 <h3></h3>

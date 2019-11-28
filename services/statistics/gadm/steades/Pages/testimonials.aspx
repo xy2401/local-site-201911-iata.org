@@ -457,7 +457,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 STEADES now counts 100 members!
 </h2>
 <div class="hbContent">
-<a href="/services/statistics/gadm/steades/Documents/steades-members-2017-jan.pdf" target="_blank">STEADES Members list</a>&#160;(pdf)
+<a href="https://www.iata.org/services/statistics/gadm/steades/Documents/steades-members-2017-jan.pdf" target="_blank">STEADES Members list</a>&#160;(pdf)
 </div>
 </div>
 </a>

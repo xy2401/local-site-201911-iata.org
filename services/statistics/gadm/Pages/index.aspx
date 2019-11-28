@@ -425,7 +425,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 GADM Certification
 </h2>
 <div class="hbContent">
-<p>​<a href="/services/finance/Documents/iata-iso-certification-27001-2013.pdf" target="_blank">GADM is ISO 27000&#58;2013 certified</a> (pdf)</p>
+<p>​<a href="https://www.iata.org/services/finance/Documents/iata-iso-certification-27001-2013.pdf" target="_blank">GADM is ISO 27000&#58;2013 certified</a> (pdf)</p>
 </div>
 </div>
 </a>

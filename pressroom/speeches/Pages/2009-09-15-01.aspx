@@ -412,7 +412,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <a href="/iata/video/homepage/dg_press_briefing_sept15_washington.asx" target="_blank">Listen to the Q&amp;A audio</a>(wma)
 </li>
 <li>
-<a href="/pressroom/Documents/QA%20Session.pdf" target="_blank">Recap of the Q&amp;A Session</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/QA%20Session.pdf" target="_blank">Recap of the Q&amp;A Session</a> (pdf)
 </li>
 </ul></div>
 </div>

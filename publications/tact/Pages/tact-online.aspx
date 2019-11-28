@@ -337,10 +337,10 @@ TACT Online
 <p>​​​​​​​The&#160;Air Cargo Tariff and Rules (TACT) Online is an essential extension of
 <a href="/publications/tact/Pages/index.aspx">TACT </a>in a&#160;web version.&#160;You can now access&#160;air cargo rules, regulations, rates and charges to stay up-to-date and flexible in a world of ever-changing air cargo data — now, all online!<br></p><p>TACT Online now also gives access to the IATA Cargo Border Management Bulletins, Guidance on Sanctions and Export Risk Mitigation, and other topics of broad interest related to Customs or Security matters impacting air cargo.<br></p><p>
 <span aria-hidden="true"></span>Learn more in
-<a href="/publications/Documents/TACT-Online-Infographic.pdf" target="_blank">our infographic </a>(pdf).</p><h3 class="iataElement-Title3">
+<a href="https://www.iata.org/publications/Documents/TACT-Online-Infographic.pdf" target="_blank">our infographic </a>(pdf).</p><h3 class="iataElement-Title3">
 <a href="https&#58;//www.tact-online.org/OrderForm" target="_blank">
 <strong class="ms-rteThemeForeColor-2-5 ms-rteThemeFontFace-2">Order&#160;TACT&#160;now!</strong></a><br></h3><p>Please see our
-<a href="/publications/Documents/TACT_2020_Price_List.pdf" target="_blank">pricelist</a>&#160;(pdf)&#160;and
+<a href="https://www.iata.org/publications/Documents/TACT_2020_Price_List.pdf" target="_blank">pricelist</a>&#160;(pdf)&#160;and
 <a href="mailto&#58;AMS-CDS@indp.iata.org?Subject=www.iata.org&#58;%20Order%20of%20TACT%20Products">contact us</a> if you have any questions about it!<br></p>
 </div>
 <div class="video-container">

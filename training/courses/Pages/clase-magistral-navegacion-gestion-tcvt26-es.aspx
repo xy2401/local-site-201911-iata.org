@@ -358,10 +358,10 @@ tránsito aéreo para los próximos 15 años que coincida con los objetivos del
 GATMOC.</p><p> Este curso está disponible en <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank"> Centros de Formación IATA </a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank"> Ubicaciones de Formación Regional de Socios</a>, y por encargo como <a href="/training/delivery/Pages/in-company.aspx" target="_blank"> formación en empresa</a> </p>
 <h3>Formato de curso</h3><ul>
 <li>Este curso presencial proporciona 5 días (40 horas) de instrucción por un Instructor oficial de IATA</li>
-<li> El rendimiento del estudiante se basará en una <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">evaluación</a></li>
+<li> El rendimiento del estudiante se basará en una <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">evaluación</a></li>
 </ul> <h3>Prerequisitos </h3><ul>
 <li>Los participantes deben haber tomado previamente el curso “<a href="/training/courses/Pages/tcvt24.aspx">Introducción</a><a href="/training/courses/Pages/tcvt24.aspx">a CNS/ATM</a>” (TCVT-24)</li><li>El nivel recomendado es Intermedio, Dirección</li>
-<li> El nivel recomendado de competencia lingüística es <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf"> ICAO Nivel 4 operativo</a> para cursos en inglés o equivalente para otros idiomas.</li>
+<li> El nivel recomendado de competencia lingüística es <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf"> ICAO Nivel 4 operativo</a> para cursos en inglés o equivalente para otros idiomas.</li>
 </ul>
 </span></span>
 <h3></h3>

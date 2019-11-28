@@ -361,7 +361,7 @@ Revised Forecast for Airline Financial Performance - 2006 Losses Reduced to US$2
 <li><a href="/pressroom/speeches/Pages/2006-03-22-02.aspx">Full text of Bisignani's remarks to the Wings Club.</a> </li>
 <li>IATA's previous forecast was issued in December 2005. At that time 2006 losses were estimated with a fuel price of US$53 per barrel (Brent). For 2007 the forecasted price of oil remains the same at US$52 per barrel based on an expectation of reduced demand. </li>
 <li>Labour, as a percentage of operating cost is 33% in the US, 30% in Europe and 19% in Asia-Pacific. </li>
-<li>The <a href="/whatwedo/Documents/economics/BCS_Jan_11.pdf" target="_blank">IATA Airline Business Confidence Index</a> is a quarterly survey of IATA member airline CFOs surveyed. </li>
+<li>The <a href="https://www.iata.org/whatwedo/Documents/economics/BCS_Jan_11.pdf" target="_blank">IATA Airline Business Confidence Index</a> is a quarterly survey of IATA member airline CFOs surveyed. </li>
 <li>The number of airlines expecting a decline in profits was 37.3% for the past three months whereas only 10.2% expect a decline over the next 12 months.</li></ol>
 <p>&#160;</p>
 <p>&#160;</p>

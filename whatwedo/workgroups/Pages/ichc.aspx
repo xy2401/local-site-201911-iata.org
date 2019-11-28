@@ -339,7 +339,7 @@ IATA Cargo Handling Consultative Council (ICHC)
 <span>Improve IATA manuals linked to cargo operations, such&#160;as the <a href="/publications/store/Pages/airport-handling-manual.aspx">Airport Handling Manual (AHM)</a></span></li><li>
 <span>Overlook the IATA training courses covering the acceptance, handling and uplifting of air cargo and mail</span></li><li>
 <span>Review the standards on cargo electronic messaging regarding cargo handling activities, such as <span> <a href="/whatwedo/cargo/e/Pages/cargo-xml.aspx" target="_blank">Cargo-XML</a></span></span></li><li>Streamline core cargo operations in&#160;the new <a href="/publications/store/Pages/iata-cargo-handling-manual.aspx" target="_blank">IATA Cargo Handling Manual (ICHM) </a></li></ul><p>
-<span>Check the </span> <a href="/whatwedo/workgroups/Documents/ichc-terms-of-reference.pdf" target="_blank">ICHC&#160;Terms of Reference</a> (pdf)</p><h3>Meeting Schedule</h3><p>Meetings are conducted by regular teleconferences. Face-to-face meetings will be held when required.</p><h3>Membership</h3><p>The ICHC consists&#160;of 16 members (8 airline members and 8 ground handling members), each being an expert in cargo operations, Cargo EDI messaging standards&#160;and&#160;mail operations.</p><h3>Contact</h3><p>
+<span>Check the </span> <a href="https://www.iata.org/whatwedo/workgroups/Documents/ichc-terms-of-reference.pdf" target="_blank">ICHC&#160;Terms of Reference</a> (pdf)</p><h3>Meeting Schedule</h3><p>Meetings are conducted by regular teleconferences. Face-to-face meetings will be held when required.</p><h3>Membership</h3><p>The ICHC consists&#160;of 16 members (8 airline members and 8 ground handling members), each being an expert in cargo operations, Cargo EDI messaging standards&#160;and&#160;mail operations.</p><h3>Contact</h3><p>
 <strong>Secretary</strong><br><a href="mailto&#58;cargo@iata.org" target="_blank">Andre Majeres</a><br>Manager, Cargo &amp; Mail Operations and Standards, IATA</p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
@@ -436,7 +436,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <p>
 <a href="/whatwedo/cargo/Pages/cargo-operations.aspx"></a>
 <a href="/whatwedo/cargo/Pages/index.aspx">IATA Cargo</a></p><p>
-<a href="/whatwedo/cargo/stb/Documents/StB-Cargo-White-Paper-e-commerce.pdf" target="_blank">Air cargo serving e-commerce white paper</a>&#160;(pdf)</p>
+<a href="https://www.iata.org/whatwedo/cargo/stb/Documents/StB-Cargo-White-Paper-e-commerce.pdf" target="_blank">Air cargo serving e-commerce white paper</a>&#160;(pdf)</p>
 <div class="newst">
 <div><h2>Cargo Solutions</h2></div></div><ul><li></li><li>
 <a href="/publications/store/Pages/cargo-agency-conference-resolution-manual.aspx">CSC Resolutions Manual</a> </li><li>

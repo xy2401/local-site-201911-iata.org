@@ -346,10 +346,10 @@ Air Transportation Management (Classroom, 5 days)
 </div>
 <p>Get a head start in the industry with this insider’s view of the air transportation system.</p><p>Review aviation-related businesses and organizations and the role they play in shaping the industry. Polish your management and presentation skills while working with experienced instructors and class peers on a unique course integration exercise.</p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers and Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
-<li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li><li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li><li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li><li>Recommended level is Entry-level and Management</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

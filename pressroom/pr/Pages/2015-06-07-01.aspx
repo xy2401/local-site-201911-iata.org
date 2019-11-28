@@ -429,7 +429,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">
 <p>Translation</p>
 <ul>
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2015-06-07-01.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2015-06-07-01.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul>
 <img width="150" height="150" alt="Media Briefing on the state of LatAm aviation" src="https&#58;//c1.staticflickr.com/9/8857/18582694081_f8db9ebe16_q.jpg" /></div>
 </div>
 <div class='hide_element_b2f6c855-b6c4-4b98-ad38-a320fb7b7f5a'></div><script type='text/javascript'>CTP.IATA.HideChrome('b2f6c855-b6c4-4b98-ad38-a320fb7b7f5a')</script>

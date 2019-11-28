@@ -481,7 +481,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <a href="/services/accreditation/tids/Pages/faq.aspx" target="_blank">Frequently Asked Questions​</a> </p><p>
 <strong>IATAN</strong><a href="http&#58;//www.iatan.org/accreditation/idcard/Pages/default.aspx" target="_blank">for US Travel Professionals</a> </p><p><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/25_.000"><a href="/services/accreditation/idcard/Pages/index.aspx"><img alt="IATA-IATAN-ID-CARD.gif" src="/PublishingImages/IATA-IATAN-ID-CARD.gif" style="margin&#58;5px;" /></a></span> </p><p>
 <a href="http&#58;//www.agentexperience.com/" target="_blank"> AgentExperience</a> </p><p>
-<a href="/services/accreditation/idcard/Documents/2018-10-AEXP-Info-Flash.pdf" target="_blank">ID Card Info Flash Oct 2018</a><br></p><p>
+<a href="https://www.iata.org/services/accreditation/idcard/Documents/2018-10-AEXP-Info-Flash.pdf" target="_blank">ID Card Info Flash Oct 2018</a><br></p><p>
 <strong>CheckACode​</strong><br><a href="https&#58;//www.checkacode.com/" target="_blank">Validate your ID Card</a> </p><p>
 <strong>Join us at these events</strong></p><p>
 <a href="https&#58;//international.travelsmg.com/" target="_blank">Travel Agent Forum</a><br>Cancun, Oct 15-18</p>

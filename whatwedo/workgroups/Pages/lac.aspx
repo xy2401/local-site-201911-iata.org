@@ -350,24 +350,24 @@ Legal Advisory Council
 <ul>
 <li><a href="/publications/store/Pages/essential-documents-on-international-air-carrier-liability.aspx">Essential Documents on International Air Carrier Liability</a>
 </li>
-<li><a href="/whatwedo/workgroups/Documents/legal/iata-arbitration-rules.pdf" target="_blank">IATA Arbitration Rules</a> (pdf)
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/legal/iata-arbitration-rules.pdf" target="_blank">IATA Arbitration Rules</a> (pdf)
 </li>
-<li><a href="/whatwedo/workgroups/Documents/legal/mia-signatory-list.pdf" target="_blank">MIA Signatory List </a>(pdf)
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/legal/mia-signatory-list.pdf" target="_blank">MIA Signatory List </a>(pdf)
 </li>
-<li><a href="/whatwedo/workgroups/Documents/legal/introductory-text-documentary-practices.pdf" target="_blank">Documentary Practices</a> (pdf)<br></li><li><a href="/whatwedo/workgroups/Documents/Legal/iata-cfm-agreement-on-engine-maintenance.pdf" target="_blank">IATA-CFM Agreement on Engine Maintenance&#58; IATA's Guide to Key Principles</a> (pdf)<br></li></ul><h3 class="iataElement-Title3">Statement</h3><ul><li><a href="/whatwedo/workgroups/Documents/legal-statement-ticket-flexibility-contracts-de.pdf" target="_blank">Observations on ticket flexibility in air transport contracts</a>&#160;- in German (pdf)<br></li></ul>
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/legal/introductory-text-documentary-practices.pdf" target="_blank">Documentary Practices</a> (pdf)<br></li><li><a href="/whatwedo/workgroups/Documents/Legal/iata-cfm-agreement-on-engine-maintenance.pdf" target="_blank">IATA-CFM Agreement on Engine Maintenance&#58; IATA's Guide to Key Principles</a> (pdf)<br></li></ul><h3 class="iataElement-Title3">Statement</h3><ul><li><a href="/whatwedo/workgroups/Documents/legal-statement-ticket-flexibility-contracts-de.pdf" target="_blank">Observations on ticket flexibility in air transport contracts</a>&#160;- in German (pdf)<br></li></ul>
 <h3>User's guides and commentaries</h3>
 <ul>
-<li><a href="/whatwedo/workgroups/Documents/legal/commentary-master-aircraft-lease-novation-anda-assignment-assumption-amendment-agreement.pdf" target="_blank">Master Aircraft Lease Novation Agreement Commentary</a> (pdf)
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/legal/commentary-master-aircraft-lease-novation-anda-assignment-assumption-amendment-agreement.pdf" target="_blank">Master Aircraft Lease Novation Agreement Commentary</a> (pdf)
 </li>
-<li><a href="/whatwedo/workgroups/Documents/legal/commentary-master-used-aircraft-purchase-agreement.pdf" target="_blank">Master Used Aircraft Purchase Agreement Commentary</a> (pdf)
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/legal/commentary-master-used-aircraft-purchase-agreement.pdf" target="_blank">Master Used Aircraft Purchase Agreement Commentary</a> (pdf)
 </li>
-<li><a href="/whatwedo/workgroups/Documents/legal/commentary-warranty-assignment-and-consent-variant1.pdf" target="_blank">Warranty Assignment and Consent Commentary (variant 1)</a> (pdf)
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/legal/commentary-warranty-assignment-and-consent-variant1.pdf" target="_blank">Warranty Assignment and Consent Commentary (variant 1)</a> (pdf)
 </li>
-<li><a href="/whatwedo/workgroups/Documents/legal/commentary-warranty-assignment-and-consent-variant2.pdf" target="_blank">Warranty Assignment and Consent Commentary (variant 2)</a> (pdf)
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/legal/commentary-warranty-assignment-and-consent-variant2.pdf" target="_blank">Warranty Assignment and Consent Commentary (variant 2)</a> (pdf)
 </li>
-<li><a href="/whatwedo/workgroups/Documents/legal/commentary-steel.pdf" target="_blank">Master Short-Term Engine Lease Agreement Commentary</a> (pdf)
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/legal/commentary-steel.pdf" target="_blank">Master Short-Term Engine Lease Agreement Commentary</a> (pdf)
 </li>
-<li><a href="/whatwedo/workgroups/Documents/legal/commentary-engine-title-recognition-agreement.pdf" target="_blank">Engine Title Recognition Agreement Commentary</a> (pdf)​</li></ul>
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/legal/commentary-engine-title-recognition-agreement.pdf" target="_blank">Engine Title Recognition Agreement Commentary</a> (pdf)​</li></ul>
 <h3>Agreements' template documents</h3>
 <ul>
 <li><a href="/whatwedo/workgroups/Documents/legal/engine-title-recognition-agreement.DOC" target="_blank">Engine Title Recognition Agreement</a> (doc)
@@ -395,7 +395,7 @@ Legal Advisory Council
 <li><a href="/whatwedo/workgroups/Documents/legal/warranty-assignment-variant2.DOC" target="_blank">Warranty Assignment and Consent (variant 2)</a> (doc)
 </li>
 <li><a href="/whatwedo/workgroups/Documents/legal/intercarrier-agreement-passenger-liability-feb09.doc" target="_blank">Intercarrier Agreement on Passenger Liability</a> (doc)</li>
-<li><a href="/whatwedo/workgroups/Documents/master-airframe-maintenance-agreement.pdf" target="_blank">Master Airframe Maintenance Agreement​</a>&#160;(pdf)</li></ul>
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/master-airframe-maintenance-agreement.pdf" target="_blank">Master Airframe Maintenance Agreement​</a>&#160;(pdf)</li></ul>
 <h3>Private Site </h3>
 <p>The private site is a repository of items of interest for legal officials of IATA members. Agenda items for the meeting of the Legal Forum are also posted on the private site, along with copies of periodic updates. For access, please contact us&#160;at <a href="mailto&#58;lc@iata.org">lc@iata.org</a>. Please note that access is available only to IATA members. </p>
 <h3>Secretary </h3>

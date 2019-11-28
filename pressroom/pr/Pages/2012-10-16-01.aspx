@@ -358,7 +358,7 @@ Bringing Greater Value to Air Travel - IATA Calls for a Collaborative Approach t
 <p>“Airlines are trying to escape the commoditization trap through differentiation, and merchandizing. They are developing products and services, such as special meals, expedited boarding, roomier seats and access to airport lounges. But the travel agent sees only fare codes—F, J, Y and their various derivatives—which cannot fully describe options available. Customers expect more. The solution is the NDC powered by open XML standards. This will enable innovation in the way airline products are distributed. One key outcome will be closing of the gap between airlines and their customers so that customized offers can be made to travelers even through travel agents,” said Tyler.</p>
 <p>IATA’s role is to lead the industry to adopt a new, modern infrastructure that will accommodate more choices for personalized travel offers, provide the foundation for the development of efficient tools for agents and lower the overall cost of distribution. To this end, IATA will propose a roadmap and business case for the NDC. “We expect to complete the Standards definition next year. Then competition and travelers’ needs will guide airlines, agents, system providers and new entrants with tremendous opportunities for innovation. Forty years after the birth of the current distribution paradigm, we have an opportunity for a revolution in airline retailing,” said Tyler.</p><a href="/pressroom/speeches/Pages/2012-10-16-01.aspx">
 <p>Read Tony Tyler's remarks</p>
-</a><p><a href="/pressroom/speeches/Pages/2012-10-16-01.aspx"></a><a href="/pressroom/pr/Documents/H.E.-Sheikh-Nahayan-WPS-Comments-2012-10-16-01.pdf" target="_blank">Read the comments from H.E. Sheikh Nahayan</a> (pdf)<br></p>
+</a><p><a href="https://www.iata.org/pressroom/speeches/Pages/2012-10-16-01.aspx"></a><a href="/pressroom/pr/Documents/H.E.-Sheikh-Nahayan-WPS-Comments-2012-10-16-01.pdf" target="_blank">Read the comments from H.E. Sheikh Nahayan</a> (pdf)<br></p>
 <p><strong>For more information, please contact</strong>&#58;<br>Corporate Communications<br>Tel&#58; <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1">+41 22 770 2967<a title="Call&#58; +41 22 770 2967" href="#"><img title="Call&#58; +41 22 770 2967" alt="" style="border-width&#58;medium;border-style&#58;none;border-color&#58;initial;margin&#58;0px;width&#58;16px;bottom&#58;0px;display&#58;inline;white-space&#58;nowrap;float&#58;none;height&#58;16px;vertical-align&#58;middle;overflow&#58;hidden;top&#58;0px;right&#58;0px;left&#58;0px;position&#58;static !important;" /></a></span><br>Email&#58; <a href="mailto&#58;corpcomms@iata.org">corpcomms@iata.org</a></p>
 <p><strong>Notes for Editors</strong>&#58;</p>
 <ul>
@@ -435,7 +435,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Russian-PR-2012-10-16-01.pdf" target="_blank">Russian</a>&#160;(pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Russian-PR-2012-10-16-01.pdf" target="_blank">Russian</a>&#160;(pdf)</li></ul></div>
 </div>
 <div class='hide_element_7c4882eb-d4bd-4b53-b66d-551004add20f'></div><script type='text/javascript'>CTP.IATA.HideChrome('7c4882eb-d4bd-4b53-b66d-551004add20f')</script>
 <div class='hide_element_cc45166c-668b-4cab-a67f-19732843d8bc'></div><script type='text/javascript'>CTP.IATA.HideChrome('cc45166c-668b-4cab-a67f-19732843d8bc')</script>

@@ -428,7 +428,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 Important Note to Travel Agents
 </h2>
 <div class="hbContent">
-<a href="/services/accreditation/Documents/CreditCardFraud.pdf" target="_blank">Credit Card Fraud </a>(pdf)
+<a href="https://www.iata.org/services/accreditation/Documents/CreditCardFraud.pdf" target="_blank">Credit Card Fraud </a>(pdf)
 </div>
 </div>
 </a>

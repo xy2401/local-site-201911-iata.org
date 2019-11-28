@@ -470,9 +470,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><a title="Tony Tyler, IATA, opens the IATA AGM by IATA International Air Transport Association, on Flickr" href="https&#58;//www.flickr.com/photos/iataorg/18417752430"><img width="150" height="150" alt="Tony Tyler, IATA, opens the IATA AGM" src="https&#58;//c1.staticflickr.com/1/294/18417752430_7030ca7489_q.jpg" /></a>
 <p>Translations</p>
 <ul style="width&#58;150px;height&#58;62px;">
-<li><a href="/pressroom/pr/Documents/Chinese-PR-2015-06-08-03.pdf" target="_blank">Chinese</a>&#160;(pdf)</li>
-<p><a href="/pressroom/pr/Documents/French-PR-2015-06-08-03.pdf" target="_blank">French</a> (pdf)</p>
-<p><a href="/pressroom/pr/Documents/Spanish-PR-2015-06-08-03.pdf" target="_blank">Spanish</a> (pdf)</p></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Chinese-PR-2015-06-08-03.pdf" target="_blank">Chinese</a>&#160;(pdf)</li>
+<p><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2015-06-08-03.pdf" target="_blank">French</a> (pdf)</p>
+<p><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2015-06-08-03.pdf" target="_blank">Spanish</a> (pdf)</p></ul>
 </div>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">

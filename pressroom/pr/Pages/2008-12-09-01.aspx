@@ -436,16 +436,16 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <ul>
 <li>
-<a href="/pressroom/Documents/Chinese_PR_2008_12_09_01.pdf" target="_blank">Chinese</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/Chinese_PR_2008_12_09_01.pdf" target="_blank">Chinese</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/FRENCH_PR_2008_12_09_01.pdf" target="_blank">French</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/FRENCH_PR_2008_12_09_01.pdf" target="_blank">French</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/German_PR_2008_12_09_01.pdf" target="_blank">German</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/German_PR_2008_12_09_01.pdf" target="_blank">German</a> (pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Italian_PR_2008_12_09_01.pdf" target="_blank">Italian</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/Italian_PR_2008_12_09_01.pdf" target="_blank">Italian</a> (pdf)
 </li>
 </ul></div>
 </div>

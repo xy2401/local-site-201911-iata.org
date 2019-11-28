@@ -350,7 +350,7 @@ RAMPVR Virtual Reality Training Tool
 <img alt="RampVR Virtual Reality for Ground Operations" src="/training/Logos/RAMPVR-logo-72dpiRGB.jpg" style="width&#58;294px;height&#58;49px;" />
 <p>
 <br>Modules available&#58; </p><ul><li>Aircraft Turnaround Inspection</li><li>Aircraft Marshalling</li><li>Passenger Boarding Bridge Operations</li><li>Aircraft Pushback Process and Operations</li></ul><h3>Whitepaper</h3><p>
-<a href="/training/Documents/IATA-VR-for-Ground-Operations-Whitepaper.pdf" target="_blank">What Virtual Reality (VR) means for Ground Operations</a> (pdf)<br></p><p>We share the experience and results of full implementation of the VR tool in ground operations. Fraport Ground Services integrated IATA’s RampVR in training for new and existing ramp employees.</p><div><p>This whitepaper aims to&#58; </p><ul><li>Lay out the challenges to the adoption of VR in training; </li><li>Explain the benefits of VR training through a case study with tangible results; </li><li>Trigger interest and stimulate exchange on the topic within the air transport innovation community.</li></ul><p>
+<a href="https://www.iata.org/training/Documents/IATA-VR-for-Ground-Operations-Whitepaper.pdf" target="_blank">What Virtual Reality (VR) means for Ground Operations</a> (pdf)<br></p><p>We share the experience and results of full implementation of the VR tool in ground operations. Fraport Ground Services integrated IATA’s RampVR in training for new and existing ramp employees.</p><div><p>This whitepaper aims to&#58; </p><ul><li>Lay out the challenges to the adoption of VR in training; </li><li>Explain the benefits of VR training through a case study with tangible results; </li><li>Trigger interest and stimulate exchange on the topic within the air transport innovation community.</li></ul><p>
 <img src="/training/Logos/fraport.jpg" alt="" style="margin&#58;0px;" />
 <br>
 <strong>
@@ -384,8 +384,8 @@ News
 </p></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel3" class="ajax__tab_panel" style="display:none;">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel3_DisplayIATATabContent3_label" style='display:none'>IATATabContent3</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel3_DisplayIATATabContent3__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel3_DisplayIATATabContent3_label"><p>
-<a title="Click to download the Media Clips about our RampVR  program" href="/training/Documents/RampVR-in-the-Media.pdf" target="_blank">
-<img class="ms-rteImage-2 ms-rtePosition-1" src="/training/PublishingImages/rampvr-media-clips-web.jpg" alt="" style="margin&#58;5px;width&#58;150px;height&#58;113px;" /></a></p><p>Find out about the latest developments in IATA's RAMPVR program | <a href="/training/Documents/RampVR-in-the-Media.pdf" target="_blank">Download the RAMPVR media clips​ </a>(pdf)</p></div>
+<a title="Click to download the Media Clips about our RampVR  program" href="https://www.iata.org/training/Documents/RampVR-in-the-Media.pdf" target="_blank">
+<img class="ms-rteImage-2 ms-rtePosition-1" src="/training/PublishingImages/rampvr-media-clips-web.jpg" alt="" style="margin&#58;5px;width&#58;150px;height&#58;113px;" /></a></p><p>Find out about the latest developments in IATA's RAMPVR program | <a href="https://www.iata.org/training/Documents/RampVR-in-the-Media.pdf" target="_blank">Download the RAMPVR media clips​ </a>(pdf)</p></div>
 </div>
 </div>
 </div>
@@ -472,9 +472,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>
 <a href="https&#58;//www.internationalairportreview.com/international-airport-review-awards-2017/?target=airside-operations"><img src="/training/Icons/IARA17Winner.png" alt="" style="margin&#58;0px;" /></a></p><p>
-<a title="Download the RampVR brochure" href="/training/Documents/brochure-rampvr.pdf">
+<a title="Download the RampVR brochure" href="https://www.iata.org/training/Documents/brochure-rampvr.pdf">
 <img alt="Download the RampVR brochure" src="/training/PublishingImages/rampvr-brochure.PNG" style="margin&#58;0px;" /></a>
-<a href="/training/Documents/brochure-rampvr.pdf">Download the RAMPVR brochure</a></p><p>
+<a href="https://www.iata.org/training/Documents/brochure-rampvr.pdf">Download the RAMPVR brochure</a></p><p>
 <a href="/events/Pages/avars.aspx">Aviation Virtual and Augmented Reality Summit<br>Crans-Montana, CH<br>
 7 - 9 Sept</a><br></p><p>
 <strong>Airlines International</strong><a href="http&#58;//airlines.iata.org/news/rampvr-to-revolutionize-ground-operations-training" target="_blank">RampVR to revolutionize ground operations training</a>(June 2017)</p><p>

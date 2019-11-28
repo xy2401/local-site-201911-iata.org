@@ -442,7 +442,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 Translation</div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/French-PR-2015-06-09-04.pdf" target="_blank">French</a>&#160;(pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2015-06-09-04.pdf" target="_blank">French</a>&#160;(pdf)</li></ul>
 <div id="__publishingReusableFragmentIdSection">&#160;</div>
 <p><a title="Closing Press Conference by IATA International Air Transport Association, on Flickr" href="https&#58;//www.flickr.com/photos/iataorg/18028088783"><img width="150" height="150" alt="Closing Press Conference" src="https&#58;//c1.staticflickr.com/1/368/18028088783_af50d362f0_q.jpg" /></a> <a title="Conesa Aeromexico by IATA International Air Transport Association, on Flickr" href="https&#58;//www.flickr.com/photos/iataorg/18028089503"><img width="150" height="150" alt="Conesa Aeromexico" src="https&#58;//c1.staticflickr.com/1/507/18028089503_67c239532e_q.jpg" /></a> </p>
 <p></p></div>

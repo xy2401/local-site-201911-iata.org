@@ -343,9 +343,9 @@ Prorate Agency
 <p>Signatory airlines are permitted to vote at prorate meetings. Non-signatories can attend prorate meetings, but cannot vote. Not being able to vote can negatively affect your interline yield as a result of decisions made at prorate meetings.</p>
 <h3>How to Become a Signatory</h3>
 <ul>
-<li><a href="/services/finance/Documents/prorate-agency-agreement.pdf" target="_blank">Prorate Agency Agreement</a>&#160;(pdf) </li>
-<li><a href="/services/finance/Documents/multilateral-proration-agreement.pdf" target="_blank">Multilateral Proration Agreement - Passenger</a>&#160;(pdf) </li>
-<li><a href="/services/finance/Documents/multilateral-proration-agreement-cargo.pdf" target="_blank">Multilateral Proration Agreement - Cargo</a>&#160;(pdf) </li></ul>
+<li><a href="https://www.iata.org/services/finance/Documents/prorate-agency-agreement.pdf" target="_blank">Prorate Agency Agreement</a>&#160;(pdf) </li>
+<li><a href="https://www.iata.org/services/finance/Documents/multilateral-proration-agreement.pdf" target="_blank">Multilateral Proration Agreement - Passenger</a>&#160;(pdf) </li>
+<li><a href="https://www.iata.org/services/finance/Documents/multilateral-proration-agreement-cargo.pdf" target="_blank">Multilateral Proration Agreement - Cargo</a>&#160;(pdf) </li></ul>
 <h3>Manuals</h3>
 <ul>
 <li><a href="/publications/Pages/prorate-passenger.aspx">Electronic Prorate Manual Passenger (ePMP)</a> </li>

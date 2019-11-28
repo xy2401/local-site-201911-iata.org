@@ -581,7 +581,7 @@ Comply with PCI-DSS
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​<a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-iata-agency-program.pdf" target="_blank">Fact sheet&#58; IATA Passenger Agency Program</a> (pdf)<br></p></div>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​<a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-iata-agency-program.pdf" target="_blank">Fact sheet&#58; IATA Passenger Agency Program</a> (pdf)<br></p></div>
 </div>
 <div class='hide_element_8a0a7768-ef95-48c9-90e6-09f72071e411'></div><script type='text/javascript'>CTP.IATA.HideChrome('8a0a7768-ef95-48c9-90e6-09f72071e411')</script>
 <div class='crossLinksExploreMore'>

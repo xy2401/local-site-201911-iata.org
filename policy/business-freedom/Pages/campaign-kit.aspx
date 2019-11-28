@@ -337,8 +337,8 @@ Business of Freedom Campaign Kit
 <p>The economic and social benefits of aviation is a critical component of our industry communications. <br> <br>Please see below some video and print adverts/posters which are available rights-free for airlines to use in their communications channels, including in-flight entertainment, social media, and in-flight magazines. We can add your airline logo to the video and adverts if you wish.​</p><p><a href="mailto&#58;corpcomms@iata.org">Contact us</a> for more information.</p>
 </div>
 <h3 class="iataElement-Title3">Posters</h3><p>
-<span><span class="wrappedImageLeft"><a href="/policy/business-freedom/Documents/business-of-freedom-posters.pdf" target="_blank"><img src="/policy/business-freedom/PublishingImages/BoF-poster.jpg" alt="" style="width&#58;150px;height&#58;200px;" /></a></span></span></p><p>
-&#160;&#160;&#160;<a href="/policy/business-freedom/Documents/business-of-freedom-posters.pdf" target="_blank">Business of Freedom&#160;posters</a> (pdf)</p><p>
+<span><span class="wrappedImageLeft"><a href="https://www.iata.org/policy/business-freedom/Documents/business-of-freedom-posters.pdf" target="_blank"><img src="/policy/business-freedom/PublishingImages/BoF-poster.jpg" alt="" style="width&#58;150px;height&#58;200px;" /></a></span></span></p><p>
+&#160;&#160;&#160;<a href="https://www.iata.org/policy/business-freedom/Documents/business-of-freedom-posters.pdf" target="_blank">Business of Freedom&#160;posters</a> (pdf)</p><p>
 <br>
 </p><p>
 <br>

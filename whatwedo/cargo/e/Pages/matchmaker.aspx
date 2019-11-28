@@ -339,7 +339,7 @@ e-Cargo Matchmaker
 </div>
 <h2>Connecting e-Cargo partners</h2>
 <p>The e-Cargo Matchmaker is a free web-based tool&#160;offering e-freight and e-AWB stakeholders easier and more flexible access to the list of live airports, locations, airlines, freight forwarders and ground handling agents.&#160;</p>
-<p>For more information, download the <a href="/whatwedo/cargo/e/Documents/eCargo-matchmaker-user-guide.pdf" target="_blank">e-Cargo Matchmaker User Guide </a>(pdf).</p>
+<p>For more information, download the <a href="https://www.iata.org/whatwedo/cargo/e/Documents/eCargo-matchmaker-user-guide.pdf" target="_blank">e-Cargo Matchmaker User Guide </a>(pdf).</p>
 <h3>Objectives and benefits</h3>
 <ul>
 <li><strong>Increases visibility</strong>&#58; at a click of a mouse all e-freight and e-AWB participants&#160;have access to&#160;information on live locations, airports, airlines, freight forwarders and ground handling agents&#160;</li>

@@ -374,7 +374,7 @@ also </span><span>lists all of the companies which have been
 compliance to safeguard pharmaceutical product integrity.</span></p>
 <p>The information in this board originates from Independent Validators and has last been updated on the date shown above.</p>
     <p><strong>Important&#58;</strong> Please note that IATA does not warrant that the information contained in the bulletin board is fully up-to-date. The board cannot be considered an official nor exhaustive list of the entities designated by Independent Validators. Please refer to the <a href="/whatwedo/cargo/security/ceiv/Pages/terms.aspx">Terms of Reference​</a>.</p>
-<p><strong>Access the </strong><a href="/whatwedo/cargo/security/ceiv/Documents/IV%27s_Bulletin_Board_User_Guide.pdf" target="_blank"><strong>Bulletin Board User Guide​</strong></a>&#160;(pdf)</p>
+<p><strong>Access the </strong><a href="https://www.iata.org/whatwedo/cargo/security/ceiv/Documents/IV%27s_Bulletin_Board_User_Guide.pdf" target="_blank"><strong>Bulletin Board User Guide​</strong></a>&#160;(pdf)</p>
 
 					
 	            

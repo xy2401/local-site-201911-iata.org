@@ -460,7 +460,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <p>&#160;</p>
 <p>
 &#160;</p><div class="newstg">
-<div><a href="/pressroom/pr/Documents/H.E.-Sheikh-Nahayan-WPS-Comments-2012-10-16-01.pdf" target="_blank">Read the comments from H.E. Sheikh Nahayan</a>&#160;(pdf) </div></div>
+<div><a href="https://www.iata.org/pressroom/pr/Documents/H.E.-Sheikh-Nahayan-WPS-Comments-2012-10-16-01.pdf" target="_blank">Read the comments from H.E. Sheikh Nahayan</a>&#160;(pdf) </div></div>
 <p>&#160;</p></div>
 </div>
 <div class='hide_element_14a7bbbc-c875-477a-918b-2b508b5947a0'></div><script type='text/javascript'>CTP.IATA.HideChrome('14a7bbbc-c875-477a-918b-2b508b5947a0')</script>

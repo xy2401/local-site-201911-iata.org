@@ -440,7 +440,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </p><p>
 <a href="http&#58;//extranet2.iata.org/sites/focwg/default.aspx" target="_blank">Login (external users)</a> </p><p>
 <a href="http&#58;//www2.iata.org/registration/getemailpage.aspx?siteurl=focwg" target="_blank">Registration (external users only)</a>
-</p><p><a href="/whatwedo/workgroups/Documents/DISCLAIMER3-IROA.pdf">Disclaimer - IROA</a></p><p>
+</p><p><a href="https://www.iata.org/whatwedo/workgroups/Documents/DISCLAIMER3-IROA.pdf">Disclaimer - IROA</a></p><p>
 <strong>Info Links</strong>
 <a href="http&#58;//www.icao.int/" target="_blank">ICAO</a>
 <a href="http&#58;//www.jaa.nl/" target="_blank">JAA</a>

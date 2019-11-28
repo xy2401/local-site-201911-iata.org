@@ -424,8 +424,8 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations of the Press Release</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/documents/Chinese_PR_2009_12_02_01.pdf" target="_blank">Chinese</a> (pdf)</li>
-<li><a href="/pressroom/pr/documents/Spanish_2009_12_02_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/documents/Chinese_PR_2009_12_02_01.pdf" target="_blank">Chinese</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/documents/Spanish_2009_12_02_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_1e96ea82-a44f-4d27-99d5-4eac3ee07e6f'></div><script type='text/javascript'>CTP.IATA.HideChrome('1e96ea82-a44f-4d27-99d5-4eac3ee07e6f')</script>
 <div class='hide_element_b36838c5-27b3-4641-bb7e-2e9ea8b2496e'></div><script type='text/javascript'>CTP.IATA.HideChrome('b36838c5-27b3-4641-bb7e-2e9ea8b2496e')</script>

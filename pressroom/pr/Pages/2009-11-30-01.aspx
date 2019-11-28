@@ -383,7 +383,7 @@ Two Years of Lost Growth - Slow Improvement Trend
 </li><li>International freight traffic market shares by region in terms of FTK are&#58; Asia-Pacific 44.3%, Europe 26.0%, North America 16.5%, Middle East 10.1%, Latin America 2.1%, Africa 0.9%
 </li><li>Aircraft utilization data sourced from Ascend
 </li><li><a href="/pressroom/pr/Pages/2009-11-16-01.aspx">Press release&#58;&#160;Signing of&#160;a Multilateral Statement of Policy Principles</a>
-</li><li>IATA commissioned InterVISTAS to study the potential impact of liberalization in 12 markets (Australia, Brazil, Chile, India, Mauritius, Morocco, Peru, Singapore, Turkey, the United Arab Emirates, Uruguay and Vietnam).&#160; <a href="/pressroom/Documents/Dr.%20Michael%20Tretheway_%20InterVISTAS_%20Liberalization%20Studies.pdf" target="_blank">InterVISTAS presentation</a> (pdf) </li></ul>
+</li><li>IATA commissioned InterVISTAS to study the potential impact of liberalization in 12 markets (Australia, Brazil, Chile, India, Mauritius, Morocco, Peru, Singapore, Turkey, the United Arab Emirates, Uruguay and Vietnam).&#160; <a href="https://www.iata.org/pressroom/Documents/Dr.%20Michael%20Tretheway_%20InterVISTAS_%20Liberalization%20Studies.pdf" target="_blank">InterVISTAS presentation</a> (pdf) </li></ul>
 <p><br>&#160;</p>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
@@ -456,11 +456,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations of this Press Release</h2></div></div>
 <ul>
-<li><a href="/pressroom/Documents/Chinese_PR_2009_11_30_01.pdf" target="_blank">Chinese</a> (pdf) </li>
-<li><a href="/pressroom/Documents/French_PR_2009_11_30_01.pdf" target="_blank">French</a> (pdf) </li>
-<li style="width&#58;89px;height&#58;17px;"><a href="/pressroom/Documents/German_PR_2009_11_30_01.pdf" target="_blank">German</a> (pdf) </li>
-<li style="width&#58;89px;height&#58;17px;"><a href="/pressroom/pr/Documents/Italian_PR_2009_11_30_01.pdf" target="_blank">Italian</a> (pdf) </li>
-<li><a href="/pressroom/Documents/Spanish_PR_2009_11_30_01.pdf" target="_blank">Spanish</a> (pdf) </li></ul></div>
+<li><a href="https://www.iata.org/pressroom/Documents/Chinese_PR_2009_11_30_01.pdf" target="_blank">Chinese</a> (pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/French_PR_2009_11_30_01.pdf" target="_blank">French</a> (pdf) </li>
+<li style="width&#58;89px;height&#58;17px;"><a href="https://www.iata.org/pressroom/Documents/German_PR_2009_11_30_01.pdf" target="_blank">German</a> (pdf) </li>
+<li style="width&#58;89px;height&#58;17px;"><a href="https://www.iata.org/pressroom/pr/Documents/Italian_PR_2009_11_30_01.pdf" target="_blank">Italian</a> (pdf) </li>
+<li><a href="https://www.iata.org/pressroom/Documents/Spanish_PR_2009_11_30_01.pdf" target="_blank">Spanish</a> (pdf) </li></ul></div>
 </div>
 <div class='hide_element_26f312d6-a9c5-4707-89c2-1922c203f61c'></div><script type='text/javascript'>CTP.IATA.HideChrome('26f312d6-a9c5-4707-89c2-1922c203f61c')</script>
 <div class='hide_element_1cbb28ae-55ee-49f4-a1e2-a3107edf100d'></div><script type='text/javascript'>CTP.IATA.HideChrome('1cbb28ae-55ee-49f4-a1e2-a3107edf100d')</script>

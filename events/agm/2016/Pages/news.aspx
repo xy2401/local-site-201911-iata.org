@@ -352,8 +352,8 @@ IATA's 72nd Annual General Meeting took place on 1-3 June in Dublin.
 <a href="/pressroom/speeches/Pages/2016-06-02-03.aspx">Tony Tyler's State of IATA Address</a></li><li>
 <a href="/pressroom/speeches/Pages/2016-06-02-02.aspx">Tony Tyler's remarks - Opening Press Conference</a></li><li>
 <a href="/pressroom/speeches/Pages/2016-06-02-01.aspx">Tony Tyler's State of the Industry Report</a></li><li>
-<a href="/events/agm/2016/Documents/icao-aliu-address-agm2016.pdf" target="_blank">Address of Benard Aliu, ICAO Council President</a>&#160;(pdf)</li><li>
-<a href="/events/agm/2016/Documents/ireland-mot-shane-ross-address.pdf" target="_blank">Address of Shane Ross - Ireland's Minister of Transport</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/events/agm/2016/Documents/icao-aliu-address-agm2016.pdf" target="_blank">Address of Benard Aliu, ICAO Council President</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/events/agm/2016/Documents/ireland-mot-shane-ross-address.pdf" target="_blank">Address of Shane Ross - Ireland's Minister of Transport</a>&#160;(pdf)</li><li>
 <a href="/pressroom/pr/Pages/2016-06-02-02.aspx">Industry Profitability Improves</a>&#160;<span><span class="wrappedImageRight"><a href="/publications/Pages/annual-review.aspx">​</a></span></span></li><li>
 <a href="/pressroom/pr/Pages/2016-06-02-01.aspx">AGM Opens in Dublin</a> </li><li>
 <a href="/pressroom/pr/Pages/2016-05-30-03.aspx">Aviation Leaders Gathering in Dublin</a>&#160;(30 May)</li></ul><h2 class="iataElement-Title2">Multimedia</h2><ul><li>
@@ -361,7 +361,7 @@ IATA's 72nd Annual General Meeting took place on 1-3 June in Dublin.
 <a href="/events/agm/2016/Pages/videos.aspx">Videos -&#160;</a> all video proceedings, including high resolution broadcast quality</li></ul><div>&#160;&#160; </div>
 <span><span class="wrappedImageRight"><a href="/publications/Pages/annual-review.aspx">​</a></span></span>
 <h2 class="iataElement-Title2">Other Material</h2><ul><li>
-<a href="/events/agm/2016/Documents/media-agenda-agm-2016.pdf" target="_blank">AGM media age​nda</a> (pdf)</li><li>
+<a href="https://www.iata.org/events/agm/2016/Documents/media-agenda-agm-2016.pdf" target="_blank">AGM media age​nda</a> (pdf)</li><li>
 <a href="/pressroom/facts_figures/fact_sheets/pages/index.aspx">Fact sheets​​​​​​​​​​​​​​​​​​​​​​​​</a></li><li>
 <a href="/publications/Pages/annual-review.aspx">Annual Review 2016</a></li><li>
 <a href="/pressroom/pages/ceo-biography.aspx">DG biographies &amp; photos</a> (Tony Tyler and Alexandre de Juniac)</li><li>
@@ -370,10 +370,10 @@ IATA's 72nd Annual General Meeting took place on 1-3 June in Dublin.
 <a href="https&#58;//www.flightglobal.com/events/iata-agm/?utm_source=&amp;utm_medium=&amp;utm_campaign=" target="_blank">1 June</a>&#160;-
 <a href="http&#58;//edition.pagesuite-professional.co.uk/launch.aspx?eid=e69952a9-cf8d-4f0f-86bc-5f4a3b900ba0&amp;sf27737674=1">2 June</a>&#160;-
 <a href="http&#58;//edition.pagesuite-professional.co.uk//launch.aspx?eid=cb8e023e-3533-4c82-a396-1fe16fa8919d" target="_blank">3 June</a> </li><li>CAPA Daily&#58;
-<a href="/events/agm/2016/Documents/capa-day1-digital.pdf" target="_blank">1 June</a> (pdf) -
-<a href="/events/agm/2016/Documents/capa-day2.pdf" target="_blank">2 June</a> (pdf) -
-<a href="/events/agm/2016/Documents/capa-day3-digital.pdf" target="_blank">3 June</a> (pdf)</li><li>Aviation Week&#58;&#160;<a href="/events/agm/2016/Documents/aviation-week-2june.pdf" target="_blank">2 June</a> (pdf) &amp;&#160;
-<a href="/events/agm/2016/Documents/aviation-week-3june.pdf" target="_blank">3 June</a> (pdf)</li></ul>
+<a href="https://www.iata.org/events/agm/2016/Documents/capa-day1-digital.pdf" target="_blank">1 June</a> (pdf) -
+<a href="https://www.iata.org/events/agm/2016/Documents/capa-day2.pdf" target="_blank">2 June</a> (pdf) -
+<a href="https://www.iata.org/events/agm/2016/Documents/capa-day3-digital.pdf" target="_blank">3 June</a> (pdf)</li><li>Aviation Week&#58;&#160;<a href="/events/agm/2016/Documents/aviation-week-2june.pdf" target="_blank">2 June</a> (pdf) &amp;&#160;
+<a href="https://www.iata.org/events/agm/2016/Documents/aviation-week-3june.pdf" target="_blank">3 June</a> (pdf)</li></ul>
 <span><span class="wrappedImageLeft"><img alt="Twitter icon" src="/events/agm/2015/PublishingImages/twitter-icon.jpg" />#IATAAGM</span></span>
 <p>
 <br>&#160;​</p>

@@ -430,7 +430,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Arabic-PR-2011-07-27-01.pdf" target="_blank">Arabic</a> (pdf)</li></ul><a href="/pressroom/pr/PublishingImages/Amman-opening.JPG" target="_blank"><img alt="Click to download high resolution of the opening photo" src="/pressroom/pr/PublishingImages/Amman-opening-thumb.jpg" border="0" style="border-width&#58;0px;border-style&#58;solid;border-color&#58;initial;" /></a><br></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Arabic-PR-2011-07-27-01.pdf" target="_blank">Arabic</a> (pdf)</li></ul><a href="/pressroom/pr/PublishingImages/Amman-opening.JPG" target="_blank"><img alt="Click to download high resolution of the opening photo" src="/pressroom/pr/PublishingImages/Amman-opening-thumb.jpg" border="0" style="border-width&#58;0px;border-style&#58;solid;border-color&#58;initial;" /></a><br></div>
 </div>
 <div class='hide_element_25145e57-28c9-4f13-9e48-d9e468efe7a7'></div><script type='text/javascript'>CTP.IATA.HideChrome('25145e57-28c9-4f13-9e48-d9e468efe7a7')</script>
 <div class='hide_element_ea3f8bf0-01d1-4731-8708-1dd53bf7d2de'></div><script type='text/javascript'>CTP.IATA.HideChrome('ea3f8bf0-01d1-4731-8708-1dd53bf7d2de')</script>

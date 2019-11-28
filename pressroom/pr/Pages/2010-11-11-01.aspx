@@ -428,7 +428,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2010-11-11-01.pdf" target="_blank">Spanish</a> (pdf)<br></li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2010-11-11-01.pdf" target="_blank">Spanish</a> (pdf)<br></li></ul></div>
 </div>
 <div class='hide_element_ed7d47d5-611d-4c54-bb02-4ad7df3b8c03'></div><script type='text/javascript'>CTP.IATA.HideChrome('ed7d47d5-611d-4c54-bb02-4ad7df3b8c03')</script>
 <div class='hide_element_5c230377-af56-4bb2-8569-bcda4ff051f7'></div><script type='text/javascript'>CTP.IATA.HideChrome('5c230377-af56-4bb2-8569-bcda4ff051f7')</script>

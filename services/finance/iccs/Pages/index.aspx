@@ -338,21 +338,21 @@ IATA Currency Clearance Service
 </div>
 <h3>Simplifying the business of airline treasury</h3><p class="text1"> ICCS is
 <strong>the global cash management service </strong>that enables airline Treasurers to centrally control and repatriate their world-wide sales funds. It is currently used by&#160;over 330&#160;airlines of varying sizes and&#160;had a throughput in&#160;2017&#160;of&#160;$34.5 billion. </p><h3 class="iataElement-Title3">​ICCS benefits</h3><ul><li>Centralized control of global funds repatriation </li><li>Advanced access to receivables information allowing for more effective cash planning </li><li>Reduced&#160;time spent&#160;on international banking activities resulting in manpower savings </li><li>Accelerated repatriation of foreign sales funds resulting in improved working capital management and reduced foreign exchange risk</li><li>Decreased&#160;currency conversion costs gained from optimal foreign exchange rates</li><li>Reduced banking fees and transfer charges<br></li></ul><h3 class="iataElement-Title3"> General Sales Agent (GSA)&#160;Sales</h3><p>Learn more about how airlines can clear their foreign
-<a href="/services/finance/iccs/Documents/iccs_gsa_service.pdf" target="_blank">GSA sales</a> (pdf) proceeds&#160;through the ICCS process. &#160; </p><h3 class="iataElement-Title3">Credit Card Sales</h3><p>Learn more about how airlines can clear their foreign
-<a href="/services/finance/iccs/Documents/iccs_cc_service.pdf" target="_blank">Credit Card Sales</a>&#160;(pdf) proceeds through the ICCS process. Please note all ICCS documents are now available in the
+<a href="https://www.iata.org/services/finance/iccs/Documents/iccs_gsa_service.pdf" target="_blank">GSA sales</a> (pdf) proceeds&#160;through the ICCS process. &#160; </p><h3 class="iataElement-Title3">Credit Card Sales</h3><p>Learn more about how airlines can clear their foreign
+<a href="https://www.iata.org/services/finance/iccs/Documents/iccs_cc_service.pdf" target="_blank">Credit Card Sales</a>&#160;(pdf) proceeds through the ICCS process. Please note all ICCS documents are now available in the
 <a href="/cs">IATA Customer Portal Resource Centre​</a>. <br></p><h3 class="iataElement-Title3"> ICCS &#160;FAQ<br></h3><ul><li>
-<a href="/services/finance/iccs/Documents/ICCS%20MEMBERSHIP%20FAQ.pdf" target="_blank">ICCS Membership FAQ</a> (pdf) </li><li>
-<a href="/services/finance/iccs/Documents/ICCS%20CALENDARS%20FAQ.pdf" target="_blank">ICCS Calendars FAQ</a> (pdf) </li><li>
-<a href="/services/finance/iccs/Documents/ICCS%20PAYMENTS%20FAQ.pdf" target="_blank">ICCS Payments FAQ</a> (pdf) </li><li>
-<a href="/services/finance/iccs/Documents/ICCS%20AVAILABILITY%20FAQ.pdf" target="_blank">ICCS Availability FAQ</a> (pdf) </li><li>
-<a href="/services/finance/iccs/Documents/ICCS%20BSP%20and%20CASS%20Forms%20FAQ.pdf" target="_blank">ICCS BSP/CASS Forms FAQ</a> (pdf) </li><li>
-<a href="/services/finance/iccs/Documents/ICCS%20BANK%20ACCOUNT%20MANAGEMENT%20FAQ.pdf" target="_blank">ICCS Bank Account management FAQ</a> (pdf) </li><li>
-<a href="/services/finance/iccs/Documents/ICCS%20QUARTERLY%20DISTRIBUTION%20(INVOICING).pdf" target="_blank">ICCS Quarterly Distribution</a>&#160;(pdf) </li></ul><h3 class="iataElement-Title3"> New Members</h3><ul><li>Ellinair</li><li>Tropic Air</li><li>Beijing Capital</li><li>Nokscoot</li>
-<a href="/services/finance/iccs/Documents/iccs_members.pdf" target="_blank"></a>
+<a href="https://www.iata.org/services/finance/iccs/Documents/ICCS%20MEMBERSHIP%20FAQ.pdf" target="_blank">ICCS Membership FAQ</a> (pdf) </li><li>
+<a href="https://www.iata.org/services/finance/iccs/Documents/ICCS%20CALENDARS%20FAQ.pdf" target="_blank">ICCS Calendars FAQ</a> (pdf) </li><li>
+<a href="https://www.iata.org/services/finance/iccs/Documents/ICCS%20PAYMENTS%20FAQ.pdf" target="_blank">ICCS Payments FAQ</a> (pdf) </li><li>
+<a href="https://www.iata.org/services/finance/iccs/Documents/ICCS%20AVAILABILITY%20FAQ.pdf" target="_blank">ICCS Availability FAQ</a> (pdf) </li><li>
+<a href="https://www.iata.org/services/finance/iccs/Documents/ICCS%20BSP%20and%20CASS%20Forms%20FAQ.pdf" target="_blank">ICCS BSP/CASS Forms FAQ</a> (pdf) </li><li>
+<a href="https://www.iata.org/services/finance/iccs/Documents/ICCS%20BANK%20ACCOUNT%20MANAGEMENT%20FAQ.pdf" target="_blank">ICCS Bank Account management FAQ</a> (pdf) </li><li>
+<a href="https://www.iata.org/services/finance/iccs/Documents/ICCS%20QUARTERLY%20DISTRIBUTION%20(INVOICING).pdf" target="_blank">ICCS Quarterly Distribution</a>&#160;(pdf) </li></ul><h3 class="iataElement-Title3"> New Members</h3><ul><li>Ellinair</li><li>Tropic Air</li><li>Beijing Capital</li><li>Nokscoot</li>
+<a href="https://www.iata.org/services/finance/iccs/Documents/iccs_members.pdf" target="_blank"></a>
 <li>
-<a href="/services/finance/iccs/Documents/iccs_members.pdf" target="_blank"></a>
-<a href="/services/finance/iccs/Documents/iccs_members.pdf" target="_blank">ICCS membership</a>&#160;(pdf) </li></ul><h3 class="iataElement-Title3"> New Countries</h3><ul><li>BSP Georgia</li><li>BSP Senegal</li><li>BSP Chad</li><li>BSP Equatorial Guinea</li>
-<a href="/services/finance/iccs/Documents/iccs_countries.pdf" target="_blank">
+<a href="https://www.iata.org/services/finance/iccs/Documents/iccs_members.pdf" target="_blank"></a>
+<a href="https://www.iata.org/services/finance/iccs/Documents/iccs_members.pdf" target="_blank">ICCS membership</a>&#160;(pdf) </li></ul><h3 class="iataElement-Title3"> New Countries</h3><ul><li>BSP Georgia</li><li>BSP Senegal</li><li>BSP Chad</li><li>BSP Equatorial Guinea</li>
+<a href="https://www.iata.org/services/finance/iccs/Documents/iccs_countries.pdf" target="_blank">
 <li>ICCS operational countries&#160;(pdf) </li></a></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>

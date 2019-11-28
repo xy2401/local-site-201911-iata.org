@@ -348,11 +348,11 @@ Procesos de Gestión de Seguridad y Calidad (presencial, 5 días)
 Aprenda a elaborar Sistemas de Gestión de la Seguridad Operacional (SMS) y de la Calidad (QMS) para integrarlos como procesos diarios en las operaciones de la aviación. Aprenda a integrar la gestión de la seguridad, de la calidad y del riesgo.</p><p> Este curso está disponible en <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank"> Centros de Formación IATA y Ubicaciones de Formación Regional de Socios</a>, y por encargo como <a href="/training/delivery/Pages/in-company.aspx" target="_blank"> formación en empresa</a> </p>
 <h3>Formato de curso</h3><ul>
 <li>Este curso presencial proporciona 5 días (40 horas) de instrucción por un Instructor oficial de IATA</li>
-<li> El rendimiento del estudiante se basará en una <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">evaluación</a></li>
+<li> El rendimiento del estudiante se basará en una <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">evaluación</a></li>
 </ul> <h3>Prerequisitos </h3><ul>
 <li>No hay prerequisitos para este curso</li>
 <li> El nivel recomendado es Intermedio y Profesional</li>
-<li> El nivel recomendado de competencia lingüística es <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf"> ICAO Nivel 4 operativo</a> para cursos en inglés o equivalente para otros idiomas</li></ul>
+<li> El nivel recomendado de competencia lingüística es <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf"> ICAO Nivel 4 operativo</a> para cursos en inglés o equivalente para otros idiomas</li></ul>
 </span></span>
 <h3></h3>
 <div id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_panTitle">

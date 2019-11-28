@@ -466,7 +466,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 Download
 </h2>
 <div class="hbContent">
-<p>​<a href="/whatwedo/ops-infra/ground-operations/Documents/igom-bma-report.pdf" target="_blank"><span>IGOM</span> Implementation Report</a> (pdf)</p>
+<p>​<a href="https://www.iata.org/whatwedo/ops-infra/ground-operations/Documents/igom-bma-report.pdf" target="_blank"><span>IGOM</span> Implementation Report</a> (pdf)</p>
 </div>
 </div>
 </a>

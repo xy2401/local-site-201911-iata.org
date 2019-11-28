@@ -355,30 +355,30 @@ What will you learn
 <p>
 <p>Participants will be awarded an IATA-ENAC degree upon successful completion of the following courses&#58;</p>
 <p><h3>Improving safety</h3></p>
-<p>Module 1&#58; <a href="/training/courses/documents/training-talg02-enac-airline-business-models.pdf">Airline Business Models and Competitive Strategies -Virtual Simulation Program</a>
+<p>Module 1&#58; <a href="https://www.iata.org/training/courses/documents/training-talg02-enac-airline-business-models.pdf">Airline Business Models and Competitive Strategies -Virtual Simulation Program</a>
 <br>Understand what it takes to lead an airline to success through this dynamic learning environment in this 5-day course, which will help you test your management skills and strategic thinking. You will be able to run your own airline and decide on the network, fleet, schedule, marketing and revenue management. You will be competing with other airlines for market share and profitability with real-life scenarios. </br></p>
-<p>Module 2&#58; <a href="/training/courses/documents/training-talp34-enac-airlines-flight-operations.pdf">Airlines Flight Operations and Optimization</a>
+<p>Module 2&#58; <a href="https://www.iata.org/training/courses/documents/training-talp34-enac-airlines-flight-operations.pdf">Airlines Flight Operations and Optimization</a>
 <br>Conduct safe and optimized aircraft operations. Optimize flights through fuel transportation or alternate scenarios. Review main regulations and learn how to use an operations manual. </br></p>
-<p>Module 3&#58; <a href="/training/courses/documents/training-taph59-enac-fuel-carbon-trading.pdf">Aviation Fuel Management and Carbon Trading for Aviation</a>
+<p>Module 3&#58; <a href="https://www.iata.org/training/courses/documents/training-taph59-enac-fuel-carbon-trading.pdf">Aviation Fuel Management and Carbon Trading for Aviation</a>
 <br>Analyze your fuel and carbon budget and propose solutions to improve your cost management structure. Analyze hedging solutions to reduce fuel cost. Analyze carbon market dynamics, strategies and pricing. </br></p>
-<p>Module 4&#58; <a href="/training/courses/documents/training-tapg60-enac-aircraft-turnaround-coordination.pdf">Aircraft Turnaround Coordination and Load Supervision</a>
+<p>Module 4&#58; <a href="https://www.iata.org/training/courses/documents/training-tapg60-enac-aircraft-turnaround-coordination.pdf">Aircraft Turnaround Coordination and Load Supervision</a>
 <br>Lead your ramp team to the consistent servicing and turnaround of multiple aircraft types. Learn the essential technical procedures for aircraft handling and loading to optimize the use of ground service equipment and manpower. This course also provides steps for building a safety culture and ensuring consistent on-time performance (OTP). </br></p>
 <p><h3>Improving operational efficiency</h3></p>
-<p>Module 5&#58; <a href="/training/courses/documents/training-talg81-enac-information-systems.pdf">Information System and Data Intelligence</a>
+<p>Module 5&#58; <a href="https://www.iata.org/training/courses/documents/training-talg81-enac-information-systems.pdf">Information System and Data Intelligence</a>
 <br>Providing a comprehensive view of the airline operations needs in terms of Information Technology (IT) and communication systems.</br></p>
-<p>Module 6&#58; <a href="/training/courses/documents/training-tals49-enac-safety-management-systems.pdf">Safety Management Systems</a>
+<p>Module 6&#58; <a href="https://www.iata.org/training/courses/documents/training-tals49-enac-safety-management-systems.pdf">Safety Management Systems</a>
 <br>Guidelines to align your operations with ICAO annex 19 SMS provisions and comply with industry requirements for personnel licensing, operation of aircraft and more. The systematic SMS approach ensures both safer operations and improved overall efficiency by managing organizational structure, staff accountabilities, policies and procedures. Developed in accordance with ICAO principles, this course helps you fulfill SMS requirements and establish a functional SMS within your operations. </br></p>
-<p>Module 7&#58; <a href="/training/courses/documents/training-tapg58-enac-erp-airlines-communications.pdf">Emergency Response Planning (ERP) and Crisis Communications and Media Management</a>
+<p>Module 7&#58; <a href="https://www.iata.org/training/courses/documents/training-tapg58-enac-erp-airlines-communications.pdf">Emergency Response Planning (ERP) and Crisis Communications and Media Management</a>
 <br>Learn how to define and run an ERP within an airline. Review regulatory requirements and define an organization of an ERP (roles, responsibilities, procedures). Identify areas for improvement in an emergency response situation. Recognize media pressure points to present information that protect corporate image. </br></p>
 <p>Module 8&#58; Aviation Security</p>
 <p><h3>Improving general awareness to better manage operations</h3></p>
-<p>Module 9&#58; <a href="/training/courses/documents/training-tcvt68-enac-human-factors.pdf">Human Factors in Aviation</a>
+<p>Module 9&#58; <a href="https://www.iata.org/training/courses/documents/training-tcvt68-enac-human-factors.pdf">Human Factors in Aviation</a>
 <br>Gain an overview of human factors in aviation and key reference documents and methodology. Manage the consequences and organizational impact of human factors for all aviation roles&#58; pilots, flight crews, air traffic controllers, CAA, airport and aircraft maintenance staff, aircraft manufacturers and meteorologists. </br></p>
-<p>Module 10&#58; <a href="/training/courses/documents/training-talp35-enac-aircraft-maintenance.pdf">Aircraft Maintenance</a>
+<p>Module 10&#58; <a href="https://www.iata.org/training/courses/documents/training-talp35-enac-aircraft-maintenance.pdf">Aircraft Maintenance</a>
 <br>Understand the workings and implications of a maintenance organization. Review a Maintenance Review Board (MRB) process. Analyze MSG-3 with the definition of the categories and the economic approach. Review Operator Maintenance Program (OMP) and Operator Exposition Manual (OEM). </br></p>
-<p>Module 11; <a href="/training/courses/documents/training-talp35-enac-aircraft-maintenance.pdf">Aircraft Airworthiness and Air Carrier Certification</a>
+<p>Module 11; <a href="https://www.iata.org/training/courses/documents/training-talp35-enac-aircraft-maintenance.pdf">Aircraft Airworthiness and Air Carrier Certification</a>
 <br>Gain knowledge and skills to manage aircraft certification and continuing airworthiness as per the current ICAO Annexes, regulations, and FAA, JAA, EASA requirements. Evaluate flight safety documents and compliance of manuals, logs, and records. </br></p>
-<p>Module 12&#58; <a href="/training/courses/documents/training-taph78-enac-training-crew-mro.pdf">Training (Crew and MRO –Maintenance, Repair &amp; Overhaul)</a>
+<p>Module 12&#58; <a href="https://www.iata.org/training/courses/documents/training-taph78-enac-training-crew-mro.pdf">Training (Crew and MRO –Maintenance, Repair &amp; Overhaul)</a>
 <br>Evaluate processes and infrastructures for the training of pilots, flight attendants, and mechanics. Describe the sequence for pilot training from ab initio to type rating, typical pilot training organization, infrastructure, tools, and program. Evaluate current and future trends, such as mobile learning, blended learning, etc. </br></p>
 </p>
 </span></span>

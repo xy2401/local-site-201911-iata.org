@@ -458,10 +458,10 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <ul style="width&#58;150px;height&#58;34px;">
 <li><a href="/pressroom/speeches/Documents/qa-press-conf-23sept2013.mp3" target="_blank">Audio - Press Conference Q&amp;A</a>&#160;(mp3)</li></ul>Translations</h2></div></div>
 <ul style="width&#58;151px;height&#58;83px;">
-<li><a href="/pressroom/pr/Documents/Chinese-PR-2013-09-23-01.pdf" target="_blank">Chinese</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/French-PR-2013-09-23-01.pdf" target="_blank">French</a>&#160;(pdf)</li>
-<li><a href="/pressroom/pr/Documents/German-PR-2013-09-23-01.pdf" target="_blank">German</a>&#160;(pdf)</li>
-<li style="width&#58;155px;height&#58;55px;"><a href="/pressroom/pr/Documents/Spanish-PR-2013-09-23-01.pdf" target="_blank">Spanish</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Chinese-PR-2013-09-23-01.pdf" target="_blank">Chinese</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2013-09-23-01.pdf" target="_blank">French</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/German-PR-2013-09-23-01.pdf" target="_blank">German</a>&#160;(pdf)</li>
+<li style="width&#58;155px;height&#58;55px;"><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2013-09-23-01.pdf" target="_blank">Spanish</a>&#160;(pdf)</li>
 <li style="width&#58;155px;height&#58;55px;"></li></ul></div>
 </div>
 <div class='hide_element_2a2f53a5-f3bb-4412-91e1-7659843df791'></div><script type='text/javascript'>CTP.IATA.HideChrome('2a2f53a5-f3bb-4412-91e1-7659843df791')</script>

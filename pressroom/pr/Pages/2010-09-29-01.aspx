@@ -430,9 +430,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/French-PR-2010-09-29-01.pdf" target="_blank">French</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Italian-PR-2010-09-29-01.pdf" target="_blank">Italian</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2010-09-29-01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2010-09-29-01.pdf" target="_blank">French</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Italian-PR-2010-09-29-01.pdf" target="_blank">Italian</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2010-09-29-01.pdf" target="_blank">Spanish</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_1e9a5026-cba3-461f-86ba-18aeea17a4aa'></div><script type='text/javascript'>CTP.IATA.HideChrome('1e9a5026-cba3-461f-86ba-18aeea17a4aa')</script>
 <div class='hide_element_45c3b951-31da-4269-a7cc-9a92aef8b814'></div><script type='text/javascript'>CTP.IATA.HideChrome('45c3b951-31da-4269-a7cc-9a92aef8b814')</script>

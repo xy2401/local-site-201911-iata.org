@@ -337,34 +337,34 @@ NDC IT Solutions
 <div class="introAndImage">
 </div>
 <p>A number of IT companies have built solutions to support NDC messages enabling airlines to bring new products and offers into the market. These companies have gone through the NDC Certification process and achieved the status of either NDC-Certified or NDC-Capable as aggregators and/or IT providers. </p><p>These companies have participated in a standard annual survey conducted by Sia Partners and the information is available through the below Profile Cards program.&#160; </p><p>LEGAL DISCLAIMER&#58; Membership in the IATA Profile&#160;Cards program for NDC-Certified and NDC-Capable entities is assessed on the basis of set criteria, which are interpreted solely in accordance with information provided by the provider applying for the Profile&#160;Cards program. IATA does not validate the content of the Applicant’s messages, or of the quality or other aspects of the Applicant’s activities or products, stand-alone or in comparison with those of other entities, nor does it validate, certify or endorse any commercial products that may be derived from the usage of NDC messages validated under any type of certification under the NDC Certification Program.&#160; Furthermore, by maintaining a list of Profile&#160;Cards of NDC-Certified or NDC-Capable entities, IATA does not take any position with respect to the relative quality or other aspects of the activities or products of other entities that are not certified under the NDC Certification Program.</p><h2 class="iataElement-Title2">NDC Profile&#160;Cards</h2><ul><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/aarongroup-ndc-idcard-2018.pdf" target="_blank">Aaron Group (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/airgateway-ndc-idcard-2017.pdf" target="_blank">AirGateway (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/airlinestechnology-ndc-idcard-2018.pdf" target="_blank">Airlines Technology Private&#160;Limited (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/amadeus-ndc-idcard-2018.pdf" target="_blank">Amadeus / Navitaire (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/atpco-ndc-idcard-2018.pdf" target="_blank">ATPCO (pdf)</a><br></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/conztanz-ndc-idcard-2017.pdf" target="_blank">Conztanz (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/datalex-ndc-idcard-2018.pdf" target="_blank">Datalex (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/dxctechnologies-ndc-idcard-2018.pdf" target="_blank">DXC Technology (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/farelogix-ndc-idcard-2018.pdf" target="_blank">Farelogix, Inc.(pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/flyiin-ndc-idcard-2017.pdf" target="_blank">Flyiin (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/ibs-ndc-idcard-2018.pdf" target="_blank">IBS Software Services Private Limited (pdf)</a></li><li><a href="/whatwedo/airline-distribution/ndc/Documents/indra-ndc-idcard-2018.pdf" target="_blank">Indra Sistemas S.A.(pdf)</a></li><li><a href="/whatwedo/airline-distribution/ndc/Documents/interes-ndc-idcard-2018.pdf" target="_blank">InterRES GmbH</a></li><li><a href="/whatwedo/airline-distribution/ndc/Documents/iso-ndc-idcard-2018.pdf" target="_blank">ISO Software Systeme</a></li><li><a href="/whatwedo/airline-distribution/ndc/Documents/jrt-ndc-idcard-2018.pdf" target="_blank">JR Technologies (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/maureva-ndc-idcard-2018.pdf" target="_blank">Maureva Ltd (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/ontravelsolutions-ndc-idcard-2018.pdf" target="_blank">On Travel Solutions (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/openjaw-ndc-idcard-2018.pdf" target="_blank">OpenJaw Technologies (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/pribas-ndc-idcard-2018.pdf" target="_blank">Pribas GmbH (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/pros-ndc-idcard-2018.pdf" target="_blank">PROS (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/quadlabs-ndc-idcard-2018.pdf" target="_blank">Quadlabs (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/reserve-ndc-idcard-2018.pdf" target="_blank">Reserve (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/sabre-ndc-idcard-2018.pdf" target="_blank">Sabre (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/saphybrisndc-idcard-2017.pdf" target="_blank">SAP Hybris (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/sita-ndc-idcard-2018.pdf" target="_blank">SITA (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/sirenatravel-ndc-idcard-2017.pdf" target="_blank">Sirena-Travel&#160;(pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/skyscanner-ndc-idcard-2017.pdf" target="_blank">Skyscanner (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/tpconnect-ndc-idcard-2017.pdf" target="_blank">TPConnects (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/travelsky-ndc-idcard-2018.pdf" target="_blank">Travelsky (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/verteil-ndc-idcard-2017.pdf" target="_blank">Verteil Technologies PVT. LTD. (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/wintelia-ndc-idcard-2017.pdf" target="_blank">Wintelia (pdf)</a></li><li>
-<a href="/whatwedo/airline-distribution/ndc/Documents/xmltravelgate-ndc-idcard-2018.pdf" target="_blank">XML Travelgate (pdf)</a><br></li></ul><p>Last updated -&#160;December 2018<br></p>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/aarongroup-ndc-idcard-2018.pdf" target="_blank">Aaron Group (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/airgateway-ndc-idcard-2017.pdf" target="_blank">AirGateway (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/airlinestechnology-ndc-idcard-2018.pdf" target="_blank">Airlines Technology Private&#160;Limited (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/amadeus-ndc-idcard-2018.pdf" target="_blank">Amadeus / Navitaire (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/atpco-ndc-idcard-2018.pdf" target="_blank">ATPCO (pdf)</a><br></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/conztanz-ndc-idcard-2017.pdf" target="_blank">Conztanz (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/datalex-ndc-idcard-2018.pdf" target="_blank">Datalex (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/dxctechnologies-ndc-idcard-2018.pdf" target="_blank">DXC Technology (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/farelogix-ndc-idcard-2018.pdf" target="_blank">Farelogix, Inc.(pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/flyiin-ndc-idcard-2017.pdf" target="_blank">Flyiin (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/ibs-ndc-idcard-2018.pdf" target="_blank">IBS Software Services Private Limited (pdf)</a></li><li><a href="/whatwedo/airline-distribution/ndc/Documents/indra-ndc-idcard-2018.pdf" target="_blank">Indra Sistemas S.A.(pdf)</a></li><li><a href="/whatwedo/airline-distribution/ndc/Documents/interes-ndc-idcard-2018.pdf" target="_blank">InterRES GmbH</a></li><li><a href="/whatwedo/airline-distribution/ndc/Documents/iso-ndc-idcard-2018.pdf" target="_blank">ISO Software Systeme</a></li><li><a href="/whatwedo/airline-distribution/ndc/Documents/jrt-ndc-idcard-2018.pdf" target="_blank">JR Technologies (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/maureva-ndc-idcard-2018.pdf" target="_blank">Maureva Ltd (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/ontravelsolutions-ndc-idcard-2018.pdf" target="_blank">On Travel Solutions (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/openjaw-ndc-idcard-2018.pdf" target="_blank">OpenJaw Technologies (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/pribas-ndc-idcard-2018.pdf" target="_blank">Pribas GmbH (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/pros-ndc-idcard-2018.pdf" target="_blank">PROS (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/quadlabs-ndc-idcard-2018.pdf" target="_blank">Quadlabs (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/reserve-ndc-idcard-2018.pdf" target="_blank">Reserve (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/sabre-ndc-idcard-2018.pdf" target="_blank">Sabre (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/saphybrisndc-idcard-2017.pdf" target="_blank">SAP Hybris (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/sita-ndc-idcard-2018.pdf" target="_blank">SITA (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/sirenatravel-ndc-idcard-2017.pdf" target="_blank">Sirena-Travel&#160;(pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/skyscanner-ndc-idcard-2017.pdf" target="_blank">Skyscanner (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/tpconnect-ndc-idcard-2017.pdf" target="_blank">TPConnects (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/travelsky-ndc-idcard-2018.pdf" target="_blank">Travelsky (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/verteil-ndc-idcard-2017.pdf" target="_blank">Verteil Technologies PVT. LTD. (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/wintelia-ndc-idcard-2017.pdf" target="_blank">Wintelia (pdf)</a></li><li>
+<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/xmltravelgate-ndc-idcard-2018.pdf" target="_blank">XML Travelgate (pdf)</a><br></li></ul><p>Last updated -&#160;December 2018<br></p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -448,7 +448,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​<a href="/whatwedo/airline-distribution/ndc/Documents/ndc-solutions-wp.pdf" target="_blank">NDC Solutions White Paper</a><span>&#160;-&#160;(pdf)&#160;</span><span>Overview of IT solutions using the NDC standard.</span><br></p></div>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/ndc-solutions-wp.pdf" target="_blank">NDC Solutions White Paper</a><span>&#160;-&#160;(pdf)&#160;</span><span>Overview of IT solutions using the NDC standard.</span><br></p></div>
 </div>
 <div class='hide_element_4798b271-198f-478d-bdc8-b96de363d80e'></div><script type='text/javascript'>CTP.IATA.HideChrome('4798b271-198f-478d-bdc8-b96de363d80e')</script>
 <div class='hide_element_5d32fb95-cfbd-426b-8aef-f1592742e394'></div><script type='text/javascript'>CTP.IATA.HideChrome('5d32fb95-cfbd-426b-8aef-f1592742e394')</script>

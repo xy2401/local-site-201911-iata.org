@@ -347,7 +347,7 @@ Risk Management Implementation (Classroom, 5 days)
 <p>Learn how to integrate enterprise-wide risk management in line with global standards, with the operational safety risk management followed in IOSA, ISAGO and AHM requirements. Learn how to implement it within your organization to achieve good corporate governance and effective internal controls. Use a consistent, standardized and adaptable approach to risk identification and analysis, risk rating and development of practical risk treatment action plans.</p><p>This course is an intensive hands-on course which will enable you to confidently identify and manage risks at the organization, department or station level.<br></p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers and Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 5 days (40 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li><li>Recommended level is Management </li>
 <li>The recommended level of language proficiency is <a href="http&#58;//www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>

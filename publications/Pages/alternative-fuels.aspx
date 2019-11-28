@@ -345,7 +345,7 @@ IATA Alternative Fuels Report
 <li>Biofuel economics and their impact on Emissions Trading Schemes (ETS)</li></ul>
 <h3>Download the 2015 alternative fuels report</h3>
 <ul>
-<li><a href="/publications/Documents/2015-report-alternative-fuels.pdf" target="_blank">​2015</a> (pdf)</li>
+<li><a href="https://www.iata.org/publications/Documents/2015-report-alternative-fuels.pdf" target="_blank">​2015</a> (pdf)</li>
 </ul>
 <h3>Key Benefits&#58;</h3>
 <p>Some alternative aviation fuels are now certified for use in commercial air travel. The report will guide the reader through the following&#58;</p>

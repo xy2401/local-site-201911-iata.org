@@ -420,7 +420,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations of this Press Release</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Chinese_PR_2010_03_25_01.pdf" target="_blank">Chinese</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Chinese_PR_2010_03_25_01.pdf" target="_blank">Chinese</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_98b8a93d-5af4-4d26-8483-cc8259bccf6e'></div><script type='text/javascript'>CTP.IATA.HideChrome('98b8a93d-5af4-4d26-8483-cc8259bccf6e')</script>
 <div class='hide_element_da521149-7f03-4891-8e15-123e96ca4d13'></div><script type='text/javascript'>CTP.IATA.HideChrome('da521149-7f03-4891-8e15-123e96ca4d13')</script>

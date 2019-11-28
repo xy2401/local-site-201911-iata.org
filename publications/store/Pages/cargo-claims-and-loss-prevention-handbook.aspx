@@ -334,7 +334,7 @@ Cargo Claims &amp; Loss Prevention handbook
 <span>Selected IATA Cargo Conference Resolutions</span></div></li><li><div class="MsoNormal">
 <span>Updated directories – key claims contacts for all major airlines</span></div></li></ul><p class="MsoNormal">
 <span>The CCHB is a practical guide for effective processing of air cargo claims and is only book of its kind -&#160;a must have for the entire supply chain.</span>&#160;</p><h2 class="iataElement-Title2">CCHB Downloadable Resources</h2><ul><li>
-<a href="/publications/Documents/cargo-standards/ToC/TOC%20-%20CCHB.pdf" target="_blank">CCHB Table of contents&#160;</a>(pdf)</li></ul><h2 class="iataElement-Title2">Products &amp; Pricing</h2><p>&#160;<span>Choose your preferred option below, and purchase through our online store&#160;or&#160;</span><a href="mailto&#58;custserv@iata.org">contact&#160;us</a><span>&#160;for&#160;assistance.</span></p>
+<a href="https://www.iata.org/publications/Documents/cargo-standards/ToC/TOC%20-%20CCHB.pdf" target="_blank">CCHB Table of contents&#160;</a>(pdf)</li></ul><h2 class="iataElement-Title2">Products &amp; Pricing</h2><p>&#160;<span>Choose your preferred option below, and purchase through our online store&#160;or&#160;</span><a href="mailto&#58;custserv@iata.org">contact&#160;us</a><span>&#160;for&#160;assistance.</span></p>
 <div id="ctl00_PlaceHolderMain_g_B2882428_363C_4F7E_94A9_780B0C47E9E1" WebPart="true" __WebPartId="{B2882428-363C-4F7E-94A9-780B0C47E9E1}" __MarkupType="vsattributemarkup">
 <script type="text/javascript">
     jgn(function(){

@@ -345,8 +345,8 @@ Air Transport Competitiveness in Romania
 <iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/jqkXES7cQiI"></iframe>
 <p>&#160;</p><p>&#160;</p></div></span><span><p>
 &#160;</p><div class="zHighlight"><div class="zHighlightBox"><h2>AIR TRANSPORT COMPETITIVENESS INDICATORS 2019</h2><ul><li>Read the
-<a href="/about/worldwide/europe/competitiveness/Documents/romania-competitiveness-index-report-2019.pdf" target="_blank">full report for Romania </a>(pdf) ​​​​​​​​​​​​​</li><li>
-<a href="/about/worldwide/europe/competitiveness/Documents/competitiveness-infographic-romania.pdf" target="_blank">Air Transport Competitiveness in Romania </a>(pdf) - infographic </li></ul></div></div>
+<a href="https://www.iata.org/about/worldwide/europe/competitiveness/Documents/romania-competitiveness-index-report-2019.pdf" target="_blank">full report for Romania </a>(pdf) ​​​​​​​​​​​​​</li><li>
+<a href="https://www.iata.org/about/worldwide/europe/competitiveness/Documents/competitiveness-infographic-romania.pdf" target="_blank">Air Transport Competitiveness in Romania </a>(pdf) - infographic </li></ul></div></div>
 <div class="zHighlightBox"></div></span>
 <div class="zHighlightBox"></div><div class="zHighlight"></div><p>
 <br>

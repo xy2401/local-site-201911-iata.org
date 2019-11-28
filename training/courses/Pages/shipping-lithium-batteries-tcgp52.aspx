@@ -346,10 +346,10 @@ Shipping Lithium Batteries by Air (Classroom, 2 days)
 <p>Acquire the skills and knowledge to pack and ship lithium ion and lithium metal cells and batteries by air, in compliance with the regulatory requirements of the ICAO Technical Instruction and IATA Dangerous Goods Regulations (DGR). Over two days, you will examine the classification and identification of dangerous goods, with particular focus on lithium batteries, and learn how to complete the necessary documentation, marking, labelling and packaging of shipments. You will learn about the limitations to transport of lithium batteries by air, as well as emergency procedures in the event of an incident or accident.</p><p>This course is based on the content of the IATA Lithium Battery Shipping Guidelines, a comprehensive guide designed for shippers and packer to meet their safety obligations related to the safe transport of dangerous goods by air. This course is recommended for Category 1, 2, 3 personnel as per Table 1.5.A of the IATA DGR.<br></p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers</a>, <a href="/training/Pages/regional_training_centres.aspx" target="_blank">Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 2 days (16 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>There are no prerequisites for this course</li><li>Recommended level is Entry-level and Intermediate</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

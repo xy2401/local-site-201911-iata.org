@@ -437,13 +437,13 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <br></p>
 <div class="newst"><div>
 <h2>Translations of the release</h2></div></div><ul><li>
-<a href="/pressroom/Documents/Chinese_PR_2009_11_16_01.pdf" target="_blank">Chinese</a> (pdf) </li><li>
-<a href="/pressroom/Documents/French_PR_2009_11_16_01.pdf" target="_blank">French</a> (pdf) </li><li>
-<a href="/pressroom/Documents/Spanish_PR_2009_11_16_01.pdf" target="_blank">Spanish</a> (pdf) </li></ul><div class="newst"><div><h2>More information</h2></div></div><ul><li>
+<a href="https://www.iata.org/pressroom/Documents/Chinese_PR_2009_11_16_01.pdf" target="_blank">Chinese</a> (pdf) </li><li>
+<a href="https://www.iata.org/pressroom/Documents/French_PR_2009_11_16_01.pdf" target="_blank">French</a> (pdf) </li><li>
+<a href="https://www.iata.org/pressroom/Documents/Spanish_PR_2009_11_16_01.pdf" target="_blank">Spanish</a> (pdf) </li></ul><div class="newst"><div><h2>More information</h2></div></div><ul><li>
 <a href="/pressroom/speeches/Pages/2009-11-15-01.aspx">Giovanni Bisignani's Opening Remarks</a> </li><li>
-<a href="/pressroom/Documents/agenda_freedom_qa.pdf" target="_blank">Questions &amp; Answers</a> (pdf) </li><li>
+<a href="https://www.iata.org/pressroom/Documents/agenda_freedom_qa.pdf" target="_blank">Questions &amp; Answers</a> (pdf) </li><li>
 <a href="/pressroom/speeches/Pages/2009-11-16-01.aspx">Giovanni Bisignani's Closing Remarks</a> </li></ul><div class="newst"><div><h2>Presentations</h2></div></div><ul><li>
-<a href="/pressroom/Documents/Dr.%20Michael%20Tretheway_%20InterVISTAS_%20Liberalization%20Studies.pdf" target="_blank">Dr. Michael Tretheway, InterVISTAS, Liberalization Studies</a> (pdf) </li></ul></div>
+<a href="https://www.iata.org/pressroom/Documents/Dr.%20Michael%20Tretheway_%20InterVISTAS_%20Liberalization%20Studies.pdf" target="_blank">Dr. Michael Tretheway, InterVISTAS, Liberalization Studies</a> (pdf) </li></ul></div>
 </div>
 <div class='hide_element_146a83ed-bd78-42e6-a7c1-1cf18ad28e55'></div><script type='text/javascript'>CTP.IATA.HideChrome('146a83ed-bd78-42e6-a7c1-1cf18ad28e55')</script>
 <div class='hide_element_2f0e0ebb-9cdd-43d5-b03a-a77e64d3fd52'></div><script type='text/javascript'>CTP.IATA.HideChrome('2f0e0ebb-9cdd-43d5-b03a-a77e64d3fd52')</script>

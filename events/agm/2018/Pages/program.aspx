@@ -363,7 +363,7 @@ Program
 
 </div>
 </div>
-<p>&#160;</p><p>View the complete <a href="/events/agm/2018/Documents/AGM2018-Agenda.pdf" target="_blank"><span><strong>AGM 2018 Event Agenda</strong></span></a>&#160;(pdf) for an overview of the sessions. ​</p>
+<p>&#160;</p><p>View the complete <a href="https://www.iata.org/events/agm/2018/Documents/AGM2018-Agenda.pdf" target="_blank"><span><strong>AGM 2018 Event Agenda</strong></span></a>&#160;(pdf) for an overview of the sessions. ​</p>
 <div class="ms-webpart-zone ms-fullWidth">
 <div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_c41c79e6_51a3_4824_b7f3_c4107cbb1c70" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">

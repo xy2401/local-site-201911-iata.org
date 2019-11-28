@@ -336,7 +336,7 @@ StB Cargo
 </menu>
 <div class="introAndImage">
 </div>
-<h2 class="iataElement-Title2">Facilitating cargo transformation</h2><p>Simplifying the Business (StB) Cargo is the IATA Cargo Transformation program.&#160;StB Cargo is a portfolio of projects to strengthen today’s air cargo value proposition and an innovation stream to foster innovative thinking and build new growth engine for tomorrow’s air cargo industry.</p><p>From old-fashioned paper-based processes to lack of transparency, customers and partners face pain points throughout the cargo journey. Our challenge, therefore, is to increase the efficiency and service quality of air cargo. For a quick summary, check out the <a href="/whatwedo/cargo/Documents/stb-cargo-intro.pdf" target="_blank">introduction to StB Cargo</a> (pdf).</p>
+<h2 class="iataElement-Title2">Facilitating cargo transformation</h2><p>Simplifying the Business (StB) Cargo is the IATA Cargo Transformation program.&#160;StB Cargo is a portfolio of projects to strengthen today’s air cargo value proposition and an innovation stream to foster innovative thinking and build new growth engine for tomorrow’s air cargo industry.</p><p>From old-fashioned paper-based processes to lack of transparency, customers and partners face pain points throughout the cargo journey. Our challenge, therefore, is to increase the efficiency and service quality of air cargo. For a quick summary, check out the <a href="https://www.iata.org/whatwedo/cargo/Documents/stb-cargo-intro.pdf" target="_blank">introduction to StB Cargo</a> (pdf).</p>
 <h3 class="iataElement-Title3">StB Cargo projects to strengthen today</h3><p>The IATA Cargo Committee has prioritized the following 6 projects to accelerate change in the areas of digitization, visibility and safety&#58;</p><ul><li>
 <a href="/whatwedo/cargo/e/efreight">e-freight</a> &amp;
 <a href="/whatwedo/cargo/e/eawb">e-AWB</a>&#58; going paperless</li><li>
@@ -347,11 +347,11 @@ StB Cargo
 <a href="/whatwedo/cargo/e/Pages/cargo-connect.aspx">Cargo Connect</a>&#58; simplifying and modernizing&#160;connectivity</li></ul><p>
 <span>Two additional projects are under exploration&#58;&#160;</span><span>Fast Cargo and&#160;</span><span>Modern Cargo Distribution.</span></p><h3 class="iataElement-Title3">An innovation stream to build tomorrow<br></h3><p>StB Cargo program aims also at fostering longer-term innovation for the benefit of the IATA member airlines and the air cargo industry as a whole through&#58;</p><p>
 <strong>StB Cargo white papers</strong><span>&#160;aim at informing our Member airlines concisely about a complex issue and presenting IATA's positions and recommendations on the matter.&#160;</span></p><ul><li>
-<a href="/whatwedo/cargo/stb/Documents/StB-Cargo-White-Paper-e-commerce.pdf" target="_blank">Air Cargo Serving e-Commerce</a></li><li>
-<a href="/whatwedo/cargo/Documents/StB-Cargo-White-Paper-cargo-facility-future.pdf" target="_blank">The Cargo Facility of the Future</a></li></ul><p>
+<a href="https://www.iata.org/whatwedo/cargo/stb/Documents/StB-Cargo-White-Paper-e-commerce.pdf" target="_blank">Air Cargo Serving e-Commerce</a></li><li>
+<a href="https://www.iata.org/whatwedo/cargo/Documents/StB-Cargo-White-Paper-cargo-facility-future.pdf" target="_blank">The Cargo Facility of the Future</a></li></ul><p>
 <strong>Innovation events &amp; groups</strong>&#160;</p><ul><li>The&#160;<a href="/whatwedo/cargo/stb/Pages/cargo-innovation-awards.aspx" target="_blank">IATA Air Cargo Innovation Awards</a>&#160;</li><li>
-<a href="/events/wcs/Documents/wcs-2019/faces.pdf" target="_blank">FACES</a>, the Future Air Cargo Executives Summit</li><li>
-<a href="/events/wcs/Documents/wcs-2019/horizon.pdf" target="_blank">Horizon</a>, the IATA Air Cargo Innovation forum, organized with the annual&#160;<a href="/events/wcs/Pages/index.aspx" target="_blank">World Cargo Symposium</a>&#160;</li></ul>
+<a href="https://www.iata.org/events/wcs/Documents/wcs-2019/faces.pdf" target="_blank">FACES</a>, the Future Air Cargo Executives Summit</li><li>
+<a href="https://www.iata.org/events/wcs/Documents/wcs-2019/horizon.pdf" target="_blank">Horizon</a>, the IATA Air Cargo Innovation forum, organized with the annual&#160;<a href="/events/wcs/Pages/index.aspx" target="_blank">World Cargo Symposium</a>&#160;</li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -426,10 +426,10 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>
 <a href="/whatwedo/cargo/Pages/cargo-drones.aspx">Cargo Drones</a><br></p><p>
-<a href="/pressroom/pr/Documents/resolution-cargo-modernization-agm73.pdf" target="_blank">AGM Resolution on cargo modernization</a>(pdf)<br></p><p>
-<a href="/whatwedo/cargo/Documents/2017-global-shipper-survey.pdf" target="_blank">Shippers' survey 2017</a>&#160;(pdf)<br>
+<a href="https://www.iata.org/pressroom/pr/Documents/resolution-cargo-modernization-agm73.pdf" target="_blank">AGM Resolution on cargo modernization</a>(pdf)<br></p><p>
+<a href="https://www.iata.org/whatwedo/cargo/Documents/2017-global-shipper-survey.pdf" target="_blank">Shippers' survey 2017</a>&#160;(pdf)<br>
 <br>
-<a href="/whatwedo/cargo/Documents/2015-global-shipper-survey.pdf" target="_blank">Shippers' survey 2015</a>&#160;(pdf)<br></p></div>
+<a href="https://www.iata.org/whatwedo/cargo/Documents/2015-global-shipper-survey.pdf" target="_blank">Shippers' survey 2015</a>&#160;(pdf)<br></p></div>
 </div>
 <div class='crossLinksUpcomingEvents'>
 <div class='crossLinksTitle'>

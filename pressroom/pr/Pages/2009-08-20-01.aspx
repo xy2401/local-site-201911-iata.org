@@ -430,10 +430,10 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <ul>
 <li>
-<a href="/pressroom/Documents/Portuguese%20Release_2009-08-20-01.pdf" target="_blank">Portuguese </a>(pdf)
+<a href="https://www.iata.org/pressroom/Documents/Portuguese%20Release_2009-08-20-01.pdf" target="_blank">Portuguese </a>(pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Spanish%20release_2009-08-20-01.pdf" target="_blank">Spanish </a>(pdf)
+<a href="https://www.iata.org/pressroom/Documents/Spanish%20release_2009-08-20-01.pdf" target="_blank">Spanish </a>(pdf)
 </li>
 </ul></div>
 </div>

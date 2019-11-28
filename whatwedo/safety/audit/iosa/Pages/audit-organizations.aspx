@@ -336,7 +336,7 @@ IOSA Audit Organizations
 </menu>
 <div class="introAndImage">
 </div>
-<p>IOSA Audit Organizations are formally accredited by IATA to conduct IOSA audits. Each organization must use approved IOSA Auditors that have all met stringent <a href="/whatwedo/safety/audit/iosa/Documents/IOSA_Standards_Manual%28ISM%29_Edition_12.pdf" target="_blank">IOSA training and qualification</a> standards. AOs that are currently accredited are&#58; </p>
+<p>IOSA Audit Organizations are formally accredited by IATA to conduct IOSA audits. Each organization must use approved IOSA Auditors that have all met stringent <a href="https://www.iata.org/whatwedo/safety/audit/iosa/Documents/IOSA_Standards_Manual%28ISM%29_Edition_12.pdf" target="_blank">IOSA training and qualification</a> standards. AOs that are currently accredited are&#58; </p>
 <ul>
 <li><a href="http&#58;//www.acsgroup.aero/" target="_blank">Aviation Compliance Solutions Pty Ltd</a> </li>
 <li><a href="http&#58;//www.aviation-quality-services.com/" target="_blank">Aviation Quality Services GmbH</a> </li>

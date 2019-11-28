@@ -457,7 +457,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newstg"><div><a href="/iata/sites/agm/2009/file/soi2009.pdf" target="_blank">Presentation of this speech</a> (pdf)
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newstg"><div><a href="https://www.iata.org/iata/sites/agm/2009/file/soi2009.pdf" target="_blank">Presentation of this speech</a> (pdf)
 </div></div><div class="newstg"><div><a href="/iata/sites/agm/2009/video/soi2009_hi.asx">Watch the video</a> (.wmv)
 </div></div><p>&#160;</p><p>&#160;</p><p>&#160;</p></div>
 </div>

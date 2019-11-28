@@ -443,7 +443,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 Latest Worldwide Slot Guidelines
 </h2>
 <div class="hbContent">
-<p><a href="/policy/slots/Documents/wsg-8-english.pdf" target="_blank">​Worldwide Slot Guidelines</a> (pdf)</p>
+<p><a href="https://www.iata.org/policy/slots/Documents/wsg-8-english.pdf" target="_blank">​Worldwide Slot Guidelines</a> (pdf)</p>
 </div>
 </div>
 </a>

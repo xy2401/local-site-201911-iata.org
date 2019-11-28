@@ -334,7 +334,7 @@ AGM News Room
 </menu>
 <div class="introAndImage">
 <img alt="AGM 2017 logo" src="/events/agm/2017/PublishingImages/AGM%20logo-330x200.png" style="BORDER: 0px solid; ">
-<p>​The 73rd IATA Annual General Meeting and World Air Transport Summit (AGM) brought to Cancun some 800 aviation leaders and 200 media representatives.&#160;On this page you will find all media documentation covering the highlights of this unique event.&#160; See what's was on&#160;the plan&#58;&#160;<a href="/events/agm/2017/Documents/agm-media-agenda-2017.pdf" target="_blank"><strong>full AGM media agenda </strong></a>(pdf) <br></p>
+<p>​The 73rd IATA Annual General Meeting and World Air Transport Summit (AGM) brought to Cancun some 800 aviation leaders and 200 media representatives.&#160;On this page you will find all media documentation covering the highlights of this unique event.&#160; See what's was on&#160;the plan&#58;&#160;<a href="https://www.iata.org/events/agm/2017/Documents/agm-media-agenda-2017.pdf" target="_blank"><strong>full AGM media agenda </strong></a>(pdf) <br></p>
 </div>
 <strong><span><span class="wrappedImageLeft"><img src="/PublishingImages/Twitter-logo.jpg" alt="" /></span></span><br>#IATAAGM</strong>
 <p>
@@ -348,23 +348,23 @@ AGM News Room
 <a href="/pressroom/pr/Pages/2017-06-05-04.aspx" target="_blank">Governments Need to Support Production of Sustainable Aviation Fuels </a>(press release)</li><li>
 <a href="/pressroom/pr/Pages/2017-06-05-06.aspx" target="_blank">Airlines Commit to Air Cargo Modernization</a> (press release) </li><li>
 <a href="/pressroom/pr/Pages/2017-06-05-05.aspx" target="_blank">Closer Collaboration Key to Enhancing Aviation Security </a>(press release) </li><li>
-<a href="/events/agm/2017/Documents/icao-council-president-address.pdf" target="_blank">ICAO's Council President Address</a> (pdf) - speech</li><li>
+<a href="https://www.iata.org/events/agm/2017/Documents/icao-council-president-address.pdf" target="_blank">ICAO's Council President Address</a> (pdf) - speech</li><li>
 <a href="/pressroom/pr/Pages/2017-06-05-02.aspx">Strong Profits Continue - Labor, Fuel and Supplier Costs on the Rise</a>&#160;(press release)&#160;</li><li>
 <a href="/pressroom/pr/Pages/2017-06-05-03.aspx">Defending the Business of Freedom</a> (press release)</li><li>
 <a href="/pressroom/speeches/Pages/2017-06-05-01.aspx">Director General’s Report on the Global Air Transport Industry</a>&#160;(speech)</li><li>
 <a href="/pressroom/pr/Pages/2017-06-05-01.aspx">AGM Opens in Cancun, Andres Conesa Elected AGM President</a> (press release)&#160;&#160;&#160; </li><li>
 <a href="/pressroom/pr/Pages/2017-06-04-01.aspx">Infrastructure, Smarter Regulation Key to Success for Latin American Aviation</a> (press release)</li><li>
 <a href="/pressroom/pr/Pages/2017-06-01-03.aspx">Aviation Leaders Assemble in Mexico for IATA’s 73rd Annual General Meeting</a>&#160;(press release)</li></ul><h3>Newsletters</h3><ul><li>
-<a href="/events/agm/2017/Documents/Capa-Daily-4Jun.pdf" target="_blank">CAPA Daily - 1&gt;</a>&#160;(pdf)&#160;
-<a href="/events/agm/2017/Documents/CAPA-Daily-News-2.pdf" target="_blank">
+<a href="https://www.iata.org/events/agm/2017/Documents/Capa-Daily-4Jun.pdf" target="_blank">CAPA Daily - 1&gt;</a>&#160;(pdf)&#160;
+<a href="https://www.iata.org/events/agm/2017/Documents/CAPA-Daily-News-2.pdf" target="_blank">
 <span>CAPA Daily - 2</span></a>&#160;(pdf)&#160;
-<a href="/events/agm/2017/Documents/capa-daily-news-3.pdf" target="_blank">CAPA Daily&#160;- 3 </a>(pdf)</li></ul><ul><li>
-<a href="/events/agm/2017/Documents/Flight-Airline-Business-4June2017.pdf" target="_blank"> Flight AirlineBusiness, 4 June&#160;</a>&#160;(pdf)
-<a href="/events/agm/2017/Documents/Flight-AirlineBusiness-day2.pdf" target="_blank">Flight AirlineBusiness, 5 June</a>&#160;(pdf)
-<a href="/events/agm/2017/Documents/flight-airline-business-day3.pdf" target="_blank">Flight AirlineBusiness, 6 June&#160;</a> (pdf)&#160;&#160; </li><li>
+<a href="https://www.iata.org/events/agm/2017/Documents/capa-daily-news-3.pdf" target="_blank">CAPA Daily&#160;- 3 </a>(pdf)</li></ul><ul><li>
+<a href="https://www.iata.org/events/agm/2017/Documents/Flight-Airline-Business-4June2017.pdf" target="_blank"> Flight AirlineBusiness, 4 June&#160;</a>&#160;(pdf)
+<a href="https://www.iata.org/events/agm/2017/Documents/Flight-AirlineBusiness-day2.pdf" target="_blank">Flight AirlineBusiness, 5 June</a>&#160;(pdf)
+<a href="https://www.iata.org/events/agm/2017/Documents/flight-airline-business-day3.pdf" target="_blank">Flight AirlineBusiness, 6 June&#160;</a> (pdf)&#160;&#160; </li><li>
 <a href="http&#58;//redactive.msgfocus.com/q/119z8RvQlRfo/wv" target="_blank">
 <span>Airlines. Magazine, 4 June</span></a>&#160;-
-<a href="/events/agm/2017/Documents/aviation-daily-5-june.pdf" target="_blank">Aviation Daily, 5 June</a> (pdf) -
+<a href="https://www.iata.org/events/agm/2017/Documents/aviation-daily-5-june.pdf" target="_blank">Aviation Daily, 5 June</a> (pdf) -
 <a href="http&#58;//redactive.msgfocus.com/q/119z8SNDcOqT/wv" target="_blank">
 <span>Airlines. Magazine&#58;&#160;6 June</span></a></li></ul>
 </div>

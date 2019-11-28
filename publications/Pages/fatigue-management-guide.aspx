@@ -340,7 +340,7 @@ Fatigue Management Guide for Airline Operations
 <div>The Fatigue Management Guide includes valuable insight into the methodology and framework for implementing an effective fatigue risk management program and an explanation of the science supporting it. It provides operators with a complete document on prescriptive and performance-based fatigue management approaches. <br></div>
 <p>The guide is available as a free download&#58;</p>
 <ul>
-<li><a href="/publications/Documents/Fatigue-Management-Guide_Airline%20Operators.pdf" target="_blank">Fatigue Management Guide for Airline Operators - English </a>(pdf)</li></ul>
+<li><a href="https://www.iata.org/publications/Documents/Fatigue-Management-Guide_Airline%20Operators.pdf" target="_blank">Fatigue Management Guide for Airline Operators - English </a>(pdf)</li></ul>
 <p>For more information about the&#160;guide, please contact <a href="mailto&#58;FRMS@iata.org">FRMS@iata.org</a>​​</p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>

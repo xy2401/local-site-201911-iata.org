@@ -452,19 +452,19 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <ul>
 <li>
-<a href="/pressroom/Documents/Arabic%20release_2009-04-28-01.pdf" target="_blank">Arabic </a>(pdf)
+<a href="https://www.iata.org/pressroom/Documents/Arabic%20release_2009-04-28-01.pdf" target="_blank">Arabic </a>(pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Chinese%20release_2009-04-28-01.pdf" target="_blank">Chinese </a>(pdf)
+<a href="https://www.iata.org/pressroom/Documents/Chinese%20release_2009-04-28-01.pdf" target="_blank">Chinese </a>(pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/German%20release_2009-04-28-01.pdf" target="_blank">German </a>(pdf)
+<a href="https://www.iata.org/pressroom/Documents/German%20release_2009-04-28-01.pdf" target="_blank">German </a>(pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Italian%20release_2009-04-28-01.pdf" target="_blank">Italian </a>(pdf)
+<a href="https://www.iata.org/pressroom/Documents/Italian%20release_2009-04-28-01.pdf" target="_blank">Italian </a>(pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Spanish%20release_2009-04-28-01.pdf" target="_blank">Spanish </a>(pdf)
+<a href="https://www.iata.org/pressroom/Documents/Spanish%20release_2009-04-28-01.pdf" target="_blank">Spanish </a>(pdf)
 </li>
 </ul></div>
 </div>

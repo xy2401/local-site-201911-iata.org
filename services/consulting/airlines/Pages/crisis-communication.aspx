@@ -432,7 +432,7 @@ Download
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>
-<strong>Crisis Communications &amp; Social Media Guidelines&#58;</strong><a href="/publications/Documents/social-media-crisis-guidelines.pdf" target="_blank">Download&#160;it&#160;now!​</a> </p><p>
+<strong>Crisis Communications &amp; Social Media Guidelines&#58;</strong><a href="https://www.iata.org/publications/Documents/social-media-crisis-guidelines.pdf" target="_blank">Download&#160;it&#160;now!​</a> </p><p>
 <strong>IATA Training Course&#58;</strong><a href="/training/courses/Pages/tapp39.aspx">Crisis Communications and Media Response for Airport and Station Managers​</a></p>
 </div>
 </div>

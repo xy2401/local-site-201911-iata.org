@@ -346,10 +346,10 @@ Digitalization – Reshaping the Corporate Learning Landscape (Classroom, 3 days
 <p>Let’s explore the way that digitalization is reshaping the corporate learning landscape! Over 3 days we will analyze the evolution in the current and future trends in digital technologies and discuss how the adoption of a digital way of learning impacts organizational culture. We will also discuss which factors are driving this adoption and explore the different ways in which adults learn. You will also have the chance to test the most frequently used tools in learning design and analyze the potential future applications of digital technologies in corporate learning.</p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers and Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 3 days (24 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>Participants should have basic knowledge of instructional design principles and an understanding of adult learning styles and motivations</li><li>Recommended level is Entry-level and Management</li>
-<li>The recommended level of language proficiency is <a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
+<li>The recommended level of language proficiency is <a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or the equivalent level for other languages.</li>
 </ul>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>

@@ -349,7 +349,7 @@ Technology Roadmap
 <p>
 <br>
 </p><h3 class="iataElement-Title3">More Information<br></h3><ul><li>
-<a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-technology-roadmap-environment.pdf" target="_blank">Technology Roadmap Fact Sheet</a> (pdf)<br></li><li> <a href="http&#58;//www.iata.org/whatwedo/environment/Documents/technology-roadmap-2013.pdf" target="_blank">2013 Technology Roadmap</a> (pdf)</li>
+<a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-technology-roadmap-environment.pdf" target="_blank">Technology Roadmap Fact Sheet</a> (pdf)<br></li><li> <a href="http&#58;//www.iata.org/whatwedo/environment/Documents/technology-roadmap-2013.pdf" target="_blank">2013 Technology Roadmap</a> (pdf)</li>
 <li>
 <a href="/whatwedo/environment/Pages/index.aspx">IATA and the Environment</a> </li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>

@@ -434,7 +434,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 New study
 </h2>
 <div class="hbContent">
-<a href="/policy/business-freedom/Documents/intervistas-report-aspac-dec2015.pdf" target="_blank">Asia Pacific Commercial Air Transport</a><br>
+<a href="https://www.iata.org/policy/business-freedom/Documents/intervistas-report-aspac-dec2015.pdf" target="_blank">Asia Pacific Commercial Air Transport</a><br>
 </div>
 </div>
 </a>

@@ -338,7 +338,7 @@ Cargo Messaging Working Group (CMWG)
 <h3 class="iataElement-Title3">Objective</h3><p>The primary objective of the Cargo Messaging Working Group&#160;is to provide recommendations to the
 <a href="/whatwedo/workgroups/Pages/cotb.aspx">Cargo Operations and Technology Board (COTB)</a>&#160;on XML requirements for transportation messages.&#160;</p><p>The Working Group&#160;is also responsible for&#160;the maintenance of the standards&#160;and to oversee the technical development of these
 <a href="/whatwedo/cargo/e/Pages/cargo-xml.aspx">XML messages</a>, which will be based as much as possible on existing messages (e.g. CIMP. IFTMIN) and international standards (i.e. UN/CEFACT Core Components and XML Naming and Design Rules). </p><h3 class="iataElement-Title3">Membership</h3><p>CMWG consists of 20&#160;members from the air cargo supply chain including airlines, shippers, freight forwarders, ground handlers, customs brokers,&#160;international organizations, and service providers (as observers).</p><p>
-<a href="/whatwedo/workgroups/Documents/cxmltf-terms-of-reference.pdf" target="_blank">CMWG&#160;Terms of Reference</a>&#160;(pdf)​​​</p><h3 class="iataElement-Title3">Contact</h3>
+<a href="https://www.iata.org/whatwedo/workgroups/Documents/cxmltf-terms-of-reference.pdf" target="_blank">CMWG&#160;Terms of Reference</a>&#160;(pdf)​​​</p><h3 class="iataElement-Title3">Contact</h3>
 Secretary&#160;<br><a href="mailto&#58;cargo@iata.org">S Tahir Hasnain</a><p>Manager Cargo Technology<br>&#160;IATA<br></p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
@@ -434,8 +434,8 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <strong>Cargo XML </strong>
 <a href="/whatwedo/cargo/e/Pages/cargo-xml.aspx">Cargo-XML Standards</a><br>
 <a href="/pressroom/pr/Pages/2016-08-08-01.aspx">Press release&#58; Cargo-XML accepted by the US Customs &amp; Border Protection Agency​</a>&#160;<br>
-<a href="/whatwedo/cargo/e/Documents/cargo-xml-standards-white-paper.pdf" target="_blank">White Paper - IATA Cargo-XML Standards&#160;</a>(pdf)​<br>
-<a href="/whatwedo/workgroups/Documents/xml-standards-presentation.pdf" target="_blank">Cargo-XML Standards Presentation</a>&#160;(pdf)<br>
+<a href="https://www.iata.org/whatwedo/cargo/e/Documents/cargo-xml-standards-white-paper.pdf" target="_blank">White Paper - IATA Cargo-XML Standards&#160;</a>(pdf)​<br>
+<a href="https://www.iata.org/whatwedo/workgroups/Documents/xml-standards-presentation.pdf" target="_blank">Cargo-XML Standards Presentation</a>&#160;(pdf)<br>
 <br><a href="/whatwedo/workgroups/test/ScoreCard_Users_HTML-2019-02-14/Ref.CXML/EN/Content/HTML/cxml-scorecard-en.html" target="_blank">CXML Scorecard</a> (html)</p><br></div>
 </div>
 <div class='hide_element_a1472acf-653c-41f9-b89c-fc993c2c9b4e'></div><script type='text/javascript'>CTP.IATA.HideChrome('a1472acf-653c-41f9-b89c-fc993c2c9b4e')</script>

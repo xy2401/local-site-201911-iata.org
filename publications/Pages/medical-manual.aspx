@@ -345,7 +345,7 @@ Medical Manual
 <li>Efficiently deal with sick passengers </li>
 <li>Better handle crisis situations concerning health issues </li>
 <li>Train your staff on altitude physiology</li></ul>
-<p><a href="/publications/Documents/medical-manual.pdf" target="_blank">Download IATA Medical Manual</a> (pdf)</p>
+<p><a href="https://www.iata.org/publications/Documents/medical-manual.pdf" target="_blank">Download IATA Medical Manual</a> (pdf)</p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>

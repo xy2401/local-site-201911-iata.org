@@ -340,10 +340,10 @@ Aircraft Noise
 <strong>operating restrictions should not be introduced as a first resort</strong> but only after a full assessment of all available measures to address a demonstrated noise problem at an airport. </p><p>
 <img alt="Night flights are critical for express delivery services, the transport of mail and time-sensitive products." src="/policy/environment/PublishingImages/nightflights.png" border="0" style="border&#58;0px solid currentcolor;" />&#160;</p><h3>More information</h3><ul>
 <li> ​Fact sheets&#58;
-<a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-night-flights.pdf" target="_blank">Night flights</a>&#160;(pdf)
-<a href="/policy/Documents/environmental_tax_update.pdf" target="_blank">Green taxes</a>&#160;(pdf) </li><li>IATA position paper on
-<a href="/policy/environment/Documents/paper-on-operating-restrictions-august-2013.pdf" target="_blank">Noise-related&#160;operating restrictions</a>&#160;(pdf)</li><li>IATA position paper on
-<a href="/policy/infrastructure/Documents/Noise-related_charges.pdf" target="_blank"> Noise-related charges </a>(pdf)</li></ul>
+<a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-night-flights.pdf" target="_blank">Night flights</a>&#160;(pdf)
+<a href="https://www.iata.org/policy/Documents/environmental_tax_update.pdf" target="_blank">Green taxes</a>&#160;(pdf) </li><li>IATA position paper on
+<a href="https://www.iata.org/policy/environment/Documents/paper-on-operating-restrictions-august-2013.pdf" target="_blank">Noise-related&#160;operating restrictions</a>&#160;(pdf)</li><li>IATA position paper on
+<a href="https://www.iata.org/policy/infrastructure/Documents/Noise-related_charges.pdf" target="_blank"> Noise-related charges </a>(pdf)</li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>

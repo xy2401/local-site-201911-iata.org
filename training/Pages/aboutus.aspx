@@ -381,10 +381,10 @@ Quality training to get you recognized
 <strong>
 <a href="https&#58;//www.iso.org/iso-9001-quality-management.html" target="_blank">
 <img class="ms-rtePosition-1" src="/training/Logos/iso.png" alt="" style="margin&#58;0px 15px;" /></a></strong></td><td>
-<a href="/training/Documents/IQ-Net-ISO-9001-2015-Certificate-2018-full-scope.pdf">We are ISO 9001&#58;2015 certified </a>for Leadership; Business Development; Training Partners Management; Product Development; Instructor Management; Training Operations; and Training Center Tasks.
+<a href="https://www.iata.org/training/Documents/IQ-Net-ISO-9001-2015-Certificate-2018-full-scope.pdf">We are ISO 9001&#58;2015 certified </a>for Leadership; Business Development; Training Partners Management; Product Development; Instructor Management; Training Operations; and Training Center Tasks.
 <p>
 <br> ISO 9001-2015 is the industry standard in quality management that demonstrates the ability to consistently provide products and services that meet customer and regulatory requirements.
-<a href="/training/Documents/SQS-ISO-9001-2015-Certificate-2018-full-scope.pdf">See the details of our ISO 9001&#58;2015 certification</a></p></td></tr></tbody></table><h3 class="iataElement-Title3">ACCET Accreditation</h3><table class="datatable  "><tbody><tr></tr><tr><td>
+<a href="https://www.iata.org/training/Documents/SQS-ISO-9001-2015-Certificate-2018-full-scope.pdf">See the details of our ISO 9001&#58;2015 certification</a></p></td></tr></tbody></table><h3 class="iataElement-Title3">ACCET Accreditation</h3><table class="datatable  "><tbody><tr></tr><tr><td>
 <strong>
 <a href="https&#58;//www.iso.org/iso-9001-quality-management.html" target="_blank"> </a>
 <a href="/training/Pages/accet-accreditation.aspx">

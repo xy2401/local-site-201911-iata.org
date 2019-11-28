@@ -352,20 +352,20 @@ please see&#160;the </span><span lang="EN-US"><a href="https&#58;//www.who.int/c
 <h2>Working with&#160;National Public Health Authorities</h2>
 <p>IATA also cooperates with national&#160;authorities.&#160;In association&#160;with&#160;ICAO, IATA contributed to&#160;the&#160;United States Center for Disease Control and Prevention's (CDC)<a href="http&#58;//www.cdc.gov/quarantine/air/managing-sick-travelers/commercial-aircraft/infection-control-cabin-crew.html" target="_blank">&#160;Infection Control Guidelines for Cabin Crew Members on Commercial Aircraft</a>.</p>
 <h2>Emergency response</h2>
-<p>Based on the experience with different outbreaks, IATA has produced an&#160;<a href="/whatwedo/safety/health/Documents/airlines-erp-checklist.pdf" target="_blank">Emergency Response Plan and Action Checklist</a>&#160;(pdf), for use by air carriers in the event of a public health emergency.​​</p>
+<p>Based on the experience with different outbreaks, IATA has produced an&#160;<a href="https://www.iata.org/whatwedo/safety/health/Documents/airlines-erp-checklist.pdf" target="_blank">Emergency Response Plan and Action Checklist</a>&#160;(pdf), for use by air carriers in the event of a public health emergency.​​</p>
 <p>An important part of this plan involves a series of guidelines and best practices for airline staff in the event of public health emergencies.</p>
-<ul><li><a href="/whatwedo/safety/health/Documents/health-guidelines-cabin-annoucement-scripts.pdf" target="_blank">Cabin Announcement Scripts</a> (2017) (pdf)</li>
-<li><a href="/whatwedo/safety/health/Documents/health-guidelines-universal-precaution-kit.pdf" target="_blank">Universal Precaution Kit</a> (2017) (pdf)</li>
-<li><a href="/whatwedo/safety/health/Documents/cabin-air-quality.pdf" target="_blank">Cabin Air Quality Brief</a>&#160;(pdf)</li>
-<li><a href="/whatwedo/safety/health/Documents/health-guidelines-bird-strike.pdf" target="_blank">Bird Strike</a> (2017) (pdf)</li>
-<li><a href="/whatwedo/safety/health/Documents/health-guidelines-maintenance-crew.pdf" target="_blank">Maintenance Crew</a>&#160;(2017) (pdf)</li>
-<li><a href="/whatwedo/safety/health/Documents/guidelines-cargo-baggage.pdf" target="_blank">Cargo &amp; Baggage Handlers</a> (2017) (pdf)</li>
-<li><a href="/whatwedo/safety/health/Documents/health-guidelines-cabin-crew.pdf" target="_blank">Cabin Crew&#160;</a>(2017)&#160;(pdf)</li>
-<li><a href="/whatwedo/safety/health/Documents/health-guidelines-cleaning-crew.pdf" target="_blank">Cleaning Crew</a> (2017) (pdf)</li>
-<li><a href="/whatwedo/safety/health/Documents/health-guideline-pax-agents.pdf" target="_blank">Passenger Agents</a>&#160;(2017) (pdf)</li>
+<ul><li><a href="https://www.iata.org/whatwedo/safety/health/Documents/health-guidelines-cabin-annoucement-scripts.pdf" target="_blank">Cabin Announcement Scripts</a> (2017) (pdf)</li>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/health-guidelines-universal-precaution-kit.pdf" target="_blank">Universal Precaution Kit</a> (2017) (pdf)</li>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/cabin-air-quality.pdf" target="_blank">Cabin Air Quality Brief</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/health-guidelines-bird-strike.pdf" target="_blank">Bird Strike</a> (2017) (pdf)</li>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/health-guidelines-maintenance-crew.pdf" target="_blank">Maintenance Crew</a>&#160;(2017) (pdf)</li>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/guidelines-cargo-baggage.pdf" target="_blank">Cargo &amp; Baggage Handlers</a> (2017) (pdf)</li>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/health-guidelines-cabin-crew.pdf" target="_blank">Cabin Crew&#160;</a>(2017)&#160;(pdf)</li>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/health-guidelines-cleaning-crew.pdf" target="_blank">Cleaning Crew</a> (2017) (pdf)</li>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/health-guideline-pax-agents.pdf" target="_blank">Passenger Agents</a>&#160;(2017) (pdf)</li>
 <li><a href="/whatwedo/safety/health/Pages/locator-form.aspx">Passenger Locator Form</a> </li>
 </ul><ul>
-<li><a href="/whatwedo/safety/health/Documents/flu_hygiene_web.pdf" target="_blank">Flu Hygiene flyer&#160;</a>(pdf)</li></ul>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/flu_hygiene_web.pdf" target="_blank">Flu Hygiene flyer&#160;</a>(pdf)</li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>

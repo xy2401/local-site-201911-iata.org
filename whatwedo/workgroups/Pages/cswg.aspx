@@ -345,7 +345,7 @@ Cargo Security Working Group (CSWG)
 <li>Standard resolutions and recommended practices<br></li>
 <li>Amendment of regulations</li><li>Mitigation of enforcement actions<br></li></ul>
 <h3 class="iataElement-Title3">Terms of Reference<br></h3>
-<ul><li><a href="/whatwedo/workgroups/Documents/cswg-tor.pdf" target="_blank">CSWG Terms of Reference</a> (pdf)<br></li></ul>
+<ul><li><a href="https://www.iata.org/whatwedo/workgroups/Documents/cswg-tor.pdf" target="_blank">CSWG Terms of Reference</a> (pdf)<br></li></ul>
 <h3 class="iataElement-Title3">Membership</h3>
 <p>The&#160;CSWG comprises of airline cargo and mail security experts from around the world. There are&#160;15&#160;members and a number of observers appointed for a one-year term. The membership&#160;is appointed&#160;by the IATA Cargo Border Management Board based upon nominations received from the Cargo Services Conference (CSC).</p>
 <h3 class="iataElement-Title3">Meetings</h3>

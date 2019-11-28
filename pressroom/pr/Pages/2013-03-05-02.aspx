@@ -366,7 +366,7 @@ Balancing Risk and Regulation - A Pragmatic Approach to Aviation Security
 <ul>
 <li>IATA (International Air Transport Association) represents some 240 airlines comprising 84% of global air traffic. </li>
 <li>You can follow us at <a href="http&#58;//twitter.com/iata2press">http&#58;//twitter.com/iata2press</a>&#160;for news specially catered for the media.</li>
-<li><a href="/pressroom/speeches/Documents/DG-AVSEC-Media-Remarks-2013-03-05-01.pdf" target="_blank">Tony Tyler's remarks at the AVSEC World media session</a> (pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/speeches/Documents/DG-AVSEC-Media-Remarks-2013-03-05-01.pdf" target="_blank">Tony Tyler's remarks at the AVSEC World media session</a> (pdf)</li></ul>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
 </ie:menuitem>
@@ -441,7 +441,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

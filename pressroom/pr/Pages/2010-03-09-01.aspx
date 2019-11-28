@@ -358,7 +358,7 @@ Air Cargo: Efficiency, Quality and Security Are Key - Entire Supply Chain Must B
 <p><strong>Editor's Notes&#58;</strong> </p>
 <ul>
 <li>IATA (International Air Transport Association) represents some 230 airlines comprising 93% of scheduled international air traffic. </li>
-<li><a href="/pressroom/pr/Documents/eChartbook_Q1_2010.pdf" target="_blank">IATA Cargo e-Chartbook</a> (pdf) </li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/eChartbook_Q1_2010.pdf" target="_blank">IATA Cargo e-Chartbook</a> (pdf) </li>
 <li><a href="/whatwedo/cargo/e/efreight/Pages/index.aspx">More information on IATA e-freight</a> </li>
 <li><a href="/whatwedo/cargo/security/Pages/index.aspx">More information on IATA’s secure freight program</a> </li></ul>
 <p>For more information, please contact&#58;<br>Corporate Communications<br>Tel&#58; <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1">+41 22 770 2967<a title="Call&#58; +41 22 770 2967" href="#"><img title="Call&#58; +41 22 770 2967" alt="" style="margin&#58;0px;border&#58;currentcolor;left&#58;0px;top&#58;0px;width&#58;16px;height&#58;16px;right&#58;0px;bottom&#58;0px;overflow&#58;hidden;vertical-align&#58;middle;float&#58;none;display&#58;inline;white-space&#58;nowrap;position&#58;static !important;" /></a></span><br>Email&#58; <a href="mailto&#58;corpcomms@iata.org">corpcomms@iata.org</a><br><br><br></p>
@@ -438,7 +438,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations of this Press Release</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Chinese_PR_2010_03_09_01.pdf" target="_blank">Chinese</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Chinese_PR_2010_03_09_01.pdf" target="_blank">Chinese</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_f9f84c80-b0e6-41eb-bf11-5f6ddf09b894'></div><script type='text/javascript'>CTP.IATA.HideChrome('f9f84c80-b0e6-41eb-bf11-5f6ddf09b894')</script>
 <div class='hide_element_a6e605a5-7f76-4ac3-9140-299181c36007'></div><script type='text/javascript'>CTP.IATA.HideChrome('a6e605a5-7f76-4ac3-9140-299181c36007')</script>

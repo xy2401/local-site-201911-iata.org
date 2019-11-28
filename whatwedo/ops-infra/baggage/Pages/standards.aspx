@@ -484,7 +484,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <a href="http&#58;//corp-extranet.iata.org/sites/baggage" target="_blank">Login (IATA staff)</a></p><div class="newst"><div><h2>Publications</h2></div></div><p>
 <a href="/publications/store/Pages/baggage-reference-manual.aspx">Baggage Reference Manual</a></p><p>
 <a href="/publications/store/Pages/passenger-services-conference-resolutions-manual.aspx">Passenger Services Conference Resolutions Manual</a></p><p>
-<a href="/whatwedo/ops-infra/baggage/Documents/Baggage%20Disruption_Handling%20guidelines.pdf" target="_blank">Baggage Disruption Han<span class="iataStyle-Normal"></span>dling Guidelines Manual</a> (pdf)</p><div class="newst"><div><h2>Training</h2></div></div><p>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/Baggage%20Disruption_Handling%20guidelines.pdf" target="_blank">Baggage Disruption Han<span class="iataStyle-Normal"></span>dling Guidelines Manual</a> (pdf)</p><div class="newst"><div><h2>Training</h2></div></div><p>
 <a href="/training/courses/Pages/baggage-handling-services-tapg09.aspx">Baggage Handling Services and Systems</a></p><p>
 <a href="/training/courses/Pages/baggage-claim-proration-tapg62.aspx">Baggage Claims and Proration</a></p><p>
 <a href="/training/courses/Pages/baggage-tracking-tapp49.aspx">Baggage Tracking - Implementation and Compliance</a></p></div>

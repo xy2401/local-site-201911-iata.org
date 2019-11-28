@@ -378,11 +378,11 @@ Airlines
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"><h3 class="iataElement-Title3">Airlines&#58; make sure you are in TACT </h3><p>Join TACT and share your rules and rates information with over 70,000 cargo professionals worldwide. Find out
-<a href="/publications/Documents/TACT_Participation.pdf" target="_blank">more about your benefits</a> (pdf).</p><h3 class="iataElement-Title3">
+<a href="https://www.iata.org/publications/Documents/TACT_Participation.pdf" target="_blank">more about your benefits</a> (pdf).</p><h3 class="iataElement-Title3">
 <span aria-hidden="true"></span>Interested in becoming a TACT&#160;reseller?</h3><p>Become an
 <a href="/publications/Pages/resellers.aspx">IATA Publications Sales Agent</a> for TACT today and&#160;leverage&#160;the IATA brand and expertise&#160;to expand your regional business.
 <a href="mailto&#58;salesagents@iata.org?Subject=www.iata.org&#58;%20Information%20Enquiry%20on%20TACT%20Products">Contact us</a> to learn more about the discounted pricing available to resellers today.<br></p><h3 class="iataElement-Title3"><a href="https&#58;//www.tact-online.org/OrderForm" target="_blank"><strong class="ms-rteThemeForeColor-2-5 ms-rteThemeFontFace-2">Order&#160;TACT&#160;now!</strong></a><br></h3><p>Please see our
-<a href="/publications/Documents/TACT_2020_Price_List.pdf" target="_blank">pricelist</a>&#160;(pdf)&#160;and
+<a href="https://www.iata.org/publications/Documents/TACT_2020_Price_List.pdf" target="_blank">pricelist</a>&#160;(pdf)&#160;and
 <a href="mailto&#58;AMS-CDS@indp.iata.org?Subject=www.iata.org&#58;%20Order%20of%20TACT%20Products">contact us</a> if you have any questions about it!</p></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>

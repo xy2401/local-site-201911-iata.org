@@ -428,7 +428,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/press-release-no35-2014-06-03-sp.pdf" target="_blank">Spanish</a> (pdf)<br><a href="/pressroom/pr/Documents/French-PR-2014-06-03-02.pdf" target="_blank">French</a> (pdf)<br><a href="/pressroom/pr/Documents/Arabic-PR-2014-06-03-02.pdf" target="_blank">Arabic</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/press-release-no35-2014-06-03-sp.pdf" target="_blank">Spanish</a> (pdf)<br><a href="/pressroom/pr/Documents/French-PR-2014-06-03-02.pdf" target="_blank">French</a> (pdf)<br><a href="/pressroom/pr/Documents/Arabic-PR-2014-06-03-02.pdf" target="_blank">Arabic</a> (pdf)</li></ul></div>
 <div class="ms-webpart-zone ms-fullWidth">
 <div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">

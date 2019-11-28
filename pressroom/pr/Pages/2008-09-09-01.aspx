@@ -407,7 +407,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newstg">
 <div>
-<a href="/pressroom/Documents/Flight%20Efficiency%20Plan.pdf" target="_blank">Download the Flight Efficiency Plan (FEP)</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/Flight%20Efficiency%20Plan.pdf" target="_blank">Download the Flight Efficiency Plan (FEP)</a> (pdf)
 </div>
 </div><div class="newst">
 <div>

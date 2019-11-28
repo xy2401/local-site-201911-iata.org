@@ -336,9 +336,9 @@ NDC registry
 </menu>
 <div class="introAndImage">
 </div>
-<p>​The NDC Registry lists all companies that are successfully certified as either NDC-Certified or NDC-Capable, in accordance with the&#160;<a href="/whatwedo/airline-distribution/ndc/Documents/guide-ndc-registration-certification-program.pdf" target="_blank">IATA Guide to the NDC Certification&#160;Program</a>&#160;(pdf).&#160;
+<p>​The NDC Registry lists all companies that are successfully certified as either NDC-Certified or NDC-Capable, in accordance with the&#160;<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/guide-ndc-registration-certification-program.pdf" target="_blank">IATA Guide to the NDC Certification&#160;Program</a>&#160;(pdf).&#160;
 </p><div><p><strong>PLEASE NOTE</strong>&#58; The NDC-Certified and NDC-Capable designations do not validate the content of the designated entity’s messages and do not entail any kind of certification, validation or endorsement of (i) any aspect of the entity, (ii) the quality or other aspects of its activities or products or XML API, (iii) any commercial products that may be derived from the usage of validated NDC messages or the XML API.&#160;</p>
-<p> Please see the complete&#160;<a href="/whatwedo/airline-distribution/ndc/Documents/ndc-registry-disclaimer-terms-of-use.pdf" target="_blank">NDC Registry Disclaimer and Terms of Use</a>(pdf) for important further disclaimers applicable to the designations.​&#160;</p></div>
+<p> Please see the complete&#160;<a href="https://www.iata.org/whatwedo/airline-distribution/ndc/Documents/ndc-registry-disclaimer-terms-of-use.pdf" target="_blank">NDC Registry Disclaimer and Terms of Use</a>(pdf) for important further disclaimers applicable to the designations.​&#160;</p></div>
 <div class="ms-webpart-zone ms-fullWidth">
 <div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_fecc6c2f_8b06_46e6_8fdf_35a17aef5990" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">

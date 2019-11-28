@@ -424,8 +424,8 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">
 <p>Translations</p>
-<ul><a href="/pressroom/pr/Documents/French-PR-2015-06-08-04.pdf" target="_blank">French</a> (pdf)
-<li><a href="/pressroom/pr/Documents/Spanish-PR-2015-06-08-04.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul>
+<ul><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2015-06-08-04.pdf" target="_blank">French</a> (pdf)
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2015-06-08-04.pdf" target="_blank">Spanish</a>&#160;(pdf)</li></ul>
 </div>
 </div>
 <div class='hide_element_72762ef8-8d88-48e3-8bb6-df2c6cced6de'></div><script type='text/javascript'>CTP.IATA.HideChrome('72762ef8-8d88-48e3-8bb6-df2c6cced6de')</script>

@@ -426,13 +426,13 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <ul>
 <li>
-<a href="/pressroom/Documents/French%20release_2009-02-19-02.pdf" target="_blank">French </a>(pdf)
+<a href="https://www.iata.org/pressroom/Documents/French%20release_2009-02-19-02.pdf" target="_blank">French </a>(pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Italian%20release_2009-02-19-02.pdf" target="_blank">Italian </a>(pdf)
+<a href="https://www.iata.org/pressroom/Documents/Italian%20release_2009-02-19-02.pdf" target="_blank">Italian </a>(pdf)
 </li>
 <li>
-<a href="/pressroom/Documents/Spanish%20release_2009-02-19-02.pdf" target="_blank">Spanish </a>(pdf)
+<a href="https://www.iata.org/pressroom/Documents/Spanish%20release_2009-02-19-02.pdf" target="_blank">Spanish </a>(pdf)
 </li>
 </ul></div>
 </div>

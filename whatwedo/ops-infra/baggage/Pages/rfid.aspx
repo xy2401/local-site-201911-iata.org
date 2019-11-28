@@ -557,9 +557,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​
 <a href="/pressroom/pr/Pages/2019-06-02-05.aspx">Press release&#58; RFID baggage tracking set for global deployment</a>(2 June 2019)<br></p><p>
-<a href="/whatwedo/ops-infra/baggage/Documents/fact-sheet-rfid-bag-tag-june-2019.pdf" target="_blank">RFID fact sheet</a> (pdf)</p><p>
-<a href="/whatwedo/ops-infra/baggage/Documents/resolution-rfid-agm-2019.pdf" target="_blank">AGM Resolution on RFID in baggage</a> (pdf)<br></p><p>
-<a href="/whatwedo/ops-infra/baggage/Documents/RFID_XML_infographic_June2019.pdf" target="_blank">The 2 essentials for baggage tracking</a> (pdf)<br></p>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/fact-sheet-rfid-bag-tag-june-2019.pdf" target="_blank">RFID fact sheet</a> (pdf)</p><p>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/resolution-rfid-agm-2019.pdf" target="_blank">AGM Resolution on RFID in baggage</a> (pdf)<br></p><p>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/RFID_XML_infographic_June2019.pdf" target="_blank">The 2 essentials for baggage tracking</a> (pdf)<br></p>
 <br></div>
 </div>
 <div class='hide_element_f6992008-a7b8-443c-93ca-32906d718b27'></div><script type='text/javascript'>CTP.IATA.HideChrome('f6992008-a7b8-443c-93ca-32906d718b27')</script>

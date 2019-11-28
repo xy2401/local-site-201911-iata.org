@@ -459,7 +459,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation of the speech</h2></div></div>
 <ul>
-<li><a href="/pressroom/speeches/Documents/French-Speech-2012-09-03-01.pdf" target="_blank">French</a> (pdf)<br></li></ul><div class="newst">
+<li><a href="https://www.iata.org/pressroom/speeches/Documents/French-Speech-2012-09-03-01.pdf" target="_blank">French</a> (pdf)<br></li></ul><div class="newst">
 <div>
 <h2></h2>&#160;</div>&#160;</div></div>
 </div>

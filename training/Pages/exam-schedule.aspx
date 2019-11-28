@@ -355,7 +355,7 @@ Dates and Registration Deadlines for Partner-taught &amp; Self-study Exams
 <strong><span>01-08</span> September&#160;
 <br></strong></td><td>
 <strong><span>01-08</span> December&#160;</strong></td></tr><tr><td>IATA to publish Exam Results </td><td>8 April<br></td><td>8 July<br></td><td>7 October<br></td><td>13 January (2020)</td></tr><tr><td>IATA Certificate received by</td><td>22 May<br></td><td>21 August<br></td><td>20 November&#160;<br></td><td>26 February (2020)</td></tr></tbody></table><p>
-<a title="Download the 2019 Training Exam Calendar" href="/training/Documents/training-examination-calendar.pdf" target="_blank">Download the 2019 Exam Calendar</a>&#160;(pdf)<br><br>*The Student will determine the day and time of the week during their booking process
+<a title="Download the 2019 Training Exam Calendar" href="https://www.iata.org/training/Documents/training-examination-calendar.pdf" target="_blank">Download the 2019 Exam Calendar</a>&#160;(pdf)<br><br>*The Student will determine the day and time of the week during their booking process
 <br>** The LC will determine the day of the week in coordination with IATA Training</p><h2 class="iataElement-Title2">2020</h2><table class="datatable "><thead></thead><tbody><tr><th colspan="1">Deadlines</th><th colspan="1">January</th><th colspan="1">March</th><th colspan="1">May</th><th colspan="1">July</th><th colspan="1">September</th><th colspan="1">November</th></tr></tbody><tbody><tr><td>Lastest date to order kits &amp; and submit payment to IATA*</td><td>1 December (previous year)</td><td>1 February</td><td>1 April</td><td>1 June</td><td>1 August</td><td>1 October</td></tr><tr><td>Exam Registration / Cancellation / Change deadline**</td><td>1 January</td><td>1 March</td><td>1 May</td><td>1 July</td><td>1 September</td><td>1 November</td></tr><tr><td>
 <strong>Examination Week</strong></td><td>
 <strong>22-31 January</strong></td><td>
@@ -363,7 +363,7 @@ Dates and Registration Deadlines for Partner-taught &amp; Self-study Exams
 <strong>22-31 May</strong></td><td>
 <strong>22-31 July</strong></td><td>
 <strong>22-30<br>September</strong></td><td>
-<strong>22-30<br>November</strong></td></tr><tr><td>IATA Certificates Ship-out Date (latest) </td><td>15 February</td><td>15 April<br></td><td>15 June</td><td>15 August</td><td>15 October</td><td>15 December</td></tr></tbody></table><p>Download the<a href="/training/Documents/IATA-Training-Exam-Calendar.pdf" target="_blank"> Online Exams with Remote Supervision (OERS) Calendar</a>&#160;(pdf)<br></p><p>* Quotations and prepayment advices must be requested at least 1 week prior to this deadline&#160;<br>** Unpaid orders will automatically be cancelled, and the booking withdrawn by this date (withdrawn bookings cannot be reinstated, even after payment)<br></p></div>
+<strong>22-30<br>November</strong></td></tr><tr><td>IATA Certificates Ship-out Date (latest) </td><td>15 February</td><td>15 April<br></td><td>15 June</td><td>15 August</td><td>15 October</td><td>15 December</td></tr></tbody></table><p>Download the<a href="https://www.iata.org/training/Documents/IATA-Training-Exam-Calendar.pdf" target="_blank"> Online Exams with Remote Supervision (OERS) Calendar</a>&#160;(pdf)<br></p><p>* Quotations and prepayment advices must be requested at least 1 week prior to this deadline&#160;<br>** Unpaid orders will automatically be cancelled, and the booking withdrawn by this date (withdrawn bookings cannot be reinstated, even after payment)<br></p></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
 <div class="opt-wrp clearfix">
@@ -446,12 +446,12 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>
 <strong>Partner-taught &amp; Self-study Exams<br></strong></p>
 <p>
-<a href="/training/Documents/training-examination-user-guide.pdf" target="_blank">General examination user guide (pdf)</a> </p><p>
-<a href="/training/Documents/training-online-exam-user-guide.pdf" target="_blank">Online examination user guide (pdf)</a><br> </p><p>
-<a href="/training/Documents/IATA-Training-online-exam-remote-supervision-student-user-guide.pdf" target="_blank">Online exam with remote supervision user guide (pdf)</a> </p><p>
-<a href="/training/Documents/training-exam-course-edition-list.pdf" target="_blank">Course edition list for exams (pdf)</a><br></p><p>
-<a href="/training/Documents/exams-on-demand.pdf" target="_blank">Exams on-demand (pdf)</a> </p><p>
-<a href="/training/Documents/practice-exam-user-guide.pdf" target="_blank">Practice exam user guide (pdf)</a> </p><p>
+<a href="https://www.iata.org/training/Documents/training-examination-user-guide.pdf" target="_blank">General examination user guide (pdf)</a> </p><p>
+<a href="https://www.iata.org/training/Documents/training-online-exam-user-guide.pdf" target="_blank">Online examination user guide (pdf)</a><br> </p><p>
+<a href="https://www.iata.org/training/Documents/IATA-Training-online-exam-remote-supervision-student-user-guide.pdf" target="_blank">Online exam with remote supervision user guide (pdf)</a> </p><p>
+<a href="https://www.iata.org/training/Documents/training-exam-course-edition-list.pdf" target="_blank">Course edition list for exams (pdf)</a><br></p><p>
+<a href="https://www.iata.org/training/Documents/exams-on-demand.pdf" target="_blank">Exams on-demand (pdf)</a> </p><p>
+<a href="https://www.iata.org/training/Documents/practice-exam-user-guide.pdf" target="_blank">Practice exam user guide (pdf)</a> </p><p>
 <a href="https&#58;//www.linkedin.com/school/iata-training/" target="_blank">
 <img alt="Follow us on LinkedIn" src="/PublishingImages/linkedin.png" border="0" /></a>
 <br>

@@ -347,7 +347,7 @@ Leadership Development and Succession Planning (Classroom, 3 days)
 <p>How do you become a good leader? Is it the same as being a good manager?</p><p>This course will help prepare an effective manager to become a successful leader. The course will allow you to develop skills that can be applied efficiently in your current position and further elevate you and your team.</p><p> This course is available at <a href="/training/delivery/Pages/classroom-training-centers.aspx" target="_blank">IATA Training Centers and Regional Training Partner locations</a>, and on-demand as <a href="/training/delivery/Pages/in-company.aspx" target="_blank">in-house training</a>. </p>
 <h3>Course format</h3><ul>
 <li>This classroom course provides 3 days (24 hours) of instruction delivered by an official IATA Instructor.</li>
-<li>Student performance will be based on an <a href="/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
+<li>Student performance will be based on an <a href="https://www.iata.org/training/Documents/IATA-Training-Grading-Policy.pdf">assessment</a></li>
 </ul><h3>Prerequisites </h3><ul>
 <li>Participants should have prior experience in supervisory positions</li><li>Recommended level is Advanced</li>
 <li>The recommended level of language proficiency is <a href="http&#58;//www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>

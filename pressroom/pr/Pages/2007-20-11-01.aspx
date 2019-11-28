@@ -381,7 +381,7 @@ Airline Passengers Call for More Self-Service
 <p>“Simplifying the Business is only just the beginning. We are now looking to integrate technologies into a seamless process that meets traveller expectations for even greater convenience through self-service,” said Bisignani.</p>
 <p>IATA will release information on the next stage of Simplifying the Business on 12th December. </p>
 <p>
-<a href="/pressroom/Documents/charts_press_release_20Nov07.pdf" target="_blank">Detailed charts including regional breakdowns</a>&#160;(pdf)
+<a href="https://www.iata.org/pressroom/Documents/charts_press_release_20Nov07.pdf" target="_blank">Detailed charts including regional breakdowns</a>&#160;(pdf)
 </p>
 <p>&#160;</p>
 <h3>Notes for Editors&#58;</h3>

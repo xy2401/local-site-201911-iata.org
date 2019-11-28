@@ -339,9 +339,9 @@ Slot Conference
 <h2>Slot Conferences<br></h2><ul><li><a href="/events/sc145/Pages/index.aspx" target="_blank">145th Slot Conference 12 - 15 November 2019, Brisbane, Australia</a></li><li><a href="/events/sc146/Pages/index.aspx" target="_blank">146th Slot Conference 16 - 18 June 2020, Montreal, Canada</a><br>
 </li><li><a href="http&#58;//www.iata.org/events/sc147/Pages/index.aspx">147th Slot Conference 17 - 20 November 2020, Barcelona, Spain</a><br></li></ul><p>If you would like information on hosting the Slot Conference, or have a proposal for a future venue please email
 <a href="mailto&#58;slots@iata.org">IATA Management</a>&#160;for the Slot Conference Handbook.&#160; This document lists the Slot Conference&#160;logistical and technical specifications required to produce&#160;this business meeting.&#160;<br></p><p>For further information please consult the
-<a href="/policy/slots/Documents/slot-conf-guide.pdf" target="_blank">Slot Conference Guide&#160;</a>(pdf),
-<a href="/policy/slots/Documents/attending-slot-conf.pdf" target="_blank">Attending the Slot Conference</a> (pdf) and
-<a href="/policy/slots/Documents/how-to-get-attend-conf.pdf" target="_blank"> How to get the most out of attending the SC </a>(pdf).<br></p>
+<a href="https://www.iata.org/policy/slots/Documents/slot-conf-guide.pdf" target="_blank">Slot Conference Guide&#160;</a>(pdf),
+<a href="https://www.iata.org/policy/slots/Documents/attending-slot-conf.pdf" target="_blank">Attending the Slot Conference</a> (pdf) and
+<a href="https://www.iata.org/policy/slots/Documents/how-to-get-attend-conf.pdf" target="_blank"> How to get the most out of attending the SC </a>(pdf).<br></p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -433,8 +433,8 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p>​<a href="/policy/slots/Pages/SlotLink.aspx"><img src="/policy/slots/PublishingImages/SlotLink_banner.gif" border="0" alt="" style="border&#58;0px solid currentcolor;width&#58;160px;height&#58;50px;" /></a></p><div class="newst"><div><h2>Docume​nts</h2>
 <p>
-<a href="/policy/slots/Documents/competition-law-2015.pdf" target="_blank">​Competition Law Guidelines for IATA Commercial Events </a>(pdf)</p><p>
-<a href="/policy/slots/Documents/calendar-coordination-activities.pdf" target="_blank">Calendar of&#160;Coordination Activities</a><span class="Apple-converted-space">&#160;</span>(pdf)</p><p>
+<a href="https://www.iata.org/policy/slots/Documents/competition-law-2015.pdf" target="_blank">​Competition Law Guidelines for IATA Commercial Events </a>(pdf)</p><p>
+<a href="https://www.iata.org/policy/slots/Documents/calendar-coordination-activities.pdf" target="_blank">Calendar of&#160;Coordination Activities</a><span class="Apple-converted-space">&#160;</span>(pdf)</p><p>
 <a href="/policy/slots/Documents/appcal_sug_form.doc" target="_blank">AppCal Suggestion Form</a> (doc) </p><p>
 <a href="/training/courses/Pages/airport-slots-coordination-talm13.aspx" target="_blank">Airport Slots &amp; Coordination Training Course</a></p></div></div></div>
 </div>

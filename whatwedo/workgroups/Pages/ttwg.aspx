@@ -348,7 +348,7 @@ Time and Temperature Working Group (TTWG)
 <h3 class="iataElement-Title3">Meetings</h3>
 <p>The TTWG normally meets twice a year in conjunction with the LAPB.</p>
 <h3 class="iataElement-Title3">Membership</h3>
-<p><span>The <a href="/whatwedo/workgroups/Documents/ttwg-members.pdf" target="_blank">TTWG comprises&#160;25&#160;members</a>&#160;(pdf)&#160;from all the supply chain, appointed by the<span>&#160;</span></span><span>LAPB</span><span>.</span></p>
+<p><span>The <a href="https://www.iata.org/whatwedo/workgroups/Documents/ttwg-members.pdf" target="_blank">TTWG comprises&#160;25&#160;members</a>&#160;(pdf)&#160;from all the supply chain, appointed by the<span>&#160;</span></span><span>LAPB</span><span>.</span></p>
 <h3 class="iataElement-Title3">Contact</h3>
 <ul>
 <li>Secretary<br><a href="mailto&#58;larper@iata.org">Andrea Gruber</a><br>Senior Manager,&#160;Special Cargo, IATA</li></ul>

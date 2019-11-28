@@ -437,7 +437,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <ul>
 <li>
-<a href="/pressroom/Documents/press_release_2009_10_10_fr.pdf" target="_blank">French</a> (pdf)
+<a href="https://www.iata.org/pressroom/Documents/press_release_2009_10_10_fr.pdf" target="_blank">French</a> (pdf)
 </li>
 </ul></div>
 </div>

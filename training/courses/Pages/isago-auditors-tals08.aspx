@@ -350,7 +350,7 @@ ISAGO for Auditors (Classroom, 4 days)
 </ul><h3>Prerequisites </h3><ul>
 <li>Participants should be qualified and experienced ground operations quality auditors</li><li>Recommended level is Management and Professional</li>
 <li>The recommended level of language proficiency is <a href="http&#58;//www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Operational Level 4 </a>for courses in English or equivalent for other languages.</li>
-</ul><p><strong>Please note&#58; </strong>To become a member of the ISAGO CoPA, you need to meet the prerequisites in <a href="/whatwedo/safety/audit/isago/Documents/gopm-ed2-jan-2019.PDF" target="_blank">GOPM Section 5</a>, and have successfully completed the CoPA pre-screening and computer-based training (CBT) discipline specific training in at least two ISAGO disciplines.</p>
+</ul><p><strong>Please note&#58; </strong>To become a member of the ISAGO CoPA, you need to meet the prerequisites in <a href="https://www.iata.org/whatwedo/safety/audit/isago/Documents/gopm-ed2-jan-2019.pdf" target="_blank">GOPM Section 5</a>, and have successfully completed the CoPA pre-screening and computer-based training (CBT) discipline specific training in at least two ISAGO disciplines.</p>
 </span></span>
 <h3><span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_lbTitle">Next class</span></h3>
 <div id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_TitleNext_panTitle">

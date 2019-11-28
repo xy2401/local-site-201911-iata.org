@@ -385,7 +385,7 @@ IATA Dangerous Goods Training Program, Book 1</li></ul><p><strong>Important Note
 <div id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_cpCourseDesignFor_ctl00_TitleAudience_panTitle">
 </div>
 <p>
-This course is recommended for&#58;</p><ul><li>All Category 3 personnel as per <a href="/whatwedo/cargo/dgr/Documents/DGR-Training-Requirements-15.pdf" target="_blank">Table 1.5.A</a> of the IATA DGR</li>
+This course is recommended for&#58;</p><ul><li>All Category 3 personnel as per <a href="https://www.iata.org/whatwedo/cargo/dgr/Documents/DGR-Training-Requirements-15.pdf" target="_blank">Table 1.5.A</a> of the IATA DGR</li>
 <li>Freight Forwarder staff preparing DG / HAZMAT shipments</li><li>IATA Accredited Cargo Agents</li><li>Personnel acting on behalf the operator in processing dangerous goods</li></ul>
 </span></span>
 <span id="ctl00_PlaceHolderMain_TabContainer1_TabPanel1_ConditionalPanel2"><span>

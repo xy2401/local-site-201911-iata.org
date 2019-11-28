@@ -341,8 +341,8 @@ Passenger Agency Conference
 <p>PAConf membership is open to all IATA member airlines. </p>
 <p>Complete the relevant accreditation form to participate&#58; </p>
 <ul>
-<li><a href="/whatwedo/workgroups/Documents/accreditation-representative-paconference.pdf" target="_blank">Accreditation of Representative</a> (pdf) </li>
-<li><a href="/whatwedo/workgroups/Documents/appointment-alternate-paconference.pdf" target="_blank">Alternate Representative</a> (pdf)</li></ul>
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/accreditation-representative-paconference.pdf" target="_blank">Accreditation of Representative</a> (pdf) </li>
+<li><a href="https://www.iata.org/whatwedo/workgroups/Documents/appointment-alternate-paconference.pdf" target="_blank">Alternate Representative</a> (pdf)</li></ul>
 <h3>PAConf private site</h3>
 <p>The PAConf private site is the central source of information for IATA Members on the activities of the Conference, providing access to the PAConf Agenda, the Finally Adopted Resolutions and Minutes of the annual meeting. The site also contains documentation and reports of other groups that report into the Conference, namely&#58;</p>
 <ul>

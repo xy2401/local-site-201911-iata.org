@@ -355,7 +355,7 @@ Four Cornerstones of Change - IATA Launches Vision 2050
 <p><strong>Vision 2050<br></strong>“The questions about our future are endless. And we will not find the answers in isolation,” said Bisignani as he launched Vision 2050—Shaping Aviation’s Future. Vision 2050 is a ground breaking initiative to lay the foundations for a sustainable and profitable industry by looking ahead strategically with a four-decade time frame. </p>
 <p>Later this year, Bisignani will call leaders from airlines, industry partners, stakeholders, governments, and customers to meet in Singapore. “Our goal is to build an industry that is even more successful at serving its customers—so successful that our customers will be our biggest advocates,” said Bisignani.&#160; Vision 2050 will be an open, robust, and comprehensive process with results to be reported at the 2011 AGM. </p>
 <p>The launch of Vision 2050 comes in the wake of six days without aviation in large parts of the European continent as a result of the ash plume from an Icelandic volcano. “April gave us a vivid picture of life without aviation. Ten million people were stranded.&#160; Hotels and convention centers were empty. Seafood and flowers rotted. And just-in-time production was delayed. The volcano cost the global economy $5 billion—far more than the $1.8 billion of lost airline revenue. The volcano’s eruption was a wake-up call. It reminded us that without air connectivity, modern life is not possible,” said Bisignani. </p>
-<p>“We must seize the moment to bring governments and partners on board in building our future. Together we will build a resilient industry based on our four cornerstones of change.&#160; We will protect ourselves from cycles and shock with sustainable profitability. We will exceed our customers’ expectations. And we will be an industry that is even safer, greener, and more successful,” said Bisignani.</p><p><a href="/pressroom/facts_figures/Documents/vision-2050.pdf" target="_blank">Download Vision 2050 report</a> (pdf)</p>
+<p>“We must seize the moment to bring governments and partners on board in building our future. Together we will build a resilient industry based on our four cornerstones of change.&#160; We will protect ourselves from cycles and shock with sustainable profitability. We will exceed our customers’ expectations. And we will be an industry that is even safer, greener, and more successful,” said Bisignani.</p><p><a href="https://www.iata.org/pressroom/facts_figures/Documents/vision-2050.pdf" target="_blank">Download Vision 2050 report</a> (pdf)</p>
 <p><a href="/pressroom/speeches/Pages/2010-06-07-01.aspx">View Giovanni Bisignani's full speech</a></p>
 <p><strong>Contact&#58;<br></strong>Corporate Communications<br>+ 41 22 770 2967<br>Email&#58; <a href="mailto&#58;corpcomms@iata.org">corpcomms@iata.org</a> </p>
 <p><strong>Notes for editors&#58;</strong></p>
@@ -431,11 +431,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p> <strong>Translations</strong>
-<a href="/pressroom/pr/Documents/Chinese-PR-2010-06-07-02.pdf" target="_blank">Chinese</a> (pdf) <br>
-<a href="/pressroom/pr/Documents/French-PR-2010-06-07-02.pdf" target="_blank">French</a> (pdf)
-<br><a href="/pressroom/pr/Documents/German-PR-2010-06-07-02.pdf" target="_blank">German</a> (pdf)
-<br><a href="/pressroom/pr/Documents/Italian-PR-2010-06-07-02.pdf" target="_blank">Italian</a> (pdf)
-<br><a href="/pressroom/pr/Documents/Spanish-PR-2010-06-07-02.pdf" target="_blank">Spanish</a> (pdf)</p></div>
+<a href="https://www.iata.org/pressroom/pr/Documents/Chinese-PR-2010-06-07-02.pdf" target="_blank">Chinese</a> (pdf) <br>
+<a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2010-06-07-02.pdf" target="_blank">French</a> (pdf)
+<br><a href="https://www.iata.org/pressroom/pr/Documents/German-PR-2010-06-07-02.pdf" target="_blank">German</a> (pdf)
+<br><a href="https://www.iata.org/pressroom/pr/Documents/Italian-PR-2010-06-07-02.pdf" target="_blank">Italian</a> (pdf)
+<br><a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2010-06-07-02.pdf" target="_blank">Spanish</a> (pdf)</p></div>
 </div>
 <div class='hide_element_a0d82bce-33c3-414d-a7dd-89e4418cf850'></div><script type='text/javascript'>CTP.IATA.HideChrome('a0d82bce-33c3-414d-a7dd-89e4418cf850')</script>
 <div class='hide_element_309144ef-ebca-41e3-9a9a-cab728d19e40'></div><script type='text/javascript'>CTP.IATA.HideChrome('309144ef-ebca-41e3-9a9a-cab728d19e40')</script>

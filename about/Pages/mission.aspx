@@ -422,7 +422,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><p><br>
 <span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/13_.000">​<a href="http&#58;//airlines.iata.org/" target="_blank"><img alt="Airlines International magazine" src="/PublishingImages/airlines-cover-5-righthand.jpg" border="0" style="width&#58;185px;" /></a><br></span>&#160;</p>
-<p><a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-iata-1.pdf" target="_blank">Fact Sheet&#58; IATA</a>(pdf)</p></div>
+<p><a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-iata-1.pdf" target="_blank">Fact Sheet&#58; IATA</a>(pdf)</p></div>
 </div>
 <div class='hide_element_f10f9f3a-4cae-4fbf-a545-83f0bc6b7384'></div><script type='text/javascript'>CTP.IATA.HideChrome('f10f9f3a-4cae-4fbf-a545-83f0bc6b7384')</script>
 <div class='hide_element_8f6870d7-46d4-4253-83e9-8cdaf5e74049'></div><script type='text/javascript'>CTP.IATA.HideChrome('8f6870d7-46d4-4253-83e9-8cdaf5e74049')</script>

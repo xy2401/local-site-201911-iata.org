@@ -378,7 +378,7 @@ Date:
 </span></li></ol>
 <p class="MsoNormal"><span>
 </span>&#160;</p>
-<p class="MsoNormal"><span><a href="/pressroom/Documents/WesternbuiltJetTrafficandHullLossRates19952004.pdf" target="_blank"><span>View the detailed graph for&#160;1995-2004</span></a>&#160;(pdf)</span>&#160;</p>
+<p class="MsoNormal"><span><a href="https://www.iata.org/pressroom/Documents/WesternbuiltJetTrafficandHullLossRates19952004.pdf" target="_blank"><span>View the detailed graph for&#160;1995-2004</span></a>&#160;(pdf)</span>&#160;</p>
 <p class="MsoNormal"><span><span></span></span>&#160;</p>
 <menu class="ms-hide">
 <ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">

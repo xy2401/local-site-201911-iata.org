@@ -349,7 +349,7 @@ Annual General Meeting 2011
 <span>Videos and footage in broadcast quality</span></a></li><li>
 <a href="/events/agm/2011/gallery/Pages/index.aspx#">
 <span>Photo gallery</span></a></li></ul><h3 class="iataElement-Title3">Facts &amp; Figures</h3><ul><li>
-<a href="/about/Documents/annual-report-2011.pdf" target="_blank">
+<a href="https://www.iata.org/about/Documents/annual-report-2011.pdf" target="_blank">
 <span>Annual report 2011</span></a> (pdf)</li><li>
 <a href="/pressroom/Pages/ceo-biography.aspx">
 <span>CEO biography and photos</span></a></li><li>

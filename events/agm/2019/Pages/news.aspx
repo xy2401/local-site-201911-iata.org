@@ -373,7 +373,7 @@ News
 </div>
 </div>
 <p>
-<a href="/events/agm/2019/Documents/agm-media-agenda.pdf">Media agenda</a> (pdf)<br></p><div class="pseudoTable"><div class="row"><div class="cell col1_2"><h3 class="iataElement-Title3">Press releases</h3><ul><li>
+<a href="https://www.iata.org/events/agm/2019/Documents/agm-media-agenda.pdf">Media agenda</a> (pdf)<br></p><div class="pseudoTable"><div class="row"><div class="cell col1_2"><h3 class="iataElement-Title3">Press releases</h3><ul><li>
 <a href="/pressroom/pr/Pages/2019-06-03-02.aspx">IATA and Star Alliance Extend Cooperation to Improve Passenger Experience </a>(3 June)<br>
 </li><li>
 <a href="/pressroom/pr/Pages/2019-06-03-01.aspx">Winners of IATA Diversity &amp; Inclusion Awards announced </a>(3 June)<br></li><li>
@@ -388,14 +388,14 @@ News
 <a href="/pressroom/pr/Pages/2019-06-02-01.aspx">Slowing Demand and Rising Costs Squeeze Airline Profits</a>&#160;(2 June)&#160;<br></li><li>
 <a href="/pressroom/pr/Pages/2019-05-29-03.aspx" target="_blank">Aviation Leaders Assemble in Seoul for IATA’s 75th Annual General Meeting</a>&#160;(29 May)<br></li></ul></div><div class="cell col1_2"><h3 class="iataElement-Title3">Speeches<br></h3><ul><li>
 <a href="/pressroom/speeches/Pages/2019-06-02-02.aspx">Director General's Report on IATA</a><br></li><li><a href="/pressroom/speeches/Pages/2019-06-02-01.aspx">Director General's Report on the Air Transport Industry</a></li><li>
-<a href="/events/agm/2019/Documents/speech-eu-commissioner-transport.pdf" target="_blank">EU Commissioner for Transport</a>&#160;(pdf)<br></li><li>
-<a href="/events/agm/2019/Documents/speech-minister-land-infrastructure-transport-republic-korea.pdf" target="_blank">Republic of Korea's Minister of Land, Infrastructure &amp; Transport</a>&#160;(pdf)&#160;<a href="/pressroom/speeches/Pages/2019-06-02-01.aspx" target="_blank">Korean version</a>&#160;(pdf)</li><li>
-<a href="/events/agm/2019/Documents/report-al-baker-bog-agm-01062019.pdf" target="_blank">Chairman's Report to the Board</a>&#160; (pdf)<br></li></ul><h3 class="iataElement-Title3">Newsletters</h3><ul><li>
-<a href="/events/agm/2019/Documents/capa-daily-03-Jun-2019.pdf" target="_blank">CAPA News 3 June</a> (pdf)</li><li><a href="/events/agm/2019/Documents/airline-business-daily-news-%203june.pdf" target="_blank">Airline Business Daily News 3 June</a>&#160;(pdf)<br></li><li>
-<a href="/events/agm/2019/Documents/airline-business-daily-news-2june2019.pdf" target="_blank">Airline Business Daily News 2 June</a>&#160;(pdf)<br></li><li>
-<a href="/events/agm/2019/Documents/capa-daily-02-Jun-2019.pdf" target="_blank">CAPA News 2 June</a>&#160;(pdf)<br></li><li>
-<a href="/events/agm/2019/Documents/airline-business-daily-news-1June2019.pdf">Airline Business Daily News 1 June</a><br></li><li>
-<a href="/events/agm/2019/Documents/capa-daily-2019-1-june.pdf" target="_blank">CAPA News 1 June</a>&#160;(pdf)<br><br></li></ul>
+<a href="https://www.iata.org/events/agm/2019/Documents/speech-eu-commissioner-transport.pdf" target="_blank">EU Commissioner for Transport</a>&#160;(pdf)<br></li><li>
+<a href="https://www.iata.org/events/agm/2019/Documents/speech-minister-land-infrastructure-transport-republic-korea.pdf" target="_blank">Republic of Korea's Minister of Land, Infrastructure &amp; Transport</a>&#160;(pdf)&#160;<a href="/pressroom/speeches/Pages/2019-06-02-01.aspx" target="_blank">Korean version</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/events/agm/2019/Documents/report-al-baker-bog-agm-01062019.pdf" target="_blank">Chairman's Report to the Board</a>&#160; (pdf)<br></li></ul><h3 class="iataElement-Title3">Newsletters</h3><ul><li>
+<a href="https://www.iata.org/events/agm/2019/Documents/capa-daily-03-Jun-2019.pdf" target="_blank">CAPA News 3 June</a> (pdf)</li><li><a href="/events/agm/2019/Documents/airline-business-daily-news-%203june.pdf" target="_blank">Airline Business Daily News 3 June</a>&#160;(pdf)<br></li><li>
+<a href="https://www.iata.org/events/agm/2019/Documents/airline-business-daily-news-2june2019.pdf" target="_blank">Airline Business Daily News 2 June</a>&#160;(pdf)<br></li><li>
+<a href="https://www.iata.org/events/agm/2019/Documents/capa-daily-02-Jun-2019.pdf" target="_blank">CAPA News 2 June</a>&#160;(pdf)<br></li><li>
+<a href="https://www.iata.org/events/agm/2019/Documents/airline-business-daily-news-1June2019.pdf">Airline Business Daily News 1 June</a><br></li><li>
+<a href="https://www.iata.org/events/agm/2019/Documents/capa-daily-2019-1-june.pdf" target="_blank">CAPA News 1 June</a>&#160;(pdf)<br><br></li></ul>
 <br>
 <br>
 </div></div></div> ​​​​

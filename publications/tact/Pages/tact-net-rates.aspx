@@ -367,7 +367,7 @@ Forwarders who receive a large number of rate sheets in different formats that m
 IATA has long been recognized for our essential <a href="/publications/tact/Pages/index.aspx" target="_blank">Air Cargo Tariff and Rules (TACT)</a> guide.&#160;Just ask the over 70,000 cargo professionals who refer to TACT every day.&#160;We are leveraging our extensive expertise to introduce IATA Net Rates, a fully integrated software platform that supports the entire rates automation cycle, from managing and distributing rates and surcharges to keeping contact and product information up-to-date.<br></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"><h3>Get IATA Net Rates and Reap the Benefits!</h3><p>IATA has developed the IATA Net Rates distribution system with the support of leading airlines and forwarders. Now is the time to get onboard and reap the benefits of the new automated technology, with complete support from IATA.<br></p><p>If you have questions about joining IATA Net Rates&#160;or would like more information, please
 <a href="mailto&#58;netrates@iata.org?Subject=www.iata.org&#58;%20Information%20Enquiry%20on%20IATA%20Net%20Rates">contact us</a> or see the
-<a title="Click here to view FAQ" href="/publications/Documents/IATA_NetRates_FAQ.pdf" target="_blank">FAQ</a>&#160;(pdf).<br></p></div>
+<a title="Click here to view FAQ" href="https://www.iata.org/publications/Documents/IATA_NetRates_FAQ.pdf" target="_blank">FAQ</a>&#160;(pdf).<br></p></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
 <div class="opt-wrp clearfix">
 <div class="col-1">
@@ -455,7 +455,7 @@ Questions?
 </h2>
 <div class="hbContent">
 <h3 class="iataElement-Title3" dir="ltr">
-<a title="Click to view FAQ" href="/publications/Documents/IATA_NetRates_FAQ.pdf" target="_blank">
+<a title="Click to view FAQ" href="https://www.iata.org/publications/Documents/IATA_NetRates_FAQ.pdf" target="_blank">
 <strong class="ms-rteFontSize-4">See our FAQ</strong></a><br></h3>
 </div>
 </div>

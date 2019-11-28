@@ -341,7 +341,7 @@ Aeromexico to Host 73rd IATA AGM in Cancun
 <div class="homeImageLeft">
 <div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label" style='display:none'>Home Image</div><div id="ctl00_PlaceHolderMain_DisplayMainContent_ctl00__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayMainContent_ctl00_label"><div class="ms-rtestate-field"><img alt="" src="/pressroom/pr/PublishingImages/Cancun_press_banner.png" style="BORDER&#58;0px solid;" /></div></div>
 </div>
-<div><strong>Translation&#58;</strong> <a href="/pressroom/pr/Documents/spanish-aeromexico-host-73-agm-2016-06-03.pdf" target="_blank">Spanish </a>(pdf) <a href="/pressroom/pr/Documents/2016-06-03-03-french.pdf" target="_blank">French​</a> (pdf)</div>
+<div><strong>Translation&#58;</strong> <a href="https://www.iata.org/pressroom/pr/Documents/spanish-aeromexico-host-73-agm-2016-06-03.pdf" target="_blank">Spanish </a>(pdf) <a href="/pressroom/pr/Documents/2016-06-03-03-french.pdf" target="_blank">French​</a> (pdf)</div>
 <div><br>&#160;</div>
 <div>Dublin – The International Air Transport Association (IATA) announced that Aeromexico will host the 73rd IATA Annual General Meeting (AGM) and World Air Transport Summit. The event will attract the top leadership of the air transport industry to Cancun, Mexico from 4-6 June 2017.</div>
 <div><br>“Cancun is an excellent choice for the 73rd IATA AGM. Mexico’s Quintana Roo state is world-renowned for its beautiful Caribbean beaches, rich history and culture. And aviation plays a critical role in connecting it to global tourism markets. Cancun’s economic development is a testament to the transformative power of air transport,” said Tony Tyler, IATA’s Director General and CEO.</div>
@@ -420,7 +420,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">​<span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

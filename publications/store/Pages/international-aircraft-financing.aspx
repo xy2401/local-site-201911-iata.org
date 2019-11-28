@@ -339,7 +339,7 @@ International Aircraft Financing
 <ul><li>Senior Managers </li>
 <li>Middle Managers </li>
 <li>Managers/Supervisors</li></ul>
-<p>View&#160; <a href="/publications/store/Documents/IAF-TOC.PDF" target="_blank"> IAF Table of Contents</a>&#160;(pdf)</p>
+<p>View&#160; <a href="https://www.iata.org/publications/store/Documents/IAF-TOC.pdf" target="_blank"> IAF Table of Contents</a>&#160;(pdf)</p>
 <h3 class="iataElement-Title3">Buy online</h3>
 <div id="ctl00_PlaceHolderMain_g_B2882428_363C_4F7E_94A9_780B0C47E9E1" WebPart="true" __WebPartId="{B2882428-363C-4F7E-94A9-780B0C47E9E1}" __MarkupType="vsattributemarkup">
 <script type="text/javascript">

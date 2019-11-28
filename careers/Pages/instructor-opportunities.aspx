@@ -335,7 +335,7 @@ Instructor Opportunities
 <div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_c3e39bab_e114_48a7_9f34_86b3da8d28de" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
 <div WebPartID="c3e39bab-e114-48a7-9f34-86b3da8d28de" HasPers="false" id="WebPartctl00_SPWebPartManager1_g_c3e39bab_e114_48a7_9f34_86b3da8d28de" width="100%" class="ms-WPBody " allowDelete="false" allowExport="false" style=""><div id="ctl00_SPWebPartManager1_g_c3e39bab_e114_48a7_9f34_86b3da8d28de">
-<DIV class="ms-rte-embedcode ms-rte-embedwp">Chinese version of this page: <a href="/training/Documents/IATA-Instructor-Opportunities-ZH.pdf">教员招募 (pdf) </a></DIV>
+<DIV class="ms-rte-embedcode ms-rte-embedwp">Chinese version of this page: <a href="https://www.iata.org/training/Documents/IATA-Instructor-Opportunities-ZH.pdf">教员招募 (pdf) </a></DIV>
 </div><div class="ms-clear"></div></div>
 </div>
 </div>
@@ -356,9 +356,9 @@ Instructor Opportunities
 <strong>Communication Skills</strong>
 <ul><li>Strong communication skills and proficiency in instructional techniques.</li><li>Ability to work with a multicultural audience.</li></ul><div>
 <strong>Language Skills</strong></div><ul><li>Instruction in English&#58;
-<a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Level 5</a> (Extended) in English with excellent oral and written communication skills</li><li>Instruction in a language other than English&#58;
-<a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Level 4</a> (Operational) in English and
-<a href="/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Level 5</a> (Extended) in the language of instructional delivery</li></ul><div>
+<a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Level 5</a> (Extended) in English with excellent oral and written communication skills</li><li>Instruction in a language other than English&#58;
+<a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Level 4</a> (Operational) in English and
+<a href="https://www.iata.org/training/Documents/ICAO-Language-Proficiency-Requirements.pdf">ICAO Level 5</a> (Extended) in the language of instructional delivery</li></ul><div>
 <strong>Additional requirements per area of study</strong></div><ul><li>Please view the area of study below to find our minimum requirements to become an Instructor in that subject area&#58;</li></ul><h3 class="iataElement-Title3">Air Navigation Services</h3><p>
 <strong>Years of experience in the area</strong> | 15 years in&#160; air navigation / air traffic services or management<br><strong>Education level </strong>| Master degree<br><strong>Experience delivering training</strong> | 3 years<br>Find out more about
 <a title="Air Navigation Services" href="/training/subject-areas/Pages/air-navigation-courses.aspx" target="_blank">

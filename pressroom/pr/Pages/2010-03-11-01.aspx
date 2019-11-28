@@ -446,9 +446,9 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newst"><div><h2>Translations of this Press Release</h2></div></div><ul><li>
-<a href="/pressroom/pr/Documents/Chinese_PR_2010_03_11_01.pdf" target="_blank">Chinese</a> (pdf)</li><li>
-<a href="/pressroom/pr/Documents/French_PR_2010_03_11_01.pdf" target="_blank">French</a> (pdf)</li><li>
-<a href="/pressroom/pr/Documents/Spanish_PR_2010_03_11_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul>
+<a href="https://www.iata.org/pressroom/pr/Documents/Chinese_PR_2010_03_11_01.pdf" target="_blank">Chinese</a> (pdf)</li><li>
+<a href="https://www.iata.org/pressroom/pr/Documents/French_PR_2010_03_11_01.pdf" target="_blank">French</a> (pdf)</li><li>
+<a href="https://www.iata.org/pressroom/pr/Documents/Spanish_PR_2010_03_11_01.pdf" target="_blank">Spanish</a> (pdf)</li></ul>
 </div>
 </div>
 <div class='hide_element_9c281ab6-d789-474c-aa88-019c5c276723'></div><script type='text/javascript'>CTP.IATA.HideChrome('9c281ab6-d789-474c-aa88-019c5c276723')</script>

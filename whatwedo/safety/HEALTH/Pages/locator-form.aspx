@@ -339,8 +339,8 @@ Passenger locator form
 <p>Some countries' immigration and health authorities require passengers to leave&#160;a health and travel history record. In those cases, IATA suggests the use of a card based&#160;on the Passenger Locator form and providing an additional section, the Health Declaration Card&#58;&#160; </p>
 <p><strong>Download the suggested IATA passenger locator form</strong>&#58; </p>
 <ul>
-<li><a href="/whatwedo/safety/health/Documents/public-health-passenger-locator-form.pdf" target="_blank">English</a>&#160;(pdf) </li>
-<li><a href="/whatwedo/safety/health/Documents/public-health-passenger-locator-form-sp.pdf" target="_blank">Spanish</a>&#160;(pdf) </li></ul>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/public-health-passenger-locator-form.pdf" target="_blank">English</a>&#160;(pdf) </li>
+<li><a href="https://www.iata.org/whatwedo/safety/health/Documents/public-health-passenger-locator-form-sp.pdf" target="_blank">Spanish</a>&#160;(pdf) </li></ul>
 <p>WHO,&#160;ICAO&#160;and IATA advocate the use of the same Passenger Locator form. See&#160;instructions from <a href="http&#58;//www.who.int/ihr/ports_airports/locator_card/en/" target="_blank">WHO</a>&#160;and <a href="https&#58;//www.icao.int/safety/aviation-medicine/Pages/guidelines.aspx" target="_blank">ICAO</a>.</p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>

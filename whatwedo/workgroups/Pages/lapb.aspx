@@ -349,7 +349,7 @@ Live Animals and Perishables Board (LAPB)
 <h3 class="iataElement-Title3">Membership</h3>
 <p>The LAPB consists of up to 12 members appointed by the <a href="/whatwedo/workgroups/Pages/csc.aspx">Cargo Services Conference (CSC)</a>, each being an expert in the live animals or perishables area.</p>
 <p>The current LAPB Chairman is Mr. Bruce Clemmons (FedEx).</p>
-<p><a href="/whatwedo/workgroups/Documents/lapb-members.pdf" target="_blank">LAPB Membership</a> (pdf)</p>
+<p><a href="https://www.iata.org/whatwedo/workgroups/Documents/lapb-members.pdf" target="_blank">LAPB Membership</a> (pdf)</p>
 <h3 class="iataElement-Title3">Taskforce</h3>
 <p><a href="/whatwedo/workgroups/Pages/ttwg.aspx">Time and Temperature Working Group (TTWG)</a> </p>
 <h3 class="iataElement-Title3">Contact<br></h3><p><strong>Secretary</strong><br><a href="mailto&#58;larper@iata.org">Andrea Gruber</a><br>Senior Manager,&#160;Special Cargo, IATA<br></p>

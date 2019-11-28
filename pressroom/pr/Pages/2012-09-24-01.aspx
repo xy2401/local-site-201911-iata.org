@@ -439,7 +439,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translation</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/Korean-PR-2012-09-24-01.pdf" target="_blank">Korean</a> (pdf)</li></ul></div>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/Korean-PR-2012-09-24-01.pdf" target="_blank">Korean</a> (pdf)</li></ul></div>
 </div>
 <div class='hide_element_c036a5d5-2055-4834-bf40-0d4138d6a27c'></div><script type='text/javascript'>CTP.IATA.HideChrome('c036a5d5-2055-4834-bf40-0d4138d6a27c')</script>
 <div class='hide_element_1e668737-50d0-444e-b234-c5458b3f239d'></div><script type='text/javascript'>CTP.IATA.HideChrome('1e668737-50d0-444e-b234-c5458b3f239d')</script>

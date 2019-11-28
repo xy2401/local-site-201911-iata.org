@@ -334,20 +334,20 @@ Use and share this infographic, several languages and sizes at your disposal</st
 <span>
 <div class="pseudoTable"><div class="row"><div class="cell col1_2"><p>
 <strong>A4 size</strong></p><ul><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/en-ped-infographic-A4.pdf">English</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/ar-ped-infographic-A4.pdf" target="_blank">Arabic</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/cn-ped-infographic-A4.pdf" target="_blank">Chinese</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/fr-ped-infographic-A4.pdf" target="_blank">French</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/ru-ped-infographic-A4.pdf" target="_blank">Russian</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/es-ped-infographic-A4.pdf" target="_blank">Spanish</a>&#160;(pdf)</li><li><a href="/whatwedo/ops-infra/baggage/Documents/PED/PEDS_infographic_A4_KR.pdf" target="_blank">Korean</a> (pdf)</li><li><a href="/whatwedo/ops-infra/baggage/Documents/PED/PEDS_infographic_A4_VN.pdf" target="_blank">Vietnamese</a> (pdf)<br></li></ul></div><div class="cell col1_2"><p>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/en-ped-infographic-A4.pdf">English</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/ar-ped-infographic-A4.pdf" target="_blank">Arabic</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/cn-ped-infographic-A4.pdf" target="_blank">Chinese</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/fr-ped-infographic-A4.pdf" target="_blank">French</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/ru-ped-infographic-A4.pdf" target="_blank">Russian</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/es-ped-infographic-A4.pdf" target="_blank">Spanish</a>&#160;(pdf)</li><li><a href="/whatwedo/ops-infra/baggage/Documents/PED/PEDS_infographic_A4_KR.pdf" target="_blank">Korean</a> (pdf)</li><li><a href="/whatwedo/ops-infra/baggage/Documents/PED/PEDS_infographic_A4_VN.pdf" target="_blank">Vietnamese</a> (pdf)<br></li></ul></div><div class="cell col1_2"><p>
 <strong>Letter size</strong></p><ul><li>
 <span aria-hidden="true"></span>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/en-ped-infographic-letter.pdf">English</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/ar-ped-infographic-letter.pdf" target="_blank">Arabic</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/cn-ped-infographic-letter.pdf" target="_blank">Chinese</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/fr-ped-infographic-letter.pdf" target="_blank">French</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/ru-ped-infographic-letter.pdf" target="_blank">Russian</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/ops-infra/baggage/Documents/PED/es-ped-infographic-letter.pdf" target="_blank">Spanish</a>&#160;(pdf)</li><li><a href="/whatwedo/ops-infra/baggage/Documents/PED/PEDS_infographic_letter_KR.pdf" target="_blank">Korean</a> (pdf)</li><li><a href="/whatwedo/ops-infra/baggage/Documents/PED/PEDS_infographic_letter_VN.pdf" target="_blank">Vietnamese</a> (pdf)<br></li></ul></div><div class="cell col1_2"><p>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/en-ped-infographic-letter.pdf">English</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/ar-ped-infographic-letter.pdf" target="_blank">Arabic</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/cn-ped-infographic-letter.pdf" target="_blank">Chinese</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/fr-ped-infographic-letter.pdf" target="_blank">French</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/ru-ped-infographic-letter.pdf" target="_blank">Russian</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/ops-infra/baggage/Documents/PED/es-ped-infographic-letter.pdf" target="_blank">Spanish</a>&#160;(pdf)</li><li><a href="/whatwedo/ops-infra/baggage/Documents/PED/PEDS_infographic_letter_KR.pdf" target="_blank">Korean</a> (pdf)</li><li><a href="/whatwedo/ops-infra/baggage/Documents/PED/PEDS_infographic_letter_VN.pdf" target="_blank">Vietnamese</a> (pdf)<br></li></ul></div><div class="cell col1_2"><p>
 <strong>Web format</strong></p><ul><li>
 <span aria-hidden="true"></span>
 <a href="/whatwedo/ops-infra/baggage/Documents/PED/en-ped-infographic-web.jpg" target="_blank">English</a>&#160;(jpg)</li><li>

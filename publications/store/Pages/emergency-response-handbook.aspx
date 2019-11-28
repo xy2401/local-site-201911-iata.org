@@ -342,7 +342,7 @@ Emergency Response Handbook
 <li>Learn how to handle communications during a crisis situation</li>
 <li>Navigate the intricacies of social media during an incident under the full glare of public scrutiny</li>
 <li>Gain accurate and reliable resources to optimize your activation protocols</li></ul>
-<p><a href="/publications/Documents/erp-handbook-flyer.pdf" target="_blank">ERP Handbook Information</a>&#160;(pdf)<br></p>
+<p><a href="https://www.iata.org/publications/Documents/erp-handbook-flyer.pdf" target="_blank">ERP Handbook Information</a>&#160;(pdf)<br></p>
 <div id="ctl00_PlaceHolderMain_g_B2882428_363C_4F7E_94A9_780B0C47E9E1" WebPart="true" __WebPartId="{B2882428-363C-4F7E-94A9-780B0C47E9E1}" __MarkupType="vsattributemarkup">
 <script type="text/javascript">
     jgn(function(){

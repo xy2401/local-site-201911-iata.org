@@ -734,7 +734,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <h2>Related Links</h2>
 </div>
 </div>
-<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">​<a href="/services/statistics/intelligence/Documents/ffp-benchmark-ddi0221.pdf"><img src="/training/PublishingImages/frequent-flyer-program.JPG" alt="" style="margin&#58;5px;" /></a>
+<div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">​<a href="https://www.iata.org/services/statistics/intelligence/Documents/ffp-benchmark-ddi0221.pdf"><img src="/training/PublishingImages/frequent-flyer-program.JPG" alt="" style="margin&#58;5px;" /></a>
 <a href="/services/statistics/intelligence/Pages/frequent-flyer-survey.aspx">Frequent Flyer Program Benchmark</a></div>
 </div>
 <div class='hide_element_ad6597ce-f6e4-4fdf-914f-7b3d295795f0'></div><script type='text/javascript'>CTP.IATA.HideChrome('ad6597ce-f6e4-4fdf-914f-7b3d295795f0')</script>

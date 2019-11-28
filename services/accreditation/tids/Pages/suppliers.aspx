@@ -348,7 +348,7 @@ TIDS for Industry Suppliers
 <li>Streamline sales reporting for valuable marketing intelligence<br></li></ul>
 <p>TIDS holders are also included in&#160;the <a href="/services/statistics/intelligence/Pages/global-data-products.aspx">IATA Agency Data Products</a>.</p>
 <h3 class="iataElement-Title3">Travel Agents need your support!</h3>
-<p>Travel agents need your support in the form of a recommendation&#160;to obtain TIDS. <a href="/services/accreditation/tids/Documents/tids-recommendation-sample.pdf" target="_blank">Sample of a recommendation letter</a> (pdf).</p>
+<p>Travel agents need your support in the form of a recommendation&#160;to obtain TIDS. <a href="https://www.iata.org/services/accreditation/tids/Documents/tids-recommendation-sample.pdf" target="_blank">Sample of a recommendation letter</a> (pdf).</p>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>
@@ -433,7 +433,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <a href="/services/accreditation/tids/Pages/faq.aspx" target="_blank">Frequently Asked Questions​</a> </p><p>
 <strong>IATAN</strong><a href="http&#58;//www.iatan.org/accreditation/idcard/Pages/default.aspx" target="_blank">for US Travel Professionals</a> </p><p> <span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/25_.000"><a href="/services/accreditation/idcard/Pages/index.aspx"><img alt="IATA-IATAN-ID-CARD.gif" src="/PublishingImages/IATA-IATAN-ID-CARD.gif" style="margin&#58;5px;" /></a></span></p><p>
 <a href="http&#58;//www.agentexperience.com/" target="_blank"> AgentExperience</a> </p><p>
-<a href="/services/accreditation/idcard/Documents/2018-10-AEXP-Info-Flash.pdf" target="_blank">ID Card Info Flash Oct 2018</a><br></p><p>
+<a href="https://www.iata.org/services/accreditation/idcard/Documents/2018-10-AEXP-Info-Flash.pdf" target="_blank">ID Card Info Flash Oct 2018</a><br></p><p>
 <strong>CheckACode​</strong><br><a href="https&#58;//www.checkacode.com/" target="_blank">Validate your ID Card</a> </p><p>
 <strong>Join us at these events</strong></p><p>
 <a href="https&#58;//international.travelsmg.com/" target="_blank">Travel Agent Forum</a><br>Cancun, Oct 15-18</p>

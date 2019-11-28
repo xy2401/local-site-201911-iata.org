@@ -430,8 +430,8 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div>
 <h2>Translations</h2></div></div>
 <ul>
-<li><a href="/pressroom/pr/Documents/PR-2011-06-07-01-sp.pdf" target="_blank">Spanish</a> (pdf)</li>
-<li><a href="/pressroom/pr/Documents/PR-2011-06-07-01-it.pdf" target="_blank">Italian</a> (pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/PR-2011-06-07-01-sp.pdf" target="_blank">Spanish</a> (pdf)</li>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/PR-2011-06-07-01-it.pdf" target="_blank">Italian</a> (pdf)</li></ul>
 <div class="newst">
 <div>
 <h2>Interview with Giovanni Bisignani – European ETS and security</h2></div></div><a href="/events/agm/2011/gallery/Pages/video-gallery.aspx?vid=23"><img alt="Giovanni Bisignani" src="/events/agm/2011/gallery/PublishingImages/rhb-thumbnails/dg-ets-thumbnail-rhb.jpg" border="0" style="border&#58;0px solid;" /></a>

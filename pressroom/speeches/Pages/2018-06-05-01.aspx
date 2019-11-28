@@ -352,8 +352,8 @@ Director General&#39;s Report on IATA 2018, AGM Sydney
 <span>personally</span>, and on your behalf, I would like to thank the global IATA team with whom I have the privilege to work every day. They serve the business of freedom with enthusiasm, passion and professionalism. And most importantly, they are not just open to change, they are eager to turn your challenges into opportunities to advance the industry's success. </p><p>Your association is at your service and looking forward to another great year ahead.</p><p>Thank you.<br></p>
 <strong>Notes&#58;<b><br></b><strong></strong></strong>
 <p>1. Mr. Goh Choon Phong, CEO, Singapore Airlines and Chair of the IATA Board of Governors, 2017-18<br><span>2.</span><span> The
-<a href="/about/Documents/rules-regulations-bg.pdf">Chair Committee </a>acts on behalf of and is accountable to the Board of Governors with respect to the duties and authority delegated to it by the Board. It is responsible for overseeing financial performance and governance of the Association. </span>
-<a href="/about/Documents/rules-regulations-bg.pdf">
+<a href="https://www.iata.org/about/Documents/rules-regulations-bg.pdf">Chair Committee </a>acts on behalf of and is accountable to the Board of Governors with respect to the duties and authority delegated to it by the Board. It is responsible for overseeing financial performance and governance of the Association. </span>
+<a href="https://www.iata.org/about/Documents/rules-regulations-bg.pdf">
 <span>Board's rules and regulations</span></a>&#160;(pdf)&#160;<span><br></span><span>3.</span><span>&#160;The
 <a href="/about/Pages/boardgovernors.aspx">IATA Board of Governors is IATA's government</a>.&#160; Its members exercise an oversight and executive role on behalf of the membership as a whole in representing the interests of the Association. </span>&#160;&#160;
 <br>
@@ -491,7 +491,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </h3><p>
 <a href="/policy/business-freedom/pages/index.aspx">Value of Aviation Campaign clips </a> </p>
 <span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

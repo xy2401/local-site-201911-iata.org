@@ -355,7 +355,7 @@ Monthly Traffic Statistics
 <span class="iataStyle-Normal">See interactive charts<br></span></li></ul><h3 class="iataElement-Title3">
 <br>
 </h3><h2 class="iataElement-Title2">Buy online<br></h2><p>
-<a href="/publications/store/Documents/eula-terms-conditions.pdf" target="_blank">EULA terms and conditions</a>&#160;(pdf)<br></p>
+<a href="https://www.iata.org/publications/store/Documents/eula-terms-conditions.pdf" target="_blank">EULA terms and conditions</a>&#160;(pdf)<br></p>
 <div id="ctl00_PlaceHolderMain_g_B2882428_363C_4F7E_94A9_780B0C47E9E1" WebPart="true" __WebPartId="{B2882428-363C-4F7E-94A9-780B0C47E9E1}" __MarkupType="vsattributemarkup">
 <script type="text/javascript">
     jgn(function(){

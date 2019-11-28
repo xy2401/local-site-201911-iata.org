@@ -426,11 +426,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label"><div class="newstg">
-<div><a href="/pressroom/pr/Documents/chinese-pr-2012-06-07-01.pdf" target="_blank">Chinese version</a> (pdf)</div></div>
+<div><a href="https://www.iata.org/pressroom/pr/Documents/chinese-pr-2012-06-07-01.pdf" target="_blank">Chinese version</a> (pdf)</div></div>
 <div class="newstg">
-<div><a href="/pressroom/pr/Documents/Portuguese-PR-2012-06-07-01.pdf" target="_blank">Portuguese version </a>(pdf)</div></div><br>
+<div><a href="https://www.iata.org/pressroom/pr/Documents/Portuguese-PR-2012-06-07-01.pdf" target="_blank">Portuguese version </a>(pdf)</div></div><br>
 <div class="newstg">
-<div><a href="/pressroom/pr/Documents/russian-pr-2012-06-07-01.pdf" target="_blank">Russian version</a>&#160;(pdf) </div></div><br></div>
+<div><a href="https://www.iata.org/pressroom/pr/Documents/russian-pr-2012-06-07-01.pdf" target="_blank">Russian version</a>&#160;(pdf) </div></div><br></div>
 </div>
 <div class='hide_element_04bcf342-b04a-41e2-a84e-3f7cf13ca609'></div><script type='text/javascript'>CTP.IATA.HideChrome('04bcf342-b04a-41e2-a84e-3f7cf13ca609')</script>
 <div class='hide_element_dcb4b1c8-59b4-4b4e-a3fd-4996ee84113f'></div><script type='text/javascript'>CTP.IATA.HideChrome('dcb4b1c8-59b4-4b4e-a3fd-4996ee84113f')</script>

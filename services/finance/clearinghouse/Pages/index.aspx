@@ -473,7 +473,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <img src="/services/finance/sis/PublishingImages/lOGO.png" alt="" style="margin&#58;5px;width&#58;84px;" /></a></p><p>
 <a href="https&#58;//extranet2.iata.org/sites/ICH/default.aspx" target="_blank">Access our&#160;Extranet site</a><br></p><p>
 <a href="http&#58;//www2.iata.org/registration/getemailpage.aspx?siteurl=ICH" target="_blank">Register&#160;to our&#160;Extranet site</a></p><p>
-<a href="/services/finance/clearinghouse/Documents/ich-members.pdf" target="_blank">ICH Member List&#160;</a> (pdf)</p>
+<a href="https://www.iata.org/services/finance/clearinghouse/Documents/ich-members.pdf" target="_blank">ICH Member List&#160;</a> (pdf)</p>
 <br></div>
 </div>
 <div class='hide_element_5955ca14-27c1-4d29-ab61-8a405359ca9b'></div><script type='text/javascript'>CTP.IATA.HideChrome('5955ca14-27c1-4d29-ab61-8a405359ca9b')</script>

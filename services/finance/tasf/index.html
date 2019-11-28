@@ -337,18 +337,18 @@ Travel Agent Service Fee - TASF
 </div>
 <p>To facilitate the collection of issuance charges paid by credit card, IATA&#160;provides a managed card settlement&#160;for service fee - TASF,&#160;which allows the travel agencies&#160;to manage&#160;the collection of charges through the
 <a href="/services/finance/bsp/Pages/index.aspx">BSP</a> clearance.&#160; </p><p>The IATA TASF Card Settlement service enables&#58;</p><ul><li>All agents to accept all major card types for settlement of Service Fee </li><li>Use of GDS terminals for authorization and processing of Service Fee paid by credit card </li><li>Association of Service Fee with ticket booking (if desired) on BSP documents </li><li>Seamless integration of Service Fee billing into agent booking workflow </li><li>Settlement of Service Fee card sales in each BSP settlement period</li></ul><p>For additional information, access&#160;the
-<a href="/services/finance/tasf/Documents/tasf-flyer.pdf" target="_blank">TASF flyer</a> (pdf)</p><h3>How to access the service?</h3><p>The TASF Credit Card Settlement service is an entirely voluntary service offered to all BSP agents. In most countries where TASF is available, no preliminary administrative registration is necessary to start using TASF, and the agent remains entirely free of its&#160;usage.&#160;<br></p><h3>FAQs</h3><ul><li>
-<a href="/services/finance/tasf/Documents/tasf-faq-eng.pdf" target="_blank">TASF - FAQ (English)</a>&#160;(pdf)
+<a href="https://www.iata.org/services/finance/tasf/Documents/tasf-flyer.pdf" target="_blank">TASF flyer</a> (pdf)</p><h3>How to access the service?</h3><p>The TASF Credit Card Settlement service is an entirely voluntary service offered to all BSP agents. In most countries where TASF is available, no preliminary administrative registration is necessary to start using TASF, and the agent remains entirely free of its&#160;usage.&#160;<br></p><h3>FAQs</h3><ul><li>
+<a href="https://www.iata.org/services/finance/tasf/Documents/tasf-faq-eng.pdf" target="_blank">TASF - FAQ (English)</a>&#160;(pdf)
 </li><li>
-<a href="/services/finance/tasf/Documents/tasf-faq-sp.pdf" target="_blank">TASF - FAQ (Spanish)</a> (pdf)
+<a href="https://www.iata.org/services/finance/tasf/Documents/tasf-faq-sp.pdf" target="_blank">TASF - FAQ (Spanish)</a> (pdf)
 </li></ul><ul><li>
 <a href="/services/finance/tasf/Pages/portugues.aspx">Informação em português</a> </li><li>
 <a href="/services/finance/tasf/Pages/spanish.aspx">Información en español</a>&#160;&#160;</li></ul><div class="newst"><div><h2>Product Information</h2></div></div><ul><li>
-<a href="/services/finance/tasf/Documents/tasf-faq-eng.pdf" target="_blank">TASF Brochure - E​nglish</a>&#160;(pdf)</li><li>
-<a href="/services/finance/tasf/Documents/tasf-information-portuguese.pdf" target="_blank">TASF Brochure - Portuguese​</a> (pdf)</li><li>
-<a href="/services/finance/tasf/Documents/tasf-information-spanish.pdf" target="_blank">TASF Brochure - Spanish</a>&#160;(pdf) </li><li>
-<a href="/services/finance/tasf/Documents/TASF-flyer-French.pdf" target="_blank"> TASF Brochure - French</a> (pdf) </li><li>
-<a href="/services/finance/tasf/Documents/TASF-flyer-Italian.pdf" target="_blank">TASF Brochure -&#160;Italian</a>&#160;(pdf) </li></ul>
+<a href="https://www.iata.org/services/finance/tasf/Documents/tasf-faq-eng.pdf" target="_blank">TASF Brochure - E​nglish</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/services/finance/tasf/Documents/tasf-information-portuguese.pdf" target="_blank">TASF Brochure - Portuguese​</a> (pdf)</li><li>
+<a href="https://www.iata.org/services/finance/tasf/Documents/tasf-information-spanish.pdf" target="_blank">TASF Brochure - Spanish</a>&#160;(pdf) </li><li>
+<a href="https://www.iata.org/services/finance/tasf/Documents/TASF-flyer-French.pdf" target="_blank"> TASF Brochure - French</a> (pdf) </li><li>
+<a href="https://www.iata.org/services/finance/tasf/Documents/TASF-flyer-Italian.pdf" target="_blank">TASF Brochure -&#160;Italian</a>&#160;(pdf) </li></ul>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox2Field_label" style='display:none'>IATAContentBox2</div><div id="ctl00_PlaceHolderMain_IATAContentBox2Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox2Field_label"></div>
 <div id="ctl00_PlaceHolderMain_IATAContentBox3Field_label" style='display:none'>IATAContentBox3</div><div id="ctl00_PlaceHolderMain_IATAContentBox3Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox3Field_label"></div>

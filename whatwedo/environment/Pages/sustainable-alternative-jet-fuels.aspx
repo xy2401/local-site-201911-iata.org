@@ -338,20 +338,20 @@ Sustainable Aviation Fuels (SAF)
 <div class="introAndImage">
 <img alt="" src="/whatwedo/environment/PublishingImages/sustainable-alternative-jet-fuels.png" style="BORDER: 0px solid; ">
 <p>IATA member airlines and the wider aviation industry are collectively committed to ambitious emissions reduction goals. SAF, have been identified as one of the key elements in helping achieve these goals. They are the only low-carbon fuels available for aviation in the short to mid-term. </p><p>Governmental support is essential to achieve the industry's climate goals from sustainable alternative aviation fuels.<br></p><p>
-<strong>NOTE TO PRESS&#58; -</strong><a href="/whatwedo/environment/Documents/SAF-note-to-press.pdf" target="_blank"><strong>&#160;</strong><strong>IATA Statement on Outcome of RED II Negotiations on Support for Sustainable Aviation Fuels</strong></a><span>&#160;(pdf)</span><br></p>
+<strong>NOTE TO PRESS&#58; -</strong><a href="https://www.iata.org/whatwedo/environment/Documents/SAF-note-to-press.pdf" target="_blank"><strong>&#160;</strong><strong>IATA Statement on Outcome of RED II Negotiations on Support for Sustainable Aviation Fuels</strong></a><span>&#160;(pdf)</span><br></p>
 <strong>Training Courses</strong><br>Is your Airline ready to use Sustainable Aviation Fuel?<br>
 <ul><li>Learn about IATA's tailored
 <a href="https&#58;//go.updates.iata.org/carbon-markets-saf" target="_blank">Sustainable Aviation Fuel training</a> workshop.</li><li>
-<a href="/whatwedo/environment/Documents/training-talg84-carbon-saf-atag.pdf" target="_blank">Carbon Markets, Low Carbon and SAF with ATAG 2019 GSAF</a><br></li></ul>
+<a href="https://www.iata.org/whatwedo/environment/Documents/training-talg84-carbon-saf-atag.pdf" target="_blank">Carbon Markets, Low Carbon and SAF with ATAG 2019 GSAF</a><br></li></ul>
 </div>
 <span>
 <div class="zHighlight"><div class="zHighlightBox"><h2>10&#160;YEARS OF FLYING ON SUSTAINABLE FUELS</h2><p>
 <br>
 <span>
 <span class="wrappedImageLeft">
-<a href="/pressroom/pr/Documents/saf10-infographic.pdf" target="_blank">
+<a href="https://www.iata.org/pressroom/pr/Documents/saf10-infographic.pdf" target="_blank">
 <img src="/whatwedo/environment/PublishingImages/saf-infographic-small.jpg" alt="" style="width&#58;131px;height&#58;176px;" /></a></span></span>From 1 flight in 2008, to 100,000 flights in 2017, to 1 million flights in 2020, the aviation industry is pushing hard to use sustainable fuels to cut emissions.<br><br>On 24th February 2008, a Virgin Atlantic B747 made history by becoming the first airplane flown by a commercial airline to fly on a blend of jetfuel and sustainable aviation fuel. In 2011 commercial flights began, and now we need governments to help incentivize more production. Our aim is to see a billion passengers fly on a SAF-blended flight by 2025.</p><p>Download&#160;our
-<a href="/pressroom/pr/Documents/saf10-infographic.pdf">infographic on 10 years of flying on Sustainable Aviation Fuels</a> and check-out our
+<a href="https://www.iata.org/pressroom/pr/Documents/saf10-infographic.pdf">infographic on 10 years of flying on Sustainable Aviation Fuels</a> and check-out our
 <a href="/pressroom/Pages/SAF-10-years.aspx">Media kit </a>for more information.</p></div></div> ​​​​​​​​​​​​​</span><span>
 <div class="pseudoTable"><div class="row"><div class="cell col1_2"><p>The airline industry has played an instrumental role in advancing technical certification for sustainable alternative jet fuel which can now be used on passenger flights. The first commercial flights using SAF were achieved in 2011.</p><p>SAF&#160;derived from sustainable oil crops such as jatropha, camelina and algae or from wood and waste biomass can reduce the overall carbon footprint by around 80% over their full lifecycle. Test flights using sustainable alternative jet fuels have been carried out by more than twenty airlines and have demonstrated technical compliance with conventional jet fuel.<br></p></div><div class="cell col1_2"><h3>Video - Innovate UK 2018</h3>
  <span>
@@ -367,19 +367,19 @@ Sustainable Aviation Fuels (SAF)
 <span aria-hidden="true"></span>Promote the global harmonization of sustainability criteria for SAF</li><li>Raise public awareness about aviation industry efforts in carbon emission reduction</li><li>Educate and support producers on the technical certification process (i.e ASTM D1655 certification)</li><li>Establish forums for knowledge exchange and business networking opportunities for suppliers and consumers of SAF (e.g. Alternative Fuels Symposium)</li></ul></div></div></div> </span>
 <h3>IATA Sustainable Alternative Jet Fuels Strategic Partnership</h3><p>IATA presents its
 <a href="/about/sp/pages/index.aspx"> Strategic Partnership </a>programme for industry stakeholders who wish to regularly exchange information, communicate, and drive best practices related to the commercial deployment and development of sustainable alternative fuels.</p><p>By joining the IATA
-<a href="/whatwedo/environment/Documents/strategic_partnership_alt_fuel.pdf" target="_blank">Alternative Fuel Strategic Partnership</a>&#160;(pdf), members have exclusive access to SAF working group meetings (together with airlines and fuel experts), complimentary access to the annual Alternative Jet Fuel Symposium, and many other membership benefits enabling SPs to be well positioned for business opportunities. Please review the attachment for more information or contact<a href="mailto&#58;environment@iata.org"> environment@iata.org</a>.<br></p><h3>Key Documents</h3><ul><li>
-<a href="/whatwedo/environment/Documents/redll-iata-letter-sustainable-fuels.pdf" target="_blank">RED II - IATA Open Letter on Sustainable Aviation Fuels</a> (pdf) NEW</li><li>
-<a href="/pressroom/pr/Documents/resolution-sustainable-alternative-fuels-agm73.pdf" target="_blank">73rd AGM Resolution on the Commercial Deployment of Sustainable Alternative Fuel for Aviation</a> (pdf)&#160; </li><li>
-<a href="/whatwedo/environment/Documents/sustainable_alternative_jet_fuels_strategy.pdf" target="_blank">IATA&#160;Sustainable Aviation Jet Fuel&#160;Strategy&#160;</a>(pdf)&#160;<br></li><li>
-<a href="/whatwedo/environment/Documents/safa-1st-edition-2015.pdf" target="_blank">IATA Sustainable Alternative Fuels Advocacy Guide</a>&#160;(pdf)</li><li>
-<a href="/whatwedo/environment/Documents/safr-1-2015.pdf" target="_blank">IATA Sustainable Aviation Fuel Roadmap </a>(pdf) &#160;&#160;&#160;&#160;&#160; </li></ul><ul><li>
-<a href="/whatwedo/environment/Documents/IATA%20Guidance%20Material%20for%20SAF.pdf" target="_blank">IATA Guidance Material for Using and Handling Sustainable Alternative Jet Fuels</a> (pdf)<br></li></ul><h3>Fact Sheets</h3><ul><li>
-<a href="/policy/environment/Documents/saf-technical-certifications.pdf" target="_blank">Technical Certifications</a> (pdf)<br></li><li>
-<a href="/policy/environment/Documents/saf-what-is-saf.pdf" target="_blank">What is SAF</a> (pdf)<br></li><li>
-<a href="/policy/environment/Documents/saf-and-sustainability.pdf" target="_blank">SAF and Sustainability</a> (pdf)<br></li><li>
-<a href="/policy/environment/Documents/saf-the-wedge-chart.pdf" target="_blank">The Wedge Chart</a> (pdf)<br></li><li>
-<a href="/policy/environment/Documents/saf-project-economics.pdf" target="_blank">SAF Project Economics</a> (pdf)<br></li><li>
-<a href="/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-alternative-fuels.pdf" target="_blank">IATA Sustainable Aviation Fuel Fact Sheet</a> (pdf)&#160; </li></ul>
+<a href="https://www.iata.org/whatwedo/environment/Documents/strategic_partnership_alt_fuel.pdf" target="_blank">Alternative Fuel Strategic Partnership</a>&#160;(pdf), members have exclusive access to SAF working group meetings (together with airlines and fuel experts), complimentary access to the annual Alternative Jet Fuel Symposium, and many other membership benefits enabling SPs to be well positioned for business opportunities. Please review the attachment for more information or contact<a href="mailto&#58;environment@iata.org"> environment@iata.org</a>.<br></p><h3>Key Documents</h3><ul><li>
+<a href="https://www.iata.org/whatwedo/environment/Documents/redll-iata-letter-sustainable-fuels.pdf" target="_blank">RED II - IATA Open Letter on Sustainable Aviation Fuels</a> (pdf) NEW</li><li>
+<a href="https://www.iata.org/pressroom/pr/Documents/resolution-sustainable-alternative-fuels-agm73.pdf" target="_blank">73rd AGM Resolution on the Commercial Deployment of Sustainable Alternative Fuel for Aviation</a> (pdf)&#160; </li><li>
+<a href="https://www.iata.org/whatwedo/environment/Documents/sustainable_alternative_jet_fuels_strategy.pdf" target="_blank">IATA&#160;Sustainable Aviation Jet Fuel&#160;Strategy&#160;</a>(pdf)&#160;<br></li><li>
+<a href="https://www.iata.org/whatwedo/environment/Documents/safa-1st-edition-2015.pdf" target="_blank">IATA Sustainable Alternative Fuels Advocacy Guide</a>&#160;(pdf)</li><li>
+<a href="https://www.iata.org/whatwedo/environment/Documents/safr-1-2015.pdf" target="_blank">IATA Sustainable Aviation Fuel Roadmap </a>(pdf) &#160;&#160;&#160;&#160;&#160; </li></ul><ul><li>
+<a href="https://www.iata.org/whatwedo/environment/Documents/IATA%20Guidance%20Material%20for%20SAF.pdf" target="_blank">IATA Guidance Material for Using and Handling Sustainable Alternative Jet Fuels</a> (pdf)<br></li></ul><h3>Fact Sheets</h3><ul><li>
+<a href="https://www.iata.org/policy/environment/Documents/saf-technical-certifications.pdf" target="_blank">Technical Certifications</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/policy/environment/Documents/saf-what-is-saf.pdf" target="_blank">What is SAF</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/policy/environment/Documents/saf-and-sustainability.pdf" target="_blank">SAF and Sustainability</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/policy/environment/Documents/saf-the-wedge-chart.pdf" target="_blank">The Wedge Chart</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/policy/environment/Documents/saf-project-economics.pdf" target="_blank">SAF Project Economics</a> (pdf)<br></li><li>
+<a href="https://www.iata.org/pressroom/facts_figures/fact_sheets/Documents/fact-sheet-alternative-fuels.pdf" target="_blank">IATA Sustainable Aviation Fuel Fact Sheet</a> (pdf)&#160; </li></ul>
 <br>
 <div id="ctl00_PlaceHolderMain_IATAContentBox1Field_label" style='display:none'>IATAContentBox1</div><div id="ctl00_PlaceHolderMain_IATAContentBox1Field__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_IATAContentBox1Field_label"><h2 class="iataElement-Title2">​​​​​​​​​​See how airlines are committing to&#160;SAF</h2><h3 class="iataElement-Title3">AirFrance committed to biofuels</h3>
 <span>

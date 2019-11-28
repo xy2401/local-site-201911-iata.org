@@ -340,7 +340,7 @@ Passenger Tariff Coordinating Conference Composite Manual
 <h3>Common Currency Application</h3>
 <p>Establishes common currency standards such as currency codes, rounding rules etc to facilitate fare construction application and interlining.</p>
 <h3>Interline Baggage Acceptance Rules</h3>
-<p>Provides standard conditions for interline baggage acceptance. Includes free baggage allowance standards and regulations from where members could deviate if commercially deemed necessary.<br></p><p><a href="/publications/store/Documents/Passenger%20Standards/ptcrm-table-of-contents.pdf" target="_blank">View table of contents </a>(pdf)<br></p>
+<p>Provides standard conditions for interline baggage acceptance. Includes free baggage allowance standards and regulations from where members could deviate if commercially deemed necessary.<br></p><p><a href="https://www.iata.org/publications/store/Documents/Passenger%20Standards/ptcrm-table-of-contents.pdf" target="_blank">View table of contents </a>(pdf)<br></p>
 <h2>The e-Composite</h2>
 <p>The Composite Manual is also available in electronic version, called the 'e-Composite'. It has the added advantage of monthly updates and highlighted comments on the status of government approvals. <br></p>
 <h3 class="iataElement-Title3">Key benefits</h3>

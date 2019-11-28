@@ -458,7 +458,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">
 <p>Translation</p>
 <ul>
-<li><a href="/pressroom/pr/Documents/French-PR-2015-06-08-02.pdf" target="_blank">French</a>&#160;(pdf)</li></ul>
+<li><a href="https://www.iata.org/pressroom/pr/Documents/French-PR-2015-06-08-02.pdf" target="_blank">French</a>&#160;(pdf)</li></ul>
 <a title="Tony Tyler, DG IATA, delivers State of Air Transport Industry speech by IATA International Air Transport Association, on Flickr" href="https&#58;//www.flickr.com/photos/iataorg/18419269169"><img width="150" height="150" alt="Tony Tyler, DG IATA, delivers State of Air Transport Industry speech" src="https&#58;//c1.staticflickr.com/1/288/18419269169_9d62a8e2eb_q.jpg" /></a><div id="__publishingReusableFragmentIdSection">&#160;
 </div>
 </div>

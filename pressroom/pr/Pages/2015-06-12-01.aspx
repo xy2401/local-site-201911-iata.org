@@ -343,7 +343,7 @@ IATA Clarifies Cabin OK Initiative
 </div>
 <p><strong>A&#160;more recent press release was issued on this topic&#58; <br></strong><a href="/pressroom/pr/Pages/2015-06-17-01.aspx">IATA Pauses Rollout of Cabin OK to Reassess Initiative</a> (17 June)</p>
 <p>
-Translation&#58; &#160;<a href="/pressroom/pr/Documents/Spanish-PR-2015-06-12-01.pdf" target="_blank">Spanish</a>&#160;(pdf)
+Translation&#58; &#160;<a href="https://www.iata.org/pressroom/pr/Documents/Spanish-PR-2015-06-12-01.pdf" target="_blank">Spanish</a>&#160;(pdf)
 </p>
 <p>Geneva, 12 June - The International Air Transport Association (IATA) issued comments clarifying key elements of its Cabin OK initiative which have been misunderstood in some reporting. The IATA Cabin OK initiative for carry-on bags aims to provide passengers with a greater assurance that their carry-on bags will travel with them in the aircraft cabin, even when the flight is full. </p>
 <p>The Cabin OK size guideline, developed by working with airlines and manufacturers, is 55 x 35 x 20 cm (or 21.5” x 13.5” x 7.5&quot; inches). This size was calculated to make the best use of storage space in the cabin. If fully embraced by passengers, everyone would have a chance to travel with their carry-on bags on board aircraft of 120 seats or larger even when the flight is full. </p>
@@ -366,7 +366,7 @@ Translation&#58; &#160;<a href="/pressroom/pr/Documents/Spanish-PR-2015-06-12-01
 <ul>
 <li>IATA (International Air Transport Association) represents some 260 airlines comprising 83% of global air traffic.</li>
 <li>You can follow us at http&#58;//twitter.com/iata2press for news specially catered for the media. You can follow news on the AGM at #IATAAGM</li>
-<li>see the <a href="/pressroom/pr/Pages/2015-06-09-02.aspx">original press release on Cabin OK</a>. See the <a href="/pressroom/pr/Documents/cabinOK-faq.pdf" target="_blank">Cabin OK FAQ</a>&#160;(pdf) for more information. </li>
+<li>see the <a href="https://www.iata.org/pressroom/pr/Pages/2015-06-09-02.aspx">original press release on Cabin OK</a>. See the <a href="/pressroom/pr/Documents/cabinOK-faq.pdf" target="_blank">Cabin OK FAQ</a>&#160;(pdf) for more information. </li>
 <li>IATA cannot guarantee that every bag with the “IATA Cabin OK” logo will be accepted as carry-on baggage (for operational or safety reasons, IATA Cabin OK-labeled bags may sometimes have to be carried in the hold). Nevertheless, the label will help crew and ground staff to prioritize bags meeting the size guidelines.</li>
 <li>Okoban is managing the bag approval process with manufacturers. Okuban is headquartered in Geneva Switzerland, was developed by the founders of Travel Sentry, the global standard for baggage security. Its mission is to reunite owners with their lost items globally, including luggage, personal electronics, passports, keys and more. Okoban is linked with WorldTracer, the industry standard lost and found system used in over 2,200 airports and by over 400 airline and airport companies.&#160; Registration of IATA Cabin OK baggage with the Okoban service is free of charge and helps recovery in the event baggage has been misplaced or lost. <a href="http&#58;//www.okoban.com/">www.okoban.com</a>&#160; </li></ul>
 <menu class="ms-hide">
@@ -437,7 +437,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">​<span class="ms-rtestate-read  ms-reusableTextView" contentEditable="false" id="__publishingReusableFragment" fragmentid="/ReusableContent/39_.000"><p>
-<a href="/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
+<a href="https://www.iata.org/pressroom/Pages/optin.aspx" target="_blank">Subscribe to IATA Press Communications</a></p><p><a href="/events/agm/2019/Pages/news.aspx" target="_blank">All news from IATA AGM</a><br><a href="/pressroom/Documents/IATA-Media-Agenda.pdf" target="_blank">Media agenda &amp; press release schedule</a> (pdf)<br></p>
 <br>
 <a href="http&#58;//www.twitter.com/iata2press" target="_blank">
 <img alt="Follow us on www.twitter/iata2press" src="/pressroom/PublishingImages/twitter.gif" border="0" style="border&#58;0px solid;" /></a>&#160;<br>

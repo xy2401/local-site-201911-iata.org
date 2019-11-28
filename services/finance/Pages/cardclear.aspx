@@ -365,14 +365,14 @@ IATA CardClear
 <ul><li>PCI DSS Certified</li>
 <li>140+ International Airlines use IATA CardClear </li>
 <li>11.5&#160;M+ transactions processed annually </li>
-<li>Linked to <a href="/services/finance/Documents/card-bsplinks%2028042015.pdf" target="_blank">more than 130 BSP countries&#160;</a>(pdf)</li>
+<li>Linked to <a href="https://www.iata.org/services/finance/Documents/card-bsplinks%2028042015.pdf" target="_blank">more than 130 BSP countries&#160;</a>(pdf)</li>
 <li>Dedicated team of analysts based provides a single point of contact for enquiries and resolution&#160;</li></ul>
 <p>CardClear is a service provided by Accelya UK Ltd, the parent company of which operates the largest IATA BSP Data Processing Centre in Madrid</p>
 <h2>Accelya downloads</h2>
-<ul><li><a href="/services/finance/Documents/card-bspconnections%2008062016.pdf" target="_blank">Card&#160;BSP&#160;Connections​</a><span></span> (pdf)</li>
-<li><a href="/services/finance/Documents/cardclear-factsheet.pdf" target="_blank">Fact Sheet</a>&#160;(pdf) </li>
-<li><a href="/services/finance/Documents/cardclear-startup-process.pdf" target="_blank">CardClear start up process</a>&#160;(pdf)</li>
-<li><a href="/services/finance/Documents/cardclear-faq.pdf" target="_blank">FAQ&#160;</a> (pdf)</li></ul>
+<ul><li><a href="https://www.iata.org/services/finance/Documents/card-bspconnections%2008062016.pdf" target="_blank">Card&#160;BSP&#160;Connections​</a><span></span> (pdf)</li>
+<li><a href="https://www.iata.org/services/finance/Documents/cardclear-factsheet.pdf" target="_blank">Fact Sheet</a>&#160;(pdf) </li>
+<li><a href="https://www.iata.org/services/finance/Documents/cardclear-startup-process.pdf" target="_blank">CardClear start up process</a>&#160;(pdf)</li>
+<li><a href="https://www.iata.org/services/finance/Documents/cardclear-faq.pdf" target="_blank">FAQ&#160;</a> (pdf)</li></ul>
 ​​
 <div class="ms-webpart-zone ms-fullWidth">
 <div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
