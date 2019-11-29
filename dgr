@@ -43,8 +43,8 @@
 <script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
-<link type="text/xml" rel="alternate" href="/publications/dgr/_vti_bin/spsdisco.aspx" />
-<link rel="canonical" href="/publications/dgr/Pages/index.aspx" />
+<link type="text/xml" rel="alternate" href="/publications/dgr/_vti_bin/spsdisco.aspx.html" />
+<link rel="canonical" href="/publications/dgr/Pages/index.aspx.html" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script language="javascript">var ExpireDays = 90;qstr = document.location.search;qstr = qstr.substring(1,qstr.length);function SetCookie(cookieName,cookieValue,nDays){var today = new Date();var expire = new Date();if (nDays==null || nDays==0) nDays=1;expire.setTime(today.getTime() + 3600000*24*nDays);document.cookie = cookieName + " = " + escape(cookieValue) + "; expires=" + expire.toGMTString() + "; path=/;domain=iata.org";}thevars = qstr.split("&");for(i=0;i<thevars.length;i++){cookiecase = thevars[i].split("=");switch(cookiecase[0]){case "e":e = cookiecase[1];SetCookie("EmailAddr",e,ExpireDays);break;case "j":j = cookiecase[1];SetCookie("JobID",j,ExpireDays);break;case "l":l = cookiecase[1];SetCookie("ListID",l,ExpireDays);break;case "jb":jb = cookiecase[1];SetCookie("BatchID",jb,ExpireDays);break;case "u":u = cookiecase[1];SetCookie("UrlID",u,ExpireDays);break;case "mid":mid = cookiecase[1];SetCookie("MemberID",mid,ExpireDays);break;default:break;}}</script><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -290,14 +290,14 @@ Sys.Application._enableHistoryInScriptManager();
 <div id="ct" class="clearfix">
 <span id="DeltaPlaceHolderMain">
 <div id="bc" class="widthLimiter">
-<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx">Home</a></span><span>  </span><span><a href="/publications/Pages/index.aspx">Publications</a></span><span>  </span><span>Dangerous Goods Regulations (DGR)</span></span>
+<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx.html">Home</a></span><span>  </span><span><a href="/publications/Pages/index.aspx.html">Publications</a></span><span>  </span><span>Dangerous Goods Regulations (DGR)</span></span>
 </div>
 <div id="bcMobile" class="widthLimiter"></div>
 <div id="pageContentLimiter"><div class="widthLimiter"><div class="redFringe"></div></div></div>
 <div class="dividerContainer genericPage">
 <div id="ct-txt" class="clearfix widthLimiter">
 <div id="leftNavigation" class="noindex">
-<ul><li><div><a href="/publications/Pages/index.aspx">Publications</a></div><span class="icon icon-navArrowDown"></span><ul><li><div><a href="/publications/Pages/standards-manuals.aspx">Standards, Manuals & Guidelines</a></div></li><li><div><a href="/publications/Pages/signup.aspx">Sign up for IATA News</a></div></li><li><div><a href="/publications/economics/Pages/index.aspx">Economics</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/publications/economics/fuel-monitor/Pages/index.aspx">Fuel Price Monitor</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li><li><div><a href="/publications/economics/Pages/mobile-app.aspx">Economics Mobile App</a></div></li><li><div><a href="/publications/economics/Pages/terms-conditions.aspx">Economics Terms & Conditions</a></div></li></ul></li><li><div><a href="/publications/Pages/airlines-magazine.aspx">Airlines. Magazine</a></div></li><li><div><a href="/publications/Pages/directories.aspx">Directories</a></div></li><li><div><a href="/publications/Pages/newsletters.aspx">Newsletters & Blogs</a></div></li><li><div><a href="/publications/Pages/annual-review.aspx">IATA's Annual Review</a></div></li><li><div><a href="/publications/Pages/resellers.aspx">Publications Sales Agents</a></div></li><li class="current"><div><a href="/publications/dgr/Pages/index.aspx">Dangerous Goods Regulations (DGR)</a></div><span class="icon icon-navArrowDown"></span><ul></ul></li><li><div><a href="">Recent</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li></ul></li></ul>
+<ul><li><div><a href="/publications/Pages/index.aspx.html">Publications</a></div><span class="icon icon-navArrowDown"></span><ul><li><div><a href="/publications/Pages/standards-manuals.aspx.html">Standards, Manuals & Guidelines</a></div></li><li><div><a href="/publications/Pages/signup.aspx.html">Sign up for IATA News</a></div></li><li><div><a href="/publications/economics/Pages/index.aspx.html">Economics</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/publications/economics/fuel-monitor/Pages/index.aspx.html">Fuel Price Monitor</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li><li><div><a href="/publications/economics/Pages/mobile-app.aspx.html">Economics Mobile App</a></div></li><li><div><a href="/publications/economics/Pages/terms-conditions.aspx.html">Economics Terms & Conditions</a></div></li></ul></li><li><div><a href="/publications/Pages/airlines-magazine.aspx.html">Airlines. Magazine</a></div></li><li><div><a href="/publications/Pages/directories.aspx.html">Directories</a></div></li><li><div><a href="/publications/Pages/newsletters.aspx.html">Newsletters & Blogs</a></div></li><li><div><a href="/publications/Pages/annual-review.aspx.html">IATA's Annual Review</a></div></li><li><div><a href="/publications/Pages/resellers.aspx.html">Publications Sales Agents</a></div></li><li class="current"><div><a href="/publications/dgr/Pages/index.aspx.html">Dangerous Goods Regulations (DGR)</a></div><span class="icon icon-navArrowDown"></span><ul></ul></li><li><div><a href="">Recent</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li></ul></li></ul>
 <div>
 <div id="ctl00_PlaceHolderMain_DisplaySkyScraper_ctl00_label" style='display:none'>IATASkyscraperAD</div><div id="ctl00_PlaceHolderMain_DisplaySkyScraper_ctl00__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplaySkyScraper_ctl00_label"><div class="ms-rtestate-field"><a href="https&#58;//www.labeline.com/product/iata-dgr-61st/" target="_blank"><img alt="" src="/Advertising%20Images/Labeline-Skyscraper.gif" style="BORDER&#58;0px solid;" /></a></div></div>
 </div>
@@ -315,7 +315,7 @@ Sys.Application._enableHistoryInScriptManager();
 <ul>
 <li><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.iata.org%2Fpublications%2Fdgr%2Fpages%2Findex.aspx" id="ctl00_PlaceHolderMain_pageTools_linkFB" target="_blank" title="Share this Page"><span class="icon icon-facebook"></span></a></li>
 <li><a href='//twitter.com/share' target='_blank' data-via='iata' data-count='none' target='_blank'><span class="icon icon-twitter"></span></a></li>
-<li><a href="//www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.iata.org%2Fpublications%2Fdgr%2Fpages%2Findex.aspx" id="ctl00_PlaceHolderMain_pageTools_linkLinkedIn" target="_blank"><span class="icon icon-linkedin"></span></a></li>
+<li><a href="//www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.iata.org%2Fpublications%2Fdgr%2Fpages%2Findex.aspx.html" id="ctl00_PlaceHolderMain_pageTools_linkLinkedIn" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="mailto:?subject=I wanted you to see this site&amp;body=Check out this site http://www.iata.org/publications/dgr/pages/index.aspx" id="ctl00_PlaceHolderMain_pageTools_linkMail" title="Share by Email"><span class="icon icon-enveloppeRound"></span></a></li>
 </ul>
 </div>
@@ -360,14 +360,14 @@ RELATED PRODUCTS
 </span></span></span></span>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_body">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1" class="ajax__tab_panel">
-<div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1_label" style='display:none'>IATATabContent1</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1_label"><p>Some items may endanger the safety of an aircraft or persons on board, and the air transportation of these dangerous materials can either be forbidden or restricted.&#160;<span>As a result, IATA&#160;</span><span>works closely with local governments and ICAO to develop regulations that are effective and efficient, and that ensure the safe transport of dangerous goods by air.&#160;</span></p><p><span></span><span><span>T</span><span>he IATA DGR manual is the global reference for shipping dangerous goods by air, and the only standard recognized by airlines.&#160;</span></span><span><span>The content contains up-to-date information on&#160;effective and efficient regulations, which ensures the safe transport of dangerous goods by air. This manual is the result of IATA closely working with airline members, local governments and ICAO.</span></span><br></p><p>All parties involved in the shipment of dangerous goods by air can benefit from using the DGR including ailrines, freight forwarders, ground handlers, manufacturers, and shippers.<br></p><p><a href="/publications/Pages/form-dgr.aspx"><img src="/publications/dgr/PublishingImages/TOC-Button.PNG" alt="" style="margin&#58;5px;width&#58;125px;height&#58;63px;" /></a><br></p><p><strong>Main features of the DGR&#58;</strong></p><ul><li>Contains the most complete, up-to-date, and user-friendly reference manual trusted by the industry<br></li><li>Its format reflect the activities in the supply chain process flow</li><li>Contains a trusted source of State and operators variations critical when preparing and accepting dangerous goods by air<br></li><li>Series of appendices with use full information including list of States contacts, training and packaging providers<br></li><li>Appendix H provides guidelines materials on training implementation<br></li><li>Appendix I includes impending changes that will be effective as of 1 January 2021</li><li>Supplementary material such as industry benchmarked checklists for the acceptance of dangerous goods<br></li></ul></div>
+<div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1_label" style='display:none'>IATATabContent1</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel1_DisplayIATATabContent1_label"><p>Some items may endanger the safety of an aircraft or persons on board, and the air transportation of these dangerous materials can either be forbidden or restricted.&#160;<span>As a result, IATA&#160;</span><span>works closely with local governments and ICAO to develop regulations that are effective and efficient, and that ensure the safe transport of dangerous goods by air.&#160;</span></p><p><span></span><span><span>T</span><span>he IATA DGR manual is the global reference for shipping dangerous goods by air, and the only standard recognized by airlines.&#160;</span></span><span><span>The content contains up-to-date information on&#160;effective and efficient regulations, which ensures the safe transport of dangerous goods by air. This manual is the result of IATA closely working with airline members, local governments and ICAO.</span></span><br></p><p>All parties involved in the shipment of dangerous goods by air can benefit from using the DGR including ailrines, freight forwarders, ground handlers, manufacturers, and shippers.<br></p><p><a href="/publications/Pages/form-dgr.aspx.html"><img src="/publications/dgr/PublishingImages/TOC-Button.PNG" alt="" style="margin&#58;5px;width&#58;125px;height&#58;63px;" /></a><br></p><p><strong>Main features of the DGR&#58;</strong></p><ul><li>Contains the most complete, up-to-date, and user-friendly reference manual trusted by the industry<br></li><li>Its format reflect the activities in the supply chain process flow</li><li>Contains a trusted source of State and operators variations critical when preparing and accepting dangerous goods by air<br></li><li>Series of appendices with use full information including list of States contacts, training and packaging providers<br></li><li>Appendix H provides guidelines materials on training implementation<br></li><li>Appendix I includes impending changes that will be effective as of 1 January 2021</li><li>Supplementary material such as industry benchmarked checklists for the acceptance of dangerous goods<br></li></ul></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2" class="ajax__tab_panel" style="display:none;">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2_label" style='display:none'>IATATabContent2</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel2_DisplayIATATabContent2_label"><h2>Safety is the industry's #1 priority<br></h2>
 <span>
 <div class="video-container">​<iframe width="540" height="304" src="https&#58;//www.youtube.com/embed/53upruUK4jE?wmode=transparent" frameborder="0"></iframe>&#160;<br></div></span>
 <p>
 <br>The air transport industry is constantly evolving and as a result IATA releases a new edition of the DGR every year&#160;to keep up with the changes and to address any issues identified by any stakeholder involved in the process.<br></p><p>There are significant changes included in the latest edition of the DGR. Some of the key highlights include&#58;<br></p><ul><li>Inclusions of&#160;all amendments made by the IATA Dangerous Goods Board and includes addenda issued by ICAO to the content of the 2019–2020 edition of the Technical Instructions<br></li><li>The single packagings tables have been revised to better identify composite packagings<br></li><li>The guidance material on development and implementation of competency-based training for dangerous goods has been extensively revised based on engagement with, and input from regulatory authorities, training providers and member airlines<br></li><li>A new appendix has been added to this edition of the DGR to provide the detail of the changes that will come into effect as of 1 January 2021 based on the adoption of the changes arising from the 21st revised edition of the UN Model Regulations as well as the changes that have been agreed to date by the ICAO Dangerous Goods Panel for inclusion into the 2021–2022 edition of the Technical Instructions<br></li></ul><p>Download the complete list of significant changes&#58;<br></p><p>
-<a href="/publications/Pages/form-dgr-significant-changes.aspx">
+<a href="/publications/Pages/form-dgr-significant-changes.aspx.html">
 <img alt="significant-changes-button.png" src="/publications/dgr/PublishingImages/significant-changes-button.png" style="margin&#58;5px;" /></a>
 <br></p></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel3" class="ajax__tab_panel" style="display:none;">
@@ -449,23 +449,23 @@ RELATED PRODUCTS
 <a href="https&#58;//store.iata.org/IEC_ProductDetails?id=8932-61" target="_blank">Russian</a><br></td><td>
 <a href="https&#58;//store.iata.org/IEC_ProductDetails?id=8932-61" target="_blank">$180</a><br></td></tr></tbody></table><p>
 <br>
-</p><h2>Chinese and Japanese Formats<br></h2><p>These versions are also available but are not available to order online.&#160;<br><a href="/publications/Pages/direct-sales.aspx">Contact us</a><span> for more information.</span></p><h2>Dangerous Goods Regulations 60th&#160;edition *** effective until December 31&#160;2019&#160;***</h2>
+</p><h2>Chinese and Japanese Formats<br></h2><p>These versions are also available but are not available to order online.&#160;<br><a href="/publications/Pages/direct-sales.aspx.html">Contact us</a><span> for more information.</span></p><h2>Dangerous Goods Regulations 60th&#160;edition *** effective until December 31&#160;2019&#160;***</h2>
 <span><br></span>
 <p>To purchase the 60th edition effective until December 31, 2019, visit our
-<a href="https&#58;//store.iata.org/IEC_SearchResults?site-search=dgr60" target="_blank">online store</a>.</p><h2>Find out which format is&#160;best for you&#58;<br></h2><ul><li>Book<br></li><li>&#160;<a href="/publications/Pages/desktop-reader.aspx">Windows</a></li><li>&#160;<a href="/publications/Pages/mobile-publications.aspx">Mobile (Apple, Android, and Windows)</a><br></li><li>
-<a href="/publications/Pages/floating-license.aspx">Floating License (Windows)</a><br></li></ul></div>
+<a href="https&#58;//store.iata.org/IEC_SearchResults?site-search=dgr60" target="_blank">online store</a>.</p><h2>Find out which format is&#160;best for you&#58;<br></h2><ul><li>Book<br></li><li>&#160;<a href="/publications/Pages/desktop-reader.aspx.html">Windows</a></li><li>&#160;<a href="/publications/Pages/mobile-publications.aspx.html">Mobile (Apple, Android, and Windows)</a><br></li><li>
+<a href="/publications/Pages/floating-license.aspx.html">Floating License (Windows)</a><br></li></ul></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4" class="ajax__tab_panel" style="display:none;">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4_DisplayIATATabContent4_label" style='display:none'>IATATabContent4</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4_DisplayIATATabContent4__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel4_DisplayIATATabContent4_label"><h2>Hear what users are&#160;saying about the DGR and its benefits!<br></h2><div class="ms-rtestate-read ms-rte-embedcode ms-rte-embedil ms-rtestate-notify" unselectable="on">
 <iframe width="560" height="315" src="https&#58;//www.youtube.com/embed/aqrmLuWVrBs" frameborder="0"></iframe>&#160;</div></div>
 </div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel5" class="ajax__tab_panel" style="display:none;">
 <div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel5_DisplayIATATabContent5_label" style='display:none'>IATATabContent5</div><div id="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel5_DisplayIATATabContent5__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplayTabs_TabContainer1_TabPanel5_DisplayIATATabContent5_label"><h2 class="ms-rteElement-H2B">​​Find out about other DGR related products&#58;</h2><ul><li>
-<a href="/publications/dgr/Pages/autocheck.aspx">DG AutoCheck</a><br></li><li>
-<a href="/publications/dgr/Pages/dgr-data-elist-products.aspx">DGR eList</a></li><li>
-<a href="/publications/store/Pages/lithium-battery-shipping-guidelines.aspx">Lithium Battery Shipping Guidelines (LBSG)</a><br></li><li>
-<a href="/publications/store/Pages/infectious-substances-shipping-guidelines.aspx">Infectious Substances Shipping Guidelines (ISSG)</a><br></li><li>
-<a href="/publications/store/Pages/dgr-training-books.aspx">DGR Training Books &amp; Instructor Toolkit</a><br></li><li>
-<a href="/publications/store/Pages/dgr-posters.aspx">Posters &amp; Signage</a><br></li><li>
-<a href="/publications/dgr/Pages/Labels-Markings.aspx">Labels &amp; Marks</a></li><li>
+<a href="/publications/dgr/Pages/autocheck.aspx.html">DG AutoCheck</a><br></li><li>
+<a href="/publications/dgr/Pages/dgr-data-elist-products.aspx.html">DGR eList</a></li><li>
+<a href="/publications/store/Pages/lithium-battery-shipping-guidelines.aspx.html">Lithium Battery Shipping Guidelines (LBSG)</a><br></li><li>
+<a href="/publications/store/Pages/infectious-substances-shipping-guidelines.aspx.html">Infectious Substances Shipping Guidelines (ISSG)</a><br></li><li>
+<a href="/publications/store/Pages/dgr-training-books.aspx.html">DGR Training Books &amp; Instructor Toolkit</a><br></li><li>
+<a href="/publications/store/Pages/dgr-posters.aspx.html">Posters &amp; Signage</a><br></li><li>
+<a href="/publications/dgr/Pages/Labels-Markings.aspx.html">Labels &amp; Marks</a></li><li>
 <a href="https&#58;//store.iata.org/IEC_SearchResults?site-search=dgr+quick" target="_blank">Other DGR Products</a><br></li></ul></div>
 </div>
 </div>
@@ -489,7 +489,7 @@ RELATED PRODUCTS
 <h2>
 Need Help?
 </h2>
-<a href="/publications/Pages/direct-sales.aspx" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
+<a href="/publications/Pages/direct-sales.aspx.html" id="ctl00_PlaceHolderMain_contactBanner_lnkContactUs">Contact us</a>
 </div>
 <div class="noindex" id="googleAdDiv">
 <div id="ad-rhb">Advertisement</div>
@@ -569,7 +569,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div>
 </div>
 <div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label" style='display:none'>IATAHighlightInformation</div><div id="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlFieldIATAHighlightInformation_label">
-<p><a href="/publications/Pages/dgcommunity.aspx">DG Community</a></p><p><a href="http&#58;//airlines.iata.org/news/lithium-battery-limits-included-in-dgr-revisions?_ga=2.235963973.596828550.1507533498-526295612.1503323166" target="_blank">Lithium battery limits included in DGR revisions</a><br></p></div>
+<p><a href="/publications/Pages/dgcommunity.aspx.html">DG Community</a></p><p><a href="http&#58;//airlines.iata.org/news/lithium-battery-limits-included-in-dgr-revisions?_ga=2.235963973.596828550.1507533498-526295612.1503323166" target="_blank">Lithium battery limits included in DGR revisions</a><br></p></div>
 </div>
 <div class='crossLinksUpcomingEvents'>
 <div class='crossLinksTitle'>
@@ -603,14 +603,14 @@ Explore more
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2.aspx.html" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx.html" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx.html" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx.html" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

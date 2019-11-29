@@ -39,7 +39,7 @@
 <script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
-<link type="text/xml" rel="alternate" href="/about/worldwide/ame/blog/_vti_bin/spsdisco.aspx" />
+<link type="text/xml" rel="alternate" href="/about/worldwide/ame/blog/_vti_bin/spsdisco.aspx.html" />
 <meta property='og:title' content='
 	Passenger experience at the heart of the new King Abdulaziz International Airport in Jeddah
 	'>
@@ -299,7 +299,7 @@ Sys.Application._enableHistoryInScriptManager();
 <span id="DeltaPlaceHolderMain">
 <script type="text/javascript">blogSite = true;</script>
 <div id="bc" class="widthLimiter">
-<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx">Home</a></span><span>  </span><span><a href="/about/Pages/index.aspx">About Us</a></span><span>  </span><span><a href="/about/worldwide/Pages/index.aspx">IATA by Region</a></span><span>  </span><span><a href="/about/worldwide/ame/Pages/index.aspx">Africa &amp; Middle East (AME)</a></span><span>  </span><span><a title="Africa and the Middle East Blog" href="/about/worldwide/ame/blog/Pages/index.aspx">AME Insights</a></span><span>  </span><span><a href="/about/worldwide/ame/blog/Pages/BlogDetails.aspx">AME Insights</a></span></span>
+<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx.html">Home</a></span><span>  </span><span><a href="/about/Pages/index.aspx.html">About Us</a></span><span>  </span><span><a href="/about/worldwide/Pages/index.aspx.html">IATA by Region</a></span><span>  </span><span><a href="/about/worldwide/ame/Pages/index.aspx.html">Africa &amp; Middle East (AME)</a></span><span>  </span><span><a title="Africa and the Middle East Blog" href="/about/worldwide/ame/blog/Pages/index.aspx.html">AME Insights</a></span><span>  </span><span><a href="/about/worldwide/ame/blog/Pages/BlogDetails.aspx.html">AME Insights</a></span></span>
 </div>
 <div id="bcMobile" class="widthLimiter blogMobile">
 </div>
@@ -799,14 +799,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2.aspx.html" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx.html" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx.html" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx.html" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

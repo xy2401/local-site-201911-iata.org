@@ -39,7 +39,7 @@
 <script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
-<link type="text/xml" rel="alternate" href="/pressroom/ceoblog/_vti_bin/spsdisco.aspx" />
+<link type="text/xml" rel="alternate" href="/pressroom/ceoblog/_vti_bin/spsdisco.aspx.html" />
 <meta property='og:title' content='
 	 A major step forward for CORSIA
 	'>
@@ -299,7 +299,7 @@ Sys.Application._enableHistoryInScriptManager();
 <span id="DeltaPlaceHolderMain">
 <script type="text/javascript">blogSite = true;</script>
 <div id="bc" class="widthLimiter">
-<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx">Home</a></span><span>  </span><span><a href="/pressroom/Pages/index.aspx">Pressroom</a></span><span>  </span><span><a title="Blog site for the new CEO  &quot;Alexandre de Juniac&quot;" href="/pressroom/ceoblog/Pages/index.aspx">Alexandre de Juniac&#39;s blog</a></span><span>  </span><span><a href="/pressroom/ceoblog/Pages/BlogDetails.aspx">Alexandre de Juniac&#39;s Blog</a></span></span>
+<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx.html">Home</a></span><span>  </span><span><a href="/pressroom/Pages/index.aspx.html">Pressroom</a></span><span>  </span><span><a title="Blog site for the new CEO  &quot;Alexandre de Juniac&quot;" href="/pressroom/ceoblog/Pages/index.aspx.html">Alexandre de Juniac&#39;s blog</a></span><span>  </span><span><a href="/pressroom/ceoblog/Pages/BlogDetails.aspx.html">Alexandre de Juniac&#39;s Blog</a></span></span>
 </div>
 <div id="bcMobile" class="widthLimiter blogMobile">
 </div>
@@ -316,7 +316,7 @@ Sys.Application._enableHistoryInScriptManager();
 <li><a href='javascript:window.print()'><div class="icon icon-printer"></div></a></li>
 <li><div id='sm-share' class="icon icon-share"></div></li>
 <li id="ctl00_PlaceHolderMain_pageTools_liRSS" class="rssLinkWrapper">
-<a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fceoblog&page=40ae9fe1-7d8b-419d-a397-361417e032cd&wp=e19c1b1f-8d1d-42ba-a70b-84f4d9acd5d5&pageurl=%2Fpressroom%2Fceoblog%2FPages%2Fceo%2Drss%2Easpx" id="ctl00_PlaceHolderMain_pageTools_aRSSLink" title="Alexandre de Juniac&#39;s Blog RSS feeds" target="_blank">
+<a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fceoblog&page=40ae9fe1-7d8b-419d-a397-361417e032cd&wp=e19c1b1f-8d1d-42ba-a70b-84f4d9acd5d5&pageurl=%2Fpressroom%2Fceoblog%2FPages%2Fceo%2Drss%2.aspx.html" id="ctl00_PlaceHolderMain_pageTools_aRSSLink" title="Alexandre de Juniac&#39;s Blog RSS feeds" target="_blank">
 <div class="icon icon-rssRaw"></div>
 </a>
 </li>
@@ -452,7 +452,7 @@ Blog
 <div id='sm-share-blog' class="icon icon-share"></div>
 </li>
 <li id="ctl00_SPWebPartManager1_g_53ff1dc6_e602_4006_989b_0563635783fe_ctl00_liRSS">
-<a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fceoblog&page=40ae9fe1-7d8b-419d-a397-361417e032cd&wp=e19c1b1f-8d1d-42ba-a70b-84f4d9acd5d5&pageurl=%2Fpressroom%2Fceoblog%2FPages%2Fceo%2Drss%2Easpx" id="ctl00_SPWebPartManager1_g_53ff1dc6_e602_4006_989b_0563635783fe_ctl00_linkRSSBlog" title="Alexandre de Juniac&#39;s Blog RSS feeds" target="_blank">
+<a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fceoblog&page=40ae9fe1-7d8b-419d-a397-361417e032cd&wp=e19c1b1f-8d1d-42ba-a70b-84f4d9acd5d5&pageurl=%2Fpressroom%2Fceoblog%2FPages%2Fceo%2Drss%2.aspx.html" id="ctl00_SPWebPartManager1_g_53ff1dc6_e602_4006_989b_0563635783fe_ctl00_linkRSSBlog" title="Alexandre de Juniac&#39;s Blog RSS feeds" target="_blank">
 <span class="icon icon-rssRaw"></span>
 </a>
 </li>
@@ -755,7 +755,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 </div><div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_60e2a704_15dd_432b_adca_8549c045c6c5" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 <div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
 <div WebPartID="60e2a704-15dd-432b-adca-8549c045c6c5" HasPers="false" id="WebPartctl00_SPWebPartManager1_g_60e2a704_15dd_432b_adca_8549c045c6c5" width="100%" class="ms-WPBody noindex " allowDelete="false" allowExport="false" style=""><div id="ctl00_SPWebPartManager1_g_60e2a704_15dd_432b_adca_8549c045c6c5">
-<DIV class="ms-rte-embedcode ms-rte-embedwp"><a href="/pressroom/pages/ceo-biography.aspx"><img src="/pressroom/CEOBlog/PublishingImages/ceoBadgeLink.png" /></a></DIV>
+<DIV class="ms-rte-embedcode ms-rte-embedwp"><a href="/pressroom/pages/ceo-biography.aspx.html"><img src="/pressroom/CEOBlog/PublishingImages/ceoBadgeLink.png" /></a></DIV>
 </div><div class="ms-clear"></div></div>
 </div>
 </div>
@@ -795,14 +795,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2.aspx.html" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx.html" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx.html" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx.html" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

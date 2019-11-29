@@ -955,9 +955,9 @@ function SetCookieExactTarget(cookieName,cookieValue,nDays)
 	    <li>Information for travelers<br /><a href="http://www.iatatravelcentre.com" target="_blank">www.iatatravelcentre.com</a></li>
 	    <li>Aviation and the environment<br /><a href="http://www.enviro.aero" target="_blank">www.enviro.aero</a></li>
 	    
-	    <li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
-	    <li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>   
-	    <li><a href="/customer-portal/Pages/index.aspx" target="_self">Contact us</a></li> 
+	    <li><a href="/Pages/privacy.aspx.html" target="_self">Privacy</a></li>
+	    <li><a href="/Pages/terms.aspx.html" target="_self">Legal</a></li>   
+	    <li><a href="/customer-portal/Pages/index.aspx.html" target="_self">Contact us</a></li> 
 	    </ul>
 	    <p>&copy; International Air Transport Association (IATA) 2014. All rights reserved.</p>
 	</div></span>

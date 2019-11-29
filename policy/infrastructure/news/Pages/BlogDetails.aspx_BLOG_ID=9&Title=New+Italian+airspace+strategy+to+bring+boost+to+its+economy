@@ -39,7 +39,7 @@
 <script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
-<link type="text/xml" rel="alternate" href="/policy/infrastructure/news/_vti_bin/spsdisco.aspx" />
+<link type="text/xml" rel="alternate" href="/policy/infrastructure/news/_vti_bin/spsdisco.aspx.html" />
 <meta property='og:title' content='
 	New Italian airspace strategy to bring boost to its economy
 	'>
@@ -298,7 +298,7 @@ Sys.Application._enableHistoryInScriptManager();
 <span id="DeltaPlaceHolderMain">
 <script type="text/javascript">blogSite = true;</script>
 <div id="bc" class="widthLimiter">
-<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx">Home</a></span><span>  </span><span><a href="/policy/Pages/default.aspx">Policy</a></span><span>  </span><span><a href="/policy/infrastructure/Pages/index.aspx">Infrastructure</a></span><span>  </span><span><a href="/policy/infrastructure/news/Pages/europe-airspace.aspx">European Airspace Modernization</a></span><span>  </span><span><a href="/policy/infrastructure/news/Pages/BlogDetails.aspx">European Airspace Modernization</a></span></span>
+<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx.html">Home</a></span><span>  </span><span><a href="/policy/Pages/default.aspx.html">Policy</a></span><span>  </span><span><a href="/policy/infrastructure/Pages/index.aspx.html">Infrastructure</a></span><span>  </span><span><a href="/policy/infrastructure/news/Pages/europe-airspace.aspx.html">European Airspace Modernization</a></span><span>  </span><span><a href="/policy/infrastructure/news/Pages/BlogDetails.aspx.html">European Airspace Modernization</a></span></span>
 </div>
 <div id="bcMobile" class="widthLimiter blogMobile">
 </div>
@@ -428,7 +428,7 @@ European Airspace Modernization
 </div>
 <h1 id="ctl00_SPWebPartManager1_g_76543796_bec6_484c_8c65_e93a4fbbbb90_ctl00_hTitle">New Italian airspace strategy to bring boost to its economy</h1>
 <div class='blurb'>
-<span id="ctl00_SPWebPartManager1_g_76543796_bec6_484c_8c65_e93a4fbbbb90_ctl00_spBody"><p>​The European airspace modernization agenda has got off to a flyer in 2018, with the announcement that ENAV, the Italian air navigation service provider, will partner with IATA to develop a national airspace strategy for Italy.</p><p><strong>The announcement is good news for travelers to and from Italy, who will ultimately benefit from faster and more frequent flights, with fewer delays.</strong> Airlines serving the Italian market will gain from lower costs, and more efficient flight paths will cut noise and CO2 emissions. Airspace modernization is also a boon for the Italian economy, leading to a potential extra 95,000 jobs and €27 billion in GDP annually by 2035. </p><p><strong>ENAV is the third European country to commit to developing a NAS with IATA, following PANSA (Poland) and DSNA (France) last year. </strong>The aim is to bring the airlines and ANSPs together in a spirit of genuine partnership to tackle the most pressing issues facing European air traffic management. With delays running at around 15 million minutes a year, and emissions that could be cut through route efficiencies, the need for action is urgent – especially as the number of European air travelers is set to increase 50% over the next 20 years. There is also a fantastic economic and employment boost to be gained from modernization and reform at both national and pan-European level.</p><p>Roberta Neri, CEO of ENAV, explained&#58; &quot;We are developing an airspace strategy with the full involvement of stakeholders to further support the ongoing modernization of our technology and operations…our commitment is to contribute to the growth of national and European air transport through efficiency and innovation.”</p><p>IATA is fully committed to supporting ENAV achieve that vision. As IATA’s Director General and CEO, Alexandre de Juniac, put it&#58; “We look forward to working with ENAV to make the airspace strategy not only a success for Italy, but also to advance European ATM and accelerate delivery of the Single European Sky goals.”</p><p><strong>Read the </strong><a href="/pressroom/pr/Pages/2018-01-25-01.aspx"><strong>press release</strong></a><strong> to find out more.</strong></p></span>
+<span id="ctl00_SPWebPartManager1_g_76543796_bec6_484c_8c65_e93a4fbbbb90_ctl00_spBody"><p>​The European airspace modernization agenda has got off to a flyer in 2018, with the announcement that ENAV, the Italian air navigation service provider, will partner with IATA to develop a national airspace strategy for Italy.</p><p><strong>The announcement is good news for travelers to and from Italy, who will ultimately benefit from faster and more frequent flights, with fewer delays.</strong> Airlines serving the Italian market will gain from lower costs, and more efficient flight paths will cut noise and CO2 emissions. Airspace modernization is also a boon for the Italian economy, leading to a potential extra 95,000 jobs and €27 billion in GDP annually by 2035. </p><p><strong>ENAV is the third European country to commit to developing a NAS with IATA, following PANSA (Poland) and DSNA (France) last year. </strong>The aim is to bring the airlines and ANSPs together in a spirit of genuine partnership to tackle the most pressing issues facing European air traffic management. With delays running at around 15 million minutes a year, and emissions that could be cut through route efficiencies, the need for action is urgent – especially as the number of European air travelers is set to increase 50% over the next 20 years. There is also a fantastic economic and employment boost to be gained from modernization and reform at both national and pan-European level.</p><p>Roberta Neri, CEO of ENAV, explained&#58; &quot;We are developing an airspace strategy with the full involvement of stakeholders to further support the ongoing modernization of our technology and operations…our commitment is to contribute to the growth of national and European air transport through efficiency and innovation.”</p><p>IATA is fully committed to supporting ENAV achieve that vision. As IATA’s Director General and CEO, Alexandre de Juniac, put it&#58; “We look forward to working with ENAV to make the airspace strategy not only a success for Italy, but also to advance European ATM and accelerate delivery of the Single European Sky goals.”</p><p><strong>Read the </strong><a href="/pressroom/pr/Pages/2018-01-25-01.aspx.html"><strong>press release</strong></a><strong> to find out more.</strong></p></span>
 </div>
 </div> 
 
@@ -779,14 +779,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2.aspx.html" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx.html" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx.html" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx.html" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>

@@ -39,7 +39,7 @@
 <script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
 <script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=iMf5THfqukSYut7sl9HwUg\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
-<link type="text/xml" rel="alternate" href="/publications/ghp-directory/_vti_bin/spsdisco.aspx" />
+<link type="text/xml" rel="alternate" href="/publications/ghp-directory/_vti_bin/spsdisco.aspx.html" />
 <meta property='og:title' content=''>
 <meta property='og:type' content='website'>
 <meta property='og:url' content='https://www.iata.org/publications/ghp-directory/pages/ighccompanydetails.aspx?CoID=8788'>
@@ -291,14 +291,14 @@ Sys.Application._enableHistoryInScriptManager();
 <div id="ct" class="clearfix">
 <span id="DeltaPlaceHolderMain">
 <div id="bc" class="widthLimiter">
-<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx">Home</a></span><span>  </span><span><a href="/publications/Pages/index.aspx">Publications</a></span><span>  </span><span>GHP Directory</span></span>
+<span id="ctl00_PlaceHolderMain_siteMapPath"><span><a href="/Pages/default.aspx.html">Home</a></span><span>  </span><span><a href="/publications/Pages/index.aspx.html">Publications</a></span><span>  </span><span>GHP Directory</span></span>
 </div>
 <div id="bcMobile" class="widthLimiter"></div>
 <div id="pageContentLimiter"><div class="widthLimiter"><div class="redFringe"></div></div></div>
 <div class="dividerContainer genericPage">
 <div class="widthLimiter">
 <div id="leftNavigation" class="noindex">
-<ul><li><div><a href="/publications/Pages/index.aspx">Publications</a></div><span class="icon icon-navArrowDown"></span><ul><li><div><a href="/publications/Pages/standards-manuals.aspx">Standards, Manuals & Guidelines</a></div></li><li><div><a href="/publications/Pages/signup.aspx">Sign up for IATA News</a></div></li><li><div><a href="/publications/economics/Pages/index.aspx">Economics</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/publications/economics/fuel-monitor/Pages/index.aspx">Fuel Price Monitor</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li><li><div><a href="/publications/economics/Pages/mobile-app.aspx">Economics Mobile App</a></div></li><li><div><a href="/publications/economics/Pages/terms-conditions.aspx">Economics Terms & Conditions</a></div></li></ul></li><li><div><a href="/publications/Pages/airlines-magazine.aspx">Airlines. Magazine</a></div></li><li><div><a href="/publications/Pages/directories.aspx">Directories</a></div></li><li><div><a href="/publications/Pages/newsletters.aspx">Newsletters & Blogs</a></div></li><li><div><a href="/publications/Pages/annual-review.aspx">IATA's Annual Review</a></div></li><li><div><a href="/publications/Pages/resellers.aspx">Publications Sales Agents</a></div></li><li><div><a href="/publications/dgr/Pages/index.aspx">Dangerous Goods Regulations (DGR)</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li><li><div><a href="">Recent</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li></ul></li></ul>
+<ul><li><div><a href="/publications/Pages/index.aspx.html">Publications</a></div><span class="icon icon-navArrowDown"></span><ul><li><div><a href="/publications/Pages/standards-manuals.aspx.html">Standards, Manuals & Guidelines</a></div></li><li><div><a href="/publications/Pages/signup.aspx.html">Sign up for IATA News</a></div></li><li><div><a href="/publications/economics/Pages/index.aspx.html">Economics</a></div><span class="icon icon-navArrowRight"></span><ul style="display:none;"><li><div><a href="/publications/economics/fuel-monitor/Pages/index.aspx.html">Fuel Price Monitor</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li><li><div><a href="/publications/economics/Pages/mobile-app.aspx.html">Economics Mobile App</a></div></li><li><div><a href="/publications/economics/Pages/terms-conditions.aspx.html">Economics Terms & Conditions</a></div></li></ul></li><li><div><a href="/publications/Pages/airlines-magazine.aspx.html">Airlines. Magazine</a></div></li><li><div><a href="/publications/Pages/directories.aspx.html">Directories</a></div></li><li><div><a href="/publications/Pages/newsletters.aspx.html">Newsletters & Blogs</a></div></li><li><div><a href="/publications/Pages/annual-review.aspx.html">IATA's Annual Review</a></div></li><li><div><a href="/publications/Pages/resellers.aspx.html">Publications Sales Agents</a></div></li><li><div><a href="/publications/dgr/Pages/index.aspx.html">Dangerous Goods Regulations (DGR)</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li><li><div><a href="">Recent</a></div><span class="icon icon-navArrowRight"></span><ul></ul></li></ul></li></ul>
 <div>
 <div id="ctl00_PlaceHolderMain_DisplaySkyScraper_ctl00_label" style='display:none'>IATASkyscraperAD</div><div id="ctl00_PlaceHolderMain_DisplaySkyScraper_ctl00__ControlWrapper_RichImageField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_DisplaySkyScraper_ctl00_label"><div class="ms-rtestate-field"></div></div>
 </div>
@@ -461,14 +461,14 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <li><a href="https://www.facebook.com/iata.org" target="_blank"><span class="icon icon-facebook"></span></a></li>
 <li><a href="https://www.linkedin.com/company/international-air-transport-association-iata" target="_blank"><span class="icon icon-linkedin"></span></a></li>
 <li><a href="https://www.youtube.com/iatatv" target="_blank"><span class="icon icon-youtube"></span></a></li>
-<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2Easpx" target="_blank"><span class="icon icon-rss"></span></a></li>
+<li><a href="/_layouts/15/feed.aspx?xsl=1&web=%2Fpressroom%2Fpr&page=57ecc05b-a31f-4c52-bf1d-1839d01e8be9&wp=b5625f4f-7ea8-4f45-a2a8-914545d1f772&pageurl=%2Fpressroom%2Fpr%2FPages%2Frss%2Dpr%2.aspx.html" target="_blank"><span class="icon icon-rss"></span></a></li>
 </ul>
 <div class="copyright clearfix">
 <p>&copy; International Air Transport Association (IATA) 2019. All rights reserved.</p>
 <ul class="legal">
-<li><a href="/about/Pages/slavery-statement.aspx" target="_self">Anti-slavery statement</a></li>
-<li><a href="/Pages/privacy.aspx" target="_self">Privacy</a></li>
-<li><a href="/Pages/terms.aspx" target="_self">Legal</a></li>
+<li><a href="/about/Pages/slavery-statement.aspx.html" target="_self">Anti-slavery statement</a></li>
+<li><a href="/Pages/privacy.aspx.html" target="_self">Privacy</a></li>
+<li><a href="/Pages/terms.aspx.html" target="_self">Legal</a></li>
 </ul>
 </div>
 </div>
