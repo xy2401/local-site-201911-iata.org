@@ -357,8 +357,8 @@ Customer Portal
 <div>
 <H2><span id="ctl00_SPWebPartManager1_g_29a35344_1566_4e5e_afee_a16927716d6a_ctl00_lblHeading2">Resource Center</span></H2>
 <div class="cp-rc-section clearfix">
-<a href='/customer-portal/Pages/LocalResourceCenter.aspx'><IMG style="BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid; BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid" border=0 alt="Resource Center" src="/Style%20Library/IATA.org-v1/Core/Images/Backgrounds/bg-files-new.jpg" /></a>
-<h4><span id="ctl00_SPWebPartManager1_g_29a35344_1566_4e5e_afee_a16927716d6a_ctl00_lblDesc2"><a href='/customer-portal/Pages/LocalResourceCenter.aspx'>Manuals, Calendars, Forms, Local Procedures, and other useful information</a></span></h4>
+<a href='/customer-portal/Pages/LocalResourceCenter-aspx.html'><IMG style="BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid; BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid" border=0 alt="Resource Center" src="/Style%20Library/IATA.org-v1/Core/Images/Backgrounds/bg-files-new.jpg" /></a>
+<h4><span id="ctl00_SPWebPartManager1_g_29a35344_1566_4e5e_afee_a16927716d6a_ctl00_lblDesc2"><a href='/customer-portal/Pages/LocalResourceCenter-aspx.html'>Manuals, Calendars, Forms, Local Procedures, and other useful information</a></span></h4>
 </div>
 </div>
 </div>

@@ -581,7 +581,7 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='eef96cc4-5b7a-439a-b285-b96891180fc6'><div class='iata-crossLink-Label'><a href='/services/Pages/codes.aspx'>IATA Codes</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>Services</li><li class='iata-crossLink-entry' data-guid='eef96cc4-5b7a-439a-b285-b96891180fc6'><div class='iata-crossLink-Label'><a href='/services/Pages/codes-aspx.html'>IATA Codes</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>

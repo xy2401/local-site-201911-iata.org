@@ -555,11 +555,11 @@ if(origin.toLowerCase().indexOf("edit") >=0){
 <div class='crossLinksUpcomingEvents'>
 <div class='crossLinksTitle'>
 Events
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-entry' data-guid='2ee062da-fd48-4428-9f3b-0ad14b4e01bc'><div class='iata-crossLink-Label'><a href='/events/cargo-events/Pages/lb-workshop.aspx'>Lithium Battery Workshop</a><span class='iata-crossLink-date'>06 - 08 Oct 2020</span><span class='iata-crossLink-fullLocation'><span class='iata-crossLink-region'></span><span class='iata-crossLink-location'>Manchester, United Kingdom </span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-entry' data-guid='2ee062da-fd48-4428-9f3b-0ad14b4e01bc'><div class='iata-crossLink-Label'><a href='/events/cargo-events/Pages/lb-workshop-aspx.html'>Lithium Battery Workshop</a><span class='iata-crossLink-date'>06 - 08 Oct 2020</span><span class='iata-crossLink-fullLocation'><span class='iata-crossLink-region'></span><span class='iata-crossLink-location'>Manchester, United Kingdom </span></span></div></li></ul></div>
 <div class='crossLinksExploreMore'>
 <div class='crossLinksTitle'>
 Explore more
-</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='e2304e04-27f8-4c05-a0d1-ae1771c8a062'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/dgr/Pages/lithium-batteries.aspx'>Lithium Batteries</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
+</div><ul class='iata-crossLink-List'><li class='iata-crossLink-header'>The industry issue & how we address it</li><li class='iata-crossLink-entry' data-guid='e2304e04-27f8-4c05-a0d1-ae1771c8a062'><div class='iata-crossLink-Label'><a href='/whatwedo/cargo/dgr/Pages/lithium-batteries-aspx.html'>Lithium Batteries</a><span class='iata-crossLink-highliteTags'><span class='iata-crossLink-tags'></span></span></div></li></ul></div>
 </div>
 </div>
 </div>
