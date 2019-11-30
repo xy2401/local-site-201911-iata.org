@@ -42,11 +42,11 @@
 <link type="text/xml" rel="alternate" href="/about/members/_vti_bin/spsdisco.aspx.html" />
 <meta property='og:title' content='Current Airline Members'>
 <meta property='og:type' content='website'>
-<meta property='og:url' content='https://www.iata.org/about/members/pages/airline-list.aspx?All=true'>
+<meta property='og:url' content='https://www.iata.org/about/members/pages/airline-list.aspx.html?All=true'>
 <meta property='og:image' content=''>
 <meta property='og:image:secure_url' content=''>
 <meta property='og:description' content='Find out which airlines are members of IATA. You can filter airline members by region, name or code'>
-<link rel="canonical" href="https://www.iata.org:443/about/members/Pages/airline-list.aspx?All=true" />
+<link rel="canonical" href="https://www.iata.org:443/about/members/Pages/airline-list.aspx.html?All=true" />
 <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/_layouts/15/iata/css/styles.css?v=201902" media="all" /><span id="ctl00_lbHeadPageActions"></span><script type="text/javascript">
 var datalayer;
 var jgn = jQuery.noConflict();
@@ -94,7 +94,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-T883LZ');</script>
 
-<form method="post" action="./airline-list.aspx?All=true" id="aspnetForm">
+<form method="post" action="./airline-list.aspx.html?All=true" id="aspnetForm">
 <input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
 <input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
@@ -267,7 +267,7 @@ Sys.Application._enableHistoryInScriptManager();
         // Note: Google Analytics is removed to integrate Google Universal Analytics (Important: enhancements phase) -->
         /*
         if (document.getElementById("SearchTextBox").value.length > 0)
-        _gaq.push(['_trackPageview', '/about/members/Pages/airline-list.aspx?q=' + document.getElementById("SearchTextBox").value + '&cat=Main_Search']);
+        _gaq.push(['_trackPageview', '/about/members/Pages/airline-list.aspx.html?q=' + document.getElementById("SearchTextBox").value + '&cat=Main_Search']);
         */
         return true;
     }
@@ -317,7 +317,7 @@ Sys.Application._enableHistoryInScriptManager();
 <li><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.iata.org%2Fabout%2Fmembers%2Fpages%2Fairline-list.aspx%3Fall%3Dtrue" id="ctl00_PlaceHolderMain_pageTools_linkFB" target="_blank" title="Share this Page"><span class="icon icon-facebook"></span></a></li>
 <li><a href='//twitter.com/share' target='_blank' data-via='iata' data-count='none' target='_blank'><span class="icon icon-twitter"></span></a></li>
 <li><a href="//www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.iata.org%2Fabout%2Fmembers%2FPages%2Fairline-list.aspx%3FAll%3Dtrue" id="ctl00_PlaceHolderMain_pageTools_linkLinkedIn" target="_blank"><span class="icon icon-linkedin"></span></a></li>
-<li><a href="mailto:?subject=I wanted you to see this site&amp;body=Check out this site http://www.iata.org/about/members/Pages/airline-list.aspx?All=true" id="ctl00_PlaceHolderMain_pageTools_linkMail" title="Share by Email"><span class="icon icon-enveloppeRound"></span></a></li>
+<li><a href="mailto:?subject=I wanted you to see this site&amp;body=Check out this site http://www.iata.org/about/members/Pages/airline-list.aspx.html?All=true" id="ctl00_PlaceHolderMain_pageTools_linkMail" title="Share by Email"><span class="icon icon-enveloppeRound"></span></a></li>
 </ul>
 </div>
 </div>
@@ -533,7 +533,7 @@ Search
 </span>
 </fieldset>
 <div class="actions">
-<a href="/about/members/Pages/airline-list.aspx?All=true">See all IATA Member Airlines</a>
+<a href="/about/members/Pages/airline-list.aspx.html?All=true">See all IATA Member Airlines</a>
 </div>
 </div>
 
